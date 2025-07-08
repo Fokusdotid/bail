@@ -1,6 +1,6 @@
 # Class: BinaryInfo
 
-Defined in: [src/WAM/BinaryInfo.ts:3](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/WAM/BinaryInfo.ts#L3)
+Defined in: [src/WAM/BinaryInfo.ts:3](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/WAM/BinaryInfo.ts#L3)
 
 ## Constructors
 
@@ -8,7 +8,7 @@ Defined in: [src/WAM/BinaryInfo.ts:3](https://github.com/Fokusdotid/bail/blob/a1
 
 > **new BinaryInfo**(`options`): [`BinaryInfo`](BinaryInfo.md)
 
-Defined in: [src/WAM/BinaryInfo.ts:9](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/WAM/BinaryInfo.ts#L9)
+Defined in: [src/WAM/BinaryInfo.ts:9](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/WAM/BinaryInfo.ts#L9)
 
 #### Parameters
 
@@ -26,7 +26,7 @@ Defined in: [src/WAM/BinaryInfo.ts:9](https://github.com/Fokusdotid/bail/blob/a1
 
 > **buffer**: `Buffer`\<`ArrayBufferLike`\>[] = `[]`
 
-Defined in: [src/WAM/BinaryInfo.ts:7](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/WAM/BinaryInfo.ts#L7)
+Defined in: [src/WAM/BinaryInfo.ts:7](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/WAM/BinaryInfo.ts#L7)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [src/WAM/BinaryInfo.ts:7](https://github.com/Fokusdotid/bail/blob/a1
 
 > **events**: `object`[]
 
-Defined in: [src/WAM/BinaryInfo.ts:6](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/WAM/BinaryInfo.ts#L6)
+Defined in: [src/WAM/BinaryInfo.ts:6](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/WAM/BinaryInfo.ts#L6)
 
 #### Index Signature
 
@@ -46,7 +46,7 @@ Defined in: [src/WAM/BinaryInfo.ts:6](https://github.com/Fokusdotid/bail/blob/a1
 
 > **protocolVersion**: `number` = `5`
 
-Defined in: [src/WAM/BinaryInfo.ts:4](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/WAM/BinaryInfo.ts#L4)
+Defined in: [src/WAM/BinaryInfo.ts:4](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/WAM/BinaryInfo.ts#L4)
 
 ***
 
@@ -54,4 +54,4 @@ Defined in: [src/WAM/BinaryInfo.ts:4](https://github.com/Fokusdotid/bail/blob/a1
 
 > **sequence**: `number` = `0`
 
-Defined in: [src/WAM/BinaryInfo.ts:5](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/WAM/BinaryInfo.ts#L5)
+Defined in: [src/WAM/BinaryInfo.ts:5](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/WAM/BinaryInfo.ts#L5)

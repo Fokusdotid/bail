@@ -1,6 +1,6 @@
 # Interface: ILocation
 
-Defined in: [WAProto/index.d.ts:17785](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17785)
+Defined in: [WAProto/index.d.ts:17785](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17785)
 
 Properties of a Location.
 
@@ -10,7 +10,7 @@ Properties of a Location.
 
 > `optional` **degreesLatitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:17788](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17788)
+Defined in: [WAProto/index.d.ts:17788](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17788)
 
 Location degreesLatitude
 
@@ -20,7 +20,7 @@ Location degreesLatitude
 
 > `optional` **degreesLongitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:17791](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17791)
+Defined in: [WAProto/index.d.ts:17791](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17791)
 
 Location degreesLongitude
 
@@ -30,6 +30,6 @@ Location degreesLongitude
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:17794](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17794)
+Defined in: [WAProto/index.d.ts:17794](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17794)
 
 Location name

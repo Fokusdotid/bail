@@ -1,6 +1,6 @@
 # Interface: IPastParticipants
 
-Defined in: [WAProto/index.d.ts:38030](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L38030)
+Defined in: [WAProto/index.d.ts:38030](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38030)
 
 Properties of a PastParticipants.
 
@@ -10,7 +10,7 @@ Properties of a PastParticipants.
 
 > `optional` **groupJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:38033](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L38033)
+Defined in: [WAProto/index.d.ts:38033](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38033)
 
 PastParticipants groupJid
 
@@ -20,6 +20,6 @@ PastParticipants groupJid
 
 > `optional` **pastParticipants**: `null` \| [`IPastParticipant`](IPastParticipant.md)[]
 
-Defined in: [WAProto/index.d.ts:38036](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L38036)
+Defined in: [WAProto/index.d.ts:38036](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38036)
 
 PastParticipants pastParticipants

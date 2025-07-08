@@ -1,6 +1,6 @@
 # Class: HydratedTemplateButton
 
-Defined in: [WAProto/index.d.ts:16095](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L16095)
+Defined in: [WAProto/index.d.ts:16095](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16095)
 
 Represents a HydratedTemplateButton.
 
@@ -14,7 +14,7 @@ Represents a HydratedTemplateButton.
 
 > **new HydratedTemplateButton**(`properties`?): [`HydratedTemplateButton`](HydratedTemplateButton.md)
 
-Defined in: [WAProto/index.d.ts:16101](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L16101)
+Defined in: [WAProto/index.d.ts:16101](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16101)
 
 Constructs a new HydratedTemplateButton.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **callButton**: `null` \| [`IHydratedCallButton`](../namespaces/HydratedTemplateButton/interfaces/IHydratedCallButton.md)
 
-Defined in: [WAProto/index.d.ts:16113](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L16113)
+Defined in: [WAProto/index.d.ts:16113](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16113)
 
 HydratedTemplateButton callButton.
 
@@ -50,7 +50,7 @@ HydratedTemplateButton callButton.
 
 > `optional` **hydratedButton**: `"quickReplyButton"` \| `"urlButton"` \| `"callButton"`
 
-Defined in: [WAProto/index.d.ts:16116](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L16116)
+Defined in: [WAProto/index.d.ts:16116](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16116)
 
 HydratedTemplateButton hydratedButton.
 
@@ -60,7 +60,7 @@ HydratedTemplateButton hydratedButton.
 
 > `optional` **index**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:16104](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L16104)
+Defined in: [WAProto/index.d.ts:16104](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16104)
 
 HydratedTemplateButton index.
 
@@ -74,7 +74,7 @@ HydratedTemplateButton index.
 
 > `optional` **quickReplyButton**: `null` \| [`IHydratedQuickReplyButton`](../namespaces/HydratedTemplateButton/interfaces/IHydratedQuickReplyButton.md)
 
-Defined in: [WAProto/index.d.ts:16107](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L16107)
+Defined in: [WAProto/index.d.ts:16107](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16107)
 
 HydratedTemplateButton quickReplyButton.
 
@@ -88,7 +88,7 @@ HydratedTemplateButton quickReplyButton.
 
 > `optional` **urlButton**: `null` \| [`IHydratedURLButton`](../namespaces/HydratedTemplateButton/interfaces/IHydratedURLButton.md)
 
-Defined in: [WAProto/index.d.ts:16110](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L16110)
+Defined in: [WAProto/index.d.ts:16110](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16110)
 
 HydratedTemplateButton urlButton.
 
@@ -102,7 +102,7 @@ HydratedTemplateButton urlButton.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:16186](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L16186)
+Defined in: [WAProto/index.d.ts:16186](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16186)
 
 Converts this HydratedTemplateButton to JSON.
 
@@ -118,7 +118,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`HydratedTemplateButton`](HydratedTemplateButton.md)
 
-Defined in: [WAProto/index.d.ts:16123](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L16123)
+Defined in: [WAProto/index.d.ts:16123](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16123)
 
 Creates a new HydratedTemplateButton instance using the specified properties.
 
@@ -142,7 +142,7 @@ HydratedTemplateButton instance
 
 > `static` **decode**(`reader`, `length`?): [`HydratedTemplateButton`](HydratedTemplateButton.md)
 
-Defined in: [WAProto/index.d.ts:16149](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L16149)
+Defined in: [WAProto/index.d.ts:16149](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16149)
 
 Decodes a HydratedTemplateButton message from the specified reader or buffer.
 
@@ -180,7 +180,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`HydratedTemplateButton`](HydratedTemplateButton.md)
 
-Defined in: [WAProto/index.d.ts:16158](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L16158)
+Defined in: [WAProto/index.d.ts:16158](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16158)
 
 Decodes a HydratedTemplateButton message from the specified reader or buffer, length delimited.
 
@@ -212,7 +212,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:16131](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L16131)
+Defined in: [WAProto/index.d.ts:16131](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16131)
 
 Encodes the specified HydratedTemplateButton message. Does not implicitly [verify](HydratedTemplateButton.md#verify) messages.
 
@@ -242,7 +242,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:16139](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L16139)
+Defined in: [WAProto/index.d.ts:16139](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16139)
 
 Encodes the specified HydratedTemplateButton message, length delimited. Does not implicitly [verify](HydratedTemplateButton.md#verify) messages.
 
@@ -272,7 +272,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`HydratedTemplateButton`](HydratedTemplateButton.md)
 
-Defined in: [WAProto/index.d.ts:16172](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L16172)
+Defined in: [WAProto/index.d.ts:16172](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16172)
 
 Creates a HydratedTemplateButton message from a plain object. Also converts values to their respective internal types.
 
@@ -294,7 +294,7 @@ HydratedTemplateButton
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:16193](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L16193)
+Defined in: [WAProto/index.d.ts:16193](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16193)
 
 Gets the default type url for HydratedTemplateButton
 
@@ -318,7 +318,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:16180](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L16180)
+Defined in: [WAProto/index.d.ts:16180](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16180)
 
 Creates a plain object from a HydratedTemplateButton message. Also converts values to other types if specified.
 
@@ -348,7 +348,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16165](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L16165)
+Defined in: [WAProto/index.d.ts:16165](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16165)
 
 Verifies a HydratedTemplateButton message.
 

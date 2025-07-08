@@ -1,6 +1,6 @@
 # Class: EventLocation
 
-Defined in: [WAProto/index.d.ts:36815](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L36815)
+Defined in: [WAProto/index.d.ts:36815](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36815)
 
 Represents an EventLocation.
 
@@ -14,7 +14,7 @@ Represents an EventLocation.
 
 > **new EventLocation**(`properties`?): [`EventLocation`](EventLocation.md)
 
-Defined in: [WAProto/index.d.ts:36821](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L36821)
+Defined in: [WAProto/index.d.ts:36821](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36821)
 
 Constructs a new EventLocation.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **address**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36833](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L36833)
+Defined in: [WAProto/index.d.ts:36833](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36833)
 
 EventLocation address.
 
@@ -50,7 +50,7 @@ EventLocation address.
 
 > `optional` **degreesLatitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36824](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L36824)
+Defined in: [WAProto/index.d.ts:36824](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36824)
 
 EventLocation degreesLatitude.
 
@@ -64,7 +64,7 @@ EventLocation degreesLatitude.
 
 > `optional` **degreesLongitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36827](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L36827)
+Defined in: [WAProto/index.d.ts:36827](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36827)
 
 EventLocation degreesLongitude.
 
@@ -78,7 +78,7 @@ EventLocation degreesLongitude.
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:36839](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L36839)
+Defined in: [WAProto/index.d.ts:36839](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36839)
 
 EventLocation jpegThumbnail.
 
@@ -92,7 +92,7 @@ EventLocation jpegThumbnail.
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36830](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L36830)
+Defined in: [WAProto/index.d.ts:36830](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36830)
 
 EventLocation name.
 
@@ -106,7 +106,7 @@ EventLocation name.
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36836](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L36836)
+Defined in: [WAProto/index.d.ts:36836](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36836)
 
 EventLocation url.
 
@@ -120,7 +120,7 @@ EventLocation url.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:36909](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L36909)
+Defined in: [WAProto/index.d.ts:36909](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36909)
 
 Converts this EventLocation to JSON.
 
@@ -136,7 +136,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`EventLocation`](EventLocation.md)
 
-Defined in: [WAProto/index.d.ts:36846](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L36846)
+Defined in: [WAProto/index.d.ts:36846](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36846)
 
 Creates a new EventLocation instance using the specified properties.
 
@@ -160,7 +160,7 @@ EventLocation instance
 
 > `static` **decode**(`reader`, `length`?): [`EventLocation`](EventLocation.md)
 
-Defined in: [WAProto/index.d.ts:36872](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L36872)
+Defined in: [WAProto/index.d.ts:36872](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36872)
 
 Decodes an EventLocation message from the specified reader or buffer.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`EventLocation`](EventLocation.md)
 
-Defined in: [WAProto/index.d.ts:36881](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L36881)
+Defined in: [WAProto/index.d.ts:36881](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36881)
 
 Decodes an EventLocation message from the specified reader or buffer, length delimited.
 
@@ -230,7 +230,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:36854](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L36854)
+Defined in: [WAProto/index.d.ts:36854](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36854)
 
 Encodes the specified EventLocation message. Does not implicitly [verify](EventLocation.md#verify) messages.
 
@@ -260,7 +260,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:36862](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L36862)
+Defined in: [WAProto/index.d.ts:36862](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36862)
 
 Encodes the specified EventLocation message, length delimited. Does not implicitly [verify](EventLocation.md#verify) messages.
 
@@ -290,7 +290,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`EventLocation`](EventLocation.md)
 
-Defined in: [WAProto/index.d.ts:36895](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L36895)
+Defined in: [WAProto/index.d.ts:36895](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36895)
 
 Creates an EventLocation message from a plain object. Also converts values to their respective internal types.
 
@@ -312,7 +312,7 @@ EventLocation
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:36916](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L36916)
+Defined in: [WAProto/index.d.ts:36916](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36916)
 
 Gets the default type url for EventLocation
 
@@ -336,7 +336,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:36903](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L36903)
+Defined in: [WAProto/index.d.ts:36903](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36903)
 
 Creates a plain object from an EventLocation message. Also converts values to other types if specified.
 
@@ -366,7 +366,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36888](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L36888)
+Defined in: [WAProto/index.d.ts:36888](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36888)
 
 Verifies an EventLocation message.
 

@@ -1,6 +1,6 @@
 # Class: HSMLocalizableParameter
 
-Defined in: [WAProto/index.d.ts:23820](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23820)
+Defined in: [WAProto/index.d.ts:23820](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23820)
 
 Represents a HSMLocalizableParameter.
 
@@ -14,7 +14,7 @@ Represents a HSMLocalizableParameter.
 
 > **new HSMLocalizableParameter**(`properties`?): [`HSMLocalizableParameter`](HSMLocalizableParameter.md)
 
-Defined in: [WAProto/index.d.ts:23826](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23826)
+Defined in: [WAProto/index.d.ts:23826](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23826)
 
 Constructs a new HSMLocalizableParameter.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **currency**: `null` \| [`IHSMCurrency`](../namespaces/HSMLocalizableParameter/interfaces/IHSMCurrency.md)
 
-Defined in: [WAProto/index.d.ts:23832](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23832)
+Defined in: [WAProto/index.d.ts:23832](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23832)
 
 HSMLocalizableParameter currency.
 
@@ -50,7 +50,7 @@ HSMLocalizableParameter currency.
 
 > `optional` **dateTime**: `null` \| [`IHSMDateTime`](../namespaces/HSMLocalizableParameter/interfaces/IHSMDateTime.md)
 
-Defined in: [WAProto/index.d.ts:23835](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23835)
+Defined in: [WAProto/index.d.ts:23835](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23835)
 
 HSMLocalizableParameter dateTime.
 
@@ -64,7 +64,7 @@ HSMLocalizableParameter dateTime.
 
 > `optional` **default**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23829](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23829)
+Defined in: [WAProto/index.d.ts:23829](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23829)
 
 HSMLocalizableParameter default.
 
@@ -78,7 +78,7 @@ HSMLocalizableParameter default.
 
 > `optional` **paramOneof**: `"currency"` \| `"dateTime"`
 
-Defined in: [WAProto/index.d.ts:23838](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23838)
+Defined in: [WAProto/index.d.ts:23838](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23838)
 
 HSMLocalizableParameter paramOneof.
 
@@ -88,7 +88,7 @@ HSMLocalizableParameter paramOneof.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:23908](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23908)
+Defined in: [WAProto/index.d.ts:23908](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23908)
 
 Converts this HSMLocalizableParameter to JSON.
 
@@ -104,7 +104,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`HSMLocalizableParameter`](HSMLocalizableParameter.md)
 
-Defined in: [WAProto/index.d.ts:23845](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23845)
+Defined in: [WAProto/index.d.ts:23845](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23845)
 
 Creates a new HSMLocalizableParameter instance using the specified properties.
 
@@ -128,7 +128,7 @@ HSMLocalizableParameter instance
 
 > `static` **decode**(`reader`, `length`?): [`HSMLocalizableParameter`](HSMLocalizableParameter.md)
 
-Defined in: [WAProto/index.d.ts:23871](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23871)
+Defined in: [WAProto/index.d.ts:23871](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23871)
 
 Decodes a HSMLocalizableParameter message from the specified reader or buffer.
 
@@ -166,7 +166,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`HSMLocalizableParameter`](HSMLocalizableParameter.md)
 
-Defined in: [WAProto/index.d.ts:23880](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23880)
+Defined in: [WAProto/index.d.ts:23880](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23880)
 
 Decodes a HSMLocalizableParameter message from the specified reader or buffer, length delimited.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23853](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23853)
+Defined in: [WAProto/index.d.ts:23853](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23853)
 
 Encodes the specified HSMLocalizableParameter message. Does not implicitly [verify](HSMLocalizableParameter.md#verify) messages.
 
@@ -228,7 +228,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23861](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23861)
+Defined in: [WAProto/index.d.ts:23861](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23861)
 
 Encodes the specified HSMLocalizableParameter message, length delimited. Does not implicitly [verify](HSMLocalizableParameter.md#verify) messages.
 
@@ -258,7 +258,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`HSMLocalizableParameter`](HSMLocalizableParameter.md)
 
-Defined in: [WAProto/index.d.ts:23894](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23894)
+Defined in: [WAProto/index.d.ts:23894](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23894)
 
 Creates a HSMLocalizableParameter message from a plain object. Also converts values to their respective internal types.
 
@@ -280,7 +280,7 @@ HSMLocalizableParameter
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:23915](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23915)
+Defined in: [WAProto/index.d.ts:23915](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23915)
 
 Gets the default type url for HSMLocalizableParameter
 
@@ -304,7 +304,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:23902](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23902)
+Defined in: [WAProto/index.d.ts:23902](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23902)
 
 Creates a plain object from a HSMLocalizableParameter message. Also converts values to other types if specified.
 
@@ -334,7 +334,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23887](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23887)
+Defined in: [WAProto/index.d.ts:23887](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23887)
 
 Verifies a HSMLocalizableParameter message.
 

@@ -1,6 +1,6 @@
 # Interface: IMemberLabel
 
-Defined in: [WAProto/index.d.ts:18233](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L18233)
+Defined in: [WAProto/index.d.ts:18233](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L18233)
 
 Properties of a MemberLabel.
 
@@ -10,7 +10,7 @@ Properties of a MemberLabel.
 
 > `optional` **label**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:18236](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L18236)
+Defined in: [WAProto/index.d.ts:18236](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L18236)
 
 MemberLabel label
 
@@ -20,6 +20,6 @@ MemberLabel label
 
 > `optional` **labelTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:18239](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L18239)
+Defined in: [WAProto/index.d.ts:18239](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L18239)
 
 MemberLabel labelTimestamp

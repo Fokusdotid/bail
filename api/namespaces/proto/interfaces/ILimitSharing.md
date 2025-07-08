@@ -1,6 +1,6 @@
 # Interface: ILimitSharing
 
-Defined in: [WAProto/index.d.ts:17550](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17550)
+Defined in: [WAProto/index.d.ts:17550](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17550)
 
 Properties of a LimitSharing.
 
@@ -10,7 +10,7 @@ Properties of a LimitSharing.
 
 > `optional` **initiatedByMe**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:17562](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17562)
+Defined in: [WAProto/index.d.ts:17562](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17562)
 
 LimitSharing initiatedByMe
 
@@ -20,7 +20,7 @@ LimitSharing initiatedByMe
 
 > `optional` **limitSharingSettingTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:17559](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17559)
+Defined in: [WAProto/index.d.ts:17559](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17559)
 
 LimitSharing limitSharingSettingTimestamp
 
@@ -30,7 +30,7 @@ LimitSharing limitSharingSettingTimestamp
 
 > `optional` **sharingLimited**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:17553](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17553)
+Defined in: [WAProto/index.d.ts:17553](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17553)
 
 LimitSharing sharingLimited
 
@@ -40,6 +40,6 @@ LimitSharing sharingLimited
 
 > `optional` **trigger**: `null` \| [`TriggerType`](../namespaces/LimitSharing/enumerations/TriggerType.md)
 
-Defined in: [WAProto/index.d.ts:17556](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17556)
+Defined in: [WAProto/index.d.ts:17556](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17556)
 
 LimitSharing trigger

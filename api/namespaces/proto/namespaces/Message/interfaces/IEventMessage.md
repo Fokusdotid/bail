@@ -1,6 +1,6 @@
 # Interface: IEventMessage
 
-Defined in: [WAProto/index.d.ts:22755](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L22755)
+Defined in: [WAProto/index.d.ts:22755](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L22755)
 
 Properties of an EventMessage.
 
@@ -10,7 +10,7 @@ Properties of an EventMessage.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:22758](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L22758)
+Defined in: [WAProto/index.d.ts:22758](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L22758)
 
 EventMessage contextInfo
 
@@ -20,7 +20,7 @@ EventMessage contextInfo
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22767](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L22767)
+Defined in: [WAProto/index.d.ts:22767](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L22767)
 
 EventMessage description
 
@@ -30,7 +30,7 @@ EventMessage description
 
 > `optional` **endTime**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:22779](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L22779)
+Defined in: [WAProto/index.d.ts:22779](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L22779)
 
 EventMessage endTime
 
@@ -40,7 +40,7 @@ EventMessage endTime
 
 > `optional` **extraGuestsAllowed**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:22782](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L22782)
+Defined in: [WAProto/index.d.ts:22782](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L22782)
 
 EventMessage extraGuestsAllowed
 
@@ -50,7 +50,7 @@ EventMessage extraGuestsAllowed
 
 > `optional` **isCanceled**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:22761](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L22761)
+Defined in: [WAProto/index.d.ts:22761](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L22761)
 
 EventMessage isCanceled
 
@@ -60,7 +60,7 @@ EventMessage isCanceled
 
 > `optional` **isScheduleCall**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:22785](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L22785)
+Defined in: [WAProto/index.d.ts:22785](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L22785)
 
 EventMessage isScheduleCall
 
@@ -70,7 +70,7 @@ EventMessage isScheduleCall
 
 > `optional` **joinLink**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22773](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L22773)
+Defined in: [WAProto/index.d.ts:22773](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L22773)
 
 EventMessage joinLink
 
@@ -80,7 +80,7 @@ EventMessage joinLink
 
 > `optional` **location**: `null` \| [`ILocationMessage`](ILocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:22770](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L22770)
+Defined in: [WAProto/index.d.ts:22770](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L22770)
 
 EventMessage location
 
@@ -90,7 +90,7 @@ EventMessage location
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22764](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L22764)
+Defined in: [WAProto/index.d.ts:22764](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L22764)
 
 EventMessage name
 
@@ -100,6 +100,6 @@ EventMessage name
 
 > `optional` **startTime**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:22776](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L22776)
+Defined in: [WAProto/index.d.ts:22776](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L22776)
 
 EventMessage startTime

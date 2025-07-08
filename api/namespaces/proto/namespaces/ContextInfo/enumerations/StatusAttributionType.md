@@ -1,6 +1,6 @@
 # Enumeration: StatusAttributionType
 
-Defined in: [WAProto/index.d.ts:12191](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L12191)
+Defined in: [WAProto/index.d.ts:12191](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L12191)
 
 StatusAttributionType enum.
 
@@ -10,7 +10,7 @@ StatusAttributionType enum.
 
 > **NONE**: `0`
 
-Defined in: [WAProto/index.d.ts:12192](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L12192)
+Defined in: [WAProto/index.d.ts:12192](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L12192)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:12192](https://github.com/Fokusdotid/bail/blob/a
 
 > **RESHARED\_FROM\_MENTION**: `1`
 
-Defined in: [WAProto/index.d.ts:12193](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L12193)
+Defined in: [WAProto/index.d.ts:12193](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L12193)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:12193](https://github.com/Fokusdotid/bail/blob/a
 
 > **RESHARED\_FROM\_POST**: `2`
 
-Defined in: [WAProto/index.d.ts:12194](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L12194)
+Defined in: [WAProto/index.d.ts:12194](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L12194)

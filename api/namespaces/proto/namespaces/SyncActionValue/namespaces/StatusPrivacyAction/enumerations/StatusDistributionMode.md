@@ -1,6 +1,6 @@
 # Enumeration: StatusDistributionMode
 
-Defined in: [WAProto/index.d.ts:48772](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L48772)
+Defined in: [WAProto/index.d.ts:48772](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L48772)
 
 StatusDistributionMode enum.
 
@@ -10,7 +10,7 @@ StatusDistributionMode enum.
 
 > **ALLOW\_LIST**: `0`
 
-Defined in: [WAProto/index.d.ts:48773](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L48773)
+Defined in: [WAProto/index.d.ts:48773](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L48773)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:48773](https://github.com/Fokusdotid/bail/blob/a
 
 > **CONTACTS**: `2`
 
-Defined in: [WAProto/index.d.ts:48775](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L48775)
+Defined in: [WAProto/index.d.ts:48775](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L48775)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:48775](https://github.com/Fokusdotid/bail/blob/a
 
 > **DENY\_LIST**: `1`
 
-Defined in: [WAProto/index.d.ts:48774](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L48774)
+Defined in: [WAProto/index.d.ts:48774](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L48774)

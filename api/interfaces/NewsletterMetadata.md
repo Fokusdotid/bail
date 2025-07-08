@@ -1,6 +1,6 @@
 # Interface: NewsletterMetadata
 
-Defined in: [src/Types/Newsletter.ts:73](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/Types/Newsletter.ts#L73)
+Defined in: [src/Types/Newsletter.ts:73](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/Types/Newsletter.ts#L73)
 
 ## Properties
 
@@ -8,7 +8,7 @@ Defined in: [src/Types/Newsletter.ts:73](https://github.com/Fokusdotid/bail/blob
 
 > `optional` **creation\_time**: `number`
 
-Defined in: [src/Types/Newsletter.ts:79](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/Types/Newsletter.ts#L79)
+Defined in: [src/Types/Newsletter.ts:79](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/Types/Newsletter.ts#L79)
 
 ***
 
@@ -16,7 +16,7 @@ Defined in: [src/Types/Newsletter.ts:79](https://github.com/Fokusdotid/bail/blob
 
 > `optional` **description**: `string`
 
-Defined in: [src/Types/Newsletter.ts:77](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/Types/Newsletter.ts#L77)
+Defined in: [src/Types/Newsletter.ts:77](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/Types/Newsletter.ts#L77)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/Types/Newsletter.ts:77](https://github.com/Fokusdotid/bail/blob
 
 > **id**: `string`
 
-Defined in: [src/Types/Newsletter.ts:74](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/Types/Newsletter.ts#L74)
+Defined in: [src/Types/Newsletter.ts:74](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/Types/Newsletter.ts#L74)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/Types/Newsletter.ts:74](https://github.com/Fokusdotid/bail/blob
 
 > `optional` **invite**: `string`
 
-Defined in: [src/Types/Newsletter.ts:78](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/Types/Newsletter.ts#L78)
+Defined in: [src/Types/Newsletter.ts:78](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/Types/Newsletter.ts#L78)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/Types/Newsletter.ts:78](https://github.com/Fokusdotid/bail/blob
 
 > `optional` **mute\_state**: `"ON"` \| `"OFF"`
 
-Defined in: [src/Types/Newsletter.ts:92](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/Types/Newsletter.ts#L92)
+Defined in: [src/Types/Newsletter.ts:92](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/Types/Newsletter.ts#L92)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/Types/Newsletter.ts:92](https://github.com/Fokusdotid/bail/blob
 
 > **name**: `string`
 
-Defined in: [src/Types/Newsletter.ts:76](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/Types/Newsletter.ts#L76)
+Defined in: [src/Types/Newsletter.ts:76](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/Types/Newsletter.ts#L76)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [src/Types/Newsletter.ts:76](https://github.com/Fokusdotid/bail/blob
 
 > `optional` **owner**: `string`
 
-Defined in: [src/Types/Newsletter.ts:75](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/Types/Newsletter.ts#L75)
+Defined in: [src/Types/Newsletter.ts:75](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/Types/Newsletter.ts#L75)
 
 ***
 
@@ -64,7 +64,7 @@ Defined in: [src/Types/Newsletter.ts:75](https://github.com/Fokusdotid/bail/blob
 
 > `optional` **picture**: `object`
 
-Defined in: [src/Types/Newsletter.ts:81](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/Types/Newsletter.ts#L81)
+Defined in: [src/Types/Newsletter.ts:81](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/Types/Newsletter.ts#L81)
 
 #### directPath?
 
@@ -88,7 +88,7 @@ Defined in: [src/Types/Newsletter.ts:81](https://github.com/Fokusdotid/bail/blob
 
 > `optional` **reaction\_codes**: `object`[]
 
-Defined in: [src/Types/Newsletter.ts:88](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/Types/Newsletter.ts#L88)
+Defined in: [src/Types/Newsletter.ts:88](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/Types/Newsletter.ts#L88)
 
 #### code
 
@@ -104,7 +104,7 @@ Defined in: [src/Types/Newsletter.ts:88](https://github.com/Fokusdotid/bail/blob
 
 > `optional` **subscribers**: `number`
 
-Defined in: [src/Types/Newsletter.ts:80](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/Types/Newsletter.ts#L80)
+Defined in: [src/Types/Newsletter.ts:80](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/Types/Newsletter.ts#L80)
 
 ***
 
@@ -112,7 +112,7 @@ Defined in: [src/Types/Newsletter.ts:80](https://github.com/Fokusdotid/bail/blob
 
 > `optional` **thread\_metadata**: `object`
 
-Defined in: [src/Types/Newsletter.ts:93](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/Types/Newsletter.ts#L93)
+Defined in: [src/Types/Newsletter.ts:93](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/Types/Newsletter.ts#L93)
 
 #### creation\_time?
 
@@ -132,4 +132,4 @@ Defined in: [src/Types/Newsletter.ts:93](https://github.com/Fokusdotid/bail/blob
 
 > `optional` **verification**: `"VERIFIED"` \| `"UNVERIFIED"`
 
-Defined in: [src/Types/Newsletter.ts:87](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/Types/Newsletter.ts#L87)
+Defined in: [src/Types/Newsletter.ts:87](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/Types/Newsletter.ts#L87)

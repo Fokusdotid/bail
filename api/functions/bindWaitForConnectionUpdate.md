@@ -2,7 +2,7 @@
 
 > **bindWaitForConnectionUpdate**(`ev`): (`check`, `timeoutMs`?) => `Promise`\<`void`\>
 
-Defined in: [src/Utils/generics.ts:240](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/Utils/generics.ts#L240)
+Defined in: [src/Utils/generics.ts:240](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/Utils/generics.ts#L240)
 
 ## Parameters
 

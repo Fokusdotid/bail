@@ -1,6 +1,6 @@
 # Class: LIDMigrationMappingSyncPayload
 
-Defined in: [WAProto/index.d.ts:17354](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17354)
+Defined in: [WAProto/index.d.ts:17354](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17354)
 
 Represents a LIDMigrationMappingSyncPayload.
 
@@ -14,7 +14,7 @@ Represents a LIDMigrationMappingSyncPayload.
 
 > **new LIDMigrationMappingSyncPayload**(`properties`?): [`LIDMigrationMappingSyncPayload`](LIDMigrationMappingSyncPayload.md)
 
-Defined in: [WAProto/index.d.ts:17360](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17360)
+Defined in: [WAProto/index.d.ts:17360](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17360)
 
 Constructs a new LIDMigrationMappingSyncPayload.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **chatDbMigrationTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:17366](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17366)
+Defined in: [WAProto/index.d.ts:17366](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17366)
 
 LIDMigrationMappingSyncPayload chatDbMigrationTimestamp.
 
@@ -50,7 +50,7 @@ LIDMigrationMappingSyncPayload chatDbMigrationTimestamp.
 
 > **pnToLidMappings**: [`ILIDMigrationMapping`](../interfaces/ILIDMigrationMapping.md)[]
 
-Defined in: [WAProto/index.d.ts:17363](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17363)
+Defined in: [WAProto/index.d.ts:17363](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17363)
 
 LIDMigrationMappingSyncPayload pnToLidMappings.
 
@@ -64,7 +64,7 @@ LIDMigrationMappingSyncPayload pnToLidMappings.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:17436](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17436)
+Defined in: [WAProto/index.d.ts:17436](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17436)
 
 Converts this LIDMigrationMappingSyncPayload to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LIDMigrationMappingSyncPayload`](LIDMigrationMappingSyncPayload.md)
 
-Defined in: [WAProto/index.d.ts:17373](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17373)
+Defined in: [WAProto/index.d.ts:17373](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17373)
 
 Creates a new LIDMigrationMappingSyncPayload instance using the specified properties.
 
@@ -104,7 +104,7 @@ LIDMigrationMappingSyncPayload instance
 
 > `static` **decode**(`reader`, `length`?): [`LIDMigrationMappingSyncPayload`](LIDMigrationMappingSyncPayload.md)
 
-Defined in: [WAProto/index.d.ts:17399](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17399)
+Defined in: [WAProto/index.d.ts:17399](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17399)
 
 Decodes a LIDMigrationMappingSyncPayload message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LIDMigrationMappingSyncPayload`](LIDMigrationMappingSyncPayload.md)
 
-Defined in: [WAProto/index.d.ts:17408](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17408)
+Defined in: [WAProto/index.d.ts:17408](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17408)
 
 Decodes a LIDMigrationMappingSyncPayload message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17381](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17381)
+Defined in: [WAProto/index.d.ts:17381](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17381)
 
 Encodes the specified LIDMigrationMappingSyncPayload message. Does not implicitly [verify](LIDMigrationMappingSyncPayload.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17389](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17389)
+Defined in: [WAProto/index.d.ts:17389](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17389)
 
 Encodes the specified LIDMigrationMappingSyncPayload message, length delimited. Does not implicitly [verify](LIDMigrationMappingSyncPayload.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LIDMigrationMappingSyncPayload`](LIDMigrationMappingSyncPayload.md)
 
-Defined in: [WAProto/index.d.ts:17422](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17422)
+Defined in: [WAProto/index.d.ts:17422](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17422)
 
 Creates a LIDMigrationMappingSyncPayload message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ LIDMigrationMappingSyncPayload
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:17443](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17443)
+Defined in: [WAProto/index.d.ts:17443](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17443)
 
 Gets the default type url for LIDMigrationMappingSyncPayload
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:17430](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17430)
+Defined in: [WAProto/index.d.ts:17430](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17430)
 
 Creates a plain object from a LIDMigrationMappingSyncPayload message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:17415](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17415)
+Defined in: [WAProto/index.d.ts:17415](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17415)
 
 Verifies a LIDMigrationMappingSyncPayload message.
 

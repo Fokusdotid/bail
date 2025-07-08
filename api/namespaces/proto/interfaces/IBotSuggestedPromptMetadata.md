@@ -1,6 +1,6 @@
 # Interface: IBotSuggestedPromptMetadata
 
-Defined in: [WAProto/index.d.ts:7379](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L7379)
+Defined in: [WAProto/index.d.ts:7379](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L7379)
 
 Properties of a BotSuggestedPromptMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotSuggestedPromptMetadata.
 
 > `optional` **promptSuggestions**: `null` \| [`IBotPromptSuggestions`](IBotPromptSuggestions.md)
 
-Defined in: [WAProto/index.d.ts:7388](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L7388)
+Defined in: [WAProto/index.d.ts:7388](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L7388)
 
 BotSuggestedPromptMetadata promptSuggestions
 
@@ -20,7 +20,7 @@ BotSuggestedPromptMetadata promptSuggestions
 
 > `optional` **selectedPromptId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7391](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L7391)
+Defined in: [WAProto/index.d.ts:7391](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L7391)
 
 BotSuggestedPromptMetadata selectedPromptId
 
@@ -30,7 +30,7 @@ BotSuggestedPromptMetadata selectedPromptId
 
 > `optional` **selectedPromptIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:7385](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L7385)
+Defined in: [WAProto/index.d.ts:7385](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L7385)
 
 BotSuggestedPromptMetadata selectedPromptIndex
 
@@ -40,6 +40,6 @@ BotSuggestedPromptMetadata selectedPromptIndex
 
 > `optional` **suggestedPrompts**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:7382](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L7382)
+Defined in: [WAProto/index.d.ts:7382](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L7382)
 
 BotSuggestedPromptMetadata suggestedPrompts

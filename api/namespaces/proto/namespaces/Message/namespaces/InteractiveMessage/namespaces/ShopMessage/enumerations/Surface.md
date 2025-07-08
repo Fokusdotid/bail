@@ -1,6 +1,6 @@
 # Enumeration: Surface
 
-Defined in: [WAProto/index.d.ts:25978](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L25978)
+Defined in: [WAProto/index.d.ts:25978](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L25978)
 
 Surface enum.
 
@@ -10,7 +10,7 @@ Surface enum.
 
 > **FB**: `1`
 
-Defined in: [WAProto/index.d.ts:25980](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L25980)
+Defined in: [WAProto/index.d.ts:25980](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L25980)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:25980](https://github.com/Fokusdotid/bail/blob/a
 
 > **IG**: `2`
 
-Defined in: [WAProto/index.d.ts:25981](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L25981)
+Defined in: [WAProto/index.d.ts:25981](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L25981)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:25981](https://github.com/Fokusdotid/bail/blob/a
 
 > **UNKNOWN\_SURFACE**: `0`
 
-Defined in: [WAProto/index.d.ts:25979](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L25979)
+Defined in: [WAProto/index.d.ts:25979](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L25979)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:25979](https://github.com/Fokusdotid/bail/blob/a
 
 > **WA**: `3`
 
-Defined in: [WAProto/index.d.ts:25982](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L25982)
+Defined in: [WAProto/index.d.ts:25982](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L25982)

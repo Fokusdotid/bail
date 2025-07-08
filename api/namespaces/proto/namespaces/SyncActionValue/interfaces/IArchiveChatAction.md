@@ -1,6 +1,6 @@
 # Interface: IArchiveChatAction
 
-Defined in: [WAProto/index.d.ts:43884](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43884)
+Defined in: [WAProto/index.d.ts:43884](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43884)
 
 Properties of an ArchiveChatAction.
 
@@ -10,7 +10,7 @@ Properties of an ArchiveChatAction.
 
 > `optional` **archived**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:43887](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43887)
+Defined in: [WAProto/index.d.ts:43887](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43887)
 
 ArchiveChatAction archived
 
@@ -20,6 +20,6 @@ ArchiveChatAction archived
 
 > `optional` **messageRange**: `null` \| [`ISyncActionMessageRange`](ISyncActionMessageRange.md)
 
-Defined in: [WAProto/index.d.ts:43890](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43890)
+Defined in: [WAProto/index.d.ts:43890](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43890)
 
 ArchiveChatAction messageRange

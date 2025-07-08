@@ -1,6 +1,6 @@
 # Interface: IButton
 
-Defined in: [WAProto/index.d.ts:20407](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L20407)
+Defined in: [WAProto/index.d.ts:20407](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L20407)
 
 Properties of a Button.
 
@@ -10,7 +10,7 @@ Properties of a Button.
 
 > `optional` **buttonId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20410](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L20410)
+Defined in: [WAProto/index.d.ts:20410](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L20410)
 
 Button buttonId
 
@@ -20,7 +20,7 @@ Button buttonId
 
 > `optional` **buttonText**: `null` \| [`IButtonText`](../namespaces/Button/interfaces/IButtonText.md)
 
-Defined in: [WAProto/index.d.ts:20413](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L20413)
+Defined in: [WAProto/index.d.ts:20413](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L20413)
 
 Button buttonText
 
@@ -30,7 +30,7 @@ Button buttonText
 
 > `optional` **nativeFlowInfo**: `null` \| [`INativeFlowInfo`](../namespaces/Button/interfaces/INativeFlowInfo.md)
 
-Defined in: [WAProto/index.d.ts:20419](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L20419)
+Defined in: [WAProto/index.d.ts:20419](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L20419)
 
 Button nativeFlowInfo
 
@@ -40,6 +40,6 @@ Button nativeFlowInfo
 
 > `optional` **type**: `null` \| [`Type`](../namespaces/Button/enumerations/Type.md)
 
-Defined in: [WAProto/index.d.ts:20416](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L20416)
+Defined in: [WAProto/index.d.ts:20416](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L20416)
 
 Button type

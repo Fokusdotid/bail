@@ -1,6 +1,6 @@
 # Interface: IChatRowOpaqueData
 
-Defined in: [WAProto/index.d.ts:8247](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L8247)
+Defined in: [WAProto/index.d.ts:8247](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L8247)
 
 Properties of a ChatRowOpaqueData.
 
@@ -10,6 +10,6 @@ Properties of a ChatRowOpaqueData.
 
 > `optional` **draftMessage**: `null` \| [`IDraftMessage`](../namespaces/ChatRowOpaqueData/interfaces/IDraftMessage.md)
 
-Defined in: [WAProto/index.d.ts:8250](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L8250)
+Defined in: [WAProto/index.d.ts:8250](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L8250)
 
 ChatRowOpaqueData draftMessage

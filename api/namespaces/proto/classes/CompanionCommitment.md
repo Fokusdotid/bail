@@ -1,6 +1,6 @@
 # Class: CompanionCommitment
 
-Defined in: [WAProto/index.d.ts:10436](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10436)
+Defined in: [WAProto/index.d.ts:10436](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10436)
 
 Represents a CompanionCommitment.
 
@@ -14,7 +14,7 @@ Represents a CompanionCommitment.
 
 > **new CompanionCommitment**(`properties`?): [`CompanionCommitment`](CompanionCommitment.md)
 
-Defined in: [WAProto/index.d.ts:10442](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10442)
+Defined in: [WAProto/index.d.ts:10442](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10442)
 
 Constructs a new CompanionCommitment.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **hash**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:10445](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10445)
+Defined in: [WAProto/index.d.ts:10445](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10445)
 
 CompanionCommitment hash.
 
@@ -50,7 +50,7 @@ CompanionCommitment hash.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:10515](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10515)
+Defined in: [WAProto/index.d.ts:10515](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10515)
 
 Converts this CompanionCommitment to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CompanionCommitment`](CompanionCommitment.md)
 
-Defined in: [WAProto/index.d.ts:10452](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10452)
+Defined in: [WAProto/index.d.ts:10452](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10452)
 
 Creates a new CompanionCommitment instance using the specified properties.
 
@@ -90,7 +90,7 @@ CompanionCommitment instance
 
 > `static` **decode**(`reader`, `length`?): [`CompanionCommitment`](CompanionCommitment.md)
 
-Defined in: [WAProto/index.d.ts:10478](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10478)
+Defined in: [WAProto/index.d.ts:10478](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10478)
 
 Decodes a CompanionCommitment message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CompanionCommitment`](CompanionCommitment.md)
 
-Defined in: [WAProto/index.d.ts:10487](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10487)
+Defined in: [WAProto/index.d.ts:10487](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10487)
 
 Decodes a CompanionCommitment message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:10460](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10460)
+Defined in: [WAProto/index.d.ts:10460](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10460)
 
 Encodes the specified CompanionCommitment message. Does not implicitly [verify](CompanionCommitment.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:10468](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10468)
+Defined in: [WAProto/index.d.ts:10468](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10468)
 
 Encodes the specified CompanionCommitment message, length delimited. Does not implicitly [verify](CompanionCommitment.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CompanionCommitment`](CompanionCommitment.md)
 
-Defined in: [WAProto/index.d.ts:10501](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10501)
+Defined in: [WAProto/index.d.ts:10501](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10501)
 
 Creates a CompanionCommitment message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ CompanionCommitment
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:10522](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10522)
+Defined in: [WAProto/index.d.ts:10522](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10522)
 
 Gets the default type url for CompanionCommitment
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:10509](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10509)
+Defined in: [WAProto/index.d.ts:10509](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10509)
 
 Creates a plain object from a CompanionCommitment message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10494](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10494)
+Defined in: [WAProto/index.d.ts:10494](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10494)
 
 Verifies a CompanionCommitment message.
 

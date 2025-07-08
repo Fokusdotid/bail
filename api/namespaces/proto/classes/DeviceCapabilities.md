@@ -1,6 +1,6 @@
 # Class: DeviceCapabilities
 
-Defined in: [WAProto/index.d.ts:12741](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L12741)
+Defined in: [WAProto/index.d.ts:12741](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L12741)
 
 Represents a DeviceCapabilities.
 
@@ -14,7 +14,7 @@ Represents a DeviceCapabilities.
 
 > **new DeviceCapabilities**(`properties`?): [`DeviceCapabilities`](DeviceCapabilities.md)
 
-Defined in: [WAProto/index.d.ts:12747](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L12747)
+Defined in: [WAProto/index.d.ts:12747](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L12747)
 
 Constructs a new DeviceCapabilities.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **chatLockSupportLevel**: `null` \| [`ChatLockSupportLevel`](../namespaces/DeviceCapabilities/enumerations/ChatLockSupportLevel.md)
 
-Defined in: [WAProto/index.d.ts:12750](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L12750)
+Defined in: [WAProto/index.d.ts:12750](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L12750)
 
 DeviceCapabilities chatLockSupportLevel.
 
@@ -50,7 +50,7 @@ DeviceCapabilities chatLockSupportLevel.
 
 > `optional` **lidMigration**: `null` \| [`ILIDMigration`](../namespaces/DeviceCapabilities/interfaces/ILIDMigration.md)
 
-Defined in: [WAProto/index.d.ts:12753](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L12753)
+Defined in: [WAProto/index.d.ts:12753](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L12753)
 
 DeviceCapabilities lidMigration.
 
@@ -64,7 +64,7 @@ DeviceCapabilities lidMigration.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:12823](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L12823)
+Defined in: [WAProto/index.d.ts:12823](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L12823)
 
 Converts this DeviceCapabilities to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`DeviceCapabilities`](DeviceCapabilities.md)
 
-Defined in: [WAProto/index.d.ts:12760](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L12760)
+Defined in: [WAProto/index.d.ts:12760](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L12760)
 
 Creates a new DeviceCapabilities instance using the specified properties.
 
@@ -104,7 +104,7 @@ DeviceCapabilities instance
 
 > `static` **decode**(`reader`, `length`?): [`DeviceCapabilities`](DeviceCapabilities.md)
 
-Defined in: [WAProto/index.d.ts:12786](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L12786)
+Defined in: [WAProto/index.d.ts:12786](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L12786)
 
 Decodes a DeviceCapabilities message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`DeviceCapabilities`](DeviceCapabilities.md)
 
-Defined in: [WAProto/index.d.ts:12795](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L12795)
+Defined in: [WAProto/index.d.ts:12795](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L12795)
 
 Decodes a DeviceCapabilities message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:12768](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L12768)
+Defined in: [WAProto/index.d.ts:12768](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L12768)
 
 Encodes the specified DeviceCapabilities message. Does not implicitly [verify](DeviceCapabilities.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:12776](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L12776)
+Defined in: [WAProto/index.d.ts:12776](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L12776)
 
 Encodes the specified DeviceCapabilities message, length delimited. Does not implicitly [verify](DeviceCapabilities.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`DeviceCapabilities`](DeviceCapabilities.md)
 
-Defined in: [WAProto/index.d.ts:12809](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L12809)
+Defined in: [WAProto/index.d.ts:12809](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L12809)
 
 Creates a DeviceCapabilities message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ DeviceCapabilities
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:12830](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L12830)
+Defined in: [WAProto/index.d.ts:12830](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L12830)
 
 Gets the default type url for DeviceCapabilities
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:12817](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L12817)
+Defined in: [WAProto/index.d.ts:12817](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L12817)
 
 Creates a plain object from a DeviceCapabilities message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12802](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L12802)
+Defined in: [WAProto/index.d.ts:12802](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L12802)
 
 Verifies a DeviceCapabilities message.
 

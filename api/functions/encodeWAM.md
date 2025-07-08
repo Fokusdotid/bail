@@ -2,7 +2,7 @@
 
 > **encodeWAM**(`binaryInfo`): `Buffer`\<`ArrayBuffer`\>
 
-Defined in: [src/WAM/encode.ts:15](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/WAM/encode.ts#L15)
+Defined in: [src/WAM/encode.ts:15](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/WAM/encode.ts#L15)
 
 ## Parameters
 

@@ -1,6 +1,6 @@
 # Interface: ILIDMigrationMappingSyncMessage
 
-Defined in: [WAProto/index.d.ts:17247](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17247)
+Defined in: [WAProto/index.d.ts:17247](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17247)
 
 Properties of a LIDMigrationMappingSyncMessage.
 
@@ -10,6 +10,6 @@ Properties of a LIDMigrationMappingSyncMessage.
 
 > `optional` **encodedMappingPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:17250](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17250)
+Defined in: [WAProto/index.d.ts:17250](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17250)
 
 LIDMigrationMappingSyncMessage encodedMappingPayload

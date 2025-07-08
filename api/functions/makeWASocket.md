@@ -2,7 +2,7 @@
 
 > **makeWASocket**(`config`): `object`
 
-Defined in: [src/Socket/index.ts:6](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/Socket/index.ts#L6)
+Defined in: [src/Socket/index.ts:6](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/Socket/index.ts#L6)
 
 ## Parameters
 
@@ -573,6 +573,28 @@ accept a GroupInviteMessage
 #### Returns
 
 `Promise`\<`object`[]\>
+
+### groupQuery()
+
+> **groupQuery**: (`jid`, `type`, `content`) => `Promise`\<`any`\>
+
+#### Parameters
+
+##### jid
+
+`string`
+
+##### type
+
+`"get"` | `"set"`
+
+##### content
+
+[`BinaryNode`](../type-aliases/BinaryNode.md)[]
+
+#### Returns
+
+`Promise`\<`any`\>
 
 ### groupRequestParticipantsList()
 

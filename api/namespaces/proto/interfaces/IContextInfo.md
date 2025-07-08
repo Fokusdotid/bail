@@ -1,6 +1,6 @@
 # Interface: IContextInfo
 
-Defined in: [WAProto/index.d.ts:10738](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10738)
+Defined in: [WAProto/index.d.ts:10738](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10738)
 
 Properties of a ContextInfo.
 
@@ -10,7 +10,7 @@ Properties of a ContextInfo.
 
 > `optional` **actionLink**: `null` \| [`IActionLink`](IActionLink.md)
 
-Defined in: [WAProto/index.d.ts:10801](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10801)
+Defined in: [WAProto/index.d.ts:10801](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10801)
 
 ContextInfo actionLink
 
@@ -20,7 +20,7 @@ ContextInfo actionLink
 
 > `optional` **alwaysShowAdAttribution**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10840](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10840)
+Defined in: [WAProto/index.d.ts:10840](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10840)
 
 ContextInfo alwaysShowAdAttribution
 
@@ -30,7 +30,7 @@ ContextInfo alwaysShowAdAttribution
 
 > `optional` **businessMessageForwardInfo**: `null` \| [`IBusinessMessageForwardInfo`](../namespaces/ContextInfo/interfaces/IBusinessMessageForwardInfo.md)
 
-Defined in: [WAProto/index.d.ts:10828](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10828)
+Defined in: [WAProto/index.d.ts:10828](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10828)
 
 ContextInfo businessMessageForwardInfo
 
@@ -40,7 +40,7 @@ ContextInfo businessMessageForwardInfo
 
 > `optional` **conversionData**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:10759](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10759)
+Defined in: [WAProto/index.d.ts:10759](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10759)
 
 ContextInfo conversionData
 
@@ -50,7 +50,7 @@ ContextInfo conversionData
 
 > `optional` **conversionDelaySeconds**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:10762](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10762)
+Defined in: [WAProto/index.d.ts:10762](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10762)
 
 ContextInfo conversionDelaySeconds
 
@@ -60,7 +60,7 @@ ContextInfo conversionDelaySeconds
 
 > `optional` **conversionSource**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10756](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10756)
+Defined in: [WAProto/index.d.ts:10756](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10756)
 
 ContextInfo conversionSource
 
@@ -70,7 +70,7 @@ ContextInfo conversionSource
 
 > `optional` **ctwaPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:10855](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10855)
+Defined in: [WAProto/index.d.ts:10855](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10855)
 
 ContextInfo ctwaPayload
 
@@ -80,7 +80,7 @@ ContextInfo ctwaPayload
 
 > `optional` **ctwaSignals**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10852](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10852)
+Defined in: [WAProto/index.d.ts:10852](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10852)
 
 ContextInfo ctwaSignals
 
@@ -90,7 +90,7 @@ ContextInfo ctwaSignals
 
 > `optional` **dataSharingContext**: `null` \| [`IDataSharingContext`](../namespaces/ContextInfo/interfaces/IDataSharingContext.md)
 
-Defined in: [WAProto/index.d.ts:10837](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10837)
+Defined in: [WAProto/index.d.ts:10837](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10837)
 
 ContextInfo dataSharingContext
 
@@ -100,7 +100,7 @@ ContextInfo dataSharingContext
 
 > `optional` **disappearingMode**: `null` \| [`IDisappearingMode`](IDisappearingMode.md)
 
-Defined in: [WAProto/index.d.ts:10798](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10798)
+Defined in: [WAProto/index.d.ts:10798](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10798)
 
 ContextInfo disappearingMode
 
@@ -110,7 +110,7 @@ ContextInfo disappearingMode
 
 > `optional` **entryPointConversionApp**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10792](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10792)
+Defined in: [WAProto/index.d.ts:10792](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10792)
 
 ContextInfo entryPointConversionApp
 
@@ -120,7 +120,7 @@ ContextInfo entryPointConversionApp
 
 > `optional` **entryPointConversionDelaySeconds**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:10795](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10795)
+Defined in: [WAProto/index.d.ts:10795](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10795)
 
 ContextInfo entryPointConversionDelaySeconds
 
@@ -130,7 +130,7 @@ ContextInfo entryPointConversionDelaySeconds
 
 > `optional` **entryPointConversionExternalMedium**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10849](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10849)
+Defined in: [WAProto/index.d.ts:10849](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10849)
 
 ContextInfo entryPointConversionExternalMedium
 
@@ -140,7 +140,7 @@ ContextInfo entryPointConversionExternalMedium
 
 > `optional` **entryPointConversionExternalSource**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10846](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10846)
+Defined in: [WAProto/index.d.ts:10846](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10846)
 
 ContextInfo entryPointConversionExternalSource
 
@@ -150,7 +150,7 @@ ContextInfo entryPointConversionExternalSource
 
 > `optional` **entryPointConversionSource**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10789](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10789)
+Defined in: [WAProto/index.d.ts:10789](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10789)
 
 ContextInfo entryPointConversionSource
 
@@ -160,7 +160,7 @@ ContextInfo entryPointConversionSource
 
 > `optional` **ephemeralSettingTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:10780](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10780)
+Defined in: [WAProto/index.d.ts:10780](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10780)
 
 ContextInfo ephemeralSettingTimestamp
 
@@ -170,7 +170,7 @@ ContextInfo ephemeralSettingTimestamp
 
 > `optional` **ephemeralSharedSecret**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:10783](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10783)
+Defined in: [WAProto/index.d.ts:10783](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10783)
 
 ContextInfo ephemeralSharedSecret
 
@@ -180,7 +180,7 @@ ContextInfo ephemeralSharedSecret
 
 > `optional` **expiration**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:10777](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10777)
+Defined in: [WAProto/index.d.ts:10777](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10777)
 
 ContextInfo expiration
 
@@ -190,7 +190,7 @@ ContextInfo expiration
 
 > `optional` **externalAdReply**: `null` \| [`IExternalAdReplyInfo`](../namespaces/ContextInfo/interfaces/IExternalAdReplyInfo.md)
 
-Defined in: [WAProto/index.d.ts:10786](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10786)
+Defined in: [WAProto/index.d.ts:10786](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10786)
 
 ContextInfo externalAdReply
 
@@ -200,7 +200,7 @@ ContextInfo externalAdReply
 
 > `optional` **featureEligibilities**: `null` \| [`IFeatureEligibilities`](../namespaces/ContextInfo/interfaces/IFeatureEligibilities.md)
 
-Defined in: [WAProto/index.d.ts:10843](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10843)
+Defined in: [WAProto/index.d.ts:10843](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10843)
 
 ContextInfo featureEligibilities
 
@@ -210,7 +210,7 @@ ContextInfo featureEligibilities
 
 > `optional` **forwardedAiBotMessageInfo**: `null` \| [`IForwardedAIBotMessageInfo`](../namespaces/ContextInfo/interfaces/IForwardedAIBotMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:10858](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10858)
+Defined in: [WAProto/index.d.ts:10858](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10858)
 
 ContextInfo forwardedAiBotMessageInfo
 
@@ -220,7 +220,7 @@ ContextInfo forwardedAiBotMessageInfo
 
 > `optional` **forwardedNewsletterMessageInfo**: `null` \| [`IForwardedNewsletterMessageInfo`](../namespaces/ContextInfo/interfaces/IForwardedNewsletterMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:10825](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10825)
+Defined in: [WAProto/index.d.ts:10825](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10825)
 
 ContextInfo forwardedNewsletterMessageInfo
 
@@ -230,7 +230,7 @@ ContextInfo forwardedNewsletterMessageInfo
 
 > `optional` **forwardingScore**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:10765](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10765)
+Defined in: [WAProto/index.d.ts:10765](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10765)
 
 ContextInfo forwardingScore
 
@@ -240,7 +240,7 @@ ContextInfo forwardingScore
 
 > `optional` **groupMentions**: `null` \| [`IGroupMention`](IGroupMention.md)[]
 
-Defined in: [WAProto/index.d.ts:10819](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10819)
+Defined in: [WAProto/index.d.ts:10819](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10819)
 
 ContextInfo groupMentions
 
@@ -250,7 +250,7 @@ ContextInfo groupMentions
 
 > `optional` **groupSubject**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10804](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10804)
+Defined in: [WAProto/index.d.ts:10804](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10804)
 
 ContextInfo groupSubject
 
@@ -260,7 +260,7 @@ ContextInfo groupSubject
 
 > `optional` **isForwarded**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10768](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10768)
+Defined in: [WAProto/index.d.ts:10768](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10768)
 
 ContextInfo isForwarded
 
@@ -270,7 +270,7 @@ ContextInfo isForwarded
 
 > `optional` **isQuestion**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10876](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10876)
+Defined in: [WAProto/index.d.ts:10876](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10876)
 
 ContextInfo isQuestion
 
@@ -280,7 +280,7 @@ ContextInfo isQuestion
 
 > `optional` **isSampled**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10816](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10816)
+Defined in: [WAProto/index.d.ts:10816](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10816)
 
 ContextInfo isSampled
 
@@ -290,7 +290,7 @@ ContextInfo isSampled
 
 > `optional` **memberLabel**: `null` \| [`IMemberLabel`](IMemberLabel.md)
 
-Defined in: [WAProto/index.d.ts:10873](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10873)
+Defined in: [WAProto/index.d.ts:10873](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10873)
 
 ContextInfo memberLabel
 
@@ -300,7 +300,7 @@ ContextInfo memberLabel
 
 > `optional` **mentionedJid**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:10753](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10753)
+Defined in: [WAProto/index.d.ts:10753](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10753)
 
 ContextInfo mentionedJid
 
@@ -310,7 +310,7 @@ ContextInfo mentionedJid
 
 > `optional` **pairedMediaType**: `null` \| [`PairedMediaType`](../namespaces/ContextInfo/enumerations/PairedMediaType.md)
 
-Defined in: [WAProto/index.d.ts:10867](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10867)
+Defined in: [WAProto/index.d.ts:10867](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10867)
 
 ContextInfo pairedMediaType
 
@@ -320,7 +320,7 @@ ContextInfo pairedMediaType
 
 > `optional` **parentGroupJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10807](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10807)
+Defined in: [WAProto/index.d.ts:10807](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10807)
 
 ContextInfo parentGroupJid
 
@@ -330,7 +330,7 @@ ContextInfo parentGroupJid
 
 > `optional` **participant**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10744](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10744)
+Defined in: [WAProto/index.d.ts:10744](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10744)
 
 ContextInfo participant
 
@@ -340,7 +340,7 @@ ContextInfo participant
 
 > `optional` **placeholderKey**: `null` \| [`IMessageKey`](IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:10774](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10774)
+Defined in: [WAProto/index.d.ts:10774](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10774)
 
 ContextInfo placeholderKey
 
@@ -350,7 +350,7 @@ ContextInfo placeholderKey
 
 > `optional` **quotedAd**: `null` \| [`IAdReplyInfo`](../namespaces/ContextInfo/interfaces/IAdReplyInfo.md)
 
-Defined in: [WAProto/index.d.ts:10771](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10771)
+Defined in: [WAProto/index.d.ts:10771](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10771)
 
 ContextInfo quotedAd
 
@@ -360,7 +360,7 @@ ContextInfo quotedAd
 
 > `optional` **quotedMessage**: `null` \| [`IMessage`](IMessage.md)
 
-Defined in: [WAProto/index.d.ts:10747](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10747)
+Defined in: [WAProto/index.d.ts:10747](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10747)
 
 ContextInfo quotedMessage
 
@@ -370,7 +370,7 @@ ContextInfo quotedMessage
 
 > `optional` **rankingVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:10870](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10870)
+Defined in: [WAProto/index.d.ts:10870](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10870)
 
 ContextInfo rankingVersion
 
@@ -380,7 +380,7 @@ ContextInfo rankingVersion
 
 > `optional` **remoteJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10750](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10750)
+Defined in: [WAProto/index.d.ts:10750](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10750)
 
 ContextInfo remoteJid
 
@@ -390,7 +390,7 @@ ContextInfo remoteJid
 
 > `optional` **smbClientCampaignId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10831](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10831)
+Defined in: [WAProto/index.d.ts:10831](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10831)
 
 ContextInfo smbClientCampaignId
 
@@ -400,7 +400,7 @@ ContextInfo smbClientCampaignId
 
 > `optional` **smbServerCampaignId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10834](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10834)
+Defined in: [WAProto/index.d.ts:10834](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10834)
 
 ContextInfo smbServerCampaignId
 
@@ -410,7 +410,7 @@ ContextInfo smbServerCampaignId
 
 > `optional` **stanzaId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10741](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10741)
+Defined in: [WAProto/index.d.ts:10741](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10741)
 
 ContextInfo stanzaId
 
@@ -420,7 +420,7 @@ ContextInfo stanzaId
 
 > `optional` **statusAttributionType**: `null` \| [`StatusAttributionType`](../namespaces/ContextInfo/enumerations/StatusAttributionType.md)
 
-Defined in: [WAProto/index.d.ts:10861](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10861)
+Defined in: [WAProto/index.d.ts:10861](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10861)
 
 ContextInfo statusAttributionType
 
@@ -430,7 +430,7 @@ ContextInfo statusAttributionType
 
 > `optional` **statusSourceType**: `null` \| [`StatusSourceType`](../namespaces/ContextInfo/enumerations/StatusSourceType.md)
 
-Defined in: [WAProto/index.d.ts:10879](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10879)
+Defined in: [WAProto/index.d.ts:10879](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10879)
 
 ContextInfo statusSourceType
 
@@ -440,7 +440,7 @@ ContextInfo statusSourceType
 
 > `optional` **trustBannerAction**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:10813](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10813)
+Defined in: [WAProto/index.d.ts:10813](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10813)
 
 ContextInfo trustBannerAction
 
@@ -450,7 +450,7 @@ ContextInfo trustBannerAction
 
 > `optional` **trustBannerType**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10810](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10810)
+Defined in: [WAProto/index.d.ts:10810](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10810)
 
 ContextInfo trustBannerType
 
@@ -460,7 +460,7 @@ ContextInfo trustBannerType
 
 > `optional` **urlTrackingMap**: `null` \| [`IUrlTrackingMap`](IUrlTrackingMap.md)
 
-Defined in: [WAProto/index.d.ts:10864](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10864)
+Defined in: [WAProto/index.d.ts:10864](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10864)
 
 ContextInfo urlTrackingMap
 
@@ -470,6 +470,6 @@ ContextInfo urlTrackingMap
 
 > `optional` **utm**: `null` \| [`IUTMInfo`](../namespaces/ContextInfo/interfaces/IUTMInfo.md)
 
-Defined in: [WAProto/index.d.ts:10822](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L10822)
+Defined in: [WAProto/index.d.ts:10822](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L10822)
 
 ContextInfo utm

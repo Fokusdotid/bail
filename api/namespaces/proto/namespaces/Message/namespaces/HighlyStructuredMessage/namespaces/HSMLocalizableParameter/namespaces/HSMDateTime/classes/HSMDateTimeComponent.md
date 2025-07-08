@@ -1,6 +1,6 @@
 # Class: HSMDateTimeComponent
 
-Defined in: [WAProto/index.d.ts:24157](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L24157)
+Defined in: [WAProto/index.d.ts:24157](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24157)
 
 Represents a HSMDateTimeComponent.
 
@@ -14,7 +14,7 @@ Represents a HSMDateTimeComponent.
 
 > **new HSMDateTimeComponent**(`properties`?): [`HSMDateTimeComponent`](HSMDateTimeComponent.md)
 
-Defined in: [WAProto/index.d.ts:24163](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L24163)
+Defined in: [WAProto/index.d.ts:24163](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24163)
 
 Constructs a new HSMDateTimeComponent.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **calendar**: `null` \| [`CalendarType`](../namespaces/HSMDateTimeComponent/enumerations/CalendarType.md)
 
-Defined in: [WAProto/index.d.ts:24184](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L24184)
+Defined in: [WAProto/index.d.ts:24184](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24184)
 
 HSMDateTimeComponent calendar.
 
@@ -50,7 +50,7 @@ HSMDateTimeComponent calendar.
 
 > `optional` **dayOfMonth**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:24175](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L24175)
+Defined in: [WAProto/index.d.ts:24175](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24175)
 
 HSMDateTimeComponent dayOfMonth.
 
@@ -64,7 +64,7 @@ HSMDateTimeComponent dayOfMonth.
 
 > `optional` **dayOfWeek**: `null` \| [`DayOfWeekType`](../namespaces/HSMDateTimeComponent/enumerations/DayOfWeekType.md)
 
-Defined in: [WAProto/index.d.ts:24166](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L24166)
+Defined in: [WAProto/index.d.ts:24166](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24166)
 
 HSMDateTimeComponent dayOfWeek.
 
@@ -78,7 +78,7 @@ HSMDateTimeComponent dayOfWeek.
 
 > `optional` **hour**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:24178](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L24178)
+Defined in: [WAProto/index.d.ts:24178](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24178)
 
 HSMDateTimeComponent hour.
 
@@ -92,7 +92,7 @@ HSMDateTimeComponent hour.
 
 > `optional` **minute**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:24181](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L24181)
+Defined in: [WAProto/index.d.ts:24181](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24181)
 
 HSMDateTimeComponent minute.
 
@@ -106,7 +106,7 @@ HSMDateTimeComponent minute.
 
 > `optional` **month**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:24172](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L24172)
+Defined in: [WAProto/index.d.ts:24172](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24172)
 
 HSMDateTimeComponent month.
 
@@ -120,7 +120,7 @@ HSMDateTimeComponent month.
 
 > `optional` **year**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:24169](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L24169)
+Defined in: [WAProto/index.d.ts:24169](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24169)
 
 HSMDateTimeComponent year.
 
@@ -134,7 +134,7 @@ HSMDateTimeComponent year.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:24254](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L24254)
+Defined in: [WAProto/index.d.ts:24254](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24254)
 
 Converts this HSMDateTimeComponent to JSON.
 
@@ -150,7 +150,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`HSMDateTimeComponent`](HSMDateTimeComponent.md)
 
-Defined in: [WAProto/index.d.ts:24191](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L24191)
+Defined in: [WAProto/index.d.ts:24191](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24191)
 
 Creates a new HSMDateTimeComponent instance using the specified properties.
 
@@ -174,7 +174,7 @@ HSMDateTimeComponent instance
 
 > `static` **decode**(`reader`, `length`?): [`HSMDateTimeComponent`](HSMDateTimeComponent.md)
 
-Defined in: [WAProto/index.d.ts:24217](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L24217)
+Defined in: [WAProto/index.d.ts:24217](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24217)
 
 Decodes a HSMDateTimeComponent message from the specified reader or buffer.
 
@@ -212,7 +212,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`HSMDateTimeComponent`](HSMDateTimeComponent.md)
 
-Defined in: [WAProto/index.d.ts:24226](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L24226)
+Defined in: [WAProto/index.d.ts:24226](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24226)
 
 Decodes a HSMDateTimeComponent message from the specified reader or buffer, length delimited.
 
@@ -244,7 +244,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:24199](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L24199)
+Defined in: [WAProto/index.d.ts:24199](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24199)
 
 Encodes the specified HSMDateTimeComponent message. Does not implicitly [verify](HSMDateTimeComponent.md#verify) messages.
 
@@ -274,7 +274,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:24207](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L24207)
+Defined in: [WAProto/index.d.ts:24207](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24207)
 
 Encodes the specified HSMDateTimeComponent message, length delimited. Does not implicitly [verify](HSMDateTimeComponent.md#verify) messages.
 
@@ -304,7 +304,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`HSMDateTimeComponent`](HSMDateTimeComponent.md)
 
-Defined in: [WAProto/index.d.ts:24240](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L24240)
+Defined in: [WAProto/index.d.ts:24240](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24240)
 
 Creates a HSMDateTimeComponent message from a plain object. Also converts values to their respective internal types.
 
@@ -326,7 +326,7 @@ HSMDateTimeComponent
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:24261](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L24261)
+Defined in: [WAProto/index.d.ts:24261](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24261)
 
 Gets the default type url for HSMDateTimeComponent
 
@@ -350,7 +350,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:24248](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L24248)
+Defined in: [WAProto/index.d.ts:24248](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24248)
 
 Creates a plain object from a HSMDateTimeComponent message. Also converts values to other types if specified.
 
@@ -380,7 +380,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:24233](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L24233)
+Defined in: [WAProto/index.d.ts:24233](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24233)
 
 Verifies a HSMDateTimeComponent message.
 

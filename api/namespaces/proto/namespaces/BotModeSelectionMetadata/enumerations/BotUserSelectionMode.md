@@ -1,6 +1,6 @@
 # Enumeration: BotUserSelectionMode
 
-Defined in: [WAProto/index.d.ts:5243](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L5243)
+Defined in: [WAProto/index.d.ts:5243](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L5243)
 
 BotUserSelectionMode enum.
 
@@ -10,7 +10,7 @@ BotUserSelectionMode enum.
 
 > **REASONING\_MODE**: `1`
 
-Defined in: [WAProto/index.d.ts:5245](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L5245)
+Defined in: [WAProto/index.d.ts:5245](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L5245)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:5245](https://github.com/Fokusdotid/bail/blob/a1
 
 > **UNKNOWN\_MODE**: `0`
 
-Defined in: [WAProto/index.d.ts:5244](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L5244)
+Defined in: [WAProto/index.d.ts:5244](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L5244)

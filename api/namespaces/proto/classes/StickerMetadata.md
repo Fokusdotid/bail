@@ -1,6 +1,6 @@
 # Class: StickerMetadata
 
-Defined in: [WAProto/index.d.ts:43005](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43005)
+Defined in: [WAProto/index.d.ts:43005](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43005)
 
 Represents a StickerMetadata.
 
@@ -14,7 +14,7 @@ Represents a StickerMetadata.
 
 > **new StickerMetadata**(`properties`?): [`StickerMetadata`](StickerMetadata.md)
 
-Defined in: [WAProto/index.d.ts:43011](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43011)
+Defined in: [WAProto/index.d.ts:43011](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43011)
 
 Constructs a new StickerMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:43035](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43035)
+Defined in: [WAProto/index.d.ts:43035](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43035)
 
 StickerMetadata directPath.
 
@@ -50,7 +50,7 @@ StickerMetadata directPath.
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:43020](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43020)
+Defined in: [WAProto/index.d.ts:43020](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43020)
 
 StickerMetadata fileEncSha256.
 
@@ -64,7 +64,7 @@ StickerMetadata fileEncSha256.
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:43038](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43038)
+Defined in: [WAProto/index.d.ts:43038](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43038)
 
 StickerMetadata fileLength.
 
@@ -78,7 +78,7 @@ StickerMetadata fileLength.
 
 > `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:43017](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43017)
+Defined in: [WAProto/index.d.ts:43017](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43017)
 
 StickerMetadata fileSha256.
 
@@ -92,7 +92,7 @@ StickerMetadata fileSha256.
 
 > `optional` **height**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:43029](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43029)
+Defined in: [WAProto/index.d.ts:43029](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43029)
 
 StickerMetadata height.
 
@@ -106,7 +106,7 @@ StickerMetadata height.
 
 > `optional` **isLottie**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:43047](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43047)
+Defined in: [WAProto/index.d.ts:43047](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43047)
 
 StickerMetadata isLottie.
 
@@ -120,7 +120,7 @@ StickerMetadata isLottie.
 
 > `optional` **lastStickerSentTs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:43044](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43044)
+Defined in: [WAProto/index.d.ts:43044](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43044)
 
 StickerMetadata lastStickerSentTs.
 
@@ -134,7 +134,7 @@ StickerMetadata lastStickerSentTs.
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:43023](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43023)
+Defined in: [WAProto/index.d.ts:43023](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43023)
 
 StickerMetadata mediaKey.
 
@@ -148,7 +148,7 @@ StickerMetadata mediaKey.
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:43026](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43026)
+Defined in: [WAProto/index.d.ts:43026](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43026)
 
 StickerMetadata mimetype.
 
@@ -162,7 +162,7 @@ StickerMetadata mimetype.
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:43014](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43014)
+Defined in: [WAProto/index.d.ts:43014](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43014)
 
 StickerMetadata url.
 
@@ -176,7 +176,7 @@ StickerMetadata url.
 
 > `optional` **weight**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:43041](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43041)
+Defined in: [WAProto/index.d.ts:43041](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43041)
 
 StickerMetadata weight.
 
@@ -190,7 +190,7 @@ StickerMetadata weight.
 
 > `optional` **width**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:43032](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43032)
+Defined in: [WAProto/index.d.ts:43032](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43032)
 
 StickerMetadata width.
 
@@ -204,7 +204,7 @@ StickerMetadata width.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:43117](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43117)
+Defined in: [WAProto/index.d.ts:43117](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43117)
 
 Converts this StickerMetadata to JSON.
 
@@ -220,7 +220,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`StickerMetadata`](StickerMetadata.md)
 
-Defined in: [WAProto/index.d.ts:43054](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43054)
+Defined in: [WAProto/index.d.ts:43054](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43054)
 
 Creates a new StickerMetadata instance using the specified properties.
 
@@ -244,7 +244,7 @@ StickerMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`StickerMetadata`](StickerMetadata.md)
 
-Defined in: [WAProto/index.d.ts:43080](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43080)
+Defined in: [WAProto/index.d.ts:43080](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43080)
 
 Decodes a StickerMetadata message from the specified reader or buffer.
 
@@ -282,7 +282,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`StickerMetadata`](StickerMetadata.md)
 
-Defined in: [WAProto/index.d.ts:43089](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43089)
+Defined in: [WAProto/index.d.ts:43089](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43089)
 
 Decodes a StickerMetadata message from the specified reader or buffer, length delimited.
 
@@ -314,7 +314,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:43062](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43062)
+Defined in: [WAProto/index.d.ts:43062](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43062)
 
 Encodes the specified StickerMetadata message. Does not implicitly [verify](StickerMetadata.md#verify) messages.
 
@@ -344,7 +344,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:43070](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43070)
+Defined in: [WAProto/index.d.ts:43070](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43070)
 
 Encodes the specified StickerMetadata message, length delimited. Does not implicitly [verify](StickerMetadata.md#verify) messages.
 
@@ -374,7 +374,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`StickerMetadata`](StickerMetadata.md)
 
-Defined in: [WAProto/index.d.ts:43103](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43103)
+Defined in: [WAProto/index.d.ts:43103](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43103)
 
 Creates a StickerMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -396,7 +396,7 @@ StickerMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:43124](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43124)
+Defined in: [WAProto/index.d.ts:43124](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43124)
 
 Gets the default type url for StickerMetadata
 
@@ -420,7 +420,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:43111](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43111)
+Defined in: [WAProto/index.d.ts:43111](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43111)
 
 Creates a plain object from a StickerMetadata message. Also converts values to other types if specified.
 
@@ -450,7 +450,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:43096](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L43096)
+Defined in: [WAProto/index.d.ts:43096](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43096)
 
 Verifies a StickerMetadata message.
 

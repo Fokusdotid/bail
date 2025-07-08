@@ -2,7 +2,7 @@
 
 > **extractUrlFromText**(`text`): `undefined` \| `string`
 
-Defined in: [src/Utils/messages.ts:77](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/Utils/messages.ts#L77)
+Defined in: [src/Utils/messages.ts:77](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/Utils/messages.ts#L77)
 
 Uses a regex to test whether the string contains a URL, and returns the URL if it does.
 
