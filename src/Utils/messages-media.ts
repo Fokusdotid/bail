@@ -149,14 +149,14 @@ export const extractImageThumb = async (bufferOrFilePath: Readable | Buffer | st
 				height: dimensions.height
 			}
 		}
-	} else if ('jimp' in lib && typeof lib.jimp === 'object' && typeof lib.jimp.Jimp === 'function') {
-		const jimp = await lib.jimp.Jimp.read(bufferOrFilePath)
+	} else if ('jimp' in lib && typeof lib.jimp?.Jimp === 'object') {
+		const jimp = await lib.jimp.default.Jimp.read(bufferOrFilePath)
 		const dimensions = {
 			width: jimp.width,
 			height: jimp.height
 		}
 		const buffer = await jimp
-			.resize({ w: width, mode: lib.jimp.ResizeStrategy.BILINEAR })
+			.resize({ w: width, mode: lib.jimp.default.ResizeStrategy.BILINEAR })
 			.getBuffer('image/jpeg', { quality: 50 })
 		return {
 			buffer,
@@ -198,11 +198,11 @@ export const generateProfilePicture = async (
 			})
 			.toBuffer()
 	} else if ('jimp' in lib && typeof lib.jimp === 'object') {
-		const jimp = await lib.jimp.Jimp.read(buffer)
+		const jimp = await lib.jimp.default.Jimp.read(buffer)
 		const min = Math.min(jimp.width, jimp.height)
 		const cropped = jimp.crop({ x: 0, y: 0, w: min, h: min })
 
-		img = cropped.resize({ w, h, mode: lib.jimp.ResizeStrategy.BILINEAR }).getBuffer('image/jpeg', { quality: 50 })
+		img = cropped.resize({ w, h, mode: lib.jimp.default.ResizeStrategy.BILINEAR }).getBuffer('image/jpeg', { quality: 50 })
 	} else {
 		throw new Boom('No image processing library available')
 	}
