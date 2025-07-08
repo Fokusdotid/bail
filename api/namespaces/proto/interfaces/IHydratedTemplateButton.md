@@ -1,6 +1,6 @@
 # Interface: IHydratedTemplateButton
 
-Defined in: [WAProto/index.d.ts:16079](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16079)
+Defined in: [WAProto/index.d.ts:16079](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16079)
 
 Properties of a HydratedTemplateButton.
 
@@ -10,7 +10,7 @@ Properties of a HydratedTemplateButton.
 
 > `optional` **callButton**: `null` \| [`IHydratedCallButton`](../namespaces/HydratedTemplateButton/interfaces/IHydratedCallButton.md)
 
-Defined in: [WAProto/index.d.ts:16091](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16091)
+Defined in: [WAProto/index.d.ts:16091](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16091)
 
 HydratedTemplateButton callButton
 
@@ -20,7 +20,7 @@ HydratedTemplateButton callButton
 
 > `optional` **index**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:16082](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16082)
+Defined in: [WAProto/index.d.ts:16082](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16082)
 
 HydratedTemplateButton index
 
@@ -30,7 +30,7 @@ HydratedTemplateButton index
 
 > `optional` **quickReplyButton**: `null` \| [`IHydratedQuickReplyButton`](../namespaces/HydratedTemplateButton/interfaces/IHydratedQuickReplyButton.md)
 
-Defined in: [WAProto/index.d.ts:16085](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16085)
+Defined in: [WAProto/index.d.ts:16085](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16085)
 
 HydratedTemplateButton quickReplyButton
 
@@ -40,6 +40,6 @@ HydratedTemplateButton quickReplyButton
 
 > `optional` **urlButton**: `null` \| [`IHydratedURLButton`](../namespaces/HydratedTemplateButton/interfaces/IHydratedURLButton.md)
 
-Defined in: [WAProto/index.d.ts:16088](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16088)
+Defined in: [WAProto/index.d.ts:16088](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16088)
 
 HydratedTemplateButton urlButton

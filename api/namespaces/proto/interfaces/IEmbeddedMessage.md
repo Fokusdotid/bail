@@ -1,6 +1,6 @@
 # Interface: IEmbeddedMessage
 
-Defined in: [WAProto/index.d.ts:13874](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L13874)
+Defined in: [WAProto/index.d.ts:13874](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L13874)
 
 Properties of an EmbeddedMessage.
 
@@ -10,7 +10,7 @@ Properties of an EmbeddedMessage.
 
 > `optional` **message**: `null` \| [`IMessage`](IMessage.md)
 
-Defined in: [WAProto/index.d.ts:13880](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L13880)
+Defined in: [WAProto/index.d.ts:13880](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L13880)
 
 EmbeddedMessage message
 
@@ -20,6 +20,6 @@ EmbeddedMessage message
 
 > `optional` **stanzaId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13877](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L13877)
+Defined in: [WAProto/index.d.ts:13877](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L13877)
 
 EmbeddedMessage stanzaId

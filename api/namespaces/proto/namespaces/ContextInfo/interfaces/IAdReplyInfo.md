@@ -1,6 +1,6 @@
 # Interface: IAdReplyInfo
 
-Defined in: [WAProto/index.d.ts:11113](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L11113)
+Defined in: [WAProto/index.d.ts:11113](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L11113)
 
 Properties of an AdReplyInfo.
 
@@ -10,7 +10,7 @@ Properties of an AdReplyInfo.
 
 > `optional` **advertiserName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11116](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L11116)
+Defined in: [WAProto/index.d.ts:11116](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L11116)
 
 AdReplyInfo advertiserName
 
@@ -20,7 +20,7 @@ AdReplyInfo advertiserName
 
 > `optional` **caption**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11125](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L11125)
+Defined in: [WAProto/index.d.ts:11125](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L11125)
 
 AdReplyInfo caption
 
@@ -30,7 +30,7 @@ AdReplyInfo caption
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:11122](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L11122)
+Defined in: [WAProto/index.d.ts:11122](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L11122)
 
 AdReplyInfo jpegThumbnail
 
@@ -40,6 +40,6 @@ AdReplyInfo jpegThumbnail
 
 > `optional` **mediaType**: `null` \| [`MediaType`](../namespaces/AdReplyInfo/enumerations/MediaType.md)
 
-Defined in: [WAProto/index.d.ts:11119](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L11119)
+Defined in: [WAProto/index.d.ts:11119](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L11119)
 
 AdReplyInfo mediaType

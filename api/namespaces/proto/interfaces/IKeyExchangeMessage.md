@@ -1,6 +1,6 @@
 # Interface: IKeyExchangeMessage
 
-Defined in: [WAProto/index.d.ts:16920](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16920)
+Defined in: [WAProto/index.d.ts:16920](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16920)
 
 Properties of a KeyExchangeMessage.
 
@@ -10,7 +10,7 @@ Properties of a KeyExchangeMessage.
 
 > `optional` **baseKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:16926](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16926)
+Defined in: [WAProto/index.d.ts:16926](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16926)
 
 KeyExchangeMessage baseKey
 
@@ -20,7 +20,7 @@ KeyExchangeMessage baseKey
 
 > `optional` **baseKeySignature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:16935](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16935)
+Defined in: [WAProto/index.d.ts:16935](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16935)
 
 KeyExchangeMessage baseKeySignature
 
@@ -30,7 +30,7 @@ KeyExchangeMessage baseKeySignature
 
 > `optional` **id**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:16923](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16923)
+Defined in: [WAProto/index.d.ts:16923](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16923)
 
 KeyExchangeMessage id
 
@@ -40,7 +40,7 @@ KeyExchangeMessage id
 
 > `optional` **identityKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:16932](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16932)
+Defined in: [WAProto/index.d.ts:16932](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16932)
 
 KeyExchangeMessage identityKey
 
@@ -50,6 +50,6 @@ KeyExchangeMessage identityKey
 
 > `optional` **ratchetKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:16929](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16929)
+Defined in: [WAProto/index.d.ts:16929](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16929)
 
 KeyExchangeMessage ratchetKey

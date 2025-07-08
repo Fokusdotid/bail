@@ -1,6 +1,6 @@
 # Class: CtwaPerCustomerDataSharingAction
 
-Defined in: [WAProto/index.d.ts:44606](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L44606)
+Defined in: [WAProto/index.d.ts:44606](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L44606)
 
 Represents a CtwaPerCustomerDataSharingAction.
 
@@ -14,7 +14,7 @@ Represents a CtwaPerCustomerDataSharingAction.
 
 > **new CtwaPerCustomerDataSharingAction**(`properties`?): [`CtwaPerCustomerDataSharingAction`](CtwaPerCustomerDataSharingAction.md)
 
-Defined in: [WAProto/index.d.ts:44612](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L44612)
+Defined in: [WAProto/index.d.ts:44612](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L44612)
 
 Constructs a new CtwaPerCustomerDataSharingAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **isCtwaPerCustomerDataSharingEnabled**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:44615](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L44615)
+Defined in: [WAProto/index.d.ts:44615](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L44615)
 
 CtwaPerCustomerDataSharingAction isCtwaPerCustomerDataSharingEnabled.
 
@@ -50,7 +50,7 @@ CtwaPerCustomerDataSharingAction isCtwaPerCustomerDataSharingEnabled.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:44685](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L44685)
+Defined in: [WAProto/index.d.ts:44685](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L44685)
 
 Converts this CtwaPerCustomerDataSharingAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CtwaPerCustomerDataSharingAction`](CtwaPerCustomerDataSharingAction.md)
 
-Defined in: [WAProto/index.d.ts:44622](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L44622)
+Defined in: [WAProto/index.d.ts:44622](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L44622)
 
 Creates a new CtwaPerCustomerDataSharingAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ CtwaPerCustomerDataSharingAction instance
 
 > `static` **decode**(`reader`, `length`?): [`CtwaPerCustomerDataSharingAction`](CtwaPerCustomerDataSharingAction.md)
 
-Defined in: [WAProto/index.d.ts:44648](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L44648)
+Defined in: [WAProto/index.d.ts:44648](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L44648)
 
 Decodes a CtwaPerCustomerDataSharingAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CtwaPerCustomerDataSharingAction`](CtwaPerCustomerDataSharingAction.md)
 
-Defined in: [WAProto/index.d.ts:44657](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L44657)
+Defined in: [WAProto/index.d.ts:44657](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L44657)
 
 Decodes a CtwaPerCustomerDataSharingAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44630](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L44630)
+Defined in: [WAProto/index.d.ts:44630](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L44630)
 
 Encodes the specified CtwaPerCustomerDataSharingAction message. Does not implicitly [verify](CtwaPerCustomerDataSharingAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44638](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L44638)
+Defined in: [WAProto/index.d.ts:44638](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L44638)
 
 Encodes the specified CtwaPerCustomerDataSharingAction message, length delimited. Does not implicitly [verify](CtwaPerCustomerDataSharingAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CtwaPerCustomerDataSharingAction`](CtwaPerCustomerDataSharingAction.md)
 
-Defined in: [WAProto/index.d.ts:44671](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L44671)
+Defined in: [WAProto/index.d.ts:44671](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L44671)
 
 Creates a CtwaPerCustomerDataSharingAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ CtwaPerCustomerDataSharingAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:44692](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L44692)
+Defined in: [WAProto/index.d.ts:44692](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L44692)
 
 Gets the default type url for CtwaPerCustomerDataSharingAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:44679](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L44679)
+Defined in: [WAProto/index.d.ts:44679](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L44679)
 
 Creates a plain object from a CtwaPerCustomerDataSharingAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44664](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L44664)
+Defined in: [WAProto/index.d.ts:44664](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L44664)
 
 Verifies a CtwaPerCustomerDataSharingAction message.
 

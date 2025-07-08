@@ -1,6 +1,6 @@
 # Class: AIRichResponseDynamicMetadata
 
-Defined in: [WAProto/index.d.ts:1370](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1370)
+Defined in: [WAProto/index.d.ts:1370](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1370)
 
 Represents a AIRichResponseDynamicMetadata.
 
@@ -14,7 +14,7 @@ Represents a AIRichResponseDynamicMetadata.
 
 > **new AIRichResponseDynamicMetadata**(`properties`?): [`AIRichResponseDynamicMetadata`](AIRichResponseDynamicMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1376](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1376)
+Defined in: [WAProto/index.d.ts:1376](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1376)
 
 Constructs a new AIRichResponseDynamicMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **loopCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1388](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1388)
+Defined in: [WAProto/index.d.ts:1388](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1388)
 
 AIRichResponseDynamicMetadata loopCount.
 
@@ -50,7 +50,7 @@ AIRichResponseDynamicMetadata loopCount.
 
 > `optional` **type**: `null` \| [`AIRichResponseDynamicMetadataType`](../namespaces/AIRichResponseDynamicMetadata/enumerations/AIRichResponseDynamicMetadataType.md)
 
-Defined in: [WAProto/index.d.ts:1379](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1379)
+Defined in: [WAProto/index.d.ts:1379](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1379)
 
 AIRichResponseDynamicMetadata type.
 
@@ -64,7 +64,7 @@ AIRichResponseDynamicMetadata type.
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1385](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1385)
+Defined in: [WAProto/index.d.ts:1385](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1385)
 
 AIRichResponseDynamicMetadata url.
 
@@ -78,7 +78,7 @@ AIRichResponseDynamicMetadata url.
 
 > `optional` **version**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:1382](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1382)
+Defined in: [WAProto/index.d.ts:1382](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1382)
 
 AIRichResponseDynamicMetadata version.
 
@@ -92,7 +92,7 @@ AIRichResponseDynamicMetadata version.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:1458](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1458)
+Defined in: [WAProto/index.d.ts:1458](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1458)
 
 Converts this AIRichResponseDynamicMetadata to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIRichResponseDynamicMetadata`](AIRichResponseDynamicMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1395](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1395)
+Defined in: [WAProto/index.d.ts:1395](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1395)
 
 Creates a new AIRichResponseDynamicMetadata instance using the specified properties.
 
@@ -132,7 +132,7 @@ AIRichResponseDynamicMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`AIRichResponseDynamicMetadata`](AIRichResponseDynamicMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1421](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1421)
+Defined in: [WAProto/index.d.ts:1421](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1421)
 
 Decodes a AIRichResponseDynamicMetadata message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIRichResponseDynamicMetadata`](AIRichResponseDynamicMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1430](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1430)
+Defined in: [WAProto/index.d.ts:1430](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1430)
 
 Decodes a AIRichResponseDynamicMetadata message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:1403](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1403)
+Defined in: [WAProto/index.d.ts:1403](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1403)
 
 Encodes the specified AIRichResponseDynamicMetadata message. Does not implicitly [verify](AIRichResponseDynamicMetadata.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:1411](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1411)
+Defined in: [WAProto/index.d.ts:1411](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1411)
 
 Encodes the specified AIRichResponseDynamicMetadata message, length delimited. Does not implicitly [verify](AIRichResponseDynamicMetadata.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIRichResponseDynamicMetadata`](AIRichResponseDynamicMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1444](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1444)
+Defined in: [WAProto/index.d.ts:1444](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1444)
 
 Creates a AIRichResponseDynamicMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ AIRichResponseDynamicMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:1465](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1465)
+Defined in: [WAProto/index.d.ts:1465](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1465)
 
 Gets the default type url for AIRichResponseDynamicMetadata
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:1452](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1452)
+Defined in: [WAProto/index.d.ts:1452](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1452)
 
 Creates a plain object from a AIRichResponseDynamicMetadata message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1437](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1437)
+Defined in: [WAProto/index.d.ts:1437](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1437)
 
 Verifies a AIRichResponseDynamicMetadata message.
 

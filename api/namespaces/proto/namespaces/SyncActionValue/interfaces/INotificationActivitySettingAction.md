@@ -1,6 +1,6 @@
 # Interface: INotificationActivitySettingAction
 
-Defined in: [WAProto/index.d.ts:47066](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L47066)
+Defined in: [WAProto/index.d.ts:47066](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L47066)
 
 Properties of a NotificationActivitySettingAction.
 
@@ -10,6 +10,6 @@ Properties of a NotificationActivitySettingAction.
 
 > `optional` **notificationActivitySetting**: `null` \| [`NotificationActivitySetting`](../namespaces/NotificationActivitySettingAction/enumerations/NotificationActivitySetting.md)
 
-Defined in: [WAProto/index.d.ts:47069](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L47069)
+Defined in: [WAProto/index.d.ts:47069](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L47069)
 
 NotificationActivitySettingAction notificationActivitySetting

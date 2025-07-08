@@ -1,6 +1,6 @@
 # Interface: IEncCommentMessage
 
-Defined in: [WAProto/index.d.ts:22428](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22428)
+Defined in: [WAProto/index.d.ts:22428](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L22428)
 
 Properties of an EncCommentMessage.
 
@@ -10,7 +10,7 @@ Properties of an EncCommentMessage.
 
 > `optional` **encIv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22437](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22437)
+Defined in: [WAProto/index.d.ts:22437](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L22437)
 
 EncCommentMessage encIv
 
@@ -20,7 +20,7 @@ EncCommentMessage encIv
 
 > `optional` **encPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22434](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22434)
+Defined in: [WAProto/index.d.ts:22434](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L22434)
 
 EncCommentMessage encPayload
 
@@ -30,6 +30,6 @@ EncCommentMessage encPayload
 
 > `optional` **targetMessageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:22431](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22431)
+Defined in: [WAProto/index.d.ts:22431](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L22431)
 
 EncCommentMessage targetMessageKey

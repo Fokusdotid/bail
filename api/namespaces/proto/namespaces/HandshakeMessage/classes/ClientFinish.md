@@ -1,6 +1,6 @@
 # Class: ClientFinish
 
-Defined in: [WAProto/index.d.ts:15451](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15451)
+Defined in: [WAProto/index.d.ts:15451](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15451)
 
 Represents a ClientFinish.
 
@@ -14,7 +14,7 @@ Represents a ClientFinish.
 
 > **new ClientFinish**(`properties`?): [`ClientFinish`](ClientFinish.md)
 
-Defined in: [WAProto/index.d.ts:15457](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15457)
+Defined in: [WAProto/index.d.ts:15457](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15457)
 
 Constructs a new ClientFinish.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **payload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:15463](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15463)
+Defined in: [WAProto/index.d.ts:15463](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15463)
 
 ClientFinish payload.
 
@@ -50,7 +50,7 @@ ClientFinish payload.
 
 > `optional` **static**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:15460](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15460)
+Defined in: [WAProto/index.d.ts:15460](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15460)
 
 ClientFinish static.
 
@@ -64,7 +64,7 @@ ClientFinish static.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:15533](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15533)
+Defined in: [WAProto/index.d.ts:15533](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15533)
 
 Converts this ClientFinish to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ClientFinish`](ClientFinish.md)
 
-Defined in: [WAProto/index.d.ts:15470](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15470)
+Defined in: [WAProto/index.d.ts:15470](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15470)
 
 Creates a new ClientFinish instance using the specified properties.
 
@@ -104,7 +104,7 @@ ClientFinish instance
 
 > `static` **decode**(`reader`, `length`?): [`ClientFinish`](ClientFinish.md)
 
-Defined in: [WAProto/index.d.ts:15496](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15496)
+Defined in: [WAProto/index.d.ts:15496](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15496)
 
 Decodes a ClientFinish message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ClientFinish`](ClientFinish.md)
 
-Defined in: [WAProto/index.d.ts:15505](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15505)
+Defined in: [WAProto/index.d.ts:15505](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15505)
 
 Decodes a ClientFinish message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15478](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15478)
+Defined in: [WAProto/index.d.ts:15478](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15478)
 
 Encodes the specified ClientFinish message. Does not implicitly [verify](ClientFinish.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15486](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15486)
+Defined in: [WAProto/index.d.ts:15486](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15486)
 
 Encodes the specified ClientFinish message, length delimited. Does not implicitly [verify](ClientFinish.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ClientFinish`](ClientFinish.md)
 
-Defined in: [WAProto/index.d.ts:15519](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15519)
+Defined in: [WAProto/index.d.ts:15519](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15519)
 
 Creates a ClientFinish message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ ClientFinish
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:15540](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15540)
+Defined in: [WAProto/index.d.ts:15540](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15540)
 
 Gets the default type url for ClientFinish
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:15527](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15527)
+Defined in: [WAProto/index.d.ts:15527](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15527)
 
 Creates a plain object from a ClientFinish message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:15512](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15512)
+Defined in: [WAProto/index.d.ts:15512](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15512)
 
 Verifies a ClientFinish message.
 

@@ -1,6 +1,6 @@
 # Enumeration: BotPlanningSearchSourceProvider
 
-Defined in: [WAProto/index.d.ts:6017](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L6017)
+Defined in: [WAProto/index.d.ts:6017](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L6017)
 
 BotPlanningSearchSourceProvider enum.
 
@@ -10,7 +10,7 @@ BotPlanningSearchSourceProvider enum.
 
 > **BING**: `3`
 
-Defined in: [WAProto/index.d.ts:6021](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L6021)
+Defined in: [WAProto/index.d.ts:6021](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L6021)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:6021](https://github.com/Fokusdotid/bail/blob/da
 
 > **GOOGLE**: `2`
 
-Defined in: [WAProto/index.d.ts:6020](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L6020)
+Defined in: [WAProto/index.d.ts:6020](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L6020)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:6020](https://github.com/Fokusdotid/bail/blob/da
 
 > **OTHER**: `1`
 
-Defined in: [WAProto/index.d.ts:6019](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L6019)
+Defined in: [WAProto/index.d.ts:6019](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L6019)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:6019](https://github.com/Fokusdotid/bail/blob/da
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:6018](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L6018)
+Defined in: [WAProto/index.d.ts:6018](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L6018)

@@ -1,6 +1,6 @@
 # Interface: ICallParticipant
 
-Defined in: [WAProto/index.d.ts:21139](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L21139)
+Defined in: [WAProto/index.d.ts:21139](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L21139)
 
 Properties of a CallParticipant.
 
@@ -10,7 +10,7 @@ Properties of a CallParticipant.
 
 > `optional` **callOutcome**: `null` \| [`CallOutcome`](../enumerations/CallOutcome.md)
 
-Defined in: [WAProto/index.d.ts:21145](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L21145)
+Defined in: [WAProto/index.d.ts:21145](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L21145)
 
 CallParticipant callOutcome
 
@@ -20,6 +20,6 @@ CallParticipant callOutcome
 
 > `optional` **jid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21142](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L21142)
+Defined in: [WAProto/index.d.ts:21142](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L21142)
 
 CallParticipant jid

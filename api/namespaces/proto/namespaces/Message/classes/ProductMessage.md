@@ -1,6 +1,6 @@
 # Class: ProductMessage
 
-Defined in: [WAProto/index.d.ts:32187](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L32187)
+Defined in: [WAProto/index.d.ts:32187](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32187)
 
 Represents a ProductMessage.
 
@@ -14,7 +14,7 @@ Represents a ProductMessage.
 
 > **new ProductMessage**(`properties`?): [`ProductMessage`](ProductMessage.md)
 
-Defined in: [WAProto/index.d.ts:32193](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L32193)
+Defined in: [WAProto/index.d.ts:32193](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32193)
 
 Constructs a new ProductMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **body**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32205](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L32205)
+Defined in: [WAProto/index.d.ts:32205](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32205)
 
 ProductMessage body.
 
@@ -50,7 +50,7 @@ ProductMessage body.
 
 > `optional` **businessOwnerJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32199](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L32199)
+Defined in: [WAProto/index.d.ts:32199](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32199)
 
 ProductMessage businessOwnerJid.
 
@@ -64,7 +64,7 @@ ProductMessage businessOwnerJid.
 
 > `optional` **catalog**: `null` \| [`ICatalogSnapshot`](../namespaces/ProductMessage/interfaces/ICatalogSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:32202](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L32202)
+Defined in: [WAProto/index.d.ts:32202](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32202)
 
 ProductMessage catalog.
 
@@ -78,7 +78,7 @@ ProductMessage catalog.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:32211](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L32211)
+Defined in: [WAProto/index.d.ts:32211](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32211)
 
 ProductMessage contextInfo.
 
@@ -92,7 +92,7 @@ ProductMessage contextInfo.
 
 > `optional` **footer**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32208](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L32208)
+Defined in: [WAProto/index.d.ts:32208](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32208)
 
 ProductMessage footer.
 
@@ -106,7 +106,7 @@ ProductMessage footer.
 
 > `optional` **product**: `null` \| [`IProductSnapshot`](../namespaces/ProductMessage/interfaces/IProductSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:32196](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L32196)
+Defined in: [WAProto/index.d.ts:32196](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32196)
 
 ProductMessage product.
 
@@ -120,7 +120,7 @@ ProductMessage product.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:32281](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L32281)
+Defined in: [WAProto/index.d.ts:32281](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32281)
 
 Converts this ProductMessage to JSON.
 
@@ -136,7 +136,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ProductMessage`](ProductMessage.md)
 
-Defined in: [WAProto/index.d.ts:32218](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L32218)
+Defined in: [WAProto/index.d.ts:32218](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32218)
 
 Creates a new ProductMessage instance using the specified properties.
 
@@ -160,7 +160,7 @@ ProductMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`ProductMessage`](ProductMessage.md)
 
-Defined in: [WAProto/index.d.ts:32244](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L32244)
+Defined in: [WAProto/index.d.ts:32244](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32244)
 
 Decodes a ProductMessage message from the specified reader or buffer.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ProductMessage`](ProductMessage.md)
 
-Defined in: [WAProto/index.d.ts:32253](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L32253)
+Defined in: [WAProto/index.d.ts:32253](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32253)
 
 Decodes a ProductMessage message from the specified reader or buffer, length delimited.
 
@@ -230,7 +230,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:32226](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L32226)
+Defined in: [WAProto/index.d.ts:32226](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32226)
 
 Encodes the specified ProductMessage message. Does not implicitly [verify](ProductMessage.md#verify) messages.
 
@@ -260,7 +260,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:32234](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L32234)
+Defined in: [WAProto/index.d.ts:32234](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32234)
 
 Encodes the specified ProductMessage message, length delimited. Does not implicitly [verify](ProductMessage.md#verify) messages.
 
@@ -290,7 +290,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ProductMessage`](ProductMessage.md)
 
-Defined in: [WAProto/index.d.ts:32267](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L32267)
+Defined in: [WAProto/index.d.ts:32267](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32267)
 
 Creates a ProductMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -312,7 +312,7 @@ ProductMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:32288](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L32288)
+Defined in: [WAProto/index.d.ts:32288](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32288)
 
 Gets the default type url for ProductMessage
 
@@ -336,7 +336,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:32275](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L32275)
+Defined in: [WAProto/index.d.ts:32275](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32275)
 
 Creates a plain object from a ProductMessage message. Also converts values to other types if specified.
 
@@ -366,7 +366,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32260](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L32260)
+Defined in: [WAProto/index.d.ts:32260](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32260)
 
 Verifies a ProductMessage message.
 

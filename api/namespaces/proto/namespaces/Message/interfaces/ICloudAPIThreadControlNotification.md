@@ -1,6 +1,6 @@
 # Interface: ICloudAPIThreadControlNotification
 
-Defined in: [WAProto/index.d.ts:21450](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L21450)
+Defined in: [WAProto/index.d.ts:21450](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L21450)
 
 Properties of a CloudAPIThreadControlNotification.
 
@@ -10,7 +10,7 @@ Properties of a CloudAPIThreadControlNotification.
 
 > `optional` **consumerLid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21459](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L21459)
+Defined in: [WAProto/index.d.ts:21459](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L21459)
 
 CloudAPIThreadControlNotification consumerLid
 
@@ -20,7 +20,7 @@ CloudAPIThreadControlNotification consumerLid
 
 > `optional` **consumerPhoneNumber**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21462](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L21462)
+Defined in: [WAProto/index.d.ts:21462](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L21462)
 
 CloudAPIThreadControlNotification consumerPhoneNumber
 
@@ -30,7 +30,7 @@ CloudAPIThreadControlNotification consumerPhoneNumber
 
 > `optional` **notificationContent**: `null` \| [`ICloudAPIThreadControlNotificationContent`](../namespaces/CloudAPIThreadControlNotification/interfaces/ICloudAPIThreadControlNotificationContent.md)
 
-Defined in: [WAProto/index.d.ts:21465](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L21465)
+Defined in: [WAProto/index.d.ts:21465](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L21465)
 
 CloudAPIThreadControlNotification notificationContent
 
@@ -40,7 +40,7 @@ CloudAPIThreadControlNotification notificationContent
 
 > `optional` **senderNotificationTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:21456](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L21456)
+Defined in: [WAProto/index.d.ts:21456](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L21456)
 
 CloudAPIThreadControlNotification senderNotificationTimestampMs
 
@@ -50,6 +50,6 @@ CloudAPIThreadControlNotification senderNotificationTimestampMs
 
 > `optional` **status**: `null` \| [`CloudAPIThreadControl`](../namespaces/CloudAPIThreadControlNotification/enumerations/CloudAPIThreadControl.md)
 
-Defined in: [WAProto/index.d.ts:21453](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L21453)
+Defined in: [WAProto/index.d.ts:21453](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L21453)
 
 CloudAPIThreadControlNotification status

@@ -1,6 +1,6 @@
 # Class: SyncActionData
 
-Defined in: [WAProto/index.d.ts:43144](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43144)
+Defined in: [WAProto/index.d.ts:43144](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L43144)
 
 Represents a SyncActionData.
 
@@ -14,7 +14,7 @@ Represents a SyncActionData.
 
 > **new SyncActionData**(`properties`?): [`SyncActionData`](SyncActionData.md)
 
-Defined in: [WAProto/index.d.ts:43150](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43150)
+Defined in: [WAProto/index.d.ts:43150](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L43150)
 
 Constructs a new SyncActionData.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **index**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:43153](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43153)
+Defined in: [WAProto/index.d.ts:43153](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L43153)
 
 SyncActionData index.
 
@@ -50,7 +50,7 @@ SyncActionData index.
 
 > `optional` **padding**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:43159](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43159)
+Defined in: [WAProto/index.d.ts:43159](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L43159)
 
 SyncActionData padding.
 
@@ -64,7 +64,7 @@ SyncActionData padding.
 
 > `optional` **value**: `null` \| [`ISyncActionValue`](../interfaces/ISyncActionValue.md)
 
-Defined in: [WAProto/index.d.ts:43156](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43156)
+Defined in: [WAProto/index.d.ts:43156](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L43156)
 
 SyncActionData value.
 
@@ -78,7 +78,7 @@ SyncActionData value.
 
 > `optional` **version**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:43162](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43162)
+Defined in: [WAProto/index.d.ts:43162](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L43162)
 
 SyncActionData version.
 
@@ -92,7 +92,7 @@ SyncActionData version.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:43232](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43232)
+Defined in: [WAProto/index.d.ts:43232](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L43232)
 
 Converts this SyncActionData to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SyncActionData`](SyncActionData.md)
 
-Defined in: [WAProto/index.d.ts:43169](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43169)
+Defined in: [WAProto/index.d.ts:43169](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L43169)
 
 Creates a new SyncActionData instance using the specified properties.
 
@@ -132,7 +132,7 @@ SyncActionData instance
 
 > `static` **decode**(`reader`, `length`?): [`SyncActionData`](SyncActionData.md)
 
-Defined in: [WAProto/index.d.ts:43195](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43195)
+Defined in: [WAProto/index.d.ts:43195](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L43195)
 
 Decodes a SyncActionData message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SyncActionData`](SyncActionData.md)
 
-Defined in: [WAProto/index.d.ts:43204](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43204)
+Defined in: [WAProto/index.d.ts:43204](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L43204)
 
 Decodes a SyncActionData message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:43177](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43177)
+Defined in: [WAProto/index.d.ts:43177](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L43177)
 
 Encodes the specified SyncActionData message. Does not implicitly [verify](SyncActionData.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:43185](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43185)
+Defined in: [WAProto/index.d.ts:43185](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L43185)
 
 Encodes the specified SyncActionData message, length delimited. Does not implicitly [verify](SyncActionData.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SyncActionData`](SyncActionData.md)
 
-Defined in: [WAProto/index.d.ts:43218](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43218)
+Defined in: [WAProto/index.d.ts:43218](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L43218)
 
 Creates a SyncActionData message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ SyncActionData
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:43239](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43239)
+Defined in: [WAProto/index.d.ts:43239](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L43239)
 
 Gets the default type url for SyncActionData
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:43226](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43226)
+Defined in: [WAProto/index.d.ts:43226](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L43226)
 
 Creates a plain object from a SyncActionData message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:43211](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43211)
+Defined in: [WAProto/index.d.ts:43211](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L43211)
 
 Verifies a SyncActionData message.
 

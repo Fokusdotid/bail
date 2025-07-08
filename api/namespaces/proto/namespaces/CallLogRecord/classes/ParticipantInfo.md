@@ -1,6 +1,6 @@
 # Class: ParticipantInfo
 
-Defined in: [WAProto/index.d.ts:7709](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7709)
+Defined in: [WAProto/index.d.ts:7709](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7709)
 
 Represents a ParticipantInfo.
 
@@ -14,7 +14,7 @@ Represents a ParticipantInfo.
 
 > **new ParticipantInfo**(`properties`?): [`ParticipantInfo`](ParticipantInfo.md)
 
-Defined in: [WAProto/index.d.ts:7715](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7715)
+Defined in: [WAProto/index.d.ts:7715](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7715)
 
 Constructs a new ParticipantInfo.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **callResult**: `null` \| [`CallResult`](../enumerations/CallResult.md)
 
-Defined in: [WAProto/index.d.ts:7721](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7721)
+Defined in: [WAProto/index.d.ts:7721](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7721)
 
 ParticipantInfo callResult.
 
@@ -50,7 +50,7 @@ ParticipantInfo callResult.
 
 > `optional` **userJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7718](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7718)
+Defined in: [WAProto/index.d.ts:7718](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7718)
 
 ParticipantInfo userJid.
 
@@ -64,7 +64,7 @@ ParticipantInfo userJid.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:7791](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7791)
+Defined in: [WAProto/index.d.ts:7791](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7791)
 
 Converts this ParticipantInfo to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ParticipantInfo`](ParticipantInfo.md)
 
-Defined in: [WAProto/index.d.ts:7728](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7728)
+Defined in: [WAProto/index.d.ts:7728](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7728)
 
 Creates a new ParticipantInfo instance using the specified properties.
 
@@ -104,7 +104,7 @@ ParticipantInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`ParticipantInfo`](ParticipantInfo.md)
 
-Defined in: [WAProto/index.d.ts:7754](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7754)
+Defined in: [WAProto/index.d.ts:7754](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7754)
 
 Decodes a ParticipantInfo message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ParticipantInfo`](ParticipantInfo.md)
 
-Defined in: [WAProto/index.d.ts:7763](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7763)
+Defined in: [WAProto/index.d.ts:7763](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7763)
 
 Decodes a ParticipantInfo message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:7736](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7736)
+Defined in: [WAProto/index.d.ts:7736](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7736)
 
 Encodes the specified ParticipantInfo message. Does not implicitly [verify](ParticipantInfo.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:7744](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7744)
+Defined in: [WAProto/index.d.ts:7744](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7744)
 
 Encodes the specified ParticipantInfo message, length delimited. Does not implicitly [verify](ParticipantInfo.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ParticipantInfo`](ParticipantInfo.md)
 
-Defined in: [WAProto/index.d.ts:7777](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7777)
+Defined in: [WAProto/index.d.ts:7777](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7777)
 
 Creates a ParticipantInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ ParticipantInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:7798](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7798)
+Defined in: [WAProto/index.d.ts:7798](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7798)
 
 Gets the default type url for ParticipantInfo
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:7785](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7785)
+Defined in: [WAProto/index.d.ts:7785](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7785)
 
 Creates a plain object from a ParticipantInfo message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7770](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7770)
+Defined in: [WAProto/index.d.ts:7770](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7770)
 
 Verifies a ParticipantInfo message.
 

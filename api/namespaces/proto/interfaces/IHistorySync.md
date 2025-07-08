@@ -1,6 +1,6 @@
 # Interface: IHistorySync
 
-Defined in: [WAProto/index.d.ts:15763](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15763)
+Defined in: [WAProto/index.d.ts:15763](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15763)
 
 Properties of a HistorySync.
 
@@ -10,7 +10,7 @@ Properties of a HistorySync.
 
 > `optional` **accounts**: `null` \| [`IAccount`](IAccount.md)[]
 
-Defined in: [WAProto/index.d.ts:15814](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15814)
+Defined in: [WAProto/index.d.ts:15814](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15814)
 
 HistorySync accounts
 
@@ -20,7 +20,7 @@ HistorySync accounts
 
 > `optional` **aiWaitListState**: `null` \| [`BotAIWaitListState`](../namespaces/HistorySync/enumerations/BotAIWaitListState.md)
 
-Defined in: [WAProto/index.d.ts:15802](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15802)
+Defined in: [WAProto/index.d.ts:15802](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15802)
 
 HistorySync aiWaitListState
 
@@ -30,7 +30,7 @@ HistorySync aiWaitListState
 
 > `optional` **callLogRecords**: `null` \| [`ICallLogRecord`](ICallLogRecord.md)[]
 
-Defined in: [WAProto/index.d.ts:15799](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15799)
+Defined in: [WAProto/index.d.ts:15799](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15799)
 
 HistorySync callLogRecords
 
@@ -40,7 +40,7 @@ HistorySync callLogRecords
 
 > `optional` **chunkOrder**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:15775](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15775)
+Defined in: [WAProto/index.d.ts:15775](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15775)
 
 HistorySync chunkOrder
 
@@ -50,7 +50,7 @@ HistorySync chunkOrder
 
 > `optional` **companionMetaNonce**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:15808](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15808)
+Defined in: [WAProto/index.d.ts:15808](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15808)
 
 HistorySync companionMetaNonce
 
@@ -60,7 +60,7 @@ HistorySync companionMetaNonce
 
 > `optional` **conversations**: `null` \| [`IConversation`](IConversation.md)[]
 
-Defined in: [WAProto/index.d.ts:15769](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15769)
+Defined in: [WAProto/index.d.ts:15769](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15769)
 
 HistorySync conversations
 
@@ -70,7 +70,7 @@ HistorySync conversations
 
 > `optional` **globalSettings**: `null` \| [`IGlobalSettings`](IGlobalSettings.md)
 
-Defined in: [WAProto/index.d.ts:15784](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15784)
+Defined in: [WAProto/index.d.ts:15784](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15784)
 
 HistorySync globalSettings
 
@@ -80,7 +80,7 @@ HistorySync globalSettings
 
 > `optional` **pastParticipants**: `null` \| [`IPastParticipants`](IPastParticipants.md)[]
 
-Defined in: [WAProto/index.d.ts:15796](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15796)
+Defined in: [WAProto/index.d.ts:15796](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15796)
 
 HistorySync pastParticipants
 
@@ -90,7 +90,7 @@ HistorySync pastParticipants
 
 > `optional` **phoneNumberToLidMappings**: `null` \| [`IPhoneNumberToLIDMapping`](IPhoneNumberToLIDMapping.md)[]
 
-Defined in: [WAProto/index.d.ts:15805](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15805)
+Defined in: [WAProto/index.d.ts:15805](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15805)
 
 HistorySync phoneNumberToLidMappings
 
@@ -100,7 +100,7 @@ HistorySync phoneNumberToLidMappings
 
 > `optional` **progress**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:15778](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15778)
+Defined in: [WAProto/index.d.ts:15778](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15778)
 
 HistorySync progress
 
@@ -110,7 +110,7 @@ HistorySync progress
 
 > `optional` **pushnames**: `null` \| [`IPushname`](IPushname.md)[]
 
-Defined in: [WAProto/index.d.ts:15781](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15781)
+Defined in: [WAProto/index.d.ts:15781](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15781)
 
 HistorySync pushnames
 
@@ -120,7 +120,7 @@ HistorySync pushnames
 
 > `optional` **recentStickers**: `null` \| [`IStickerMetadata`](IStickerMetadata.md)[]
 
-Defined in: [WAProto/index.d.ts:15793](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15793)
+Defined in: [WAProto/index.d.ts:15793](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15793)
 
 HistorySync recentStickers
 
@@ -130,7 +130,7 @@ HistorySync recentStickers
 
 > `optional` **shareableChatIdentifierEncryptionKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:15811](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15811)
+Defined in: [WAProto/index.d.ts:15811](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15811)
 
 HistorySync shareableChatIdentifierEncryptionKey
 
@@ -140,7 +140,7 @@ HistorySync shareableChatIdentifierEncryptionKey
 
 > `optional` **statusV3Messages**: `null` \| [`IWebMessageInfo`](IWebMessageInfo.md)[]
 
-Defined in: [WAProto/index.d.ts:15772](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15772)
+Defined in: [WAProto/index.d.ts:15772](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15772)
 
 HistorySync statusV3Messages
 
@@ -150,7 +150,7 @@ HistorySync statusV3Messages
 
 > **syncType**: [`HistorySyncType`](../namespaces/HistorySync/enumerations/HistorySyncType.md)
 
-Defined in: [WAProto/index.d.ts:15766](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15766)
+Defined in: [WAProto/index.d.ts:15766](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15766)
 
 HistorySync syncType
 
@@ -160,7 +160,7 @@ HistorySync syncType
 
 > `optional` **threadDsTimeframeOffset**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:15790](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15790)
+Defined in: [WAProto/index.d.ts:15790](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15790)
 
 HistorySync threadDsTimeframeOffset
 
@@ -170,6 +170,6 @@ HistorySync threadDsTimeframeOffset
 
 > `optional` **threadIdUserSecret**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:15787](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L15787)
+Defined in: [WAProto/index.d.ts:15787](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L15787)
 
 HistorySync threadIdUserSecret

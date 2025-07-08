@@ -1,6 +1,6 @@
 # Interface: ITapLinkAction
 
-Defined in: [WAProto/index.d.ts:50727](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50727)
+Defined in: [WAProto/index.d.ts:50727](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50727)
 
 Properties of a TapLinkAction.
 
@@ -10,7 +10,7 @@ Properties of a TapLinkAction.
 
 > `optional` **tapUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:50733](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50733)
+Defined in: [WAProto/index.d.ts:50733](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50733)
 
 TapLinkAction tapUrl
 
@@ -20,6 +20,6 @@ TapLinkAction tapUrl
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:50730](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50730)
+Defined in: [WAProto/index.d.ts:50730](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50730)
 
 TapLinkAction title

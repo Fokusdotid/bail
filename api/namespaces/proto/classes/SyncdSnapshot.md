@@ -1,6 +1,6 @@
 # Class: SyncdSnapshot
 
-Defined in: [WAProto/index.d.ts:50434](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50434)
+Defined in: [WAProto/index.d.ts:50434](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50434)
 
 Represents a SyncdSnapshot.
 
@@ -14,7 +14,7 @@ Represents a SyncdSnapshot.
 
 > **new SyncdSnapshot**(`properties`?): [`SyncdSnapshot`](SyncdSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:50440](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50440)
+Defined in: [WAProto/index.d.ts:50440](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50440)
 
 Constructs a new SyncdSnapshot.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **keyId**: `null` \| [`IKeyId`](../interfaces/IKeyId.md)
 
-Defined in: [WAProto/index.d.ts:50452](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50452)
+Defined in: [WAProto/index.d.ts:50452](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50452)
 
 SyncdSnapshot keyId.
 
@@ -50,7 +50,7 @@ SyncdSnapshot keyId.
 
 > `optional` **mac**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:50449](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50449)
+Defined in: [WAProto/index.d.ts:50449](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50449)
 
 SyncdSnapshot mac.
 
@@ -64,7 +64,7 @@ SyncdSnapshot mac.
 
 > **records**: [`ISyncdRecord`](../interfaces/ISyncdRecord.md)[]
 
-Defined in: [WAProto/index.d.ts:50446](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50446)
+Defined in: [WAProto/index.d.ts:50446](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50446)
 
 SyncdSnapshot records.
 
@@ -78,7 +78,7 @@ SyncdSnapshot records.
 
 > `optional` **version**: `null` \| [`ISyncdVersion`](../interfaces/ISyncdVersion.md)
 
-Defined in: [WAProto/index.d.ts:50443](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50443)
+Defined in: [WAProto/index.d.ts:50443](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50443)
 
 SyncdSnapshot version.
 
@@ -92,7 +92,7 @@ SyncdSnapshot version.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:50522](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50522)
+Defined in: [WAProto/index.d.ts:50522](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50522)
 
 Converts this SyncdSnapshot to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SyncdSnapshot`](SyncdSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:50459](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50459)
+Defined in: [WAProto/index.d.ts:50459](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50459)
 
 Creates a new SyncdSnapshot instance using the specified properties.
 
@@ -132,7 +132,7 @@ SyncdSnapshot instance
 
 > `static` **decode**(`reader`, `length`?): [`SyncdSnapshot`](SyncdSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:50485](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50485)
+Defined in: [WAProto/index.d.ts:50485](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50485)
 
 Decodes a SyncdSnapshot message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SyncdSnapshot`](SyncdSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:50494](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50494)
+Defined in: [WAProto/index.d.ts:50494](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50494)
 
 Decodes a SyncdSnapshot message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:50467](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50467)
+Defined in: [WAProto/index.d.ts:50467](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50467)
 
 Encodes the specified SyncdSnapshot message. Does not implicitly [verify](SyncdSnapshot.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:50475](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50475)
+Defined in: [WAProto/index.d.ts:50475](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50475)
 
 Encodes the specified SyncdSnapshot message, length delimited. Does not implicitly [verify](SyncdSnapshot.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SyncdSnapshot`](SyncdSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:50508](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50508)
+Defined in: [WAProto/index.d.ts:50508](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50508)
 
 Creates a SyncdSnapshot message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ SyncdSnapshot
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:50529](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50529)
+Defined in: [WAProto/index.d.ts:50529](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50529)
 
 Gets the default type url for SyncdSnapshot
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:50516](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50516)
+Defined in: [WAProto/index.d.ts:50516](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50516)
 
 Creates a plain object from a SyncdSnapshot message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:50501](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50501)
+Defined in: [WAProto/index.d.ts:50501](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50501)
 
 Verifies a SyncdSnapshot message.
 

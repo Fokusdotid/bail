@@ -1,6 +1,6 @@
 # Interface: IPlaceholderMessageResendResponse
 
-Defined in: [WAProto/index.d.ts:30744](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L30744)
+Defined in: [WAProto/index.d.ts:30744](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L30744)
 
 Properties of a PlaceholderMessageResendResponse.
 
@@ -10,6 +10,6 @@ Properties of a PlaceholderMessageResendResponse.
 
 > `optional` **webMessageInfoBytes**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:30747](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L30747)
+Defined in: [WAProto/index.d.ts:30747](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L30747)
 
 PlaceholderMessageResendResponse webMessageInfoBytes

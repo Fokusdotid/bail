@@ -1,6 +1,6 @@
 # Class: EmbeddedContent
 
-Defined in: [WAProto/index.d.ts:13778](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L13778)
+Defined in: [WAProto/index.d.ts:13778](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L13778)
 
 Represents an EmbeddedContent.
 
@@ -14,7 +14,7 @@ Represents an EmbeddedContent.
 
 > **new EmbeddedContent**(`properties`?): [`EmbeddedContent`](EmbeddedContent.md)
 
-Defined in: [WAProto/index.d.ts:13784](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L13784)
+Defined in: [WAProto/index.d.ts:13784](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L13784)
 
 Constructs a new EmbeddedContent.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **content**: `"embeddedMessage"` \| `"embeddedMusic"`
 
-Defined in: [WAProto/index.d.ts:13793](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L13793)
+Defined in: [WAProto/index.d.ts:13793](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L13793)
 
 EmbeddedContent content.
 
@@ -46,7 +46,7 @@ EmbeddedContent content.
 
 > `optional` **embeddedMessage**: `null` \| [`IEmbeddedMessage`](../interfaces/IEmbeddedMessage.md)
 
-Defined in: [WAProto/index.d.ts:13787](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L13787)
+Defined in: [WAProto/index.d.ts:13787](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L13787)
 
 EmbeddedContent embeddedMessage.
 
@@ -60,7 +60,7 @@ EmbeddedContent embeddedMessage.
 
 > `optional` **embeddedMusic**: `null` \| [`IEmbeddedMusic`](../interfaces/IEmbeddedMusic.md)
 
-Defined in: [WAProto/index.d.ts:13790](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L13790)
+Defined in: [WAProto/index.d.ts:13790](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L13790)
 
 EmbeddedContent embeddedMusic.
 
@@ -74,7 +74,7 @@ EmbeddedContent embeddedMusic.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:13863](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L13863)
+Defined in: [WAProto/index.d.ts:13863](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L13863)
 
 Converts this EmbeddedContent to JSON.
 
@@ -90,7 +90,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`EmbeddedContent`](EmbeddedContent.md)
 
-Defined in: [WAProto/index.d.ts:13800](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L13800)
+Defined in: [WAProto/index.d.ts:13800](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L13800)
 
 Creates a new EmbeddedContent instance using the specified properties.
 
@@ -114,7 +114,7 @@ EmbeddedContent instance
 
 > `static` **decode**(`reader`, `length`?): [`EmbeddedContent`](EmbeddedContent.md)
 
-Defined in: [WAProto/index.d.ts:13826](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L13826)
+Defined in: [WAProto/index.d.ts:13826](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L13826)
 
 Decodes an EmbeddedContent message from the specified reader or buffer.
 
@@ -152,7 +152,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`EmbeddedContent`](EmbeddedContent.md)
 
-Defined in: [WAProto/index.d.ts:13835](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L13835)
+Defined in: [WAProto/index.d.ts:13835](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L13835)
 
 Decodes an EmbeddedContent message from the specified reader or buffer, length delimited.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:13808](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L13808)
+Defined in: [WAProto/index.d.ts:13808](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L13808)
 
 Encodes the specified EmbeddedContent message. Does not implicitly [verify](EmbeddedContent.md#verify) messages.
 
@@ -214,7 +214,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:13816](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L13816)
+Defined in: [WAProto/index.d.ts:13816](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L13816)
 
 Encodes the specified EmbeddedContent message, length delimited. Does not implicitly [verify](EmbeddedContent.md#verify) messages.
 
@@ -244,7 +244,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`EmbeddedContent`](EmbeddedContent.md)
 
-Defined in: [WAProto/index.d.ts:13849](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L13849)
+Defined in: [WAProto/index.d.ts:13849](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L13849)
 
 Creates an EmbeddedContent message from a plain object. Also converts values to their respective internal types.
 
@@ -266,7 +266,7 @@ EmbeddedContent
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:13870](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L13870)
+Defined in: [WAProto/index.d.ts:13870](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L13870)
 
 Gets the default type url for EmbeddedContent
 
@@ -290,7 +290,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:13857](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L13857)
+Defined in: [WAProto/index.d.ts:13857](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L13857)
 
 Creates a plain object from an EmbeddedContent message. Also converts values to other types if specified.
 
@@ -320,7 +320,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13842](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L13842)
+Defined in: [WAProto/index.d.ts:13842](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L13842)
 
 Verifies an EmbeddedContent message.
 

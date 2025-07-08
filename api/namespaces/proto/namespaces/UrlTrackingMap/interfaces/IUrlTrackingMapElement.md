@@ -1,6 +1,6 @@
 # Interface: IUrlTrackingMapElement
 
-Defined in: [WAProto/index.d.ts:51359](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L51359)
+Defined in: [WAProto/index.d.ts:51359](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L51359)
 
 Properties of an UrlTrackingMapElement.
 
@@ -10,7 +10,7 @@ Properties of an UrlTrackingMapElement.
 
 > `optional` **cardIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:51371](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L51371)
+Defined in: [WAProto/index.d.ts:51371](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L51371)
 
 UrlTrackingMapElement cardIndex
 
@@ -20,7 +20,7 @@ UrlTrackingMapElement cardIndex
 
 > `optional` **consentedUsersUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:51368](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L51368)
+Defined in: [WAProto/index.d.ts:51368](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L51368)
 
 UrlTrackingMapElement consentedUsersUrl
 
@@ -30,7 +30,7 @@ UrlTrackingMapElement consentedUsersUrl
 
 > `optional` **originalUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:51362](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L51362)
+Defined in: [WAProto/index.d.ts:51362](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L51362)
 
 UrlTrackingMapElement originalUrl
 
@@ -40,6 +40,6 @@ UrlTrackingMapElement originalUrl
 
 > `optional` **unconsentedUsersUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:51365](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L51365)
+Defined in: [WAProto/index.d.ts:51365](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L51365)
 
 UrlTrackingMapElement unconsentedUsersUrl

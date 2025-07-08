@@ -1,6 +1,6 @@
 # Enumeration: Type
 
-Defined in: [WAProto/index.d.ts:38580](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L38580)
+Defined in: [WAProto/index.d.ts:38580](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38580)
 
 Type enum.
 
@@ -10,7 +10,7 @@ Type enum.
 
 > **DEFAULT**: `1`
 
-Defined in: [WAProto/index.d.ts:38582](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L38582)
+Defined in: [WAProto/index.d.ts:38582](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38582)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:38582](https://github.com/Fokusdotid/bail/blob/d
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:38581](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L38581)
+Defined in: [WAProto/index.d.ts:38581](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38581)

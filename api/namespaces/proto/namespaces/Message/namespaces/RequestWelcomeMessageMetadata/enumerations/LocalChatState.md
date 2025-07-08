@@ -1,6 +1,6 @@
 # Enumeration: LocalChatState
 
-Defined in: [WAProto/index.d.ts:33279](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33279)
+Defined in: [WAProto/index.d.ts:33279](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L33279)
 
 LocalChatState enum.
 
@@ -10,7 +10,7 @@ LocalChatState enum.
 
 > **EMPTY**: `0`
 
-Defined in: [WAProto/index.d.ts:33280](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33280)
+Defined in: [WAProto/index.d.ts:33280](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L33280)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:33280](https://github.com/Fokusdotid/bail/blob/d
 
 > **NON\_EMPTY**: `1`
 
-Defined in: [WAProto/index.d.ts:33281](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33281)
+Defined in: [WAProto/index.d.ts:33281](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L33281)

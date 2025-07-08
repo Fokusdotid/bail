@@ -1,6 +1,6 @@
 # Class: AIRichResponseReelItem
 
-Defined in: [WAProto/index.d.ts:1248](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1248)
+Defined in: [WAProto/index.d.ts:1248](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1248)
 
 Represents a AIRichResponseReelItem.
 
@@ -14,7 +14,7 @@ Represents a AIRichResponseReelItem.
 
 > **new AIRichResponseReelItem**(`properties`?): [`AIRichResponseReelItem`](AIRichResponseReelItem.md)
 
-Defined in: [WAProto/index.d.ts:1254](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1254)
+Defined in: [WAProto/index.d.ts:1254](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1254)
 
 Constructs a new AIRichResponseReelItem.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **profileIconUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1260](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1260)
+Defined in: [WAProto/index.d.ts:1260](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1260)
 
 AIRichResponseReelItem profileIconUrl.
 
@@ -50,7 +50,7 @@ AIRichResponseReelItem profileIconUrl.
 
 > `optional` **thumbnailUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1263](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1263)
+Defined in: [WAProto/index.d.ts:1263](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1263)
 
 AIRichResponseReelItem thumbnailUrl.
 
@@ -64,7 +64,7 @@ AIRichResponseReelItem thumbnailUrl.
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1257](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1257)
+Defined in: [WAProto/index.d.ts:1257](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1257)
 
 AIRichResponseReelItem title.
 
@@ -78,7 +78,7 @@ AIRichResponseReelItem title.
 
 > `optional` **videoUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1266](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1266)
+Defined in: [WAProto/index.d.ts:1266](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1266)
 
 AIRichResponseReelItem videoUrl.
 
@@ -92,7 +92,7 @@ AIRichResponseReelItem videoUrl.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:1336](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1336)
+Defined in: [WAProto/index.d.ts:1336](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1336)
 
 Converts this AIRichResponseReelItem to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIRichResponseReelItem`](AIRichResponseReelItem.md)
 
-Defined in: [WAProto/index.d.ts:1273](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1273)
+Defined in: [WAProto/index.d.ts:1273](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1273)
 
 Creates a new AIRichResponseReelItem instance using the specified properties.
 
@@ -132,7 +132,7 @@ AIRichResponseReelItem instance
 
 > `static` **decode**(`reader`, `length`?): [`AIRichResponseReelItem`](AIRichResponseReelItem.md)
 
-Defined in: [WAProto/index.d.ts:1299](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1299)
+Defined in: [WAProto/index.d.ts:1299](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1299)
 
 Decodes a AIRichResponseReelItem message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIRichResponseReelItem`](AIRichResponseReelItem.md)
 
-Defined in: [WAProto/index.d.ts:1308](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1308)
+Defined in: [WAProto/index.d.ts:1308](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1308)
 
 Decodes a AIRichResponseReelItem message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:1281](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1281)
+Defined in: [WAProto/index.d.ts:1281](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1281)
 
 Encodes the specified AIRichResponseReelItem message. Does not implicitly [verify](AIRichResponseReelItem.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:1289](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1289)
+Defined in: [WAProto/index.d.ts:1289](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1289)
 
 Encodes the specified AIRichResponseReelItem message, length delimited. Does not implicitly [verify](AIRichResponseReelItem.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIRichResponseReelItem`](AIRichResponseReelItem.md)
 
-Defined in: [WAProto/index.d.ts:1322](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1322)
+Defined in: [WAProto/index.d.ts:1322](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1322)
 
 Creates a AIRichResponseReelItem message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ AIRichResponseReelItem
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:1343](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1343)
+Defined in: [WAProto/index.d.ts:1343](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1343)
 
 Gets the default type url for AIRichResponseReelItem
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:1330](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1330)
+Defined in: [WAProto/index.d.ts:1330](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1330)
 
 Creates a plain object from a AIRichResponseReelItem message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1315](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1315)
+Defined in: [WAProto/index.d.ts:1315](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1315)
 
 Verifies a AIRichResponseReelItem message.
 

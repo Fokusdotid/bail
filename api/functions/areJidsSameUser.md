@@ -2,7 +2,7 @@
 
 > **areJidsSameUser**(`jid1`, `jid2`): `boolean`
 
-Defined in: [src/WABinary/jid-utils.ts:45](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/WABinary/jid-utils.ts#L45)
+Defined in: [src/WABinary/jid-utils.ts:45](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/src/WABinary/jid-utils.ts#L45)
 
 is the jid a user
 

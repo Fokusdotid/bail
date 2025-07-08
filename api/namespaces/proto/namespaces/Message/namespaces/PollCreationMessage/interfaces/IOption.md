@@ -1,6 +1,6 @@
 # Interface: IOption
 
-Defined in: [WAProto/index.d.ts:31434](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L31434)
+Defined in: [WAProto/index.d.ts:31434](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L31434)
 
 Properties of an Option.
 
@@ -10,7 +10,7 @@ Properties of an Option.
 
 > `optional` **optionHash**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:31440](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L31440)
+Defined in: [WAProto/index.d.ts:31440](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L31440)
 
 Option optionHash
 
@@ -20,6 +20,6 @@ Option optionHash
 
 > `optional` **optionName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:31437](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L31437)
+Defined in: [WAProto/index.d.ts:31437](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L31437)
 
 Option optionName

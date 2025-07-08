@@ -2,7 +2,7 @@
 
 > **KeyIndexData**: `object`
 
-Defined in: [src/WAUSync/Protocols/USyncDeviceProtocol.ts:5](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/WAUSync/Protocols/USyncDeviceProtocol.ts#L5)
+Defined in: [src/WAUSync/Protocols/USyncDeviceProtocol.ts:5](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/src/WAUSync/Protocols/USyncDeviceProtocol.ts#L5)
 
 ## Type declaration
 

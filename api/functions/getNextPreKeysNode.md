@@ -2,7 +2,7 @@
 
 > **getNextPreKeysNode**(`state`, `count`): `Promise`\<\{ `node`: [`BinaryNode`](../type-aliases/BinaryNode.md); `update`: `Partial`\<[`AuthenticationCreds`](../type-aliases/AuthenticationCreds.md)\>; \}\>
 
-Defined in: [src/Utils/signal.ts:168](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/Utils/signal.ts#L168)
+Defined in: [src/Utils/signal.ts:168](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/src/Utils/signal.ts#L168)
 
 ## Parameters
 

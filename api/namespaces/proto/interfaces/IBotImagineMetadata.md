@@ -1,6 +1,6 @@
 # Interface: IBotImagineMetadata
 
-Defined in: [WAProto/index.d.ts:3989](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L3989)
+Defined in: [WAProto/index.d.ts:3989](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L3989)
 
 Properties of a BotImagineMetadata.
 
@@ -10,6 +10,6 @@ Properties of a BotImagineMetadata.
 
 > `optional` **imagineType**: `null` \| [`ImagineType`](../namespaces/BotImagineMetadata/enumerations/ImagineType.md)
 
-Defined in: [WAProto/index.d.ts:3992](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L3992)
+Defined in: [WAProto/index.d.ts:3992](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L3992)
 
 BotImagineMetadata imagineType

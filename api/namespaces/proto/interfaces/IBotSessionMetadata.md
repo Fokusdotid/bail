@@ -1,6 +1,6 @@
 # Interface: IBotSessionMetadata
 
-Defined in: [WAProto/index.d.ts:7027](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7027)
+Defined in: [WAProto/index.d.ts:7027](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7027)
 
 Properties of a BotSessionMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotSessionMetadata.
 
 > `optional` **sessionId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7030](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7030)
+Defined in: [WAProto/index.d.ts:7030](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7030)
 
 BotSessionMetadata sessionId
 
@@ -20,6 +20,6 @@ BotSessionMetadata sessionId
 
 > `optional` **sessionSource**: `null` \| [`BotSessionSource`](../enumerations/BotSessionSource.md)
 
-Defined in: [WAProto/index.d.ts:7033](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7033)
+Defined in: [WAProto/index.d.ts:7033](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7033)
 
 BotSessionMetadata sessionSource

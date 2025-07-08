@@ -1,6 +1,6 @@
 # Class: AIRichResponseMapMetadata
 
-Defined in: [WAProto/index.d.ts:2089](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L2089)
+Defined in: [WAProto/index.d.ts:2089](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L2089)
 
 Represents a AIRichResponseMapMetadata.
 
@@ -14,7 +14,7 @@ Represents a AIRichResponseMapMetadata.
 
 > **new AIRichResponseMapMetadata**(`properties`?): [`AIRichResponseMapMetadata`](AIRichResponseMapMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2095](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L2095)
+Defined in: [WAProto/index.d.ts:2095](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L2095)
 
 Constructs a new AIRichResponseMapMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **annotations**: [`IAIRichResponseMapAnnotation`](../namespaces/AIRichResponseMapMetadata/interfaces/IAIRichResponseMapAnnotation.md)[]
 
-Defined in: [WAProto/index.d.ts:2110](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L2110)
+Defined in: [WAProto/index.d.ts:2110](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L2110)
 
 AIRichResponseMapMetadata annotations.
 
@@ -50,7 +50,7 @@ AIRichResponseMapMetadata annotations.
 
 > `optional` **centerLatitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:2098](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L2098)
+Defined in: [WAProto/index.d.ts:2098](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L2098)
 
 AIRichResponseMapMetadata centerLatitude.
 
@@ -64,7 +64,7 @@ AIRichResponseMapMetadata centerLatitude.
 
 > `optional` **centerLongitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:2101](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L2101)
+Defined in: [WAProto/index.d.ts:2101](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L2101)
 
 AIRichResponseMapMetadata centerLongitude.
 
@@ -78,7 +78,7 @@ AIRichResponseMapMetadata centerLongitude.
 
 > `optional` **latitudeDelta**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:2104](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L2104)
+Defined in: [WAProto/index.d.ts:2104](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L2104)
 
 AIRichResponseMapMetadata latitudeDelta.
 
@@ -92,7 +92,7 @@ AIRichResponseMapMetadata latitudeDelta.
 
 > `optional` **longitudeDelta**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:2107](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L2107)
+Defined in: [WAProto/index.d.ts:2107](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L2107)
 
 AIRichResponseMapMetadata longitudeDelta.
 
@@ -106,7 +106,7 @@ AIRichResponseMapMetadata longitudeDelta.
 
 > `optional` **showInfoList**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:2113](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L2113)
+Defined in: [WAProto/index.d.ts:2113](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L2113)
 
 AIRichResponseMapMetadata showInfoList.
 
@@ -120,7 +120,7 @@ AIRichResponseMapMetadata showInfoList.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:2183](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L2183)
+Defined in: [WAProto/index.d.ts:2183](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L2183)
 
 Converts this AIRichResponseMapMetadata to JSON.
 
@@ -136,7 +136,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIRichResponseMapMetadata`](AIRichResponseMapMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2120](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L2120)
+Defined in: [WAProto/index.d.ts:2120](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L2120)
 
 Creates a new AIRichResponseMapMetadata instance using the specified properties.
 
@@ -160,7 +160,7 @@ AIRichResponseMapMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`AIRichResponseMapMetadata`](AIRichResponseMapMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2146](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L2146)
+Defined in: [WAProto/index.d.ts:2146](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L2146)
 
 Decodes a AIRichResponseMapMetadata message from the specified reader or buffer.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIRichResponseMapMetadata`](AIRichResponseMapMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2155](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L2155)
+Defined in: [WAProto/index.d.ts:2155](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L2155)
 
 Decodes a AIRichResponseMapMetadata message from the specified reader or buffer, length delimited.
 
@@ -230,7 +230,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2128](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L2128)
+Defined in: [WAProto/index.d.ts:2128](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L2128)
 
 Encodes the specified AIRichResponseMapMetadata message. Does not implicitly [verify](AIRichResponseMapMetadata.md#verify) messages.
 
@@ -260,7 +260,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2136](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L2136)
+Defined in: [WAProto/index.d.ts:2136](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L2136)
 
 Encodes the specified AIRichResponseMapMetadata message, length delimited. Does not implicitly [verify](AIRichResponseMapMetadata.md#verify) messages.
 
@@ -290,7 +290,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIRichResponseMapMetadata`](AIRichResponseMapMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2169](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L2169)
+Defined in: [WAProto/index.d.ts:2169](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L2169)
 
 Creates a AIRichResponseMapMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -312,7 +312,7 @@ AIRichResponseMapMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:2190](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L2190)
+Defined in: [WAProto/index.d.ts:2190](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L2190)
 
 Gets the default type url for AIRichResponseMapMetadata
 
@@ -336,7 +336,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:2177](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L2177)
+Defined in: [WAProto/index.d.ts:2177](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L2177)
 
 Creates a plain object from a AIRichResponseMapMetadata message. Also converts values to other types if specified.
 
@@ -366,7 +366,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2162](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L2162)
+Defined in: [WAProto/index.d.ts:2162](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L2162)
 
 Verifies a AIRichResponseMapMetadata message.
 

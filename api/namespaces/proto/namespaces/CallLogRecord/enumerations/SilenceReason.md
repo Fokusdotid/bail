@@ -1,6 +1,6 @@
 # Enumeration: SilenceReason
 
-Defined in: [WAProto/index.d.ts:7802](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7802)
+Defined in: [WAProto/index.d.ts:7802](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7802)
 
 SilenceReason enum.
 
@@ -10,7 +10,7 @@ SilenceReason enum.
 
 > **LIGHTWEIGHT**: `3`
 
-Defined in: [WAProto/index.d.ts:7806](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7806)
+Defined in: [WAProto/index.d.ts:7806](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7806)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:7806](https://github.com/Fokusdotid/bail/blob/da
 
 > **NONE**: `0`
 
-Defined in: [WAProto/index.d.ts:7803](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7803)
+Defined in: [WAProto/index.d.ts:7803](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7803)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:7803](https://github.com/Fokusdotid/bail/blob/da
 
 > **PRIVACY**: `2`
 
-Defined in: [WAProto/index.d.ts:7805](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7805)
+Defined in: [WAProto/index.d.ts:7805](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7805)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:7805](https://github.com/Fokusdotid/bail/blob/da
 
 > **SCHEDULED**: `1`
 
-Defined in: [WAProto/index.d.ts:7804](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L7804)
+Defined in: [WAProto/index.d.ts:7804](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L7804)

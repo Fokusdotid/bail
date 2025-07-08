@@ -1,6 +1,6 @@
 # Interface: IMerchantPaymentPartnerAction
 
-Defined in: [WAProto/index.d.ts:46703](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L46703)
+Defined in: [WAProto/index.d.ts:46703](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L46703)
 
 Properties of a MerchantPaymentPartnerAction.
 
@@ -10,7 +10,7 @@ Properties of a MerchantPaymentPartnerAction.
 
 > **country**: `string`
 
-Defined in: [WAProto/index.d.ts:46709](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L46709)
+Defined in: [WAProto/index.d.ts:46709](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L46709)
 
 MerchantPaymentPartnerAction country
 
@@ -20,7 +20,7 @@ MerchantPaymentPartnerAction country
 
 > `optional` **credentialId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46715](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L46715)
+Defined in: [WAProto/index.d.ts:46715](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L46715)
 
 MerchantPaymentPartnerAction credentialId
 
@@ -30,7 +30,7 @@ MerchantPaymentPartnerAction credentialId
 
 > `optional` **gatewayName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46712](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L46712)
+Defined in: [WAProto/index.d.ts:46712](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L46712)
 
 MerchantPaymentPartnerAction gatewayName
 
@@ -40,6 +40,6 @@ MerchantPaymentPartnerAction gatewayName
 
 > **status**: [`Status`](../namespaces/MerchantPaymentPartnerAction/enumerations/Status.md)
 
-Defined in: [WAProto/index.d.ts:46706](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L46706)
+Defined in: [WAProto/index.d.ts:46706](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L46706)
 
 MerchantPaymentPartnerAction status

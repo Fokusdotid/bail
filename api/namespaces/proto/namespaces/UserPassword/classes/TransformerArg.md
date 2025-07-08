@@ -1,6 +1,6 @@
 # Class: TransformerArg
 
-Defined in: [WAProto/index.d.ts:51615](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L51615)
+Defined in: [WAProto/index.d.ts:51615](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L51615)
 
 Represents a TransformerArg.
 
@@ -14,7 +14,7 @@ Represents a TransformerArg.
 
 > **new TransformerArg**(`properties`?): [`TransformerArg`](TransformerArg.md)
 
-Defined in: [WAProto/index.d.ts:51621](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L51621)
+Defined in: [WAProto/index.d.ts:51621](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L51621)
 
 Constructs a new TransformerArg.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **key**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:51624](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L51624)
+Defined in: [WAProto/index.d.ts:51624](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L51624)
 
 TransformerArg key.
 
@@ -50,7 +50,7 @@ TransformerArg key.
 
 > `optional` **value**: `null` \| [`IValue`](../namespaces/TransformerArg/interfaces/IValue.md)
 
-Defined in: [WAProto/index.d.ts:51627](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L51627)
+Defined in: [WAProto/index.d.ts:51627](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L51627)
 
 TransformerArg value.
 
@@ -64,7 +64,7 @@ TransformerArg value.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:51697](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L51697)
+Defined in: [WAProto/index.d.ts:51697](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L51697)
 
 Converts this TransformerArg to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`TransformerArg`](TransformerArg.md)
 
-Defined in: [WAProto/index.d.ts:51634](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L51634)
+Defined in: [WAProto/index.d.ts:51634](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L51634)
 
 Creates a new TransformerArg instance using the specified properties.
 
@@ -104,7 +104,7 @@ TransformerArg instance
 
 > `static` **decode**(`reader`, `length`?): [`TransformerArg`](TransformerArg.md)
 
-Defined in: [WAProto/index.d.ts:51660](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L51660)
+Defined in: [WAProto/index.d.ts:51660](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L51660)
 
 Decodes a TransformerArg message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`TransformerArg`](TransformerArg.md)
 
-Defined in: [WAProto/index.d.ts:51669](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L51669)
+Defined in: [WAProto/index.d.ts:51669](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L51669)
 
 Decodes a TransformerArg message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:51642](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L51642)
+Defined in: [WAProto/index.d.ts:51642](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L51642)
 
 Encodes the specified TransformerArg message. Does not implicitly [verify](TransformerArg.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:51650](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L51650)
+Defined in: [WAProto/index.d.ts:51650](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L51650)
 
 Encodes the specified TransformerArg message, length delimited. Does not implicitly [verify](TransformerArg.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`TransformerArg`](TransformerArg.md)
 
-Defined in: [WAProto/index.d.ts:51683](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L51683)
+Defined in: [WAProto/index.d.ts:51683](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L51683)
 
 Creates a TransformerArg message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ TransformerArg
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:51704](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L51704)
+Defined in: [WAProto/index.d.ts:51704](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L51704)
 
 Gets the default type url for TransformerArg
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:51691](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L51691)
+Defined in: [WAProto/index.d.ts:51691](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L51691)
 
 Creates a plain object from a TransformerArg message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:51676](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L51676)
+Defined in: [WAProto/index.d.ts:51676](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L51676)
 
 Verifies a TransformerArg message.
 

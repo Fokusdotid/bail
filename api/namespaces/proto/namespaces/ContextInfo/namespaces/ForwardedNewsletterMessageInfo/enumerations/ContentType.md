@@ -1,6 +1,6 @@
 # Enumeration: ContentType
 
-Defined in: [WAProto/index.d.ts:12172](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L12172)
+Defined in: [WAProto/index.d.ts:12172](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L12172)
 
 ContentType enum.
 
@@ -10,7 +10,7 @@ ContentType enum.
 
 > **LINK\_CARD**: `3`
 
-Defined in: [WAProto/index.d.ts:12175](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L12175)
+Defined in: [WAProto/index.d.ts:12175](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L12175)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:12175](https://github.com/Fokusdotid/bail/blob/d
 
 > **UPDATE**: `1`
 
-Defined in: [WAProto/index.d.ts:12173](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L12173)
+Defined in: [WAProto/index.d.ts:12173](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L12173)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:12173](https://github.com/Fokusdotid/bail/blob/d
 
 > **UPDATE\_CARD**: `2`
 
-Defined in: [WAProto/index.d.ts:12174](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L12174)
+Defined in: [WAProto/index.d.ts:12174](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L12174)

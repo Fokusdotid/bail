@@ -1,6 +1,6 @@
 # Interface: IWallpaperSettings
 
-Defined in: [WAProto/index.d.ts:52178](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L52178)
+Defined in: [WAProto/index.d.ts:52178](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L52178)
 
 Properties of a WallpaperSettings.
 
@@ -10,7 +10,7 @@ Properties of a WallpaperSettings.
 
 > `optional` **filename**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:52181](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L52181)
+Defined in: [WAProto/index.d.ts:52181](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L52181)
 
 WallpaperSettings filename
 
@@ -20,6 +20,6 @@ WallpaperSettings filename
 
 > `optional` **opacity**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:52184](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L52184)
+Defined in: [WAProto/index.d.ts:52184](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L52184)
 
 WallpaperSettings opacity

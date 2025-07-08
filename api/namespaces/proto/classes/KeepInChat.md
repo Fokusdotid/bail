@@ -1,6 +1,6 @@
 # Class: KeepInChat
 
-Defined in: [WAProto/index.d.ts:16808](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16808)
+Defined in: [WAProto/index.d.ts:16808](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16808)
 
 Represents a KeepInChat.
 
@@ -14,7 +14,7 @@ Represents a KeepInChat.
 
 > **new KeepInChat**(`properties`?): [`KeepInChat`](KeepInChat.md)
 
-Defined in: [WAProto/index.d.ts:16814](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16814)
+Defined in: [WAProto/index.d.ts:16814](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16814)
 
 Constructs a new KeepInChat.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **clientTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:16829](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16829)
+Defined in: [WAProto/index.d.ts:16829](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16829)
 
 KeepInChat clientTimestampMs.
 
@@ -50,7 +50,7 @@ KeepInChat clientTimestampMs.
 
 > `optional` **deviceJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16826](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16826)
+Defined in: [WAProto/index.d.ts:16826](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16826)
 
 KeepInChat deviceJid.
 
@@ -64,7 +64,7 @@ KeepInChat deviceJid.
 
 > `optional` **keepType**: `null` \| [`KeepType`](../enumerations/KeepType.md)
 
-Defined in: [WAProto/index.d.ts:16817](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16817)
+Defined in: [WAProto/index.d.ts:16817](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16817)
 
 KeepInChat keepType.
 
@@ -78,7 +78,7 @@ KeepInChat keepType.
 
 > `optional` **key**: `null` \| [`IMessageKey`](../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:16823](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16823)
+Defined in: [WAProto/index.d.ts:16823](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16823)
 
 KeepInChat key.
 
@@ -92,7 +92,7 @@ KeepInChat key.
 
 > `optional` **serverTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:16820](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16820)
+Defined in: [WAProto/index.d.ts:16820](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16820)
 
 KeepInChat serverTimestamp.
 
@@ -106,7 +106,7 @@ KeepInChat serverTimestamp.
 
 > `optional` **serverTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:16832](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16832)
+Defined in: [WAProto/index.d.ts:16832](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16832)
 
 KeepInChat serverTimestampMs.
 
@@ -120,7 +120,7 @@ KeepInChat serverTimestampMs.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:16902](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16902)
+Defined in: [WAProto/index.d.ts:16902](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16902)
 
 Converts this KeepInChat to JSON.
 
@@ -136,7 +136,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`KeepInChat`](KeepInChat.md)
 
-Defined in: [WAProto/index.d.ts:16839](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16839)
+Defined in: [WAProto/index.d.ts:16839](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16839)
 
 Creates a new KeepInChat instance using the specified properties.
 
@@ -160,7 +160,7 @@ KeepInChat instance
 
 > `static` **decode**(`reader`, `length`?): [`KeepInChat`](KeepInChat.md)
 
-Defined in: [WAProto/index.d.ts:16865](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16865)
+Defined in: [WAProto/index.d.ts:16865](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16865)
 
 Decodes a KeepInChat message from the specified reader or buffer.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`KeepInChat`](KeepInChat.md)
 
-Defined in: [WAProto/index.d.ts:16874](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16874)
+Defined in: [WAProto/index.d.ts:16874](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16874)
 
 Decodes a KeepInChat message from the specified reader or buffer, length delimited.
 
@@ -230,7 +230,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:16847](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16847)
+Defined in: [WAProto/index.d.ts:16847](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16847)
 
 Encodes the specified KeepInChat message. Does not implicitly [verify](KeepInChat.md#verify) messages.
 
@@ -260,7 +260,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:16855](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16855)
+Defined in: [WAProto/index.d.ts:16855](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16855)
 
 Encodes the specified KeepInChat message, length delimited. Does not implicitly [verify](KeepInChat.md#verify) messages.
 
@@ -290,7 +290,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`KeepInChat`](KeepInChat.md)
 
-Defined in: [WAProto/index.d.ts:16888](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16888)
+Defined in: [WAProto/index.d.ts:16888](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16888)
 
 Creates a KeepInChat message from a plain object. Also converts values to their respective internal types.
 
@@ -312,7 +312,7 @@ KeepInChat
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:16909](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16909)
+Defined in: [WAProto/index.d.ts:16909](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16909)
 
 Gets the default type url for KeepInChat
 
@@ -336,7 +336,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:16896](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16896)
+Defined in: [WAProto/index.d.ts:16896](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16896)
 
 Creates a plain object from a KeepInChat message. Also converts values to other types if specified.
 
@@ -366,7 +366,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16881](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L16881)
+Defined in: [WAProto/index.d.ts:16881](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L16881)
 
 Verifies a KeepInChat message.
 

@@ -1,6 +1,6 @@
 # Class: ProloguePayload
 
-Defined in: [WAProto/index.d.ts:40199](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40199)
+Defined in: [WAProto/index.d.ts:40199](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L40199)
 
 Represents a ProloguePayload.
 
@@ -14,7 +14,7 @@ Represents a ProloguePayload.
 
 > **new ProloguePayload**(`properties`?): [`ProloguePayload`](ProloguePayload.md)
 
-Defined in: [WAProto/index.d.ts:40205](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40205)
+Defined in: [WAProto/index.d.ts:40205](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L40205)
 
 Constructs a new ProloguePayload.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **commitment**: `null` \| [`ICompanionCommitment`](../interfaces/ICompanionCommitment.md)
 
-Defined in: [WAProto/index.d.ts:40211](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40211)
+Defined in: [WAProto/index.d.ts:40211](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L40211)
 
 ProloguePayload commitment.
 
@@ -50,7 +50,7 @@ ProloguePayload commitment.
 
 > `optional` **companionEphemeralIdentity**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:40208](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40208)
+Defined in: [WAProto/index.d.ts:40208](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L40208)
 
 ProloguePayload companionEphemeralIdentity.
 
@@ -64,7 +64,7 @@ ProloguePayload companionEphemeralIdentity.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:40281](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40281)
+Defined in: [WAProto/index.d.ts:40281](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L40281)
 
 Converts this ProloguePayload to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ProloguePayload`](ProloguePayload.md)
 
-Defined in: [WAProto/index.d.ts:40218](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40218)
+Defined in: [WAProto/index.d.ts:40218](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L40218)
 
 Creates a new ProloguePayload instance using the specified properties.
 
@@ -104,7 +104,7 @@ ProloguePayload instance
 
 > `static` **decode**(`reader`, `length`?): [`ProloguePayload`](ProloguePayload.md)
 
-Defined in: [WAProto/index.d.ts:40244](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40244)
+Defined in: [WAProto/index.d.ts:40244](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L40244)
 
 Decodes a ProloguePayload message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ProloguePayload`](ProloguePayload.md)
 
-Defined in: [WAProto/index.d.ts:40253](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40253)
+Defined in: [WAProto/index.d.ts:40253](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L40253)
 
 Decodes a ProloguePayload message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:40226](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40226)
+Defined in: [WAProto/index.d.ts:40226](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L40226)
 
 Encodes the specified ProloguePayload message. Does not implicitly [verify](ProloguePayload.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:40234](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40234)
+Defined in: [WAProto/index.d.ts:40234](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L40234)
 
 Encodes the specified ProloguePayload message, length delimited. Does not implicitly [verify](ProloguePayload.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ProloguePayload`](ProloguePayload.md)
 
-Defined in: [WAProto/index.d.ts:40267](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40267)
+Defined in: [WAProto/index.d.ts:40267](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L40267)
 
 Creates a ProloguePayload message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ ProloguePayload
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:40288](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40288)
+Defined in: [WAProto/index.d.ts:40288](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L40288)
 
 Gets the default type url for ProloguePayload
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:40275](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40275)
+Defined in: [WAProto/index.d.ts:40275](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L40275)
 
 Creates a plain object from a ProloguePayload message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:40260](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40260)
+Defined in: [WAProto/index.d.ts:40260](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L40260)
 
 Verifies a ProloguePayload message.
 

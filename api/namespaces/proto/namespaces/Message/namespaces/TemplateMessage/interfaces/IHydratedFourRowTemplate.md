@@ -1,6 +1,6 @@
 # Interface: IHydratedFourRowTemplate
 
-Defined in: [WAProto/index.d.ts:35048](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L35048)
+Defined in: [WAProto/index.d.ts:35048](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L35048)
 
 Properties of a HydratedFourRowTemplate.
 
@@ -10,7 +10,7 @@ Properties of a HydratedFourRowTemplate.
 
 > `optional` **documentMessage**: `null` \| [`IDocumentMessage`](../../../interfaces/IDocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:35066](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L35066)
+Defined in: [WAProto/index.d.ts:35066](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L35066)
 
 HydratedFourRowTemplate documentMessage
 
@@ -20,7 +20,7 @@ HydratedFourRowTemplate documentMessage
 
 > `optional` **hydratedButtons**: `null` \| [`IHydratedTemplateButton`](../../../../../interfaces/IHydratedTemplateButton.md)[]
 
-Defined in: [WAProto/index.d.ts:35057](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L35057)
+Defined in: [WAProto/index.d.ts:35057](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L35057)
 
 HydratedFourRowTemplate hydratedButtons
 
@@ -30,7 +30,7 @@ HydratedFourRowTemplate hydratedButtons
 
 > `optional` **hydratedContentText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35051](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L35051)
+Defined in: [WAProto/index.d.ts:35051](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L35051)
 
 HydratedFourRowTemplate hydratedContentText
 
@@ -40,7 +40,7 @@ HydratedFourRowTemplate hydratedContentText
 
 > `optional` **hydratedFooterText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35054](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L35054)
+Defined in: [WAProto/index.d.ts:35054](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L35054)
 
 HydratedFourRowTemplate hydratedFooterText
 
@@ -50,7 +50,7 @@ HydratedFourRowTemplate hydratedFooterText
 
 > `optional` **hydratedTitleText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35069](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L35069)
+Defined in: [WAProto/index.d.ts:35069](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L35069)
 
 HydratedFourRowTemplate hydratedTitleText
 
@@ -60,7 +60,7 @@ HydratedFourRowTemplate hydratedTitleText
 
 > `optional` **imageMessage**: `null` \| [`IImageMessage`](../../../interfaces/IImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:35072](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L35072)
+Defined in: [WAProto/index.d.ts:35072](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L35072)
 
 HydratedFourRowTemplate imageMessage
 
@@ -70,7 +70,7 @@ HydratedFourRowTemplate imageMessage
 
 > `optional` **locationMessage**: `null` \| [`ILocationMessage`](../../../interfaces/ILocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:35078](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L35078)
+Defined in: [WAProto/index.d.ts:35078](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L35078)
 
 HydratedFourRowTemplate locationMessage
 
@@ -80,7 +80,7 @@ HydratedFourRowTemplate locationMessage
 
 > `optional` **maskLinkedDevices**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:35063](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L35063)
+Defined in: [WAProto/index.d.ts:35063](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L35063)
 
 HydratedFourRowTemplate maskLinkedDevices
 
@@ -90,7 +90,7 @@ HydratedFourRowTemplate maskLinkedDevices
 
 > `optional` **templateId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35060](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L35060)
+Defined in: [WAProto/index.d.ts:35060](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L35060)
 
 HydratedFourRowTemplate templateId
 
@@ -100,6 +100,6 @@ HydratedFourRowTemplate templateId
 
 > `optional` **videoMessage**: `null` \| [`IVideoMessage`](../../../interfaces/IVideoMessage.md)
 
-Defined in: [WAProto/index.d.ts:35075](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L35075)
+Defined in: [WAProto/index.d.ts:35075](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L35075)
 
 HydratedFourRowTemplate videoMessage

@@ -1,6 +1,6 @@
 # Class: MessageSecretMessage
 
-Defined in: [WAProto/index.d.ts:36261](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L36261)
+Defined in: [WAProto/index.d.ts:36261](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L36261)
 
 Represents a MessageSecretMessage.
 
@@ -14,7 +14,7 @@ Represents a MessageSecretMessage.
 
 > **new MessageSecretMessage**(`properties`?): [`MessageSecretMessage`](MessageSecretMessage.md)
 
-Defined in: [WAProto/index.d.ts:36267](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L36267)
+Defined in: [WAProto/index.d.ts:36267](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L36267)
 
 Constructs a new MessageSecretMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **encIv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:36273](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L36273)
+Defined in: [WAProto/index.d.ts:36273](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L36273)
 
 MessageSecretMessage encIv.
 
@@ -50,7 +50,7 @@ MessageSecretMessage encIv.
 
 > `optional` **encPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:36276](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L36276)
+Defined in: [WAProto/index.d.ts:36276](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L36276)
 
 MessageSecretMessage encPayload.
 
@@ -64,7 +64,7 @@ MessageSecretMessage encPayload.
 
 > `optional` **version**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36270](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L36270)
+Defined in: [WAProto/index.d.ts:36270](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L36270)
 
 MessageSecretMessage version.
 
@@ -78,7 +78,7 @@ MessageSecretMessage version.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:36346](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L36346)
+Defined in: [WAProto/index.d.ts:36346](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L36346)
 
 Converts this MessageSecretMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`MessageSecretMessage`](MessageSecretMessage.md)
 
-Defined in: [WAProto/index.d.ts:36283](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L36283)
+Defined in: [WAProto/index.d.ts:36283](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L36283)
 
 Creates a new MessageSecretMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ MessageSecretMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`MessageSecretMessage`](MessageSecretMessage.md)
 
-Defined in: [WAProto/index.d.ts:36309](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L36309)
+Defined in: [WAProto/index.d.ts:36309](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L36309)
 
 Decodes a MessageSecretMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`MessageSecretMessage`](MessageSecretMessage.md)
 
-Defined in: [WAProto/index.d.ts:36318](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L36318)
+Defined in: [WAProto/index.d.ts:36318](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L36318)
 
 Decodes a MessageSecretMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:36291](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L36291)
+Defined in: [WAProto/index.d.ts:36291](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L36291)
 
 Encodes the specified MessageSecretMessage message. Does not implicitly [verify](MessageSecretMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:36299](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L36299)
+Defined in: [WAProto/index.d.ts:36299](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L36299)
 
 Encodes the specified MessageSecretMessage message, length delimited. Does not implicitly [verify](MessageSecretMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`MessageSecretMessage`](MessageSecretMessage.md)
 
-Defined in: [WAProto/index.d.ts:36332](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L36332)
+Defined in: [WAProto/index.d.ts:36332](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L36332)
 
 Creates a MessageSecretMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ MessageSecretMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:36353](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L36353)
+Defined in: [WAProto/index.d.ts:36353](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L36353)
 
 Gets the default type url for MessageSecretMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:36340](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L36340)
+Defined in: [WAProto/index.d.ts:36340](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L36340)
 
 Creates a plain object from a MessageSecretMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36325](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L36325)
+Defined in: [WAProto/index.d.ts:36325](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L36325)
 
 Verifies a MessageSecretMessage message.
 

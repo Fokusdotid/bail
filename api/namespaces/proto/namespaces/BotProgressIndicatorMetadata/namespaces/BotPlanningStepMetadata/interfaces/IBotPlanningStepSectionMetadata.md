@@ -1,6 +1,6 @@
 # Interface: IBotPlanningStepSectionMetadata
 
-Defined in: [WAProto/index.d.ts:6026](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L6026)
+Defined in: [WAProto/index.d.ts:6026](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L6026)
 
 Properties of a BotPlanningStepSectionMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotPlanningStepSectionMetadata.
 
 > `optional` **sectionBody**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:6032](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L6032)
+Defined in: [WAProto/index.d.ts:6032](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L6032)
 
 BotPlanningStepSectionMetadata sectionBody
 
@@ -20,7 +20,7 @@ BotPlanningStepSectionMetadata sectionBody
 
 > `optional` **sectionTitle**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:6029](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L6029)
+Defined in: [WAProto/index.d.ts:6029](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L6029)
 
 BotPlanningStepSectionMetadata sectionTitle
 
@@ -30,6 +30,6 @@ BotPlanningStepSectionMetadata sectionTitle
 
 > `optional` **sourcesMetadata**: `null` \| [`IBotPlanningSearchSourceMetadata`](IBotPlanningSearchSourceMetadata.md)[]
 
-Defined in: [WAProto/index.d.ts:6035](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L6035)
+Defined in: [WAProto/index.d.ts:6035](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L6035)
 
 BotPlanningStepSectionMetadata sourcesMetadata
