@@ -1,6 +1,6 @@
 # Interface: IBotMemuMetadata
 
-Defined in: [WAProto/index.d.ts:4667](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L4667)
+Defined in: [WAProto/index.d.ts:4667](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L4667)
 
 Properties of a BotMemuMetadata.
 
@@ -10,6 +10,6 @@ Properties of a BotMemuMetadata.
 
 > `optional` **faceImages**: `null` \| [`IBotMediaMetadata`](IBotMediaMetadata.md)[]
 
-Defined in: [WAProto/index.d.ts:4670](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L4670)
+Defined in: [WAProto/index.d.ts:4670](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L4670)
 
 BotMemuMetadata faceImages

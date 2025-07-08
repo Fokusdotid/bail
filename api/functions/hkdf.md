@@ -2,7 +2,7 @@
 
 > **hkdf**(`buffer`, `expandedLength`, `info`): `Promise`\<`Buffer`\<`ArrayBufferLike`\>\>
 
-Defined in: [src/Utils/crypto.ts:126](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/src/Utils/crypto.ts#L126)
+Defined in: [src/Utils/crypto.ts:126](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/src/Utils/crypto.ts#L126)
 
 ## Parameters
 

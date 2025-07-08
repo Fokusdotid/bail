@@ -1,6 +1,6 @@
 # Class: SenderSigningKey
 
-Defined in: [WAProto/index.d.ts:41588](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L41588)
+Defined in: [WAProto/index.d.ts:41588](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L41588)
 
 Represents a SenderSigningKey.
 
@@ -14,7 +14,7 @@ Represents a SenderSigningKey.
 
 > **new SenderSigningKey**(`properties`?): [`SenderSigningKey`](SenderSigningKey.md)
 
-Defined in: [WAProto/index.d.ts:41594](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L41594)
+Defined in: [WAProto/index.d.ts:41594](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L41594)
 
 Constructs a new SenderSigningKey.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **private**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:41600](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L41600)
+Defined in: [WAProto/index.d.ts:41600](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L41600)
 
 SenderSigningKey private.
 
@@ -50,7 +50,7 @@ SenderSigningKey private.
 
 > `optional` **public**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:41597](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L41597)
+Defined in: [WAProto/index.d.ts:41597](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L41597)
 
 SenderSigningKey public.
 
@@ -64,7 +64,7 @@ SenderSigningKey public.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:41670](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L41670)
+Defined in: [WAProto/index.d.ts:41670](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L41670)
 
 Converts this SenderSigningKey to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SenderSigningKey`](SenderSigningKey.md)
 
-Defined in: [WAProto/index.d.ts:41607](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L41607)
+Defined in: [WAProto/index.d.ts:41607](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L41607)
 
 Creates a new SenderSigningKey instance using the specified properties.
 
@@ -104,7 +104,7 @@ SenderSigningKey instance
 
 > `static` **decode**(`reader`, `length`?): [`SenderSigningKey`](SenderSigningKey.md)
 
-Defined in: [WAProto/index.d.ts:41633](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L41633)
+Defined in: [WAProto/index.d.ts:41633](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L41633)
 
 Decodes a SenderSigningKey message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SenderSigningKey`](SenderSigningKey.md)
 
-Defined in: [WAProto/index.d.ts:41642](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L41642)
+Defined in: [WAProto/index.d.ts:41642](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L41642)
 
 Decodes a SenderSigningKey message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41615](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L41615)
+Defined in: [WAProto/index.d.ts:41615](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L41615)
 
 Encodes the specified SenderSigningKey message. Does not implicitly [verify](SenderSigningKey.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41623](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L41623)
+Defined in: [WAProto/index.d.ts:41623](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L41623)
 
 Encodes the specified SenderSigningKey message, length delimited. Does not implicitly [verify](SenderSigningKey.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SenderSigningKey`](SenderSigningKey.md)
 
-Defined in: [WAProto/index.d.ts:41656](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L41656)
+Defined in: [WAProto/index.d.ts:41656](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L41656)
 
 Creates a SenderSigningKey message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ SenderSigningKey
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:41677](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L41677)
+Defined in: [WAProto/index.d.ts:41677](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L41677)
 
 Gets the default type url for SenderSigningKey
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:41664](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L41664)
+Defined in: [WAProto/index.d.ts:41664](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L41664)
 
 Creates a plain object from a SenderSigningKey message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:41649](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L41649)
+Defined in: [WAProto/index.d.ts:41649](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L41649)
 
 Verifies a SenderSigningKey message.
 

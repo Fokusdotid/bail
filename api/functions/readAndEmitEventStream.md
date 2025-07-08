@@ -2,7 +2,7 @@
 
 > **readAndEmitEventStream**(`filename`, `delayIntervalMs`): `object`
 
-Defined in: [src/Utils/baileys-event-stream.ts:36](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/src/Utils/baileys-event-stream.ts#L36)
+Defined in: [src/Utils/baileys-event-stream.ts:36](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/src/Utils/baileys-event-stream.ts#L36)
 
 Read event file and emit events from there
 

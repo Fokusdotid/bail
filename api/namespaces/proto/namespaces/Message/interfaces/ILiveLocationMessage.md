@@ -1,6 +1,6 @@
 # Interface: ILiveLocationMessage
 
-Defined in: [WAProto/index.d.ts:27702](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L27702)
+Defined in: [WAProto/index.d.ts:27702](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L27702)
 
 Properties of a LiveLocationMessage.
 
@@ -10,7 +10,7 @@ Properties of a LiveLocationMessage.
 
 > `optional` **accuracyInMeters**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:27711](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L27711)
+Defined in: [WAProto/index.d.ts:27711](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L27711)
 
 LiveLocationMessage accuracyInMeters
 
@@ -20,7 +20,7 @@ LiveLocationMessage accuracyInMeters
 
 > `optional` **caption**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27720](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L27720)
+Defined in: [WAProto/index.d.ts:27720](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L27720)
 
 LiveLocationMessage caption
 
@@ -30,7 +30,7 @@ LiveLocationMessage caption
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:27732](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L27732)
+Defined in: [WAProto/index.d.ts:27732](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L27732)
 
 LiveLocationMessage contextInfo
 
@@ -40,7 +40,7 @@ LiveLocationMessage contextInfo
 
 > `optional` **degreesClockwiseFromMagneticNorth**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:27717](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L27717)
+Defined in: [WAProto/index.d.ts:27717](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L27717)
 
 LiveLocationMessage degreesClockwiseFromMagneticNorth
 
@@ -50,7 +50,7 @@ LiveLocationMessage degreesClockwiseFromMagneticNorth
 
 > `optional` **degreesLatitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:27705](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L27705)
+Defined in: [WAProto/index.d.ts:27705](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L27705)
 
 LiveLocationMessage degreesLatitude
 
@@ -60,7 +60,7 @@ LiveLocationMessage degreesLatitude
 
 > `optional` **degreesLongitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:27708](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L27708)
+Defined in: [WAProto/index.d.ts:27708](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L27708)
 
 LiveLocationMessage degreesLongitude
 
@@ -70,7 +70,7 @@ LiveLocationMessage degreesLongitude
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:27729](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L27729)
+Defined in: [WAProto/index.d.ts:27729](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L27729)
 
 LiveLocationMessage jpegThumbnail
 
@@ -80,7 +80,7 @@ LiveLocationMessage jpegThumbnail
 
 > `optional` **sequenceNumber**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:27723](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L27723)
+Defined in: [WAProto/index.d.ts:27723](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L27723)
 
 LiveLocationMessage sequenceNumber
 
@@ -90,7 +90,7 @@ LiveLocationMessage sequenceNumber
 
 > `optional` **speedInMps**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:27714](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L27714)
+Defined in: [WAProto/index.d.ts:27714](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L27714)
 
 LiveLocationMessage speedInMps
 
@@ -100,6 +100,6 @@ LiveLocationMessage speedInMps
 
 > `optional` **timeOffset**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:27726](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L27726)
+Defined in: [WAProto/index.d.ts:27726](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L27726)
 
 LiveLocationMessage timeOffset

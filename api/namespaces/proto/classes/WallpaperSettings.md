@@ -1,6 +1,6 @@
 # Class: WallpaperSettings
 
-Defined in: [WAProto/index.d.ts:52188](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52188)
+Defined in: [WAProto/index.d.ts:52188](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L52188)
 
 Represents a WallpaperSettings.
 
@@ -14,7 +14,7 @@ Represents a WallpaperSettings.
 
 > **new WallpaperSettings**(`properties`?): [`WallpaperSettings`](WallpaperSettings.md)
 
-Defined in: [WAProto/index.d.ts:52194](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52194)
+Defined in: [WAProto/index.d.ts:52194](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L52194)
 
 Constructs a new WallpaperSettings.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **filename**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:52197](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52197)
+Defined in: [WAProto/index.d.ts:52197](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L52197)
 
 WallpaperSettings filename.
 
@@ -50,7 +50,7 @@ WallpaperSettings filename.
 
 > `optional` **opacity**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:52200](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52200)
+Defined in: [WAProto/index.d.ts:52200](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L52200)
 
 WallpaperSettings opacity.
 
@@ -64,7 +64,7 @@ WallpaperSettings opacity.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:52270](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52270)
+Defined in: [WAProto/index.d.ts:52270](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L52270)
 
 Converts this WallpaperSettings to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`WallpaperSettings`](WallpaperSettings.md)
 
-Defined in: [WAProto/index.d.ts:52207](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52207)
+Defined in: [WAProto/index.d.ts:52207](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L52207)
 
 Creates a new WallpaperSettings instance using the specified properties.
 
@@ -104,7 +104,7 @@ WallpaperSettings instance
 
 > `static` **decode**(`reader`, `length`?): [`WallpaperSettings`](WallpaperSettings.md)
 
-Defined in: [WAProto/index.d.ts:52233](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52233)
+Defined in: [WAProto/index.d.ts:52233](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L52233)
 
 Decodes a WallpaperSettings message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`WallpaperSettings`](WallpaperSettings.md)
 
-Defined in: [WAProto/index.d.ts:52242](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52242)
+Defined in: [WAProto/index.d.ts:52242](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L52242)
 
 Decodes a WallpaperSettings message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:52215](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52215)
+Defined in: [WAProto/index.d.ts:52215](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L52215)
 
 Encodes the specified WallpaperSettings message. Does not implicitly [verify](WallpaperSettings.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:52223](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52223)
+Defined in: [WAProto/index.d.ts:52223](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L52223)
 
 Encodes the specified WallpaperSettings message, length delimited. Does not implicitly [verify](WallpaperSettings.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`WallpaperSettings`](WallpaperSettings.md)
 
-Defined in: [WAProto/index.d.ts:52256](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52256)
+Defined in: [WAProto/index.d.ts:52256](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L52256)
 
 Creates a WallpaperSettings message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ WallpaperSettings
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:52277](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52277)
+Defined in: [WAProto/index.d.ts:52277](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L52277)
 
 Gets the default type url for WallpaperSettings
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:52264](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52264)
+Defined in: [WAProto/index.d.ts:52264](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L52264)
 
 Creates a plain object from a WallpaperSettings message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:52249](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52249)
+Defined in: [WAProto/index.d.ts:52249](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L52249)
 
 Verifies a WallpaperSettings message.
 

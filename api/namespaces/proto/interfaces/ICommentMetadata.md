@@ -1,6 +1,6 @@
 # Interface: ICommentMetadata
 
-Defined in: [WAProto/index.d.ts:10326](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L10326)
+Defined in: [WAProto/index.d.ts:10326](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10326)
 
 Properties of a CommentMetadata.
 
@@ -10,7 +10,7 @@ Properties of a CommentMetadata.
 
 > `optional` **commentParentKey**: `null` \| [`IMessageKey`](IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:10329](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L10329)
+Defined in: [WAProto/index.d.ts:10329](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10329)
 
 CommentMetadata commentParentKey
 
@@ -20,6 +20,6 @@ CommentMetadata commentParentKey
 
 > `optional` **replyCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:10332](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L10332)
+Defined in: [WAProto/index.d.ts:10332](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10332)
 
 CommentMetadata replyCount

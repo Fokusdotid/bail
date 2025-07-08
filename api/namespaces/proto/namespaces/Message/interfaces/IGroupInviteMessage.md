@@ -1,6 +1,6 @@
 # Interface: IGroupInviteMessage
 
-Defined in: [WAProto/index.d.ts:23512](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L23512)
+Defined in: [WAProto/index.d.ts:23512](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23512)
 
 Properties of a GroupInviteMessage.
 
@@ -10,7 +10,7 @@ Properties of a GroupInviteMessage.
 
 > `optional` **caption**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23530](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L23530)
+Defined in: [WAProto/index.d.ts:23530](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23530)
 
 GroupInviteMessage caption
 
@@ -20,7 +20,7 @@ GroupInviteMessage caption
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:23533](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L23533)
+Defined in: [WAProto/index.d.ts:23533](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23533)
 
 GroupInviteMessage contextInfo
 
@@ -30,7 +30,7 @@ GroupInviteMessage contextInfo
 
 > `optional` **groupJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23515](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L23515)
+Defined in: [WAProto/index.d.ts:23515](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23515)
 
 GroupInviteMessage groupJid
 
@@ -40,7 +40,7 @@ GroupInviteMessage groupJid
 
 > `optional` **groupName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23524](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L23524)
+Defined in: [WAProto/index.d.ts:23524](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23524)
 
 GroupInviteMessage groupName
 
@@ -50,7 +50,7 @@ GroupInviteMessage groupName
 
 > `optional` **groupType**: `null` \| [`GroupType`](../namespaces/GroupInviteMessage/enumerations/GroupType.md)
 
-Defined in: [WAProto/index.d.ts:23536](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L23536)
+Defined in: [WAProto/index.d.ts:23536](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23536)
 
 GroupInviteMessage groupType
 
@@ -60,7 +60,7 @@ GroupInviteMessage groupType
 
 > `optional` **inviteCode**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23518](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L23518)
+Defined in: [WAProto/index.d.ts:23518](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23518)
 
 GroupInviteMessage inviteCode
 
@@ -70,7 +70,7 @@ GroupInviteMessage inviteCode
 
 > `optional` **inviteExpiration**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:23521](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L23521)
+Defined in: [WAProto/index.d.ts:23521](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23521)
 
 GroupInviteMessage inviteExpiration
 
@@ -80,6 +80,6 @@ GroupInviteMessage inviteExpiration
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:23527](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L23527)
+Defined in: [WAProto/index.d.ts:23527](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23527)
 
 GroupInviteMessage jpegThumbnail

@@ -1,6 +1,6 @@
 # Class: Chat
 
-Defined in: [WAProto/index.d.ts:21357](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21357)
+Defined in: [WAProto/index.d.ts:21357](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L21357)
 
 Represents a Chat.
 
@@ -14,7 +14,7 @@ Represents a Chat.
 
 > **new Chat**(`properties`?): [`Chat`](Chat.md)
 
-Defined in: [WAProto/index.d.ts:21363](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21363)
+Defined in: [WAProto/index.d.ts:21363](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L21363)
 
 Constructs a new Chat.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **displayName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21366](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21366)
+Defined in: [WAProto/index.d.ts:21366](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L21366)
 
 Chat displayName.
 
@@ -50,7 +50,7 @@ Chat displayName.
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21369](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21369)
+Defined in: [WAProto/index.d.ts:21369](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L21369)
 
 Chat id.
 
@@ -64,7 +64,7 @@ Chat id.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:21439](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21439)
+Defined in: [WAProto/index.d.ts:21439](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L21439)
 
 Converts this Chat to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Chat`](Chat.md)
 
-Defined in: [WAProto/index.d.ts:21376](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21376)
+Defined in: [WAProto/index.d.ts:21376](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L21376)
 
 Creates a new Chat instance using the specified properties.
 
@@ -104,7 +104,7 @@ Chat instance
 
 > `static` **decode**(`reader`, `length`?): [`Chat`](Chat.md)
 
-Defined in: [WAProto/index.d.ts:21402](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21402)
+Defined in: [WAProto/index.d.ts:21402](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L21402)
 
 Decodes a Chat message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Chat`](Chat.md)
 
-Defined in: [WAProto/index.d.ts:21411](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21411)
+Defined in: [WAProto/index.d.ts:21411](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L21411)
 
 Decodes a Chat message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:21384](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21384)
+Defined in: [WAProto/index.d.ts:21384](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L21384)
 
 Encodes the specified Chat message. Does not implicitly [verify](Chat.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:21392](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21392)
+Defined in: [WAProto/index.d.ts:21392](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L21392)
 
 Encodes the specified Chat message, length delimited. Does not implicitly [verify](Chat.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Chat`](Chat.md)
 
-Defined in: [WAProto/index.d.ts:21425](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21425)
+Defined in: [WAProto/index.d.ts:21425](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L21425)
 
 Creates a Chat message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ Chat
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:21446](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21446)
+Defined in: [WAProto/index.d.ts:21446](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L21446)
 
 Gets the default type url for Chat
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:21433](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21433)
+Defined in: [WAProto/index.d.ts:21433](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L21433)
 
 Creates a plain object from a Chat message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21418](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21418)
+Defined in: [WAProto/index.d.ts:21418](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L21418)
 
 Verifies a Chat message.
 

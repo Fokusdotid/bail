@@ -1,6 +1,6 @@
 # Class: PeerDataOperationResult
 
-Defined in: [WAProto/index.d.ts:30151](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30151)
+Defined in: [WAProto/index.d.ts:30151](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30151)
 
 Represents a PeerDataOperationResult.
 
@@ -14,7 +14,7 @@ Represents a PeerDataOperationResult.
 
 > **new PeerDataOperationResult**(`properties`?): [`PeerDataOperationResult`](PeerDataOperationResult.md)
 
-Defined in: [WAProto/index.d.ts:30157](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30157)
+Defined in: [WAProto/index.d.ts:30157](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30157)
 
 Constructs a new PeerDataOperationResult.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **companionMetaNonceFetchRequestResponse**: `null` \| [`ICompanionMetaNonceFetchResponse`](../namespaces/PeerDataOperationResult/interfaces/ICompanionMetaNonceFetchResponse.md)
 
-Defined in: [WAProto/index.d.ts:30178](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30178)
+Defined in: [WAProto/index.d.ts:30178](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30178)
 
 PeerDataOperationResult companionMetaNonceFetchRequestResponse.
 
@@ -50,7 +50,7 @@ PeerDataOperationResult companionMetaNonceFetchRequestResponse.
 
 > `optional` **fullHistorySyncOnDemandRequestResponse**: `null` \| [`IFullHistorySyncOnDemandRequestResponse`](../namespaces/PeerDataOperationResult/interfaces/IFullHistorySyncOnDemandRequestResponse.md)
 
-Defined in: [WAProto/index.d.ts:30175](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30175)
+Defined in: [WAProto/index.d.ts:30175](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30175)
 
 PeerDataOperationResult fullHistorySyncOnDemandRequestResponse.
 
@@ -64,7 +64,7 @@ PeerDataOperationResult fullHistorySyncOnDemandRequestResponse.
 
 > `optional` **linkPreviewResponse**: `null` \| [`ILinkPreviewResponse`](../namespaces/PeerDataOperationResult/interfaces/ILinkPreviewResponse.md)
 
-Defined in: [WAProto/index.d.ts:30166](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30166)
+Defined in: [WAProto/index.d.ts:30166](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30166)
 
 PeerDataOperationResult linkPreviewResponse.
 
@@ -78,7 +78,7 @@ PeerDataOperationResult linkPreviewResponse.
 
 > `optional` **mediaUploadResult**: `null` \| [`ResultType`](../../../../MediaRetryNotification/enumerations/ResultType.md)
 
-Defined in: [WAProto/index.d.ts:30160](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30160)
+Defined in: [WAProto/index.d.ts:30160](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30160)
 
 PeerDataOperationResult mediaUploadResult.
 
@@ -92,7 +92,7 @@ PeerDataOperationResult mediaUploadResult.
 
 > `optional` **placeholderMessageResendResponse**: `null` \| [`IPlaceholderMessageResendResponse`](../namespaces/PeerDataOperationResult/interfaces/IPlaceholderMessageResendResponse.md)
 
-Defined in: [WAProto/index.d.ts:30169](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30169)
+Defined in: [WAProto/index.d.ts:30169](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30169)
 
 PeerDataOperationResult placeholderMessageResendResponse.
 
@@ -106,7 +106,7 @@ PeerDataOperationResult placeholderMessageResendResponse.
 
 > `optional` **stickerMessage**: `null` \| [`IStickerMessage`](../../../interfaces/IStickerMessage.md)
 
-Defined in: [WAProto/index.d.ts:30163](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30163)
+Defined in: [WAProto/index.d.ts:30163](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30163)
 
 PeerDataOperationResult stickerMessage.
 
@@ -120,7 +120,7 @@ PeerDataOperationResult stickerMessage.
 
 > `optional` **syncdSnapshotFatalRecoveryResponse**: `null` \| [`ISyncDSnapshotFatalRecoveryResponse`](../namespaces/PeerDataOperationResult/interfaces/ISyncDSnapshotFatalRecoveryResponse.md)
 
-Defined in: [WAProto/index.d.ts:30181](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30181)
+Defined in: [WAProto/index.d.ts:30181](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30181)
 
 PeerDataOperationResult syncdSnapshotFatalRecoveryResponse.
 
@@ -134,7 +134,7 @@ PeerDataOperationResult syncdSnapshotFatalRecoveryResponse.
 
 > `optional` **waffleNonceFetchRequestResponse**: `null` \| [`IWaffleNonceFetchResponse`](../namespaces/PeerDataOperationResult/interfaces/IWaffleNonceFetchResponse.md)
 
-Defined in: [WAProto/index.d.ts:30172](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30172)
+Defined in: [WAProto/index.d.ts:30172](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30172)
 
 PeerDataOperationResult waffleNonceFetchRequestResponse.
 
@@ -148,7 +148,7 @@ PeerDataOperationResult waffleNonceFetchRequestResponse.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:30251](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30251)
+Defined in: [WAProto/index.d.ts:30251](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30251)
 
 Converts this PeerDataOperationResult to JSON.
 
@@ -164,7 +164,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PeerDataOperationResult`](PeerDataOperationResult.md)
 
-Defined in: [WAProto/index.d.ts:30188](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30188)
+Defined in: [WAProto/index.d.ts:30188](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30188)
 
 Creates a new PeerDataOperationResult instance using the specified properties.
 
@@ -188,7 +188,7 @@ PeerDataOperationResult instance
 
 > `static` **decode**(`reader`, `length`?): [`PeerDataOperationResult`](PeerDataOperationResult.md)
 
-Defined in: [WAProto/index.d.ts:30214](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30214)
+Defined in: [WAProto/index.d.ts:30214](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30214)
 
 Decodes a PeerDataOperationResult message from the specified reader or buffer.
 
@@ -226,7 +226,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PeerDataOperationResult`](PeerDataOperationResult.md)
 
-Defined in: [WAProto/index.d.ts:30223](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30223)
+Defined in: [WAProto/index.d.ts:30223](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30223)
 
 Decodes a PeerDataOperationResult message from the specified reader or buffer, length delimited.
 
@@ -258,7 +258,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30196](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30196)
+Defined in: [WAProto/index.d.ts:30196](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30196)
 
 Encodes the specified PeerDataOperationResult message. Does not implicitly [verify](PeerDataOperationResult.md#verify) messages.
 
@@ -288,7 +288,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30204](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30204)
+Defined in: [WAProto/index.d.ts:30204](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30204)
 
 Encodes the specified PeerDataOperationResult message, length delimited. Does not implicitly [verify](PeerDataOperationResult.md#verify) messages.
 
@@ -318,7 +318,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PeerDataOperationResult`](PeerDataOperationResult.md)
 
-Defined in: [WAProto/index.d.ts:30237](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30237)
+Defined in: [WAProto/index.d.ts:30237](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30237)
 
 Creates a PeerDataOperationResult message from a plain object. Also converts values to their respective internal types.
 
@@ -340,7 +340,7 @@ PeerDataOperationResult
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:30258](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30258)
+Defined in: [WAProto/index.d.ts:30258](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30258)
 
 Gets the default type url for PeerDataOperationResult
 
@@ -364,7 +364,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:30245](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30245)
+Defined in: [WAProto/index.d.ts:30245](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30245)
 
 Creates a plain object from a PeerDataOperationResult message. Also converts values to other types if specified.
 
@@ -394,7 +394,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30230](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30230)
+Defined in: [WAProto/index.d.ts:30230](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30230)
 
 Verifies a PeerDataOperationResult message.
 

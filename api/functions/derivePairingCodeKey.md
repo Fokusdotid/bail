@@ -2,7 +2,7 @@
 
 > **derivePairingCodeKey**(`pairingCode`, `salt`): `Promise`\<`Buffer`\<`ArrayBufferLike`\>\>
 
-Defined in: [src/Utils/crypto.ts:156](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/src/Utils/crypto.ts#L156)
+Defined in: [src/Utils/crypto.ts:156](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/src/Utils/crypto.ts#L156)
 
 ## Parameters
 

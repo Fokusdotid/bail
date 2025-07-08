@@ -1,6 +1,6 @@
 # Interface: IWaffleNonceFetchResponse
 
-Defined in: [WAProto/index.d.ts:30944](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30944)
+Defined in: [WAProto/index.d.ts:30944](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30944)
 
 Properties of a WaffleNonceFetchResponse.
 
@@ -10,7 +10,7 @@ Properties of a WaffleNonceFetchResponse.
 
 > `optional` **nonce**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30947](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30947)
+Defined in: [WAProto/index.d.ts:30947](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30947)
 
 WaffleNonceFetchResponse nonce
 
@@ -20,6 +20,6 @@ WaffleNonceFetchResponse nonce
 
 > `optional` **waEntFbid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30950](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L30950)
+Defined in: [WAProto/index.d.ts:30950](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L30950)
 
 WaffleNonceFetchResponse waEntFbid

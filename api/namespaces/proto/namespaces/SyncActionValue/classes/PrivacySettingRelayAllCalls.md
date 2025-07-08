@@ -1,6 +1,6 @@
 # Class: PrivacySettingRelayAllCalls
 
-Defined in: [WAProto/index.d.ts:47971](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L47971)
+Defined in: [WAProto/index.d.ts:47971](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L47971)
 
 Represents a PrivacySettingRelayAllCalls.
 
@@ -14,7 +14,7 @@ Represents a PrivacySettingRelayAllCalls.
 
 > **new PrivacySettingRelayAllCalls**(`properties`?): [`PrivacySettingRelayAllCalls`](PrivacySettingRelayAllCalls.md)
 
-Defined in: [WAProto/index.d.ts:47977](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L47977)
+Defined in: [WAProto/index.d.ts:47977](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L47977)
 
 Constructs a new PrivacySettingRelayAllCalls.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **isEnabled**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:47980](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L47980)
+Defined in: [WAProto/index.d.ts:47980](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L47980)
 
 PrivacySettingRelayAllCalls isEnabled.
 
@@ -50,7 +50,7 @@ PrivacySettingRelayAllCalls isEnabled.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:48050](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48050)
+Defined in: [WAProto/index.d.ts:48050](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L48050)
 
 Converts this PrivacySettingRelayAllCalls to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PrivacySettingRelayAllCalls`](PrivacySettingRelayAllCalls.md)
 
-Defined in: [WAProto/index.d.ts:47987](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L47987)
+Defined in: [WAProto/index.d.ts:47987](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L47987)
 
 Creates a new PrivacySettingRelayAllCalls instance using the specified properties.
 
@@ -90,7 +90,7 @@ PrivacySettingRelayAllCalls instance
 
 > `static` **decode**(`reader`, `length`?): [`PrivacySettingRelayAllCalls`](PrivacySettingRelayAllCalls.md)
 
-Defined in: [WAProto/index.d.ts:48013](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48013)
+Defined in: [WAProto/index.d.ts:48013](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L48013)
 
 Decodes a PrivacySettingRelayAllCalls message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PrivacySettingRelayAllCalls`](PrivacySettingRelayAllCalls.md)
 
-Defined in: [WAProto/index.d.ts:48022](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48022)
+Defined in: [WAProto/index.d.ts:48022](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L48022)
 
 Decodes a PrivacySettingRelayAllCalls message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:47995](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L47995)
+Defined in: [WAProto/index.d.ts:47995](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L47995)
 
 Encodes the specified PrivacySettingRelayAllCalls message. Does not implicitly [verify](PrivacySettingRelayAllCalls.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:48003](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48003)
+Defined in: [WAProto/index.d.ts:48003](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L48003)
 
 Encodes the specified PrivacySettingRelayAllCalls message, length delimited. Does not implicitly [verify](PrivacySettingRelayAllCalls.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PrivacySettingRelayAllCalls`](PrivacySettingRelayAllCalls.md)
 
-Defined in: [WAProto/index.d.ts:48036](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48036)
+Defined in: [WAProto/index.d.ts:48036](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L48036)
 
 Creates a PrivacySettingRelayAllCalls message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PrivacySettingRelayAllCalls
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:48057](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48057)
+Defined in: [WAProto/index.d.ts:48057](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L48057)
 
 Gets the default type url for PrivacySettingRelayAllCalls
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:48044](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48044)
+Defined in: [WAProto/index.d.ts:48044](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L48044)
 
 Creates a plain object from a PrivacySettingRelayAllCalls message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48029](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48029)
+Defined in: [WAProto/index.d.ts:48029](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L48029)
 
 Verifies a PrivacySettingRelayAllCalls message.
 

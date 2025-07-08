@@ -1,6 +1,6 @@
 # Class: MsgRowOpaqueData
 
-Defined in: [WAProto/index.d.ts:37241](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37241)
+Defined in: [WAProto/index.d.ts:37241](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L37241)
 
 Represents a MsgRowOpaqueData.
 
@@ -14,7 +14,7 @@ Represents a MsgRowOpaqueData.
 
 > **new MsgRowOpaqueData**(`properties`?): [`MsgRowOpaqueData`](MsgRowOpaqueData.md)
 
-Defined in: [WAProto/index.d.ts:37247](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37247)
+Defined in: [WAProto/index.d.ts:37247](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L37247)
 
 Constructs a new MsgRowOpaqueData.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **currentMsg**: `null` \| [`IMsgOpaqueData`](../interfaces/IMsgOpaqueData.md)
 
-Defined in: [WAProto/index.d.ts:37250](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37250)
+Defined in: [WAProto/index.d.ts:37250](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L37250)
 
 MsgRowOpaqueData currentMsg.
 
@@ -50,7 +50,7 @@ MsgRowOpaqueData currentMsg.
 
 > `optional` **quotedMsg**: `null` \| [`IMsgOpaqueData`](../interfaces/IMsgOpaqueData.md)
 
-Defined in: [WAProto/index.d.ts:37253](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37253)
+Defined in: [WAProto/index.d.ts:37253](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L37253)
 
 MsgRowOpaqueData quotedMsg.
 
@@ -64,7 +64,7 @@ MsgRowOpaqueData quotedMsg.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:37323](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37323)
+Defined in: [WAProto/index.d.ts:37323](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L37323)
 
 Converts this MsgRowOpaqueData to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`MsgRowOpaqueData`](MsgRowOpaqueData.md)
 
-Defined in: [WAProto/index.d.ts:37260](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37260)
+Defined in: [WAProto/index.d.ts:37260](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L37260)
 
 Creates a new MsgRowOpaqueData instance using the specified properties.
 
@@ -104,7 +104,7 @@ MsgRowOpaqueData instance
 
 > `static` **decode**(`reader`, `length`?): [`MsgRowOpaqueData`](MsgRowOpaqueData.md)
 
-Defined in: [WAProto/index.d.ts:37286](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37286)
+Defined in: [WAProto/index.d.ts:37286](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L37286)
 
 Decodes a MsgRowOpaqueData message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`MsgRowOpaqueData`](MsgRowOpaqueData.md)
 
-Defined in: [WAProto/index.d.ts:37295](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37295)
+Defined in: [WAProto/index.d.ts:37295](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L37295)
 
 Decodes a MsgRowOpaqueData message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:37268](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37268)
+Defined in: [WAProto/index.d.ts:37268](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L37268)
 
 Encodes the specified MsgRowOpaqueData message. Does not implicitly [verify](MsgRowOpaqueData.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:37276](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37276)
+Defined in: [WAProto/index.d.ts:37276](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L37276)
 
 Encodes the specified MsgRowOpaqueData message, length delimited. Does not implicitly [verify](MsgRowOpaqueData.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`MsgRowOpaqueData`](MsgRowOpaqueData.md)
 
-Defined in: [WAProto/index.d.ts:37309](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37309)
+Defined in: [WAProto/index.d.ts:37309](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L37309)
 
 Creates a MsgRowOpaqueData message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ MsgRowOpaqueData
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:37330](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37330)
+Defined in: [WAProto/index.d.ts:37330](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L37330)
 
 Gets the default type url for MsgRowOpaqueData
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:37317](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37317)
+Defined in: [WAProto/index.d.ts:37317](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L37317)
 
 Creates a plain object from a MsgRowOpaqueData message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37302](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37302)
+Defined in: [WAProto/index.d.ts:37302](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L37302)
 
 Verifies a MsgRowOpaqueData message.
 

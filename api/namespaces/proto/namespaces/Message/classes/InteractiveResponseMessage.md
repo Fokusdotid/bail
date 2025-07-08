@@ -1,6 +1,6 @@
 # Class: InteractiveResponseMessage
 
-Defined in: [WAProto/index.d.ts:26001](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26001)
+Defined in: [WAProto/index.d.ts:26001](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L26001)
 
 Represents an InteractiveResponseMessage.
 
@@ -14,7 +14,7 @@ Represents an InteractiveResponseMessage.
 
 > **new InteractiveResponseMessage**(`properties`?): [`InteractiveResponseMessage`](InteractiveResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:26007](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26007)
+Defined in: [WAProto/index.d.ts:26007](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L26007)
 
 Constructs a new InteractiveResponseMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **body**: `null` \| [`IBody`](../namespaces/InteractiveResponseMessage/interfaces/IBody.md)
 
-Defined in: [WAProto/index.d.ts:26010](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26010)
+Defined in: [WAProto/index.d.ts:26010](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L26010)
 
 InteractiveResponseMessage body.
 
@@ -50,7 +50,7 @@ InteractiveResponseMessage body.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:26013](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26013)
+Defined in: [WAProto/index.d.ts:26013](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L26013)
 
 InteractiveResponseMessage contextInfo.
 
@@ -64,7 +64,7 @@ InteractiveResponseMessage contextInfo.
 
 > `optional` **interactiveResponseMessage**: `"nativeFlowResponseMessage"`
 
-Defined in: [WAProto/index.d.ts:26019](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26019)
+Defined in: [WAProto/index.d.ts:26019](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L26019)
 
 InteractiveResponseMessage interactiveResponseMessage.
 
@@ -74,7 +74,7 @@ InteractiveResponseMessage interactiveResponseMessage.
 
 > `optional` **nativeFlowResponseMessage**: `null` \| [`INativeFlowResponseMessage`](../namespaces/InteractiveResponseMessage/interfaces/INativeFlowResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:26016](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26016)
+Defined in: [WAProto/index.d.ts:26016](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L26016)
 
 InteractiveResponseMessage nativeFlowResponseMessage.
 
@@ -88,7 +88,7 @@ InteractiveResponseMessage nativeFlowResponseMessage.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:26089](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26089)
+Defined in: [WAProto/index.d.ts:26089](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L26089)
 
 Converts this InteractiveResponseMessage to JSON.
 
@@ -104,7 +104,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`InteractiveResponseMessage`](InteractiveResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:26026](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26026)
+Defined in: [WAProto/index.d.ts:26026](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L26026)
 
 Creates a new InteractiveResponseMessage instance using the specified properties.
 
@@ -128,7 +128,7 @@ InteractiveResponseMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`InteractiveResponseMessage`](InteractiveResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:26052](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26052)
+Defined in: [WAProto/index.d.ts:26052](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L26052)
 
 Decodes an InteractiveResponseMessage message from the specified reader or buffer.
 
@@ -166,7 +166,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`InteractiveResponseMessage`](InteractiveResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:26061](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26061)
+Defined in: [WAProto/index.d.ts:26061](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L26061)
 
 Decodes an InteractiveResponseMessage message from the specified reader or buffer, length delimited.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:26034](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26034)
+Defined in: [WAProto/index.d.ts:26034](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L26034)
 
 Encodes the specified InteractiveResponseMessage message. Does not implicitly [verify](InteractiveResponseMessage.md#verify) messages.
 
@@ -228,7 +228,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:26042](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26042)
+Defined in: [WAProto/index.d.ts:26042](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L26042)
 
 Encodes the specified InteractiveResponseMessage message, length delimited. Does not implicitly [verify](InteractiveResponseMessage.md#verify) messages.
 
@@ -258,7 +258,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`InteractiveResponseMessage`](InteractiveResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:26075](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26075)
+Defined in: [WAProto/index.d.ts:26075](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L26075)
 
 Creates an InteractiveResponseMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -280,7 +280,7 @@ InteractiveResponseMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:26096](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26096)
+Defined in: [WAProto/index.d.ts:26096](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L26096)
 
 Gets the default type url for InteractiveResponseMessage
 
@@ -304,7 +304,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:26083](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26083)
+Defined in: [WAProto/index.d.ts:26083](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L26083)
 
 Creates a plain object from an InteractiveResponseMessage message. Also converts values to other types if specified.
 
@@ -334,7 +334,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26068](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26068)
+Defined in: [WAProto/index.d.ts:26068](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L26068)
 
 Verifies an InteractiveResponseMessage message.
 

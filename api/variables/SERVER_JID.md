@@ -2,4 +2,4 @@
 
 > `const` **SERVER\_JID**: `"server@c.us"` = `'server@c.us'`
 
-Defined in: [src/WABinary/jid-utils.ts:3](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/src/WABinary/jid-utils.ts#L3)
+Defined in: [src/WABinary/jid-utils.ts:3](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/src/WABinary/jid-utils.ts#L3)

@@ -1,6 +1,6 @@
 # Enumeration: FontType
 
-Defined in: [WAProto/index.d.ts:23287](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L23287)
+Defined in: [WAProto/index.d.ts:23287](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23287)
 
 FontType enum.
 
@@ -10,7 +10,7 @@ FontType enum.
 
 > **CALISTOGA\_REGULAR**: `8`
 
-Defined in: [WAProto/index.d.ts:23293](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L23293)
+Defined in: [WAProto/index.d.ts:23293](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23293)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:23293](https://github.com/Fokusdotid/bail/blob/9
 
 > **COURIERPRIME\_BOLD**: `10`
 
-Defined in: [WAProto/index.d.ts:23295](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L23295)
+Defined in: [WAProto/index.d.ts:23295](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23295)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:23295](https://github.com/Fokusdotid/bail/blob/9
 
 > **EXO2\_EXTRABOLD**: `9`
 
-Defined in: [WAProto/index.d.ts:23294](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L23294)
+Defined in: [WAProto/index.d.ts:23294](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23294)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:23294](https://github.com/Fokusdotid/bail/blob/9
 
 > **FB\_SCRIPT**: `2`
 
-Defined in: [WAProto/index.d.ts:23290](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L23290)
+Defined in: [WAProto/index.d.ts:23290](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23290)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [WAProto/index.d.ts:23290](https://github.com/Fokusdotid/bail/blob/9
 
 > **MORNINGBREEZE\_REGULAR**: `7`
 
-Defined in: [WAProto/index.d.ts:23292](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L23292)
+Defined in: [WAProto/index.d.ts:23292](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23292)
 
 ***
 
@@ -50,7 +50,7 @@ Defined in: [WAProto/index.d.ts:23292](https://github.com/Fokusdotid/bail/blob/9
 
 > **SYSTEM**: `0`
 
-Defined in: [WAProto/index.d.ts:23288](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L23288)
+Defined in: [WAProto/index.d.ts:23288](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23288)
 
 ***
 
@@ -58,7 +58,7 @@ Defined in: [WAProto/index.d.ts:23288](https://github.com/Fokusdotid/bail/blob/9
 
 > **SYSTEM\_BOLD**: `6`
 
-Defined in: [WAProto/index.d.ts:23291](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L23291)
+Defined in: [WAProto/index.d.ts:23291](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23291)
 
 ***
 
@@ -66,4 +66,4 @@ Defined in: [WAProto/index.d.ts:23291](https://github.com/Fokusdotid/bail/blob/9
 
 > **SYSTEM\_TEXT**: `1`
 
-Defined in: [WAProto/index.d.ts:23289](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L23289)
+Defined in: [WAProto/index.d.ts:23289](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23289)

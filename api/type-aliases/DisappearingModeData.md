@@ -2,7 +2,7 @@
 
 > **DisappearingModeData**: `object`
 
-Defined in: [src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts:4](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts#L4)
+Defined in: [src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts:4](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/src/WAUSync/Protocols/USyncDisappearingModeProtocol.ts#L4)
 
 ## Type declaration
 

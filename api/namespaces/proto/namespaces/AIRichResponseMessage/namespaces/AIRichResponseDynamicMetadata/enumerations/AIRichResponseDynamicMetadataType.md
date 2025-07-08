@@ -1,6 +1,6 @@
 # Enumeration: AIRichResponseDynamicMetadataType
 
-Defined in: [WAProto/index.d.ts:1471](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L1471)
+Defined in: [WAProto/index.d.ts:1471](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L1471)
 
 AIRichResponseDynamicMetadataType enum.
 
@@ -10,7 +10,7 @@ AIRichResponseDynamicMetadataType enum.
 
 > **AI\_RICH\_RESPONSE\_DYNAMIC\_METADATA\_TYPE\_GIF**: `2`
 
-Defined in: [WAProto/index.d.ts:1474](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L1474)
+Defined in: [WAProto/index.d.ts:1474](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L1474)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:1474](https://github.com/Fokusdotid/bail/blob/99
 
 > **AI\_RICH\_RESPONSE\_DYNAMIC\_METADATA\_TYPE\_IMAGE**: `1`
 
-Defined in: [WAProto/index.d.ts:1473](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L1473)
+Defined in: [WAProto/index.d.ts:1473](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L1473)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:1473](https://github.com/Fokusdotid/bail/blob/99
 
 > **AI\_RICH\_RESPONSE\_DYNAMIC\_METADATA\_TYPE\_UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:1472](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L1472)
+Defined in: [WAProto/index.d.ts:1472](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L1472)

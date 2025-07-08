@@ -1,6 +1,6 @@
 # Interface: IOrderMessage
 
-Defined in: [WAProto/index.d.ts:28627](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28627)
+Defined in: [WAProto/index.d.ts:28627](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L28627)
 
 Properties of an OrderMessage.
 
@@ -10,7 +10,7 @@ Properties of an OrderMessage.
 
 > `optional` **catalogType**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28672](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28672)
+Defined in: [WAProto/index.d.ts:28672](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L28672)
 
 OrderMessage catalogType
 
@@ -20,7 +20,7 @@ OrderMessage catalogType
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:28663](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28663)
+Defined in: [WAProto/index.d.ts:28663](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L28663)
 
 OrderMessage contextInfo
 
@@ -30,7 +30,7 @@ OrderMessage contextInfo
 
 > `optional` **itemCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:28636](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28636)
+Defined in: [WAProto/index.d.ts:28636](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L28636)
 
 OrderMessage itemCount
 
@@ -40,7 +40,7 @@ OrderMessage itemCount
 
 > `optional` **message**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28645](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28645)
+Defined in: [WAProto/index.d.ts:28645](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L28645)
 
 OrderMessage message
 
@@ -50,7 +50,7 @@ OrderMessage message
 
 > `optional` **messageVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:28666](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28666)
+Defined in: [WAProto/index.d.ts:28666](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L28666)
 
 OrderMessage messageVersion
 
@@ -60,7 +60,7 @@ OrderMessage messageVersion
 
 > `optional` **orderId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28630](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28630)
+Defined in: [WAProto/index.d.ts:28630](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L28630)
 
 OrderMessage orderId
 
@@ -70,7 +70,7 @@ OrderMessage orderId
 
 > `optional` **orderRequestMessageId**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:28669](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28669)
+Defined in: [WAProto/index.d.ts:28669](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L28669)
 
 OrderMessage orderRequestMessageId
 
@@ -80,7 +80,7 @@ OrderMessage orderRequestMessageId
 
 > `optional` **orderTitle**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28648](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28648)
+Defined in: [WAProto/index.d.ts:28648](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L28648)
 
 OrderMessage orderTitle
 
@@ -90,7 +90,7 @@ OrderMessage orderTitle
 
 > `optional` **sellerJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28651](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28651)
+Defined in: [WAProto/index.d.ts:28651](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L28651)
 
 OrderMessage sellerJid
 
@@ -100,7 +100,7 @@ OrderMessage sellerJid
 
 > `optional` **status**: `null` \| [`OrderStatus`](../namespaces/OrderMessage/enumerations/OrderStatus.md)
 
-Defined in: [WAProto/index.d.ts:28639](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28639)
+Defined in: [WAProto/index.d.ts:28639](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L28639)
 
 OrderMessage status
 
@@ -110,7 +110,7 @@ OrderMessage status
 
 > `optional` **surface**: `null` \| [`CATALOG`](../namespaces/OrderMessage/enumerations/OrderSurface.md#catalog)
 
-Defined in: [WAProto/index.d.ts:28642](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28642)
+Defined in: [WAProto/index.d.ts:28642](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L28642)
 
 OrderMessage surface
 
@@ -120,7 +120,7 @@ OrderMessage surface
 
 > `optional` **thumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:28633](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28633)
+Defined in: [WAProto/index.d.ts:28633](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L28633)
 
 OrderMessage thumbnail
 
@@ -130,7 +130,7 @@ OrderMessage thumbnail
 
 > `optional` **token**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28654](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28654)
+Defined in: [WAProto/index.d.ts:28654](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L28654)
 
 OrderMessage token
 
@@ -140,7 +140,7 @@ OrderMessage token
 
 > `optional` **totalAmount1000**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:28657](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28657)
+Defined in: [WAProto/index.d.ts:28657](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L28657)
 
 OrderMessage totalAmount1000
 
@@ -150,6 +150,6 @@ OrderMessage totalAmount1000
 
 > `optional` **totalCurrencyCode**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28660](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28660)
+Defined in: [WAProto/index.d.ts:28660](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L28660)
 
 OrderMessage totalCurrencyCode

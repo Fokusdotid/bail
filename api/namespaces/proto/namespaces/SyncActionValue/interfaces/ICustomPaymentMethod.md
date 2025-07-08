@@ -1,6 +1,6 @@
 # Interface: ICustomPaymentMethod
 
-Defined in: [WAProto/index.d.ts:44696](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L44696)
+Defined in: [WAProto/index.d.ts:44696](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L44696)
 
 Properties of a CustomPaymentMethod.
 
@@ -10,7 +10,7 @@ Properties of a CustomPaymentMethod.
 
 > **country**: `string`
 
-Defined in: [WAProto/index.d.ts:44702](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L44702)
+Defined in: [WAProto/index.d.ts:44702](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L44702)
 
 CustomPaymentMethod country
 
@@ -20,7 +20,7 @@ CustomPaymentMethod country
 
 > **credentialId**: `string`
 
-Defined in: [WAProto/index.d.ts:44699](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L44699)
+Defined in: [WAProto/index.d.ts:44699](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L44699)
 
 CustomPaymentMethod credentialId
 
@@ -30,7 +30,7 @@ CustomPaymentMethod credentialId
 
 > `optional` **metadata**: `null` \| [`ICustomPaymentMethodMetadata`](ICustomPaymentMethodMetadata.md)[]
 
-Defined in: [WAProto/index.d.ts:44708](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L44708)
+Defined in: [WAProto/index.d.ts:44708](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L44708)
 
 CustomPaymentMethod metadata
 
@@ -40,6 +40,6 @@ CustomPaymentMethod metadata
 
 > **type**: `string`
 
-Defined in: [WAProto/index.d.ts:44705](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L44705)
+Defined in: [WAProto/index.d.ts:44705](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L44705)
 
 CustomPaymentMethod type

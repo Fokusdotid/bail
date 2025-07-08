@@ -1,6 +1,6 @@
 # Class: AutoDownloadSettings
 
-Defined in: [WAProto/index.d.ts:3024](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L3024)
+Defined in: [WAProto/index.d.ts:3024](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3024)
 
 Represents an AutoDownloadSettings.
 
@@ -14,7 +14,7 @@ Represents an AutoDownloadSettings.
 
 > **new AutoDownloadSettings**(`properties`?): [`AutoDownloadSettings`](AutoDownloadSettings.md)
 
-Defined in: [WAProto/index.d.ts:3030](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L3030)
+Defined in: [WAProto/index.d.ts:3030](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3030)
 
 Constructs a new AutoDownloadSettings.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **downloadAudio**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:3036](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L3036)
+Defined in: [WAProto/index.d.ts:3036](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3036)
 
 AutoDownloadSettings downloadAudio.
 
@@ -50,7 +50,7 @@ AutoDownloadSettings downloadAudio.
 
 > `optional` **downloadDocuments**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:3042](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L3042)
+Defined in: [WAProto/index.d.ts:3042](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3042)
 
 AutoDownloadSettings downloadDocuments.
 
@@ -64,7 +64,7 @@ AutoDownloadSettings downloadDocuments.
 
 > `optional` **downloadImages**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:3033](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L3033)
+Defined in: [WAProto/index.d.ts:3033](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3033)
 
 AutoDownloadSettings downloadImages.
 
@@ -78,7 +78,7 @@ AutoDownloadSettings downloadImages.
 
 > `optional` **downloadVideo**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:3039](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L3039)
+Defined in: [WAProto/index.d.ts:3039](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3039)
 
 AutoDownloadSettings downloadVideo.
 
@@ -92,7 +92,7 @@ AutoDownloadSettings downloadVideo.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:3112](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L3112)
+Defined in: [WAProto/index.d.ts:3112](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3112)
 
 Converts this AutoDownloadSettings to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AutoDownloadSettings`](AutoDownloadSettings.md)
 
-Defined in: [WAProto/index.d.ts:3049](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L3049)
+Defined in: [WAProto/index.d.ts:3049](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3049)
 
 Creates a new AutoDownloadSettings instance using the specified properties.
 
@@ -132,7 +132,7 @@ AutoDownloadSettings instance
 
 > `static` **decode**(`reader`, `length`?): [`AutoDownloadSettings`](AutoDownloadSettings.md)
 
-Defined in: [WAProto/index.d.ts:3075](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L3075)
+Defined in: [WAProto/index.d.ts:3075](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3075)
 
 Decodes an AutoDownloadSettings message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AutoDownloadSettings`](AutoDownloadSettings.md)
 
-Defined in: [WAProto/index.d.ts:3084](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L3084)
+Defined in: [WAProto/index.d.ts:3084](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3084)
 
 Decodes an AutoDownloadSettings message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3057](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L3057)
+Defined in: [WAProto/index.d.ts:3057](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3057)
 
 Encodes the specified AutoDownloadSettings message. Does not implicitly [verify](AutoDownloadSettings.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3065](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L3065)
+Defined in: [WAProto/index.d.ts:3065](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3065)
 
 Encodes the specified AutoDownloadSettings message, length delimited. Does not implicitly [verify](AutoDownloadSettings.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AutoDownloadSettings`](AutoDownloadSettings.md)
 
-Defined in: [WAProto/index.d.ts:3098](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L3098)
+Defined in: [WAProto/index.d.ts:3098](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3098)
 
 Creates an AutoDownloadSettings message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ AutoDownloadSettings
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:3119](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L3119)
+Defined in: [WAProto/index.d.ts:3119](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3119)
 
 Gets the default type url for AutoDownloadSettings
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:3106](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L3106)
+Defined in: [WAProto/index.d.ts:3106](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3106)
 
 Creates a plain object from an AutoDownloadSettings message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3091](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L3091)
+Defined in: [WAProto/index.d.ts:3091](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3091)
 
 Verifies an AutoDownloadSettings message.
 

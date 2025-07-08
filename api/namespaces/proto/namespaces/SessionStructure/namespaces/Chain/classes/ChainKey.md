@@ -1,6 +1,6 @@
 # Class: ChainKey
 
-Defined in: [WAProto/index.d.ts:42077](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L42077)
+Defined in: [WAProto/index.d.ts:42077](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42077)
 
 Represents a ChainKey.
 
@@ -14,7 +14,7 @@ Represents a ChainKey.
 
 > **new ChainKey**(`properties`?): [`ChainKey`](ChainKey.md)
 
-Defined in: [WAProto/index.d.ts:42083](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L42083)
+Defined in: [WAProto/index.d.ts:42083](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42083)
 
 Constructs a new ChainKey.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **index**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:42086](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L42086)
+Defined in: [WAProto/index.d.ts:42086](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42086)
 
 ChainKey index.
 
@@ -50,7 +50,7 @@ ChainKey index.
 
 > `optional` **key**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:42089](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L42089)
+Defined in: [WAProto/index.d.ts:42089](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42089)
 
 ChainKey key.
 
@@ -64,7 +64,7 @@ ChainKey key.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:42159](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L42159)
+Defined in: [WAProto/index.d.ts:42159](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42159)
 
 Converts this ChainKey to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ChainKey`](ChainKey.md)
 
-Defined in: [WAProto/index.d.ts:42096](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L42096)
+Defined in: [WAProto/index.d.ts:42096](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42096)
 
 Creates a new ChainKey instance using the specified properties.
 
@@ -104,7 +104,7 @@ ChainKey instance
 
 > `static` **decode**(`reader`, `length`?): [`ChainKey`](ChainKey.md)
 
-Defined in: [WAProto/index.d.ts:42122](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L42122)
+Defined in: [WAProto/index.d.ts:42122](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42122)
 
 Decodes a ChainKey message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ChainKey`](ChainKey.md)
 
-Defined in: [WAProto/index.d.ts:42131](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L42131)
+Defined in: [WAProto/index.d.ts:42131](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42131)
 
 Decodes a ChainKey message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42104](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L42104)
+Defined in: [WAProto/index.d.ts:42104](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42104)
 
 Encodes the specified ChainKey message. Does not implicitly [verify](ChainKey.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42112](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L42112)
+Defined in: [WAProto/index.d.ts:42112](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42112)
 
 Encodes the specified ChainKey message, length delimited. Does not implicitly [verify](ChainKey.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ChainKey`](ChainKey.md)
 
-Defined in: [WAProto/index.d.ts:42145](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L42145)
+Defined in: [WAProto/index.d.ts:42145](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42145)
 
 Creates a ChainKey message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ ChainKey
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:42166](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L42166)
+Defined in: [WAProto/index.d.ts:42166](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42166)
 
 Gets the default type url for ChainKey
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:42153](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L42153)
+Defined in: [WAProto/index.d.ts:42153](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42153)
 
 Creates a plain object from a ChainKey message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:42138](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L42138)
+Defined in: [WAProto/index.d.ts:42138](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42138)
 
 Verifies a ChainKey message.
 

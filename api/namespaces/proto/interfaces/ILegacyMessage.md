@@ -1,6 +1,6 @@
 # Interface: ILegacyMessage
 
-Defined in: [WAProto/index.d.ts:17447](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L17447)
+Defined in: [WAProto/index.d.ts:17447](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L17447)
 
 Properties of a LegacyMessage.
 
@@ -10,7 +10,7 @@ Properties of a LegacyMessage.
 
 > `optional` **eventResponseMessage**: `null` \| [`IEventResponseMessage`](../namespaces/Message/interfaces/IEventResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:17450](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L17450)
+Defined in: [WAProto/index.d.ts:17450](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L17450)
 
 LegacyMessage eventResponseMessage
 
@@ -20,6 +20,6 @@ LegacyMessage eventResponseMessage
 
 > `optional` **pollVote**: `null` \| [`IPollVoteMessage`](../namespaces/Message/interfaces/IPollVoteMessage.md)
 
-Defined in: [WAProto/index.d.ts:17453](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L17453)
+Defined in: [WAProto/index.d.ts:17453](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L17453)
 
 LegacyMessage pollVote

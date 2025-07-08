@@ -1,6 +1,6 @@
 # Enumeration: Attribution
 
-Defined in: [WAProto/index.d.ts:35555](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L35555)
+Defined in: [WAProto/index.d.ts:35555](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L35555)
 
 Attribution enum.
 
@@ -10,7 +10,7 @@ Attribution enum.
 
 > **GIPHY**: `1`
 
-Defined in: [WAProto/index.d.ts:35557](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L35557)
+Defined in: [WAProto/index.d.ts:35557](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L35557)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:35557](https://github.com/Fokusdotid/bail/blob/9
 
 > **NONE**: `0`
 
-Defined in: [WAProto/index.d.ts:35556](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L35556)
+Defined in: [WAProto/index.d.ts:35556](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L35556)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:35556](https://github.com/Fokusdotid/bail/blob/9
 
 > **TENOR**: `2`
 
-Defined in: [WAProto/index.d.ts:35558](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L35558)
+Defined in: [WAProto/index.d.ts:35558](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L35558)

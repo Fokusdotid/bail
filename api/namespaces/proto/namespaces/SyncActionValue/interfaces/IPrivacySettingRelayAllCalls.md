@@ -1,6 +1,6 @@
 # Interface: IPrivacySettingRelayAllCalls
 
-Defined in: [WAProto/index.d.ts:47964](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L47964)
+Defined in: [WAProto/index.d.ts:47964](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L47964)
 
 Properties of a PrivacySettingRelayAllCalls.
 
@@ -10,6 +10,6 @@ Properties of a PrivacySettingRelayAllCalls.
 
 > `optional` **isEnabled**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:47967](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L47967)
+Defined in: [WAProto/index.d.ts:47967](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L47967)
 
 PrivacySettingRelayAllCalls isEnabled

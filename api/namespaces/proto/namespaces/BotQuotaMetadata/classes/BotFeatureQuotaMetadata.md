@@ -1,6 +1,6 @@
 # Class: BotFeatureQuotaMetadata
 
-Defined in: [WAProto/index.d.ts:6577](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6577)
+Defined in: [WAProto/index.d.ts:6577](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6577)
 
 Represents a BotFeatureQuotaMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotFeatureQuotaMetadata.
 
 > **new BotFeatureQuotaMetadata**(`properties`?): [`BotFeatureQuotaMetadata`](BotFeatureQuotaMetadata.md)
 
-Defined in: [WAProto/index.d.ts:6583](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6583)
+Defined in: [WAProto/index.d.ts:6583](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6583)
 
 Constructs a new BotFeatureQuotaMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **expirationTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:6592](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6592)
+Defined in: [WAProto/index.d.ts:6592](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6592)
 
 BotFeatureQuotaMetadata expirationTimestamp.
 
@@ -50,7 +50,7 @@ BotFeatureQuotaMetadata expirationTimestamp.
 
 > `optional` **featureType**: `null` \| [`BotFeatureType`](../namespaces/BotFeatureQuotaMetadata/enumerations/BotFeatureType.md)
 
-Defined in: [WAProto/index.d.ts:6586](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6586)
+Defined in: [WAProto/index.d.ts:6586](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6586)
 
 BotFeatureQuotaMetadata featureType.
 
@@ -64,7 +64,7 @@ BotFeatureQuotaMetadata featureType.
 
 > `optional` **remainingQuota**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:6589](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6589)
+Defined in: [WAProto/index.d.ts:6589](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6589)
 
 BotFeatureQuotaMetadata remainingQuota.
 
@@ -78,7 +78,7 @@ BotFeatureQuotaMetadata remainingQuota.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:6662](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6662)
+Defined in: [WAProto/index.d.ts:6662](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6662)
 
 Converts this BotFeatureQuotaMetadata to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotFeatureQuotaMetadata`](BotFeatureQuotaMetadata.md)
 
-Defined in: [WAProto/index.d.ts:6599](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6599)
+Defined in: [WAProto/index.d.ts:6599](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6599)
 
 Creates a new BotFeatureQuotaMetadata instance using the specified properties.
 
@@ -118,7 +118,7 @@ BotFeatureQuotaMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotFeatureQuotaMetadata`](BotFeatureQuotaMetadata.md)
 
-Defined in: [WAProto/index.d.ts:6625](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6625)
+Defined in: [WAProto/index.d.ts:6625](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6625)
 
 Decodes a BotFeatureQuotaMetadata message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotFeatureQuotaMetadata`](BotFeatureQuotaMetadata.md)
 
-Defined in: [WAProto/index.d.ts:6634](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6634)
+Defined in: [WAProto/index.d.ts:6634](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6634)
 
 Decodes a BotFeatureQuotaMetadata message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:6607](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6607)
+Defined in: [WAProto/index.d.ts:6607](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6607)
 
 Encodes the specified BotFeatureQuotaMetadata message. Does not implicitly [verify](BotFeatureQuotaMetadata.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:6615](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6615)
+Defined in: [WAProto/index.d.ts:6615](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6615)
 
 Encodes the specified BotFeatureQuotaMetadata message, length delimited. Does not implicitly [verify](BotFeatureQuotaMetadata.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotFeatureQuotaMetadata`](BotFeatureQuotaMetadata.md)
 
-Defined in: [WAProto/index.d.ts:6648](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6648)
+Defined in: [WAProto/index.d.ts:6648](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6648)
 
 Creates a BotFeatureQuotaMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ BotFeatureQuotaMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:6669](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6669)
+Defined in: [WAProto/index.d.ts:6669](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6669)
 
 Gets the default type url for BotFeatureQuotaMetadata
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:6656](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6656)
+Defined in: [WAProto/index.d.ts:6656](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6656)
 
 Creates a plain object from a BotFeatureQuotaMetadata message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:6641](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6641)
+Defined in: [WAProto/index.d.ts:6641](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6641)
 
 Verifies a BotFeatureQuotaMetadata message.
 

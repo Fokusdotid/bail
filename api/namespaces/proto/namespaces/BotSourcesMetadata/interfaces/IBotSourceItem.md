@@ -1,6 +1,6 @@
 # Interface: IBotSourceItem
 
-Defined in: [WAProto/index.d.ts:7240](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7240)
+Defined in: [WAProto/index.d.ts:7240](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L7240)
 
 Properties of a BotSourceItem.
 
@@ -10,7 +10,7 @@ Properties of a BotSourceItem.
 
 > `optional` **citationNumber**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:7258](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7258)
+Defined in: [WAProto/index.d.ts:7258](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L7258)
 
 BotSourceItem citationNumber
 
@@ -20,7 +20,7 @@ BotSourceItem citationNumber
 
 > `optional` **faviconCdnUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7255](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7255)
+Defined in: [WAProto/index.d.ts:7255](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L7255)
 
 BotSourceItem faviconCdnUrl
 
@@ -30,7 +30,7 @@ BotSourceItem faviconCdnUrl
 
 > `optional` **provider**: `null` \| [`SourceProvider`](../namespaces/BotSourceItem/enumerations/SourceProvider.md)
 
-Defined in: [WAProto/index.d.ts:7243](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7243)
+Defined in: [WAProto/index.d.ts:7243](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L7243)
 
 BotSourceItem provider
 
@@ -40,7 +40,7 @@ BotSourceItem provider
 
 > `optional` **sourceProviderUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7249](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7249)
+Defined in: [WAProto/index.d.ts:7249](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L7249)
 
 BotSourceItem sourceProviderUrl
 
@@ -50,7 +50,7 @@ BotSourceItem sourceProviderUrl
 
 > `optional` **sourceQuery**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7252](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7252)
+Defined in: [WAProto/index.d.ts:7252](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L7252)
 
 BotSourceItem sourceQuery
 
@@ -60,6 +60,6 @@ BotSourceItem sourceQuery
 
 > `optional` **thumbnailCdnUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7246](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7246)
+Defined in: [WAProto/index.d.ts:7246](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L7246)
 
 BotSourceItem thumbnailCdnUrl

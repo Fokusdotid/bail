@@ -1,6 +1,6 @@
 # Class: EphemeralSetting
 
-Defined in: [WAProto/index.d.ts:14247](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14247)
+Defined in: [WAProto/index.d.ts:14247](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L14247)
 
 Represents an EphemeralSetting.
 
@@ -14,7 +14,7 @@ Represents an EphemeralSetting.
 
 > **new EphemeralSetting**(`properties`?): [`EphemeralSetting`](EphemeralSetting.md)
 
-Defined in: [WAProto/index.d.ts:14253](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14253)
+Defined in: [WAProto/index.d.ts:14253](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L14253)
 
 Constructs a new EphemeralSetting.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **duration**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:14256](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14256)
+Defined in: [WAProto/index.d.ts:14256](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L14256)
 
 EphemeralSetting duration.
 
@@ -50,7 +50,7 @@ EphemeralSetting duration.
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:14259](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14259)
+Defined in: [WAProto/index.d.ts:14259](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L14259)
 
 EphemeralSetting timestamp.
 
@@ -64,7 +64,7 @@ EphemeralSetting timestamp.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:14329](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14329)
+Defined in: [WAProto/index.d.ts:14329](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L14329)
 
 Converts this EphemeralSetting to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`EphemeralSetting`](EphemeralSetting.md)
 
-Defined in: [WAProto/index.d.ts:14266](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14266)
+Defined in: [WAProto/index.d.ts:14266](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L14266)
 
 Creates a new EphemeralSetting instance using the specified properties.
 
@@ -104,7 +104,7 @@ EphemeralSetting instance
 
 > `static` **decode**(`reader`, `length`?): [`EphemeralSetting`](EphemeralSetting.md)
 
-Defined in: [WAProto/index.d.ts:14292](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14292)
+Defined in: [WAProto/index.d.ts:14292](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L14292)
 
 Decodes an EphemeralSetting message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`EphemeralSetting`](EphemeralSetting.md)
 
-Defined in: [WAProto/index.d.ts:14301](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14301)
+Defined in: [WAProto/index.d.ts:14301](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L14301)
 
 Decodes an EphemeralSetting message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:14274](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14274)
+Defined in: [WAProto/index.d.ts:14274](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L14274)
 
 Encodes the specified EphemeralSetting message. Does not implicitly [verify](EphemeralSetting.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:14282](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14282)
+Defined in: [WAProto/index.d.ts:14282](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L14282)
 
 Encodes the specified EphemeralSetting message, length delimited. Does not implicitly [verify](EphemeralSetting.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`EphemeralSetting`](EphemeralSetting.md)
 
-Defined in: [WAProto/index.d.ts:14315](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14315)
+Defined in: [WAProto/index.d.ts:14315](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L14315)
 
 Creates an EphemeralSetting message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ EphemeralSetting
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:14336](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14336)
+Defined in: [WAProto/index.d.ts:14336](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L14336)
 
 Gets the default type url for EphemeralSetting
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:14323](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14323)
+Defined in: [WAProto/index.d.ts:14323](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L14323)
 
 Creates a plain object from an EphemeralSetting message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14308](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14308)
+Defined in: [WAProto/index.d.ts:14308](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L14308)
 
 Verifies an EphemeralSetting message.
 

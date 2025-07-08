@@ -1,6 +1,6 @@
 # Class: FavoritesAction
 
-Defined in: [WAProto/index.d.ts:45418](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L45418)
+Defined in: [WAProto/index.d.ts:45418](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L45418)
 
 Represents a FavoritesAction.
 
@@ -14,7 +14,7 @@ Represents a FavoritesAction.
 
 > **new FavoritesAction**(`properties`?): [`FavoritesAction`](FavoritesAction.md)
 
-Defined in: [WAProto/index.d.ts:45424](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L45424)
+Defined in: [WAProto/index.d.ts:45424](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L45424)
 
 Constructs a new FavoritesAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **favorites**: [`IFavorite`](../namespaces/FavoritesAction/interfaces/IFavorite.md)[]
 
-Defined in: [WAProto/index.d.ts:45427](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L45427)
+Defined in: [WAProto/index.d.ts:45427](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L45427)
 
 FavoritesAction favorites.
 
@@ -50,7 +50,7 @@ FavoritesAction favorites.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:45497](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L45497)
+Defined in: [WAProto/index.d.ts:45497](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L45497)
 
 Converts this FavoritesAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`FavoritesAction`](FavoritesAction.md)
 
-Defined in: [WAProto/index.d.ts:45434](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L45434)
+Defined in: [WAProto/index.d.ts:45434](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L45434)
 
 Creates a new FavoritesAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ FavoritesAction instance
 
 > `static` **decode**(`reader`, `length`?): [`FavoritesAction`](FavoritesAction.md)
 
-Defined in: [WAProto/index.d.ts:45460](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L45460)
+Defined in: [WAProto/index.d.ts:45460](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L45460)
 
 Decodes a FavoritesAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`FavoritesAction`](FavoritesAction.md)
 
-Defined in: [WAProto/index.d.ts:45469](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L45469)
+Defined in: [WAProto/index.d.ts:45469](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L45469)
 
 Decodes a FavoritesAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:45442](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L45442)
+Defined in: [WAProto/index.d.ts:45442](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L45442)
 
 Encodes the specified FavoritesAction message. Does not implicitly [verify](FavoritesAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:45450](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L45450)
+Defined in: [WAProto/index.d.ts:45450](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L45450)
 
 Encodes the specified FavoritesAction message, length delimited. Does not implicitly [verify](FavoritesAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`FavoritesAction`](FavoritesAction.md)
 
-Defined in: [WAProto/index.d.ts:45483](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L45483)
+Defined in: [WAProto/index.d.ts:45483](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L45483)
 
 Creates a FavoritesAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ FavoritesAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:45504](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L45504)
+Defined in: [WAProto/index.d.ts:45504](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L45504)
 
 Gets the default type url for FavoritesAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:45491](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L45491)
+Defined in: [WAProto/index.d.ts:45491](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L45491)
 
 Creates a plain object from a FavoritesAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:45476](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L45476)
+Defined in: [WAProto/index.d.ts:45476](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L45476)
 
 Verifies a FavoritesAction message.
 

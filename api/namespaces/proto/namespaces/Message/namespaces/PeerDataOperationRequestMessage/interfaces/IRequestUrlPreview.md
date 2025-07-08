@@ -1,6 +1,6 @@
 # Interface: IRequestUrlPreview
 
-Defined in: [WAProto/index.d.ts:29805](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L29805)
+Defined in: [WAProto/index.d.ts:29805](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L29805)
 
 Properties of a RequestUrlPreview.
 
@@ -10,7 +10,7 @@ Properties of a RequestUrlPreview.
 
 > `optional` **includeHqThumbnail**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:29811](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L29811)
+Defined in: [WAProto/index.d.ts:29811](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L29811)
 
 RequestUrlPreview includeHqThumbnail
 
@@ -20,6 +20,6 @@ RequestUrlPreview includeHqThumbnail
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29808](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L29808)
+Defined in: [WAProto/index.d.ts:29808](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L29808)
 
 RequestUrlPreview url
