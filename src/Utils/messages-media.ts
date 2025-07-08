@@ -137,8 +137,8 @@ export const extractImageThumb = async (bufferOrFilePath: Readable | Buffer | st
 	}
 
 	const lib = await getImageProcessingLibrary()
-	if ('jimp' in lib && typeof lib.jimp === 'object' && typeof lib.jimp?.Jimp?.read === 'function') {
-		const jimp = lib.jimp.Jimp.read;
+	if ('jimp' in lib && typeof lib.jimp === 'object' && (typeof lib.jimp?.Jimp === 'object' || typeof jimp?.Jimp === 'function')) {
+		const jimp = (lib.jimp?.default?.Jimp?.read || lib.jimp?.Jimp?.read);
 		console.log("Jimp Read:", jimp)
 	}
 	
