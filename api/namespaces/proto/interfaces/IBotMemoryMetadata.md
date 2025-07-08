@@ -1,6 +1,6 @@
 # Interface: IBotMemoryMetadata
 
-Defined in: [WAProto/index.d.ts:4558](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L4558)
+Defined in: [WAProto/index.d.ts:4558](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L4558)
 
 Properties of a BotMemoryMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotMemoryMetadata.
 
 > `optional` **addedFacts**: `null` \| [`IBotMemoryFact`](IBotMemoryFact.md)[]
 
-Defined in: [WAProto/index.d.ts:4561](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L4561)
+Defined in: [WAProto/index.d.ts:4561](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L4561)
 
 BotMemoryMetadata addedFacts
 
@@ -20,7 +20,7 @@ BotMemoryMetadata addedFacts
 
 > `optional` **disclaimer**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4567](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L4567)
+Defined in: [WAProto/index.d.ts:4567](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L4567)
 
 BotMemoryMetadata disclaimer
 
@@ -30,6 +30,6 @@ BotMemoryMetadata disclaimer
 
 > `optional` **removedFacts**: `null` \| [`IBotMemoryFact`](IBotMemoryFact.md)[]
 
-Defined in: [WAProto/index.d.ts:4564](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L4564)
+Defined in: [WAProto/index.d.ts:4564](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L4564)
 
 BotMemoryMetadata removedFacts

@@ -1,6 +1,6 @@
 # Interface: IPreKeySignalMessage
 
-Defined in: [WAProto/index.d.ts:39705](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39705)
+Defined in: [WAProto/index.d.ts:39705](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39705)
 
 Properties of a PreKeySignalMessage.
 
@@ -10,7 +10,7 @@ Properties of a PreKeySignalMessage.
 
 > `optional` **baseKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39717](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39717)
+Defined in: [WAProto/index.d.ts:39717](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39717)
 
 PreKeySignalMessage baseKey
 
@@ -20,7 +20,7 @@ PreKeySignalMessage baseKey
 
 > `optional` **identityKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39720](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39720)
+Defined in: [WAProto/index.d.ts:39720](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39720)
 
 PreKeySignalMessage identityKey
 
@@ -30,7 +30,7 @@ PreKeySignalMessage identityKey
 
 > `optional` **message**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39723](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39723)
+Defined in: [WAProto/index.d.ts:39723](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39723)
 
 PreKeySignalMessage message
 
@@ -40,7 +40,7 @@ PreKeySignalMessage message
 
 > `optional` **preKeyId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39711](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39711)
+Defined in: [WAProto/index.d.ts:39711](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39711)
 
 PreKeySignalMessage preKeyId
 
@@ -50,7 +50,7 @@ PreKeySignalMessage preKeyId
 
 > `optional` **registrationId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39708](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39708)
+Defined in: [WAProto/index.d.ts:39708](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39708)
 
 PreKeySignalMessage registrationId
 
@@ -60,6 +60,6 @@ PreKeySignalMessage registrationId
 
 > `optional` **signedPreKeyId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39714](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39714)
+Defined in: [WAProto/index.d.ts:39714](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39714)
 
 PreKeySignalMessage signedPreKeyId

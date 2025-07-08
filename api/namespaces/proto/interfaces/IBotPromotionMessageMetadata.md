@@ -1,6 +1,6 @@
 # Interface: IBotPromotionMessageMetadata
 
-Defined in: [WAProto/index.d.ts:6153](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L6153)
+Defined in: [WAProto/index.d.ts:6153](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L6153)
 
 Properties of a BotPromotionMessageMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotPromotionMessageMetadata.
 
 > `optional` **buttonTitle**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:6159](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L6159)
+Defined in: [WAProto/index.d.ts:6159](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L6159)
 
 BotPromotionMessageMetadata buttonTitle
 
@@ -20,6 +20,6 @@ BotPromotionMessageMetadata buttonTitle
 
 > `optional` **promotionType**: `null` \| [`BotPromotionType`](../namespaces/BotPromotionMessageMetadata/enumerations/BotPromotionType.md)
 
-Defined in: [WAProto/index.d.ts:6156](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L6156)
+Defined in: [WAProto/index.d.ts:6156](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L6156)
 
 BotPromotionMessageMetadata promotionType

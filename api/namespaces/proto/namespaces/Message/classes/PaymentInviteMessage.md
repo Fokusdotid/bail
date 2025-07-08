@@ -1,6 +1,6 @@
 # Class: PaymentInviteMessage
 
-Defined in: [WAProto/index.d.ts:28833](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L28833)
+Defined in: [WAProto/index.d.ts:28833](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L28833)
 
 Represents a PaymentInviteMessage.
 
@@ -14,7 +14,7 @@ Represents a PaymentInviteMessage.
 
 > **new PaymentInviteMessage**(`properties`?): [`PaymentInviteMessage`](PaymentInviteMessage.md)
 
-Defined in: [WAProto/index.d.ts:28839](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L28839)
+Defined in: [WAProto/index.d.ts:28839](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L28839)
 
 Constructs a new PaymentInviteMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **expiryTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:28845](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L28845)
+Defined in: [WAProto/index.d.ts:28845](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L28845)
 
 PaymentInviteMessage expiryTimestamp.
 
@@ -50,7 +50,7 @@ PaymentInviteMessage expiryTimestamp.
 
 > `optional` **serviceType**: `null` \| [`ServiceType`](../namespaces/PaymentInviteMessage/enumerations/ServiceType.md)
 
-Defined in: [WAProto/index.d.ts:28842](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L28842)
+Defined in: [WAProto/index.d.ts:28842](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L28842)
 
 PaymentInviteMessage serviceType.
 
@@ -64,7 +64,7 @@ PaymentInviteMessage serviceType.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:28915](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L28915)
+Defined in: [WAProto/index.d.ts:28915](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L28915)
 
 Converts this PaymentInviteMessage to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PaymentInviteMessage`](PaymentInviteMessage.md)
 
-Defined in: [WAProto/index.d.ts:28852](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L28852)
+Defined in: [WAProto/index.d.ts:28852](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L28852)
 
 Creates a new PaymentInviteMessage instance using the specified properties.
 
@@ -104,7 +104,7 @@ PaymentInviteMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`PaymentInviteMessage`](PaymentInviteMessage.md)
 
-Defined in: [WAProto/index.d.ts:28878](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L28878)
+Defined in: [WAProto/index.d.ts:28878](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L28878)
 
 Decodes a PaymentInviteMessage message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PaymentInviteMessage`](PaymentInviteMessage.md)
 
-Defined in: [WAProto/index.d.ts:28887](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L28887)
+Defined in: [WAProto/index.d.ts:28887](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L28887)
 
 Decodes a PaymentInviteMessage message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28860](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L28860)
+Defined in: [WAProto/index.d.ts:28860](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L28860)
 
 Encodes the specified PaymentInviteMessage message. Does not implicitly [verify](PaymentInviteMessage.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28868](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L28868)
+Defined in: [WAProto/index.d.ts:28868](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L28868)
 
 Encodes the specified PaymentInviteMessage message, length delimited. Does not implicitly [verify](PaymentInviteMessage.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PaymentInviteMessage`](PaymentInviteMessage.md)
 
-Defined in: [WAProto/index.d.ts:28901](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L28901)
+Defined in: [WAProto/index.d.ts:28901](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L28901)
 
 Creates a PaymentInviteMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ PaymentInviteMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:28922](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L28922)
+Defined in: [WAProto/index.d.ts:28922](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L28922)
 
 Gets the default type url for PaymentInviteMessage
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:28909](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L28909)
+Defined in: [WAProto/index.d.ts:28909](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L28909)
 
 Creates a plain object from a PaymentInviteMessage message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28894](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L28894)
+Defined in: [WAProto/index.d.ts:28894](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L28894)
 
 Verifies a PaymentInviteMessage message.
 

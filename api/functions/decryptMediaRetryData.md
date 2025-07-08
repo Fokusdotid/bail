@@ -2,7 +2,7 @@
 
 > **decryptMediaRetryData**(`__namedParameters`, `mediaKey`, `msgId`): `Promise`\<[`MediaRetryNotification`](../namespaces/proto/classes/MediaRetryNotification.md)\>
 
-Defined in: [src/Utils/messages-media.ts:776](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Utils/messages-media.ts#L776)
+Defined in: [src/Utils/messages-media.ts:780](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/Utils/messages-media.ts#L780)
 
 ## Parameters
 

@@ -1,6 +1,6 @@
 # Enumeration: Rank
 
-Defined in: [WAProto/index.d.ts:15322](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L15322)
+Defined in: [WAProto/index.d.ts:15322](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L15322)
 
 Rank enum.
 
@@ -10,7 +10,7 @@ Rank enum.
 
 > **ADMIN**: `1`
 
-Defined in: [WAProto/index.d.ts:15324](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L15324)
+Defined in: [WAProto/index.d.ts:15324](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L15324)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:15324](https://github.com/Fokusdotid/bail/blob/c
 
 > **REGULAR**: `0`
 
-Defined in: [WAProto/index.d.ts:15323](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L15323)
+Defined in: [WAProto/index.d.ts:15323](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L15323)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:15323](https://github.com/Fokusdotid/bail/blob/c
 
 > **SUPERADMIN**: `2`
 
-Defined in: [WAProto/index.d.ts:15325](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L15325)
+Defined in: [WAProto/index.d.ts:15325](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L15325)

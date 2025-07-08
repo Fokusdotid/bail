@@ -1,6 +1,6 @@
 # Interface: IPlaceholderMessageResendRequest
 
-Defined in: [WAProto/index.d.ts:29611](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L29611)
+Defined in: [WAProto/index.d.ts:29611](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L29611)
 
 Properties of a PlaceholderMessageResendRequest.
 
@@ -10,6 +10,6 @@ Properties of a PlaceholderMessageResendRequest.
 
 > `optional` **messageKey**: `null` \| [`IMessageKey`](../../../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:29614](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L29614)
+Defined in: [WAProto/index.d.ts:29614](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L29614)
 
 PlaceholderMessageResendRequest messageKey

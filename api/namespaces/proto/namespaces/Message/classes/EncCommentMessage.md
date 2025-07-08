@@ -1,6 +1,6 @@
 # Class: EncCommentMessage
 
-Defined in: [WAProto/index.d.ts:22441](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L22441)
+Defined in: [WAProto/index.d.ts:22441](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L22441)
 
 Represents an EncCommentMessage.
 
@@ -14,7 +14,7 @@ Represents an EncCommentMessage.
 
 > **new EncCommentMessage**(`properties`?): [`EncCommentMessage`](EncCommentMessage.md)
 
-Defined in: [WAProto/index.d.ts:22447](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L22447)
+Defined in: [WAProto/index.d.ts:22447](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L22447)
 
 Constructs a new EncCommentMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **encIv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22456](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L22456)
+Defined in: [WAProto/index.d.ts:22456](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L22456)
 
 EncCommentMessage encIv.
 
@@ -50,7 +50,7 @@ EncCommentMessage encIv.
 
 > `optional` **encPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22453](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L22453)
+Defined in: [WAProto/index.d.ts:22453](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L22453)
 
 EncCommentMessage encPayload.
 
@@ -64,7 +64,7 @@ EncCommentMessage encPayload.
 
 > `optional` **targetMessageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:22450](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L22450)
+Defined in: [WAProto/index.d.ts:22450](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L22450)
 
 EncCommentMessage targetMessageKey.
 
@@ -78,7 +78,7 @@ EncCommentMessage targetMessageKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:22526](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L22526)
+Defined in: [WAProto/index.d.ts:22526](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L22526)
 
 Converts this EncCommentMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`EncCommentMessage`](EncCommentMessage.md)
 
-Defined in: [WAProto/index.d.ts:22463](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L22463)
+Defined in: [WAProto/index.d.ts:22463](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L22463)
 
 Creates a new EncCommentMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ EncCommentMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`EncCommentMessage`](EncCommentMessage.md)
 
-Defined in: [WAProto/index.d.ts:22489](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L22489)
+Defined in: [WAProto/index.d.ts:22489](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L22489)
 
 Decodes an EncCommentMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`EncCommentMessage`](EncCommentMessage.md)
 
-Defined in: [WAProto/index.d.ts:22498](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L22498)
+Defined in: [WAProto/index.d.ts:22498](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L22498)
 
 Decodes an EncCommentMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:22471](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L22471)
+Defined in: [WAProto/index.d.ts:22471](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L22471)
 
 Encodes the specified EncCommentMessage message. Does not implicitly [verify](EncCommentMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:22479](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L22479)
+Defined in: [WAProto/index.d.ts:22479](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L22479)
 
 Encodes the specified EncCommentMessage message, length delimited. Does not implicitly [verify](EncCommentMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`EncCommentMessage`](EncCommentMessage.md)
 
-Defined in: [WAProto/index.d.ts:22512](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L22512)
+Defined in: [WAProto/index.d.ts:22512](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L22512)
 
 Creates an EncCommentMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ EncCommentMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:22533](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L22533)
+Defined in: [WAProto/index.d.ts:22533](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L22533)
 
 Gets the default type url for EncCommentMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:22520](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L22520)
+Defined in: [WAProto/index.d.ts:22520](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L22520)
 
 Creates a plain object from an EncCommentMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22505](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L22505)
+Defined in: [WAProto/index.d.ts:22505](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L22505)
 
 Verifies an EncCommentMessage message.
 

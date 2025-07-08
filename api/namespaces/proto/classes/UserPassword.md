@@ -1,6 +1,6 @@
 # Class: UserPassword
 
-Defined in: [WAProto/index.d.ts:51491](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51491)
+Defined in: [WAProto/index.d.ts:51491](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L51491)
 
 Represents a UserPassword.
 
@@ -14,7 +14,7 @@ Represents a UserPassword.
 
 > **new UserPassword**(`properties`?): [`UserPassword`](UserPassword.md)
 
-Defined in: [WAProto/index.d.ts:51497](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51497)
+Defined in: [WAProto/index.d.ts:51497](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L51497)
 
 Constructs a new UserPassword.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **encoding**: `null` \| [`Encoding`](../namespaces/UserPassword/enumerations/Encoding.md)
 
-Defined in: [WAProto/index.d.ts:51500](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51500)
+Defined in: [WAProto/index.d.ts:51500](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L51500)
 
 UserPassword encoding.
 
@@ -50,7 +50,7 @@ UserPassword encoding.
 
 > `optional` **transformedData**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:51509](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51509)
+Defined in: [WAProto/index.d.ts:51509](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L51509)
 
 UserPassword transformedData.
 
@@ -64,7 +64,7 @@ UserPassword transformedData.
 
 > `optional` **transformer**: `null` \| [`Transformer`](../namespaces/UserPassword/enumerations/Transformer.md)
 
-Defined in: [WAProto/index.d.ts:51503](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51503)
+Defined in: [WAProto/index.d.ts:51503](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L51503)
 
 UserPassword transformer.
 
@@ -78,7 +78,7 @@ UserPassword transformer.
 
 > **transformerArg**: [`ITransformerArg`](../namespaces/UserPassword/interfaces/ITransformerArg.md)[]
 
-Defined in: [WAProto/index.d.ts:51506](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51506)
+Defined in: [WAProto/index.d.ts:51506](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L51506)
 
 UserPassword transformerArg.
 
@@ -92,7 +92,7 @@ UserPassword transformerArg.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:51579](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51579)
+Defined in: [WAProto/index.d.ts:51579](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L51579)
 
 Converts this UserPassword to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`UserPassword`](UserPassword.md)
 
-Defined in: [WAProto/index.d.ts:51516](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51516)
+Defined in: [WAProto/index.d.ts:51516](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L51516)
 
 Creates a new UserPassword instance using the specified properties.
 
@@ -132,7 +132,7 @@ UserPassword instance
 
 > `static` **decode**(`reader`, `length`?): [`UserPassword`](UserPassword.md)
 
-Defined in: [WAProto/index.d.ts:51542](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51542)
+Defined in: [WAProto/index.d.ts:51542](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L51542)
 
 Decodes a UserPassword message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`UserPassword`](UserPassword.md)
 
-Defined in: [WAProto/index.d.ts:51551](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51551)
+Defined in: [WAProto/index.d.ts:51551](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L51551)
 
 Decodes a UserPassword message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:51524](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51524)
+Defined in: [WAProto/index.d.ts:51524](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L51524)
 
 Encodes the specified UserPassword message. Does not implicitly [verify](UserPassword.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:51532](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51532)
+Defined in: [WAProto/index.d.ts:51532](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L51532)
 
 Encodes the specified UserPassword message, length delimited. Does not implicitly [verify](UserPassword.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`UserPassword`](UserPassword.md)
 
-Defined in: [WAProto/index.d.ts:51565](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51565)
+Defined in: [WAProto/index.d.ts:51565](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L51565)
 
 Creates a UserPassword message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ UserPassword
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:51586](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51586)
+Defined in: [WAProto/index.d.ts:51586](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L51586)
 
 Gets the default type url for UserPassword
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:51573](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51573)
+Defined in: [WAProto/index.d.ts:51573](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L51573)
 
 Creates a plain object from a UserPassword message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:51558](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51558)
+Defined in: [WAProto/index.d.ts:51558](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L51558)
 
 Verifies a UserPassword message.
 

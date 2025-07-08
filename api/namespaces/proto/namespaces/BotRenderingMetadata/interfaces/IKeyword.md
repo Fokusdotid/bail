@@ -1,6 +1,6 @@
 # Interface: IKeyword
 
-Defined in: [WAProto/index.d.ts:6923](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L6923)
+Defined in: [WAProto/index.d.ts:6923](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L6923)
 
 Properties of a Keyword.
 
@@ -10,7 +10,7 @@ Properties of a Keyword.
 
 > `optional` **associatedPrompts**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:6929](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L6929)
+Defined in: [WAProto/index.d.ts:6929](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L6929)
 
 Keyword associatedPrompts
 
@@ -20,6 +20,6 @@ Keyword associatedPrompts
 
 > `optional` **value**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:6926](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L6926)
+Defined in: [WAProto/index.d.ts:6926](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L6926)
 
 Keyword value

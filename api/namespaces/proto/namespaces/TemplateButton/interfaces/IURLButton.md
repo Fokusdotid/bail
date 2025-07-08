@@ -1,6 +1,6 @@
 # Interface: IURLButton
 
-Defined in: [WAProto/index.d.ts:51156](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51156)
+Defined in: [WAProto/index.d.ts:51156](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L51156)
 
 Properties of a URLButton.
 
@@ -10,7 +10,7 @@ Properties of a URLButton.
 
 > `optional` **displayText**: `null` \| [`IHighlyStructuredMessage`](../../Message/interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:51159](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51159)
+Defined in: [WAProto/index.d.ts:51159](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L51159)
 
 URLButton displayText
 
@@ -20,6 +20,6 @@ URLButton displayText
 
 > `optional` **url**: `null` \| [`IHighlyStructuredMessage`](../../Message/interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:51162](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51162)
+Defined in: [WAProto/index.d.ts:51162](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L51162)
 
 URLButton url

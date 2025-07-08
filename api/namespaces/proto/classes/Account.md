@@ -1,6 +1,6 @@
 # Class: Account
 
-Defined in: [WAProto/index.d.ts:2806](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2806)
+Defined in: [WAProto/index.d.ts:2806](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2806)
 
 Represents an Account.
 
@@ -14,7 +14,7 @@ Represents an Account.
 
 > **new Account**(`properties`?): [`Account`](Account.md)
 
-Defined in: [WAProto/index.d.ts:2812](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2812)
+Defined in: [WAProto/index.d.ts:2812](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2812)
 
 Constructs a new Account.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **countryCode**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2821](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2821)
+Defined in: [WAProto/index.d.ts:2821](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2821)
 
 Account countryCode.
 
@@ -50,7 +50,7 @@ Account countryCode.
 
 > `optional` **isUsernameDeleted**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:2824](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2824)
+Defined in: [WAProto/index.d.ts:2824](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2824)
 
 Account isUsernameDeleted.
 
@@ -64,7 +64,7 @@ Account isUsernameDeleted.
 
 > `optional` **lid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2815](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2815)
+Defined in: [WAProto/index.d.ts:2815](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2815)
 
 Account lid.
 
@@ -78,7 +78,7 @@ Account lid.
 
 > `optional` **username**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2818](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2818)
+Defined in: [WAProto/index.d.ts:2818](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2818)
 
 Account username.
 
@@ -92,7 +92,7 @@ Account username.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:2894](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2894)
+Defined in: [WAProto/index.d.ts:2894](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2894)
 
 Converts this Account to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Account`](Account.md)
 
-Defined in: [WAProto/index.d.ts:2831](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2831)
+Defined in: [WAProto/index.d.ts:2831](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2831)
 
 Creates a new Account instance using the specified properties.
 
@@ -132,7 +132,7 @@ Account instance
 
 > `static` **decode**(`reader`, `length`?): [`Account`](Account.md)
 
-Defined in: [WAProto/index.d.ts:2857](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2857)
+Defined in: [WAProto/index.d.ts:2857](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2857)
 
 Decodes an Account message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Account`](Account.md)
 
-Defined in: [WAProto/index.d.ts:2866](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2866)
+Defined in: [WAProto/index.d.ts:2866](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2866)
 
 Decodes an Account message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2839](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2839)
+Defined in: [WAProto/index.d.ts:2839](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2839)
 
 Encodes the specified Account message. Does not implicitly [verify](Account.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2847](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2847)
+Defined in: [WAProto/index.d.ts:2847](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2847)
 
 Encodes the specified Account message, length delimited. Does not implicitly [verify](Account.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Account`](Account.md)
 
-Defined in: [WAProto/index.d.ts:2880](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2880)
+Defined in: [WAProto/index.d.ts:2880](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2880)
 
 Creates an Account message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ Account
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:2901](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2901)
+Defined in: [WAProto/index.d.ts:2901](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2901)
 
 Gets the default type url for Account
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:2888](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2888)
+Defined in: [WAProto/index.d.ts:2888](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2888)
 
 Creates a plain object from an Account message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2873](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2873)
+Defined in: [WAProto/index.d.ts:2873](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2873)
 
 Verifies an Account message.
 

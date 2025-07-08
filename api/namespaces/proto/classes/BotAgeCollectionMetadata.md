@@ -1,6 +1,6 @@
 # Class: BotAgeCollectionMetadata
 
-Defined in: [WAProto/index.d.ts:3635](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3635)
+Defined in: [WAProto/index.d.ts:3635](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L3635)
 
 Represents a BotAgeCollectionMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotAgeCollectionMetadata.
 
 > **new BotAgeCollectionMetadata**(`properties`?): [`BotAgeCollectionMetadata`](BotAgeCollectionMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3641](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3641)
+Defined in: [WAProto/index.d.ts:3641](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L3641)
 
 Constructs a new BotAgeCollectionMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **ageCollectionEligible**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:3644](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3644)
+Defined in: [WAProto/index.d.ts:3644](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L3644)
 
 BotAgeCollectionMetadata ageCollectionEligible.
 
@@ -50,7 +50,7 @@ BotAgeCollectionMetadata ageCollectionEligible.
 
 > `optional` **shouldTriggerAgeCollectionOnClient**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:3647](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3647)
+Defined in: [WAProto/index.d.ts:3647](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L3647)
 
 BotAgeCollectionMetadata shouldTriggerAgeCollectionOnClient.
 
@@ -64,7 +64,7 @@ BotAgeCollectionMetadata shouldTriggerAgeCollectionOnClient.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:3717](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3717)
+Defined in: [WAProto/index.d.ts:3717](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L3717)
 
 Converts this BotAgeCollectionMetadata to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotAgeCollectionMetadata`](BotAgeCollectionMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3654](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3654)
+Defined in: [WAProto/index.d.ts:3654](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L3654)
 
 Creates a new BotAgeCollectionMetadata instance using the specified properties.
 
@@ -104,7 +104,7 @@ BotAgeCollectionMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotAgeCollectionMetadata`](BotAgeCollectionMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3680](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3680)
+Defined in: [WAProto/index.d.ts:3680](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L3680)
 
 Decodes a BotAgeCollectionMetadata message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotAgeCollectionMetadata`](BotAgeCollectionMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3689](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3689)
+Defined in: [WAProto/index.d.ts:3689](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L3689)
 
 Decodes a BotAgeCollectionMetadata message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3662](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3662)
+Defined in: [WAProto/index.d.ts:3662](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L3662)
 
 Encodes the specified BotAgeCollectionMetadata message. Does not implicitly [verify](BotAgeCollectionMetadata.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3670](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3670)
+Defined in: [WAProto/index.d.ts:3670](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L3670)
 
 Encodes the specified BotAgeCollectionMetadata message, length delimited. Does not implicitly [verify](BotAgeCollectionMetadata.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotAgeCollectionMetadata`](BotAgeCollectionMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3703](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3703)
+Defined in: [WAProto/index.d.ts:3703](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L3703)
 
 Creates a BotAgeCollectionMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ BotAgeCollectionMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:3724](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3724)
+Defined in: [WAProto/index.d.ts:3724](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L3724)
 
 Gets the default type url for BotAgeCollectionMetadata
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:3711](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3711)
+Defined in: [WAProto/index.d.ts:3711](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L3711)
 
 Creates a plain object from a BotAgeCollectionMetadata message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3696](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3696)
+Defined in: [WAProto/index.d.ts:3696](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L3696)
 
 Verifies a BotAgeCollectionMetadata message.
 

@@ -1,6 +1,6 @@
 # Interface: ICustomPaymentMethodsAction
 
-Defined in: [WAProto/index.d.ts:44914](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L44914)
+Defined in: [WAProto/index.d.ts:44914](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L44914)
 
 Properties of a CustomPaymentMethodsAction.
 
@@ -10,6 +10,6 @@ Properties of a CustomPaymentMethodsAction.
 
 > `optional` **customPaymentMethods**: `null` \| [`ICustomPaymentMethod`](ICustomPaymentMethod.md)[]
 
-Defined in: [WAProto/index.d.ts:44917](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L44917)
+Defined in: [WAProto/index.d.ts:44917](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L44917)
 
 CustomPaymentMethodsAction customPaymentMethods

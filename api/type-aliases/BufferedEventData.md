@@ -2,7 +2,7 @@
 
 > **BufferedEventData**: `object`
 
-Defined in: [src/Types/Events.ts:86](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/Events.ts#L86)
+Defined in: [src/Types/Events.ts:86](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/Types/Events.ts#L86)
 
 ## Type declaration
 

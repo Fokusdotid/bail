@@ -1,6 +1,6 @@
 # Class: WebInfo
 
-Defined in: [WAProto/index.d.ts:10056](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L10056)
+Defined in: [WAProto/index.d.ts:10056](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L10056)
 
 Represents a WebInfo.
 
@@ -14,7 +14,7 @@ Represents a WebInfo.
 
 > **new WebInfo**(`properties`?): [`WebInfo`](WebInfo.md)
 
-Defined in: [WAProto/index.d.ts:10062](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L10062)
+Defined in: [WAProto/index.d.ts:10062](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L10062)
 
 Constructs a new WebInfo.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **refToken**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10065](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L10065)
+Defined in: [WAProto/index.d.ts:10065](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L10065)
 
 WebInfo refToken.
 
@@ -50,7 +50,7 @@ WebInfo refToken.
 
 > `optional` **version**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10068](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L10068)
+Defined in: [WAProto/index.d.ts:10068](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L10068)
 
 WebInfo version.
 
@@ -64,7 +64,7 @@ WebInfo version.
 
 > `optional` **webdPayload**: `null` \| [`IWebdPayload`](../namespaces/WebInfo/interfaces/IWebdPayload.md)
 
-Defined in: [WAProto/index.d.ts:10071](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L10071)
+Defined in: [WAProto/index.d.ts:10071](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L10071)
 
 WebInfo webdPayload.
 
@@ -78,7 +78,7 @@ WebInfo webdPayload.
 
 > `optional` **webSubPlatform**: `null` \| [`WebSubPlatform`](../namespaces/WebInfo/enumerations/WebSubPlatform.md)
 
-Defined in: [WAProto/index.d.ts:10074](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L10074)
+Defined in: [WAProto/index.d.ts:10074](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L10074)
 
 WebInfo webSubPlatform.
 
@@ -92,7 +92,7 @@ WebInfo webSubPlatform.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:10144](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L10144)
+Defined in: [WAProto/index.d.ts:10144](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L10144)
 
 Converts this WebInfo to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`WebInfo`](WebInfo.md)
 
-Defined in: [WAProto/index.d.ts:10081](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L10081)
+Defined in: [WAProto/index.d.ts:10081](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L10081)
 
 Creates a new WebInfo instance using the specified properties.
 
@@ -132,7 +132,7 @@ WebInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`WebInfo`](WebInfo.md)
 
-Defined in: [WAProto/index.d.ts:10107](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L10107)
+Defined in: [WAProto/index.d.ts:10107](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L10107)
 
 Decodes a WebInfo message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`WebInfo`](WebInfo.md)
 
-Defined in: [WAProto/index.d.ts:10116](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L10116)
+Defined in: [WAProto/index.d.ts:10116](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L10116)
 
 Decodes a WebInfo message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:10089](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L10089)
+Defined in: [WAProto/index.d.ts:10089](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L10089)
 
 Encodes the specified WebInfo message. Does not implicitly [verify](WebInfo.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:10097](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L10097)
+Defined in: [WAProto/index.d.ts:10097](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L10097)
 
 Encodes the specified WebInfo message, length delimited. Does not implicitly [verify](WebInfo.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`WebInfo`](WebInfo.md)
 
-Defined in: [WAProto/index.d.ts:10130](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L10130)
+Defined in: [WAProto/index.d.ts:10130](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L10130)
 
 Creates a WebInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ WebInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:10151](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L10151)
+Defined in: [WAProto/index.d.ts:10151](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L10151)
 
 Gets the default type url for WebInfo
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:10138](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L10138)
+Defined in: [WAProto/index.d.ts:10138](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L10138)
 
 Creates a plain object from a WebInfo message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10123](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L10123)
+Defined in: [WAProto/index.d.ts:10123](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L10123)
 
 Verifies a WebInfo message.
 

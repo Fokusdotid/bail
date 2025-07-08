@@ -2,7 +2,7 @@
 
 > **makeWASocket**(`config`): `object`
 
-Defined in: [src/Socket/index.ts:6](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Socket/index.ts#L6)
+Defined in: [src/Socket/index.ts:6](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/Socket/index.ts#L6)
 
 ## Parameters
 

@@ -1,6 +1,6 @@
 # Class: StatusMentionMessage
 
-Defined in: [WAProto/index.d.ts:42772](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L42772)
+Defined in: [WAProto/index.d.ts:42772](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L42772)
 
 Represents a StatusMentionMessage.
 
@@ -14,7 +14,7 @@ Represents a StatusMentionMessage.
 
 > **new StatusMentionMessage**(`properties`?): [`StatusMentionMessage`](StatusMentionMessage.md)
 
-Defined in: [WAProto/index.d.ts:42778](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L42778)
+Defined in: [WAProto/index.d.ts:42778](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L42778)
 
 Constructs a new StatusMentionMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **quotedStatus**: `null` \| [`IMessage`](../interfaces/IMessage.md)
 
-Defined in: [WAProto/index.d.ts:42781](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L42781)
+Defined in: [WAProto/index.d.ts:42781](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L42781)
 
 StatusMentionMessage quotedStatus.
 
@@ -50,7 +50,7 @@ StatusMentionMessage quotedStatus.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:42851](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L42851)
+Defined in: [WAProto/index.d.ts:42851](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L42851)
 
 Converts this StatusMentionMessage to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`StatusMentionMessage`](StatusMentionMessage.md)
 
-Defined in: [WAProto/index.d.ts:42788](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L42788)
+Defined in: [WAProto/index.d.ts:42788](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L42788)
 
 Creates a new StatusMentionMessage instance using the specified properties.
 
@@ -90,7 +90,7 @@ StatusMentionMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`StatusMentionMessage`](StatusMentionMessage.md)
 
-Defined in: [WAProto/index.d.ts:42814](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L42814)
+Defined in: [WAProto/index.d.ts:42814](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L42814)
 
 Decodes a StatusMentionMessage message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`StatusMentionMessage`](StatusMentionMessage.md)
 
-Defined in: [WAProto/index.d.ts:42823](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L42823)
+Defined in: [WAProto/index.d.ts:42823](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L42823)
 
 Decodes a StatusMentionMessage message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42796](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L42796)
+Defined in: [WAProto/index.d.ts:42796](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L42796)
 
 Encodes the specified StatusMentionMessage message. Does not implicitly [verify](StatusMentionMessage.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42804](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L42804)
+Defined in: [WAProto/index.d.ts:42804](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L42804)
 
 Encodes the specified StatusMentionMessage message, length delimited. Does not implicitly [verify](StatusMentionMessage.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`StatusMentionMessage`](StatusMentionMessage.md)
 
-Defined in: [WAProto/index.d.ts:42837](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L42837)
+Defined in: [WAProto/index.d.ts:42837](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L42837)
 
 Creates a StatusMentionMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ StatusMentionMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:42858](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L42858)
+Defined in: [WAProto/index.d.ts:42858](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L42858)
 
 Gets the default type url for StatusMentionMessage
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:42845](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L42845)
+Defined in: [WAProto/index.d.ts:42845](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L42845)
 
 Creates a plain object from a StatusMentionMessage message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:42830](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L42830)
+Defined in: [WAProto/index.d.ts:42830](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L42830)
 
 Verifies a StatusMentionMessage message.
 

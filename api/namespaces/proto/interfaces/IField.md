@@ -1,6 +1,6 @@
 # Interface: IField
 
-Defined in: [WAProto/index.d.ts:14782](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14782)
+Defined in: [WAProto/index.d.ts:14782](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L14782)
 
 Properties of a Field.
 
@@ -10,7 +10,7 @@ Properties of a Field.
 
 > `optional` **isMessage**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:14794](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14794)
+Defined in: [WAProto/index.d.ts:14794](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L14794)
 
 Field isMessage
 
@@ -20,7 +20,7 @@ Field isMessage
 
 > `optional` **maxVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:14788](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14788)
+Defined in: [WAProto/index.d.ts:14788](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L14788)
 
 Field maxVersion
 
@@ -30,7 +30,7 @@ Field maxVersion
 
 > `optional` **minVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:14785](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14785)
+Defined in: [WAProto/index.d.ts:14785](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L14785)
 
 Field minVersion
 
@@ -40,7 +40,7 @@ Field minVersion
 
 > `optional` **notReportableMinVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:14791](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14791)
+Defined in: [WAProto/index.d.ts:14791](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L14791)
 
 Field notReportableMinVersion
 
@@ -50,6 +50,6 @@ Field notReportableMinVersion
 
 > `optional` **subfield**: `null` \| \{\}
 
-Defined in: [WAProto/index.d.ts:14797](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14797)
+Defined in: [WAProto/index.d.ts:14797](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L14797)
 
 Field subfield

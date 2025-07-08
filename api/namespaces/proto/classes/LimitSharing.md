@@ -1,6 +1,6 @@
 # Class: LimitSharing
 
-Defined in: [WAProto/index.d.ts:17566](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L17566)
+Defined in: [WAProto/index.d.ts:17566](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17566)
 
 Represents a LimitSharing.
 
@@ -14,7 +14,7 @@ Represents a LimitSharing.
 
 > **new LimitSharing**(`properties`?): [`LimitSharing`](LimitSharing.md)
 
-Defined in: [WAProto/index.d.ts:17572](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L17572)
+Defined in: [WAProto/index.d.ts:17572](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17572)
 
 Constructs a new LimitSharing.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **initiatedByMe**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:17584](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L17584)
+Defined in: [WAProto/index.d.ts:17584](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17584)
 
 LimitSharing initiatedByMe.
 
@@ -50,7 +50,7 @@ LimitSharing initiatedByMe.
 
 > `optional` **limitSharingSettingTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:17581](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L17581)
+Defined in: [WAProto/index.d.ts:17581](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17581)
 
 LimitSharing limitSharingSettingTimestamp.
 
@@ -64,7 +64,7 @@ LimitSharing limitSharingSettingTimestamp.
 
 > `optional` **sharingLimited**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:17575](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L17575)
+Defined in: [WAProto/index.d.ts:17575](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17575)
 
 LimitSharing sharingLimited.
 
@@ -78,7 +78,7 @@ LimitSharing sharingLimited.
 
 > `optional` **trigger**: `null` \| [`TriggerType`](../namespaces/LimitSharing/enumerations/TriggerType.md)
 
-Defined in: [WAProto/index.d.ts:17578](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L17578)
+Defined in: [WAProto/index.d.ts:17578](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17578)
 
 LimitSharing trigger.
 
@@ -92,7 +92,7 @@ LimitSharing trigger.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:17654](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L17654)
+Defined in: [WAProto/index.d.ts:17654](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17654)
 
 Converts this LimitSharing to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LimitSharing`](LimitSharing.md)
 
-Defined in: [WAProto/index.d.ts:17591](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L17591)
+Defined in: [WAProto/index.d.ts:17591](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17591)
 
 Creates a new LimitSharing instance using the specified properties.
 
@@ -132,7 +132,7 @@ LimitSharing instance
 
 > `static` **decode**(`reader`, `length`?): [`LimitSharing`](LimitSharing.md)
 
-Defined in: [WAProto/index.d.ts:17617](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L17617)
+Defined in: [WAProto/index.d.ts:17617](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17617)
 
 Decodes a LimitSharing message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LimitSharing`](LimitSharing.md)
 
-Defined in: [WAProto/index.d.ts:17626](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L17626)
+Defined in: [WAProto/index.d.ts:17626](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17626)
 
 Decodes a LimitSharing message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17599](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L17599)
+Defined in: [WAProto/index.d.ts:17599](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17599)
 
 Encodes the specified LimitSharing message. Does not implicitly [verify](LimitSharing.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17607](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L17607)
+Defined in: [WAProto/index.d.ts:17607](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17607)
 
 Encodes the specified LimitSharing message, length delimited. Does not implicitly [verify](LimitSharing.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LimitSharing`](LimitSharing.md)
 
-Defined in: [WAProto/index.d.ts:17640](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L17640)
+Defined in: [WAProto/index.d.ts:17640](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17640)
 
 Creates a LimitSharing message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ LimitSharing
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:17661](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L17661)
+Defined in: [WAProto/index.d.ts:17661](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17661)
 
 Gets the default type url for LimitSharing
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:17648](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L17648)
+Defined in: [WAProto/index.d.ts:17648](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17648)
 
 Creates a plain object from a LimitSharing message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:17633](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L17633)
+Defined in: [WAProto/index.d.ts:17633](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17633)
 
 Verifies a LimitSharing message.
 

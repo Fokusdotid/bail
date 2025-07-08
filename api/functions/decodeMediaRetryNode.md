@@ -2,7 +2,7 @@
 
 > **decodeMediaRetryNode**(`node`): `object`
 
-Defined in: [src/Utils/messages-media.ts:743](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Utils/messages-media.ts#L743)
+Defined in: [src/Utils/messages-media.ts:747](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/Utils/messages-media.ts#L747)
 
 ## Parameters
 

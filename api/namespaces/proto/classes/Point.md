@@ -1,6 +1,6 @@
 # Class: Point
 
-Defined in: [WAProto/index.d.ts:39176](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39176)
+Defined in: [WAProto/index.d.ts:39176](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39176)
 
 Represents a Point.
 
@@ -14,7 +14,7 @@ Represents a Point.
 
 > **new Point**(`properties`?): [`Point`](Point.md)
 
-Defined in: [WAProto/index.d.ts:39182](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39182)
+Defined in: [WAProto/index.d.ts:39182](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39182)
 
 Constructs a new Point.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **x**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39191](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39191)
+Defined in: [WAProto/index.d.ts:39191](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39191)
 
 Point x.
 
@@ -50,7 +50,7 @@ Point x.
 
 > `optional` **xDeprecated**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39185](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39185)
+Defined in: [WAProto/index.d.ts:39185](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39185)
 
 Point xDeprecated.
 
@@ -64,7 +64,7 @@ Point xDeprecated.
 
 > `optional` **y**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39194](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39194)
+Defined in: [WAProto/index.d.ts:39194](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39194)
 
 Point y.
 
@@ -78,7 +78,7 @@ Point y.
 
 > `optional` **yDeprecated**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39188](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39188)
+Defined in: [WAProto/index.d.ts:39188](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39188)
 
 Point yDeprecated.
 
@@ -92,7 +92,7 @@ Point yDeprecated.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:39264](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39264)
+Defined in: [WAProto/index.d.ts:39264](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39264)
 
 Converts this Point to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Point`](Point.md)
 
-Defined in: [WAProto/index.d.ts:39201](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39201)
+Defined in: [WAProto/index.d.ts:39201](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39201)
 
 Creates a new Point instance using the specified properties.
 
@@ -132,7 +132,7 @@ Point instance
 
 > `static` **decode**(`reader`, `length`?): [`Point`](Point.md)
 
-Defined in: [WAProto/index.d.ts:39227](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39227)
+Defined in: [WAProto/index.d.ts:39227](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39227)
 
 Decodes a Point message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Point`](Point.md)
 
-Defined in: [WAProto/index.d.ts:39236](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39236)
+Defined in: [WAProto/index.d.ts:39236](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39236)
 
 Decodes a Point message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39209](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39209)
+Defined in: [WAProto/index.d.ts:39209](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39209)
 
 Encodes the specified Point message. Does not implicitly [verify](Point.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39217](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39217)
+Defined in: [WAProto/index.d.ts:39217](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39217)
 
 Encodes the specified Point message, length delimited. Does not implicitly [verify](Point.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Point`](Point.md)
 
-Defined in: [WAProto/index.d.ts:39250](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39250)
+Defined in: [WAProto/index.d.ts:39250](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39250)
 
 Creates a Point message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ Point
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:39271](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39271)
+Defined in: [WAProto/index.d.ts:39271](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39271)
 
 Gets the default type url for Point
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:39258](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39258)
+Defined in: [WAProto/index.d.ts:39258](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39258)
 
 Creates a plain object from a Point message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:39243](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L39243)
+Defined in: [WAProto/index.d.ts:39243](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L39243)
 
 Verifies a Point message.
 

@@ -1,6 +1,6 @@
 # Class: LabelReorderingAction
 
-Defined in: [WAProto/index.d.ts:45963](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L45963)
+Defined in: [WAProto/index.d.ts:45963](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L45963)
 
 Represents a LabelReorderingAction.
 
@@ -14,7 +14,7 @@ Represents a LabelReorderingAction.
 
 > **new LabelReorderingAction**(`properties`?): [`LabelReorderingAction`](LabelReorderingAction.md)
 
-Defined in: [WAProto/index.d.ts:45969](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L45969)
+Defined in: [WAProto/index.d.ts:45969](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L45969)
 
 Constructs a new LabelReorderingAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **sortedLabelIds**: `number`[]
 
-Defined in: [WAProto/index.d.ts:45972](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L45972)
+Defined in: [WAProto/index.d.ts:45972](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L45972)
 
 LabelReorderingAction sortedLabelIds.
 
@@ -50,7 +50,7 @@ LabelReorderingAction sortedLabelIds.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:46042](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L46042)
+Defined in: [WAProto/index.d.ts:46042](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L46042)
 
 Converts this LabelReorderingAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LabelReorderingAction`](LabelReorderingAction.md)
 
-Defined in: [WAProto/index.d.ts:45979](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L45979)
+Defined in: [WAProto/index.d.ts:45979](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L45979)
 
 Creates a new LabelReorderingAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ LabelReorderingAction instance
 
 > `static` **decode**(`reader`, `length`?): [`LabelReorderingAction`](LabelReorderingAction.md)
 
-Defined in: [WAProto/index.d.ts:46005](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L46005)
+Defined in: [WAProto/index.d.ts:46005](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L46005)
 
 Decodes a LabelReorderingAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LabelReorderingAction`](LabelReorderingAction.md)
 
-Defined in: [WAProto/index.d.ts:46014](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L46014)
+Defined in: [WAProto/index.d.ts:46014](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L46014)
 
 Decodes a LabelReorderingAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:45987](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L45987)
+Defined in: [WAProto/index.d.ts:45987](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L45987)
 
 Encodes the specified LabelReorderingAction message. Does not implicitly [verify](LabelReorderingAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:45995](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L45995)
+Defined in: [WAProto/index.d.ts:45995](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L45995)
 
 Encodes the specified LabelReorderingAction message, length delimited. Does not implicitly [verify](LabelReorderingAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LabelReorderingAction`](LabelReorderingAction.md)
 
-Defined in: [WAProto/index.d.ts:46028](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L46028)
+Defined in: [WAProto/index.d.ts:46028](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L46028)
 
 Creates a LabelReorderingAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ LabelReorderingAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:46049](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L46049)
+Defined in: [WAProto/index.d.ts:46049](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L46049)
 
 Gets the default type url for LabelReorderingAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:46036](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L46036)
+Defined in: [WAProto/index.d.ts:46036](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L46036)
 
 Creates a plain object from a LabelReorderingAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46021](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L46021)
+Defined in: [WAProto/index.d.ts:46021](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L46021)
 
 Verifies a LabelReorderingAction message.
 

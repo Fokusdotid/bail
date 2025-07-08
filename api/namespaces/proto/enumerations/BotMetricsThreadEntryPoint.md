@@ -1,6 +1,6 @@
 # Enumeration: BotMetricsThreadEntryPoint
 
-Defined in: [WAProto/index.d.ts:5136](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L5136)
+Defined in: [WAProto/index.d.ts:5136](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L5136)
 
 BotMetricsThreadEntryPoint enum.
 
@@ -10,7 +10,7 @@ BotMetricsThreadEntryPoint enum.
 
 > **AI\_DEEPLINK\_IMMERSIVE\_THREAD**: `3`
 
-Defined in: [WAProto/index.d.ts:5139](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L5139)
+Defined in: [WAProto/index.d.ts:5139](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L5139)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:5139](https://github.com/Fokusdotid/bail/blob/c2
 
 > **AI\_DEEPLINK\_THREAD**: `4`
 
-Defined in: [WAProto/index.d.ts:5140](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L5140)
+Defined in: [WAProto/index.d.ts:5140](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L5140)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:5140](https://github.com/Fokusdotid/bail/blob/c2
 
 > **AI\_HOME\_THREAD**: `2`
 
-Defined in: [WAProto/index.d.ts:5138](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L5138)
+Defined in: [WAProto/index.d.ts:5138](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L5138)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:5138](https://github.com/Fokusdotid/bail/blob/c2
 
 > **AI\_TAB\_THREAD**: `1`
 
-Defined in: [WAProto/index.d.ts:5137](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L5137)
+Defined in: [WAProto/index.d.ts:5137](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L5137)

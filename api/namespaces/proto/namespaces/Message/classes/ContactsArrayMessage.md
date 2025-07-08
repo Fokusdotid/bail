@@ -1,6 +1,6 @@
 # Class: ContactsArrayMessage
 
-Defined in: [WAProto/index.d.ts:21909](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L21909)
+Defined in: [WAProto/index.d.ts:21909](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L21909)
 
 Represents a ContactsArrayMessage.
 
@@ -14,7 +14,7 @@ Represents a ContactsArrayMessage.
 
 > **new ContactsArrayMessage**(`properties`?): [`ContactsArrayMessage`](ContactsArrayMessage.md)
 
-Defined in: [WAProto/index.d.ts:21915](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L21915)
+Defined in: [WAProto/index.d.ts:21915](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L21915)
 
 Constructs a new ContactsArrayMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **contacts**: [`IContactMessage`](../interfaces/IContactMessage.md)[]
 
-Defined in: [WAProto/index.d.ts:21921](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L21921)
+Defined in: [WAProto/index.d.ts:21921](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L21921)
 
 ContactsArrayMessage contacts.
 
@@ -50,7 +50,7 @@ ContactsArrayMessage contacts.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:21924](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L21924)
+Defined in: [WAProto/index.d.ts:21924](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L21924)
 
 ContactsArrayMessage contextInfo.
 
@@ -64,7 +64,7 @@ ContactsArrayMessage contextInfo.
 
 > `optional` **displayName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21918](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L21918)
+Defined in: [WAProto/index.d.ts:21918](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L21918)
 
 ContactsArrayMessage displayName.
 
@@ -78,7 +78,7 @@ ContactsArrayMessage displayName.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:21994](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L21994)
+Defined in: [WAProto/index.d.ts:21994](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L21994)
 
 Converts this ContactsArrayMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ContactsArrayMessage`](ContactsArrayMessage.md)
 
-Defined in: [WAProto/index.d.ts:21931](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L21931)
+Defined in: [WAProto/index.d.ts:21931](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L21931)
 
 Creates a new ContactsArrayMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ ContactsArrayMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`ContactsArrayMessage`](ContactsArrayMessage.md)
 
-Defined in: [WAProto/index.d.ts:21957](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L21957)
+Defined in: [WAProto/index.d.ts:21957](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L21957)
 
 Decodes a ContactsArrayMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ContactsArrayMessage`](ContactsArrayMessage.md)
 
-Defined in: [WAProto/index.d.ts:21966](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L21966)
+Defined in: [WAProto/index.d.ts:21966](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L21966)
 
 Decodes a ContactsArrayMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:21939](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L21939)
+Defined in: [WAProto/index.d.ts:21939](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L21939)
 
 Encodes the specified ContactsArrayMessage message. Does not implicitly [verify](ContactsArrayMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:21947](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L21947)
+Defined in: [WAProto/index.d.ts:21947](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L21947)
 
 Encodes the specified ContactsArrayMessage message, length delimited. Does not implicitly [verify](ContactsArrayMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ContactsArrayMessage`](ContactsArrayMessage.md)
 
-Defined in: [WAProto/index.d.ts:21980](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L21980)
+Defined in: [WAProto/index.d.ts:21980](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L21980)
 
 Creates a ContactsArrayMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ ContactsArrayMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:22001](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L22001)
+Defined in: [WAProto/index.d.ts:22001](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L22001)
 
 Gets the default type url for ContactsArrayMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:21988](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L21988)
+Defined in: [WAProto/index.d.ts:21988](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L21988)
 
 Creates a plain object from a ContactsArrayMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21973](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L21973)
+Defined in: [WAProto/index.d.ts:21973](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L21973)
 
 Verifies a ContactsArrayMessage message.
 

@@ -1,6 +1,6 @@
 # Class: BotSourcesMetadata
 
-Defined in: [WAProto/index.d.ts:7148](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L7148)
+Defined in: [WAProto/index.d.ts:7148](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L7148)
 
 Represents a BotSourcesMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotSourcesMetadata.
 
 > **new BotSourcesMetadata**(`properties`?): [`BotSourcesMetadata`](BotSourcesMetadata.md)
 
-Defined in: [WAProto/index.d.ts:7154](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L7154)
+Defined in: [WAProto/index.d.ts:7154](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L7154)
 
 Constructs a new BotSourcesMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **sources**: [`IBotSourceItem`](../namespaces/BotSourcesMetadata/interfaces/IBotSourceItem.md)[]
 
-Defined in: [WAProto/index.d.ts:7157](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L7157)
+Defined in: [WAProto/index.d.ts:7157](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L7157)
 
 BotSourcesMetadata sources.
 
@@ -50,7 +50,7 @@ BotSourcesMetadata sources.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:7227](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L7227)
+Defined in: [WAProto/index.d.ts:7227](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L7227)
 
 Converts this BotSourcesMetadata to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotSourcesMetadata`](BotSourcesMetadata.md)
 
-Defined in: [WAProto/index.d.ts:7164](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L7164)
+Defined in: [WAProto/index.d.ts:7164](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L7164)
 
 Creates a new BotSourcesMetadata instance using the specified properties.
 
@@ -90,7 +90,7 @@ BotSourcesMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotSourcesMetadata`](BotSourcesMetadata.md)
 
-Defined in: [WAProto/index.d.ts:7190](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L7190)
+Defined in: [WAProto/index.d.ts:7190](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L7190)
 
 Decodes a BotSourcesMetadata message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotSourcesMetadata`](BotSourcesMetadata.md)
 
-Defined in: [WAProto/index.d.ts:7199](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L7199)
+Defined in: [WAProto/index.d.ts:7199](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L7199)
 
 Decodes a BotSourcesMetadata message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:7172](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L7172)
+Defined in: [WAProto/index.d.ts:7172](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L7172)
 
 Encodes the specified BotSourcesMetadata message. Does not implicitly [verify](BotSourcesMetadata.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:7180](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L7180)
+Defined in: [WAProto/index.d.ts:7180](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L7180)
 
 Encodes the specified BotSourcesMetadata message, length delimited. Does not implicitly [verify](BotSourcesMetadata.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotSourcesMetadata`](BotSourcesMetadata.md)
 
-Defined in: [WAProto/index.d.ts:7213](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L7213)
+Defined in: [WAProto/index.d.ts:7213](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L7213)
 
 Creates a BotSourcesMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ BotSourcesMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:7234](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L7234)
+Defined in: [WAProto/index.d.ts:7234](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L7234)
 
 Gets the default type url for BotSourcesMetadata
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:7221](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L7221)
+Defined in: [WAProto/index.d.ts:7221](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L7221)
 
 Creates a plain object from a BotSourcesMetadata message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7206](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L7206)
+Defined in: [WAProto/index.d.ts:7206](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L7206)
 
 Verifies a BotSourcesMetadata message.
 

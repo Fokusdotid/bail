@@ -1,6 +1,6 @@
 # Enumeration: Product
 
-Defined in: [WAProto/index.d.ts:9657](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9657)
+Defined in: [WAProto/index.d.ts:9657](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L9657)
 
 Product enum.
 
@@ -10,7 +10,7 @@ Product enum.
 
 > **INTEROP**: `2`
 
-Defined in: [WAProto/index.d.ts:9660](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9660)
+Defined in: [WAProto/index.d.ts:9660](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L9660)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:9660](https://github.com/Fokusdotid/bail/blob/c2
 
 > **INTEROP\_MSGR**: `3`
 
-Defined in: [WAProto/index.d.ts:9661](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9661)
+Defined in: [WAProto/index.d.ts:9661](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L9661)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:9661](https://github.com/Fokusdotid/bail/blob/c2
 
 > **MESSENGER**: `1`
 
-Defined in: [WAProto/index.d.ts:9659](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9659)
+Defined in: [WAProto/index.d.ts:9659](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L9659)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:9659](https://github.com/Fokusdotid/bail/blob/c2
 
 > **WHATSAPP**: `0`
 
-Defined in: [WAProto/index.d.ts:9658](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9658)
+Defined in: [WAProto/index.d.ts:9658](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L9658)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [WAProto/index.d.ts:9658](https://github.com/Fokusdotid/bail/blob/c2
 
 > **WHATSAPP\_LID**: `4`
 
-Defined in: [WAProto/index.d.ts:9662](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9662)
+Defined in: [WAProto/index.d.ts:9662](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L9662)

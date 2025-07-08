@@ -1,6 +1,6 @@
 # Interface: IReportable
 
-Defined in: [WAProto/index.d.ts:40722](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L40722)
+Defined in: [WAProto/index.d.ts:40722](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L40722)
 
 Properties of a Reportable.
 
@@ -10,7 +10,7 @@ Properties of a Reportable.
 
 > `optional` **maxVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:40728](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L40728)
+Defined in: [WAProto/index.d.ts:40728](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L40728)
 
 Reportable maxVersion
 
@@ -20,7 +20,7 @@ Reportable maxVersion
 
 > `optional` **minVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:40725](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L40725)
+Defined in: [WAProto/index.d.ts:40725](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L40725)
 
 Reportable minVersion
 
@@ -30,7 +30,7 @@ Reportable minVersion
 
 > `optional` **never**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:40734](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L40734)
+Defined in: [WAProto/index.d.ts:40734](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L40734)
 
 Reportable never
 
@@ -40,6 +40,6 @@ Reportable never
 
 > `optional` **notReportableMinVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:40731](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L40731)
+Defined in: [WAProto/index.d.ts:40731](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L40731)
 
 Reportable notReportableMinVersion

@@ -2,7 +2,7 @@
 
 > **makeCacheableSignalKeyStore**(`store`, `logger`?, `_cache`?): [`SignalKeyStore`](../type-aliases/SignalKeyStore.md)
 
-Defined in: [src/Utils/auth-utils.ts:23](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Utils/auth-utils.ts#L23)
+Defined in: [src/Utils/auth-utils.ts:23](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/Utils/auth-utils.ts#L23)
 
 Adds caching capability to a SignalKeyStore
 

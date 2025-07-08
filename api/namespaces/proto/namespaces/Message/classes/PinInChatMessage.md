@@ -1,6 +1,6 @@
 # Class: PinInChatMessage
 
-Defined in: [WAProto/index.d.ts:31075](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L31075)
+Defined in: [WAProto/index.d.ts:31075](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31075)
 
 Represents a PinInChatMessage.
 
@@ -14,7 +14,7 @@ Represents a PinInChatMessage.
 
 > **new PinInChatMessage**(`properties`?): [`PinInChatMessage`](PinInChatMessage.md)
 
-Defined in: [WAProto/index.d.ts:31081](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L31081)
+Defined in: [WAProto/index.d.ts:31081](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31081)
 
 Constructs a new PinInChatMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **key**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:31084](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L31084)
+Defined in: [WAProto/index.d.ts:31084](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31084)
 
 PinInChatMessage key.
 
@@ -50,7 +50,7 @@ PinInChatMessage key.
 
 > `optional` **senderTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:31090](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L31090)
+Defined in: [WAProto/index.d.ts:31090](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31090)
 
 PinInChatMessage senderTimestampMs.
 
@@ -64,7 +64,7 @@ PinInChatMessage senderTimestampMs.
 
 > `optional` **type**: `null` \| [`Type`](../namespaces/PinInChatMessage/enumerations/Type.md)
 
-Defined in: [WAProto/index.d.ts:31087](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L31087)
+Defined in: [WAProto/index.d.ts:31087](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31087)
 
 PinInChatMessage type.
 
@@ -78,7 +78,7 @@ PinInChatMessage type.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:31160](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L31160)
+Defined in: [WAProto/index.d.ts:31160](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31160)
 
 Converts this PinInChatMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PinInChatMessage`](PinInChatMessage.md)
 
-Defined in: [WAProto/index.d.ts:31097](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L31097)
+Defined in: [WAProto/index.d.ts:31097](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31097)
 
 Creates a new PinInChatMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ PinInChatMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`PinInChatMessage`](PinInChatMessage.md)
 
-Defined in: [WAProto/index.d.ts:31123](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L31123)
+Defined in: [WAProto/index.d.ts:31123](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31123)
 
 Decodes a PinInChatMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PinInChatMessage`](PinInChatMessage.md)
 
-Defined in: [WAProto/index.d.ts:31132](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L31132)
+Defined in: [WAProto/index.d.ts:31132](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31132)
 
 Decodes a PinInChatMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:31105](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L31105)
+Defined in: [WAProto/index.d.ts:31105](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31105)
 
 Encodes the specified PinInChatMessage message. Does not implicitly [verify](PinInChatMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:31113](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L31113)
+Defined in: [WAProto/index.d.ts:31113](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31113)
 
 Encodes the specified PinInChatMessage message, length delimited. Does not implicitly [verify](PinInChatMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PinInChatMessage`](PinInChatMessage.md)
 
-Defined in: [WAProto/index.d.ts:31146](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L31146)
+Defined in: [WAProto/index.d.ts:31146](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31146)
 
 Creates a PinInChatMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ PinInChatMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:31167](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L31167)
+Defined in: [WAProto/index.d.ts:31167](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31167)
 
 Gets the default type url for PinInChatMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:31154](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L31154)
+Defined in: [WAProto/index.d.ts:31154](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31154)
 
 Creates a plain object from a PinInChatMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:31139](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L31139)
+Defined in: [WAProto/index.d.ts:31139](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31139)
 
 Verifies a PinInChatMessage message.
 

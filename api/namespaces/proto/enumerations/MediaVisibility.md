@@ -1,6 +1,6 @@
 # Enumeration: MediaVisibility
 
-Defined in: [WAProto/index.d.ts:18226](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L18226)
+Defined in: [WAProto/index.d.ts:18226](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L18226)
 
 MediaVisibility enum.
 
@@ -10,7 +10,7 @@ MediaVisibility enum.
 
 > **DEFAULT**: `0`
 
-Defined in: [WAProto/index.d.ts:18227](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L18227)
+Defined in: [WAProto/index.d.ts:18227](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L18227)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:18227](https://github.com/Fokusdotid/bail/blob/c
 
 > **OFF**: `1`
 
-Defined in: [WAProto/index.d.ts:18228](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L18228)
+Defined in: [WAProto/index.d.ts:18228](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L18228)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:18228](https://github.com/Fokusdotid/bail/blob/c
 
 > **ON**: `2`
 
-Defined in: [WAProto/index.d.ts:18229](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L18229)
+Defined in: [WAProto/index.d.ts:18229](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L18229)

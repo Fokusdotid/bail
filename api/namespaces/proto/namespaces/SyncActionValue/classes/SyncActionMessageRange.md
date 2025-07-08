@@ -1,6 +1,6 @@
 # Class: SyncActionMessageRange
 
-Defined in: [WAProto/index.d.ts:49162](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L49162)
+Defined in: [WAProto/index.d.ts:49162](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L49162)
 
 Represents a SyncActionMessageRange.
 
@@ -14,7 +14,7 @@ Represents a SyncActionMessageRange.
 
 > **new SyncActionMessageRange**(`properties`?): [`SyncActionMessageRange`](SyncActionMessageRange.md)
 
-Defined in: [WAProto/index.d.ts:49168](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L49168)
+Defined in: [WAProto/index.d.ts:49168](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L49168)
 
 Constructs a new SyncActionMessageRange.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **lastMessageTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:49171](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L49171)
+Defined in: [WAProto/index.d.ts:49171](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L49171)
 
 SyncActionMessageRange lastMessageTimestamp.
 
@@ -50,7 +50,7 @@ SyncActionMessageRange lastMessageTimestamp.
 
 > `optional` **lastSystemMessageTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:49174](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L49174)
+Defined in: [WAProto/index.d.ts:49174](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L49174)
 
 SyncActionMessageRange lastSystemMessageTimestamp.
 
@@ -64,7 +64,7 @@ SyncActionMessageRange lastSystemMessageTimestamp.
 
 > **messages**: [`ISyncActionMessage`](../interfaces/ISyncActionMessage.md)[]
 
-Defined in: [WAProto/index.d.ts:49177](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L49177)
+Defined in: [WAProto/index.d.ts:49177](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L49177)
 
 SyncActionMessageRange messages.
 
@@ -78,7 +78,7 @@ SyncActionMessageRange messages.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:49247](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L49247)
+Defined in: [WAProto/index.d.ts:49247](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L49247)
 
 Converts this SyncActionMessageRange to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SyncActionMessageRange`](SyncActionMessageRange.md)
 
-Defined in: [WAProto/index.d.ts:49184](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L49184)
+Defined in: [WAProto/index.d.ts:49184](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L49184)
 
 Creates a new SyncActionMessageRange instance using the specified properties.
 
@@ -118,7 +118,7 @@ SyncActionMessageRange instance
 
 > `static` **decode**(`reader`, `length`?): [`SyncActionMessageRange`](SyncActionMessageRange.md)
 
-Defined in: [WAProto/index.d.ts:49210](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L49210)
+Defined in: [WAProto/index.d.ts:49210](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L49210)
 
 Decodes a SyncActionMessageRange message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SyncActionMessageRange`](SyncActionMessageRange.md)
 
-Defined in: [WAProto/index.d.ts:49219](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L49219)
+Defined in: [WAProto/index.d.ts:49219](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L49219)
 
 Decodes a SyncActionMessageRange message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:49192](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L49192)
+Defined in: [WAProto/index.d.ts:49192](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L49192)
 
 Encodes the specified SyncActionMessageRange message. Does not implicitly [verify](SyncActionMessageRange.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:49200](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L49200)
+Defined in: [WAProto/index.d.ts:49200](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L49200)
 
 Encodes the specified SyncActionMessageRange message, length delimited. Does not implicitly [verify](SyncActionMessageRange.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SyncActionMessageRange`](SyncActionMessageRange.md)
 
-Defined in: [WAProto/index.d.ts:49233](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L49233)
+Defined in: [WAProto/index.d.ts:49233](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L49233)
 
 Creates a SyncActionMessageRange message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ SyncActionMessageRange
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:49254](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L49254)
+Defined in: [WAProto/index.d.ts:49254](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L49254)
 
 Gets the default type url for SyncActionMessageRange
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:49241](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L49241)
+Defined in: [WAProto/index.d.ts:49241](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L49241)
 
 Creates a plain object from a SyncActionMessageRange message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:49226](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L49226)
+Defined in: [WAProto/index.d.ts:49226](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L49226)
 
 Verifies a SyncActionMessageRange message.
 

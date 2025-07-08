@@ -1,6 +1,6 @@
 # Interface: IProductSection
 
-Defined in: [WAProto/index.d.ts:27159](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L27159)
+Defined in: [WAProto/index.d.ts:27159](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L27159)
 
 Properties of a ProductSection.
 
@@ -10,7 +10,7 @@ Properties of a ProductSection.
 
 > `optional` **products**: `null` \| [`IProduct`](IProduct.md)[]
 
-Defined in: [WAProto/index.d.ts:27165](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L27165)
+Defined in: [WAProto/index.d.ts:27165](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L27165)
 
 ProductSection products
 
@@ -20,6 +20,6 @@ ProductSection products
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27162](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L27162)
+Defined in: [WAProto/index.d.ts:27162](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L27162)
 
 ProductSection title

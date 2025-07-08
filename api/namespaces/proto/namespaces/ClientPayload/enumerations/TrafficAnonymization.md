@@ -1,6 +1,6 @@
 # Enumeration: TrafficAnonymization
 
-Defined in: [WAProto/index.d.ts:9666](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9666)
+Defined in: [WAProto/index.d.ts:9666](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L9666)
 
 TrafficAnonymization enum.
 
@@ -10,7 +10,7 @@ TrafficAnonymization enum.
 
 > **OFF**: `0`
 
-Defined in: [WAProto/index.d.ts:9667](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9667)
+Defined in: [WAProto/index.d.ts:9667](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L9667)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:9667](https://github.com/Fokusdotid/bail/blob/c2
 
 > **STANDARD**: `1`
 
-Defined in: [WAProto/index.d.ts:9668](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9668)
+Defined in: [WAProto/index.d.ts:9668](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L9668)

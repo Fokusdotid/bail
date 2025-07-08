@@ -1,6 +1,6 @@
 # Enumeration: StatusSourceType
 
-Defined in: [WAProto/index.d.ts:12198](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L12198)
+Defined in: [WAProto/index.d.ts:12198](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L12198)
 
 StatusSourceType enum.
 
@@ -10,7 +10,7 @@ StatusSourceType enum.
 
 > **AUDIO**: `3`
 
-Defined in: [WAProto/index.d.ts:12202](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L12202)
+Defined in: [WAProto/index.d.ts:12202](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L12202)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:12202](https://github.com/Fokusdotid/bail/blob/c
 
 > **GIF**: `2`
 
-Defined in: [WAProto/index.d.ts:12201](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L12201)
+Defined in: [WAProto/index.d.ts:12201](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L12201)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:12201](https://github.com/Fokusdotid/bail/blob/c
 
 > **IMAGE**: `0`
 
-Defined in: [WAProto/index.d.ts:12199](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L12199)
+Defined in: [WAProto/index.d.ts:12199](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L12199)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:12199](https://github.com/Fokusdotid/bail/blob/c
 
 > **MUSIC\_STANDALONE**: `5`
 
-Defined in: [WAProto/index.d.ts:12204](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L12204)
+Defined in: [WAProto/index.d.ts:12204](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L12204)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [WAProto/index.d.ts:12204](https://github.com/Fokusdotid/bail/blob/c
 
 > **TEXT**: `4`
 
-Defined in: [WAProto/index.d.ts:12203](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L12203)
+Defined in: [WAProto/index.d.ts:12203](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L12203)
 
 ***
 
@@ -50,4 +50,4 @@ Defined in: [WAProto/index.d.ts:12203](https://github.com/Fokusdotid/bail/blob/c
 
 > **VIDEO**: `1`
 
-Defined in: [WAProto/index.d.ts:12200](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L12200)
+Defined in: [WAProto/index.d.ts:12200](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L12200)

@@ -1,6 +1,6 @@
 # Interface: ILIDMigration
 
-Defined in: [WAProto/index.d.ts:12843](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L12843)
+Defined in: [WAProto/index.d.ts:12843](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L12843)
 
 Properties of a LIDMigration.
 
@@ -10,6 +10,6 @@ Properties of a LIDMigration.
 
 > `optional` **chatDbMigrationTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:12846](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L12846)
+Defined in: [WAProto/index.d.ts:12846](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L12846)
 
 LIDMigration chatDbMigrationTimestamp

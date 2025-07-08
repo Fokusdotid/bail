@@ -1,6 +1,6 @@
 # Class: ProductListInfo
 
-Defined in: [WAProto/index.d.ts:27063](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L27063)
+Defined in: [WAProto/index.d.ts:27063](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L27063)
 
 Represents a ProductListInfo.
 
@@ -14,7 +14,7 @@ Represents a ProductListInfo.
 
 > **new ProductListInfo**(`properties`?): [`ProductListInfo`](ProductListInfo.md)
 
-Defined in: [WAProto/index.d.ts:27069](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L27069)
+Defined in: [WAProto/index.d.ts:27069](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L27069)
 
 Constructs a new ProductListInfo.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **businessOwnerJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27078](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L27078)
+Defined in: [WAProto/index.d.ts:27078](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L27078)
 
 ProductListInfo businessOwnerJid.
 
@@ -50,7 +50,7 @@ ProductListInfo businessOwnerJid.
 
 > `optional` **headerImage**: `null` \| [`IProductListHeaderImage`](../interfaces/IProductListHeaderImage.md)
 
-Defined in: [WAProto/index.d.ts:27075](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L27075)
+Defined in: [WAProto/index.d.ts:27075](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L27075)
 
 ProductListInfo headerImage.
 
@@ -64,7 +64,7 @@ ProductListInfo headerImage.
 
 > **productSections**: [`IProductSection`](../interfaces/IProductSection.md)[]
 
-Defined in: [WAProto/index.d.ts:27072](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L27072)
+Defined in: [WAProto/index.d.ts:27072](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L27072)
 
 ProductListInfo productSections.
 
@@ -78,7 +78,7 @@ ProductListInfo productSections.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:27148](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L27148)
+Defined in: [WAProto/index.d.ts:27148](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L27148)
 
 Converts this ProductListInfo to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ProductListInfo`](ProductListInfo.md)
 
-Defined in: [WAProto/index.d.ts:27085](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L27085)
+Defined in: [WAProto/index.d.ts:27085](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L27085)
 
 Creates a new ProductListInfo instance using the specified properties.
 
@@ -118,7 +118,7 @@ ProductListInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`ProductListInfo`](ProductListInfo.md)
 
-Defined in: [WAProto/index.d.ts:27111](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L27111)
+Defined in: [WAProto/index.d.ts:27111](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L27111)
 
 Decodes a ProductListInfo message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ProductListInfo`](ProductListInfo.md)
 
-Defined in: [WAProto/index.d.ts:27120](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L27120)
+Defined in: [WAProto/index.d.ts:27120](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L27120)
 
 Decodes a ProductListInfo message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:27093](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L27093)
+Defined in: [WAProto/index.d.ts:27093](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L27093)
 
 Encodes the specified ProductListInfo message. Does not implicitly [verify](ProductListInfo.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:27101](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L27101)
+Defined in: [WAProto/index.d.ts:27101](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L27101)
 
 Encodes the specified ProductListInfo message, length delimited. Does not implicitly [verify](ProductListInfo.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ProductListInfo`](ProductListInfo.md)
 
-Defined in: [WAProto/index.d.ts:27134](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L27134)
+Defined in: [WAProto/index.d.ts:27134](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L27134)
 
 Creates a ProductListInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ ProductListInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:27155](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L27155)
+Defined in: [WAProto/index.d.ts:27155](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L27155)
 
 Gets the default type url for ProductListInfo
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:27142](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L27142)
+Defined in: [WAProto/index.d.ts:27142](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L27142)
 
 Creates a plain object from a ProductListInfo message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27127](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L27127)
+Defined in: [WAProto/index.d.ts:27127](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L27127)
 
 Verifies a ProductListInfo message.
 

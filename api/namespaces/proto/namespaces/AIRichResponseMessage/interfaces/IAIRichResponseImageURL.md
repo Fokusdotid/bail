@@ -1,6 +1,6 @@
 # Interface: IAIRichResponseImageURL
 
-Defined in: [WAProto/index.d.ts:1582](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L1582)
+Defined in: [WAProto/index.d.ts:1582](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L1582)
 
 Properties of a AIRichResponseImageURL.
 
@@ -10,7 +10,7 @@ Properties of a AIRichResponseImageURL.
 
 > `optional` **imageHighResUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1588](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L1588)
+Defined in: [WAProto/index.d.ts:1588](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L1588)
 
 AIRichResponseImageURL imageHighResUrl
 
@@ -20,7 +20,7 @@ AIRichResponseImageURL imageHighResUrl
 
 > `optional` **imagePreviewUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1585](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L1585)
+Defined in: [WAProto/index.d.ts:1585](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L1585)
 
 AIRichResponseImageURL imagePreviewUrl
 
@@ -30,6 +30,6 @@ AIRichResponseImageURL imagePreviewUrl
 
 > `optional` **sourceUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1591](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L1591)
+Defined in: [WAProto/index.d.ts:1591](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L1591)
 
 AIRichResponseImageURL sourceUrl

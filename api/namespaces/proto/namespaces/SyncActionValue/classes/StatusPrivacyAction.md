@@ -1,6 +1,6 @@
 # Class: StatusPrivacyAction
 
-Defined in: [WAProto/index.d.ts:48677](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48677)
+Defined in: [WAProto/index.d.ts:48677](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L48677)
 
 Represents a StatusPrivacyAction.
 
@@ -14,7 +14,7 @@ Represents a StatusPrivacyAction.
 
 > **new StatusPrivacyAction**(`properties`?): [`StatusPrivacyAction`](StatusPrivacyAction.md)
 
-Defined in: [WAProto/index.d.ts:48683](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48683)
+Defined in: [WAProto/index.d.ts:48683](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L48683)
 
 Constructs a new StatusPrivacyAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **mode**: `null` \| [`StatusDistributionMode`](../namespaces/StatusPrivacyAction/enumerations/StatusDistributionMode.md)
 
-Defined in: [WAProto/index.d.ts:48686](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48686)
+Defined in: [WAProto/index.d.ts:48686](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L48686)
 
 StatusPrivacyAction mode.
 
@@ -50,7 +50,7 @@ StatusPrivacyAction mode.
 
 > **userJid**: `string`[]
 
-Defined in: [WAProto/index.d.ts:48689](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48689)
+Defined in: [WAProto/index.d.ts:48689](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L48689)
 
 StatusPrivacyAction userJid.
 
@@ -64,7 +64,7 @@ StatusPrivacyAction userJid.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:48759](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48759)
+Defined in: [WAProto/index.d.ts:48759](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L48759)
 
 Converts this StatusPrivacyAction to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`StatusPrivacyAction`](StatusPrivacyAction.md)
 
-Defined in: [WAProto/index.d.ts:48696](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48696)
+Defined in: [WAProto/index.d.ts:48696](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L48696)
 
 Creates a new StatusPrivacyAction instance using the specified properties.
 
@@ -104,7 +104,7 @@ StatusPrivacyAction instance
 
 > `static` **decode**(`reader`, `length`?): [`StatusPrivacyAction`](StatusPrivacyAction.md)
 
-Defined in: [WAProto/index.d.ts:48722](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48722)
+Defined in: [WAProto/index.d.ts:48722](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L48722)
 
 Decodes a StatusPrivacyAction message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`StatusPrivacyAction`](StatusPrivacyAction.md)
 
-Defined in: [WAProto/index.d.ts:48731](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48731)
+Defined in: [WAProto/index.d.ts:48731](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L48731)
 
 Decodes a StatusPrivacyAction message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:48704](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48704)
+Defined in: [WAProto/index.d.ts:48704](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L48704)
 
 Encodes the specified StatusPrivacyAction message. Does not implicitly [verify](StatusPrivacyAction.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:48712](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48712)
+Defined in: [WAProto/index.d.ts:48712](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L48712)
 
 Encodes the specified StatusPrivacyAction message, length delimited. Does not implicitly [verify](StatusPrivacyAction.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`StatusPrivacyAction`](StatusPrivacyAction.md)
 
-Defined in: [WAProto/index.d.ts:48745](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48745)
+Defined in: [WAProto/index.d.ts:48745](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L48745)
 
 Creates a StatusPrivacyAction message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ StatusPrivacyAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:48766](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48766)
+Defined in: [WAProto/index.d.ts:48766](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L48766)
 
 Gets the default type url for StatusPrivacyAction
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:48753](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48753)
+Defined in: [WAProto/index.d.ts:48753](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L48753)
 
 Creates a plain object from a StatusPrivacyAction message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48738](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48738)
+Defined in: [WAProto/index.d.ts:48738](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L48738)
 
 Verifies a StatusPrivacyAction message.
 

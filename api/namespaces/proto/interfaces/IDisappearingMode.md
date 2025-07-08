@@ -1,6 +1,6 @@
 # Interface: IDisappearingMode
 
-Defined in: [WAProto/index.d.ts:13632](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L13632)
+Defined in: [WAProto/index.d.ts:13632](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L13632)
 
 Properties of a DisappearingMode.
 
@@ -10,7 +10,7 @@ Properties of a DisappearingMode.
 
 > `optional` **initiatedByMe**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:13644](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L13644)
+Defined in: [WAProto/index.d.ts:13644](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L13644)
 
 DisappearingMode initiatedByMe
 
@@ -20,7 +20,7 @@ DisappearingMode initiatedByMe
 
 > `optional` **initiator**: `null` \| [`Initiator`](../namespaces/DisappearingMode/enumerations/Initiator.md)
 
-Defined in: [WAProto/index.d.ts:13635](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L13635)
+Defined in: [WAProto/index.d.ts:13635](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L13635)
 
 DisappearingMode initiator
 
@@ -30,7 +30,7 @@ DisappearingMode initiator
 
 > `optional` **initiatorDeviceJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13641](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L13641)
+Defined in: [WAProto/index.d.ts:13641](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L13641)
 
 DisappearingMode initiatorDeviceJid
 
@@ -40,6 +40,6 @@ DisappearingMode initiatorDeviceJid
 
 > `optional` **trigger**: `null` \| [`Trigger`](../namespaces/DisappearingMode/enumerations/Trigger.md)
 
-Defined in: [WAProto/index.d.ts:13638](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L13638)
+Defined in: [WAProto/index.d.ts:13638](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L13638)
 
 DisappearingMode trigger

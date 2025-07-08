@@ -1,6 +1,6 @@
 # Enumeration: DayOfWeekType
 
-Defined in: [WAProto/index.d.ts:24273](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L24273)
+Defined in: [WAProto/index.d.ts:24273](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L24273)
 
 DayOfWeekType enum.
 
@@ -10,7 +10,7 @@ DayOfWeekType enum.
 
 > **FRIDAY**: `5`
 
-Defined in: [WAProto/index.d.ts:24278](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L24278)
+Defined in: [WAProto/index.d.ts:24278](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L24278)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:24278](https://github.com/Fokusdotid/bail/blob/c
 
 > **MONDAY**: `1`
 
-Defined in: [WAProto/index.d.ts:24274](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L24274)
+Defined in: [WAProto/index.d.ts:24274](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L24274)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:24274](https://github.com/Fokusdotid/bail/blob/c
 
 > **SATURDAY**: `6`
 
-Defined in: [WAProto/index.d.ts:24279](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L24279)
+Defined in: [WAProto/index.d.ts:24279](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L24279)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:24279](https://github.com/Fokusdotid/bail/blob/c
 
 > **SUNDAY**: `7`
 
-Defined in: [WAProto/index.d.ts:24280](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L24280)
+Defined in: [WAProto/index.d.ts:24280](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L24280)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [WAProto/index.d.ts:24280](https://github.com/Fokusdotid/bail/blob/c
 
 > **THURSDAY**: `4`
 
-Defined in: [WAProto/index.d.ts:24277](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L24277)
+Defined in: [WAProto/index.d.ts:24277](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L24277)
 
 ***
 
@@ -50,7 +50,7 @@ Defined in: [WAProto/index.d.ts:24277](https://github.com/Fokusdotid/bail/blob/c
 
 > **TUESDAY**: `2`
 
-Defined in: [WAProto/index.d.ts:24275](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L24275)
+Defined in: [WAProto/index.d.ts:24275](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L24275)
 
 ***
 
@@ -58,4 +58,4 @@ Defined in: [WAProto/index.d.ts:24275](https://github.com/Fokusdotid/bail/blob/c
 
 > **WEDNESDAY**: `3`
 
-Defined in: [WAProto/index.d.ts:24276](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L24276)
+Defined in: [WAProto/index.d.ts:24276](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L24276)

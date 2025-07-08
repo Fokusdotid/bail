@@ -1,6 +1,6 @@
 # Interface: WAUrlInfo
 
-Defined in: [src/Types/Message.ts:61](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/Message.ts#L61)
+Defined in: [src/Types/Message.ts:61](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/Types/Message.ts#L61)
 
 ## Properties
 
@@ -8,7 +8,7 @@ Defined in: [src/Types/Message.ts:61](https://github.com/Fokusdotid/bail/blob/c2
 
 > **canonical-url**: `string`
 
-Defined in: [src/Types/Message.ts:62](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/Message.ts#L62)
+Defined in: [src/Types/Message.ts:62](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/Types/Message.ts#L62)
 
 ***
 
@@ -16,7 +16,7 @@ Defined in: [src/Types/Message.ts:62](https://github.com/Fokusdotid/bail/blob/c2
 
 > `optional` **description**: `string`
 
-Defined in: [src/Types/Message.ts:65](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/Message.ts#L65)
+Defined in: [src/Types/Message.ts:65](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/Types/Message.ts#L65)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/Types/Message.ts:65](https://github.com/Fokusdotid/bail/blob/c2
 
 > `optional` **highQualityThumbnail**: [`IImageMessage`](../namespaces/proto/namespaces/Message/interfaces/IImageMessage.md)
 
-Defined in: [src/Types/Message.ts:67](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/Message.ts#L67)
+Defined in: [src/Types/Message.ts:67](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/Types/Message.ts#L67)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/Types/Message.ts:67](https://github.com/Fokusdotid/bail/blob/c2
 
 > `optional` **jpegThumbnail**: `Buffer`\<`ArrayBufferLike`\>
 
-Defined in: [src/Types/Message.ts:66](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/Message.ts#L66)
+Defined in: [src/Types/Message.ts:66](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/Types/Message.ts#L66)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/Types/Message.ts:66](https://github.com/Fokusdotid/bail/blob/c2
 
 > **matched-text**: `string`
 
-Defined in: [src/Types/Message.ts:63](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/Message.ts#L63)
+Defined in: [src/Types/Message.ts:63](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/Types/Message.ts#L63)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/Types/Message.ts:63](https://github.com/Fokusdotid/bail/blob/c2
 
 > `optional` **originalThumbnailUrl**: `string`
 
-Defined in: [src/Types/Message.ts:68](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/Message.ts#L68)
+Defined in: [src/Types/Message.ts:68](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/Types/Message.ts#L68)
 
 ***
 
@@ -56,4 +56,4 @@ Defined in: [src/Types/Message.ts:68](https://github.com/Fokusdotid/bail/blob/c2
 
 > **title**: `string`
 
-Defined in: [src/Types/Message.ts:64](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/Message.ts#L64)
+Defined in: [src/Types/Message.ts:64](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/Types/Message.ts#L64)

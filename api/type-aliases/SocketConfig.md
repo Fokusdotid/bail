@@ -2,7 +2,7 @@
 
 > **SocketConfig**: `object`
 
-Defined in: [src/Types/Socket.ts:27](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/Socket.ts#L27)
+Defined in: [src/Types/Socket.ts:27](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/Types/Socket.ts#L27)
 
 ## Type declaration
 

@@ -1,6 +1,6 @@
 # Class: AIRichResponseTableMetadata
 
-Defined in: [WAProto/index.d.ts:2496](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2496)
+Defined in: [WAProto/index.d.ts:2496](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2496)
 
 Represents a AIRichResponseTableMetadata.
 
@@ -14,7 +14,7 @@ Represents a AIRichResponseTableMetadata.
 
 > **new AIRichResponseTableMetadata**(`properties`?): [`AIRichResponseTableMetadata`](AIRichResponseTableMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2502](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2502)
+Defined in: [WAProto/index.d.ts:2502](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2502)
 
 Constructs a new AIRichResponseTableMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **rows**: [`IAIRichResponseTableRow`](../namespaces/AIRichResponseTableMetadata/interfaces/IAIRichResponseTableRow.md)[]
 
-Defined in: [WAProto/index.d.ts:2505](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2505)
+Defined in: [WAProto/index.d.ts:2505](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2505)
 
 AIRichResponseTableMetadata rows.
 
@@ -50,7 +50,7 @@ AIRichResponseTableMetadata rows.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:2575](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2575)
+Defined in: [WAProto/index.d.ts:2575](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2575)
 
 Converts this AIRichResponseTableMetadata to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIRichResponseTableMetadata`](AIRichResponseTableMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2512](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2512)
+Defined in: [WAProto/index.d.ts:2512](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2512)
 
 Creates a new AIRichResponseTableMetadata instance using the specified properties.
 
@@ -90,7 +90,7 @@ AIRichResponseTableMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`AIRichResponseTableMetadata`](AIRichResponseTableMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2538](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2538)
+Defined in: [WAProto/index.d.ts:2538](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2538)
 
 Decodes a AIRichResponseTableMetadata message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIRichResponseTableMetadata`](AIRichResponseTableMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2547](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2547)
+Defined in: [WAProto/index.d.ts:2547](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2547)
 
 Decodes a AIRichResponseTableMetadata message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2520](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2520)
+Defined in: [WAProto/index.d.ts:2520](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2520)
 
 Encodes the specified AIRichResponseTableMetadata message. Does not implicitly [verify](AIRichResponseTableMetadata.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2528](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2528)
+Defined in: [WAProto/index.d.ts:2528](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2528)
 
 Encodes the specified AIRichResponseTableMetadata message, length delimited. Does not implicitly [verify](AIRichResponseTableMetadata.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIRichResponseTableMetadata`](AIRichResponseTableMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2561](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2561)
+Defined in: [WAProto/index.d.ts:2561](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2561)
 
 Creates a AIRichResponseTableMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ AIRichResponseTableMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:2582](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2582)
+Defined in: [WAProto/index.d.ts:2582](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2582)
 
 Gets the default type url for AIRichResponseTableMetadata
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:2569](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2569)
+Defined in: [WAProto/index.d.ts:2569](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2569)
 
 Creates a plain object from a AIRichResponseTableMetadata message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2554](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L2554)
+Defined in: [WAProto/index.d.ts:2554](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L2554)
 
 Verifies a AIRichResponseTableMetadata message.
 
