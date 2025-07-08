@@ -202,7 +202,9 @@ export const generateProfilePicture = async (
 		const min = Math.min(jimp.width, jimp.height)
 		const cropped = jimp.crop({ x: 0, y: 0, w: min, h: min })
 
-		img = cropped.resize({ w, h, mode: lib.jimp.default.ResizeStrategy.BILINEAR }).getBuffer('image/jpeg', { quality: 50 })
+		img = cropped
+			.resize({ w, h, mode: lib.jimp.default.ResizeStrategy.BILINEAR })
+			.getBuffer('image/jpeg', { quality: 50 })
 	} else {
 		throw new Boom('No image processing library available')
 	}
