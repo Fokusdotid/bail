@@ -1,6 +1,6 @@
 # Class: MemberLabel
 
-Defined in: [WAProto/index.d.ts:18243](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L18243)
+Defined in: [WAProto/index.d.ts:18243](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L18243)
 
 Represents a MemberLabel.
 
@@ -14,7 +14,7 @@ Represents a MemberLabel.
 
 > **new MemberLabel**(`properties`?): [`MemberLabel`](MemberLabel.md)
 
-Defined in: [WAProto/index.d.ts:18249](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L18249)
+Defined in: [WAProto/index.d.ts:18249](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L18249)
 
 Constructs a new MemberLabel.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **label**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:18252](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L18252)
+Defined in: [WAProto/index.d.ts:18252](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L18252)
 
 MemberLabel label.
 
@@ -50,7 +50,7 @@ MemberLabel label.
 
 > `optional` **labelTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:18255](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L18255)
+Defined in: [WAProto/index.d.ts:18255](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L18255)
 
 MemberLabel labelTimestamp.
 
@@ -64,7 +64,7 @@ MemberLabel labelTimestamp.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:18325](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L18325)
+Defined in: [WAProto/index.d.ts:18325](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L18325)
 
 Converts this MemberLabel to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`MemberLabel`](MemberLabel.md)
 
-Defined in: [WAProto/index.d.ts:18262](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L18262)
+Defined in: [WAProto/index.d.ts:18262](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L18262)
 
 Creates a new MemberLabel instance using the specified properties.
 
@@ -104,7 +104,7 @@ MemberLabel instance
 
 > `static` **decode**(`reader`, `length`?): [`MemberLabel`](MemberLabel.md)
 
-Defined in: [WAProto/index.d.ts:18288](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L18288)
+Defined in: [WAProto/index.d.ts:18288](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L18288)
 
 Decodes a MemberLabel message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`MemberLabel`](MemberLabel.md)
 
-Defined in: [WAProto/index.d.ts:18297](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L18297)
+Defined in: [WAProto/index.d.ts:18297](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L18297)
 
 Decodes a MemberLabel message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:18270](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L18270)
+Defined in: [WAProto/index.d.ts:18270](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L18270)
 
 Encodes the specified MemberLabel message. Does not implicitly [verify](MemberLabel.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:18278](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L18278)
+Defined in: [WAProto/index.d.ts:18278](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L18278)
 
 Encodes the specified MemberLabel message, length delimited. Does not implicitly [verify](MemberLabel.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`MemberLabel`](MemberLabel.md)
 
-Defined in: [WAProto/index.d.ts:18311](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L18311)
+Defined in: [WAProto/index.d.ts:18311](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L18311)
 
 Creates a MemberLabel message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ MemberLabel
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:18332](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L18332)
+Defined in: [WAProto/index.d.ts:18332](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L18332)
 
 Gets the default type url for MemberLabel
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:18319](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L18319)
+Defined in: [WAProto/index.d.ts:18319](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L18319)
 
 Creates a plain object from a MemberLabel message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:18304](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L18304)
+Defined in: [WAProto/index.d.ts:18304](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L18304)
 
 Verifies a MemberLabel message.
 

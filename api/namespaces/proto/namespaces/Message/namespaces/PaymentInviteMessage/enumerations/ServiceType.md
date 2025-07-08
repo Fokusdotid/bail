@@ -1,6 +1,6 @@
 # Enumeration: ServiceType
 
-Defined in: [WAProto/index.d.ts:28928](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28928)
+Defined in: [WAProto/index.d.ts:28928](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L28928)
 
 ServiceType enum.
 
@@ -10,7 +10,7 @@ ServiceType enum.
 
 > **FBPAY**: `1`
 
-Defined in: [WAProto/index.d.ts:28930](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28930)
+Defined in: [WAProto/index.d.ts:28930](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L28930)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:28930](https://github.com/Fokusdotid/bail/blob/f
 
 > **NOVI**: `2`
 
-Defined in: [WAProto/index.d.ts:28931](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28931)
+Defined in: [WAProto/index.d.ts:28931](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L28931)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:28931](https://github.com/Fokusdotid/bail/blob/f
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:28929](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28929)
+Defined in: [WAProto/index.d.ts:28929](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L28929)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:28929](https://github.com/Fokusdotid/bail/blob/f
 
 > **UPI**: `3`
 
-Defined in: [WAProto/index.d.ts:28932](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28932)
+Defined in: [WAProto/index.d.ts:28932](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L28932)

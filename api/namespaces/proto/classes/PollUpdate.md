@@ -1,6 +1,6 @@
 # Class: PollUpdate
 
-Defined in: [WAProto/index.d.ts:39494](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39494)
+Defined in: [WAProto/index.d.ts:39494](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39494)
 
 Represents a PollUpdate.
 
@@ -14,7 +14,7 @@ Represents a PollUpdate.
 
 > **new PollUpdate**(`properties`?): [`PollUpdate`](PollUpdate.md)
 
-Defined in: [WAProto/index.d.ts:39500](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39500)
+Defined in: [WAProto/index.d.ts:39500](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39500)
 
 Constructs a new PollUpdate.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **pollUpdateMessageKey**: `null` \| [`IMessageKey`](../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:39503](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39503)
+Defined in: [WAProto/index.d.ts:39503](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39503)
 
 PollUpdate pollUpdateMessageKey.
 
@@ -50,7 +50,7 @@ PollUpdate pollUpdateMessageKey.
 
 > `optional` **senderTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:39509](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39509)
+Defined in: [WAProto/index.d.ts:39509](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39509)
 
 PollUpdate senderTimestampMs.
 
@@ -64,7 +64,7 @@ PollUpdate senderTimestampMs.
 
 > `optional` **serverTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:39512](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39512)
+Defined in: [WAProto/index.d.ts:39512](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39512)
 
 PollUpdate serverTimestampMs.
 
@@ -78,7 +78,7 @@ PollUpdate serverTimestampMs.
 
 > `optional` **unread**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:39515](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39515)
+Defined in: [WAProto/index.d.ts:39515](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39515)
 
 PollUpdate unread.
 
@@ -92,7 +92,7 @@ PollUpdate unread.
 
 > `optional` **vote**: `null` \| [`IPollVoteMessage`](../namespaces/Message/interfaces/IPollVoteMessage.md)
 
-Defined in: [WAProto/index.d.ts:39506](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39506)
+Defined in: [WAProto/index.d.ts:39506](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39506)
 
 PollUpdate vote.
 
@@ -106,7 +106,7 @@ PollUpdate vote.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:39585](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39585)
+Defined in: [WAProto/index.d.ts:39585](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39585)
 
 Converts this PollUpdate to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PollUpdate`](PollUpdate.md)
 
-Defined in: [WAProto/index.d.ts:39522](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39522)
+Defined in: [WAProto/index.d.ts:39522](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39522)
 
 Creates a new PollUpdate instance using the specified properties.
 
@@ -146,7 +146,7 @@ PollUpdate instance
 
 > `static` **decode**(`reader`, `length`?): [`PollUpdate`](PollUpdate.md)
 
-Defined in: [WAProto/index.d.ts:39548](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39548)
+Defined in: [WAProto/index.d.ts:39548](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39548)
 
 Decodes a PollUpdate message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PollUpdate`](PollUpdate.md)
 
-Defined in: [WAProto/index.d.ts:39557](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39557)
+Defined in: [WAProto/index.d.ts:39557](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39557)
 
 Decodes a PollUpdate message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39530](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39530)
+Defined in: [WAProto/index.d.ts:39530](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39530)
 
 Encodes the specified PollUpdate message. Does not implicitly [verify](PollUpdate.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39538](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39538)
+Defined in: [WAProto/index.d.ts:39538](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39538)
 
 Encodes the specified PollUpdate message, length delimited. Does not implicitly [verify](PollUpdate.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PollUpdate`](PollUpdate.md)
 
-Defined in: [WAProto/index.d.ts:39571](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39571)
+Defined in: [WAProto/index.d.ts:39571](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39571)
 
 Creates a PollUpdate message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ PollUpdate
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:39592](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39592)
+Defined in: [WAProto/index.d.ts:39592](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39592)
 
 Gets the default type url for PollUpdate
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:39579](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39579)
+Defined in: [WAProto/index.d.ts:39579](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39579)
 
 Creates a plain object from a PollUpdate message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:39564](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39564)
+Defined in: [WAProto/index.d.ts:39564](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39564)
 
 Verifies a PollUpdate message.
 

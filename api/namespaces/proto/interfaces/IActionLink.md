@@ -1,6 +1,6 @@
 # Interface: IActionLink
 
-Defined in: [WAProto/index.d.ts:2905](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L2905)
+Defined in: [WAProto/index.d.ts:2905](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L2905)
 
 Properties of an ActionLink.
 
@@ -10,7 +10,7 @@ Properties of an ActionLink.
 
 > `optional` **buttonTitle**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2911](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L2911)
+Defined in: [WAProto/index.d.ts:2911](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L2911)
 
 ActionLink buttonTitle
 
@@ -20,6 +20,6 @@ ActionLink buttonTitle
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2908](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L2908)
+Defined in: [WAProto/index.d.ts:2908](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L2908)
 
 ActionLink url

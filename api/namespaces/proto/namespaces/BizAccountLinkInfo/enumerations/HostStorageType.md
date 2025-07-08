@@ -1,6 +1,6 @@
 # Enumeration: HostStorageType
 
-Defined in: [WAProto/index.d.ts:3354](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L3354)
+Defined in: [WAProto/index.d.ts:3354](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L3354)
 
 HostStorageType enum.
 
@@ -10,7 +10,7 @@ HostStorageType enum.
 
 > **FACEBOOK**: `1`
 
-Defined in: [WAProto/index.d.ts:3356](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L3356)
+Defined in: [WAProto/index.d.ts:3356](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L3356)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:3356](https://github.com/Fokusdotid/bail/blob/fc
 
 > **ON\_PREMISE**: `0`
 
-Defined in: [WAProto/index.d.ts:3355](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L3355)
+Defined in: [WAProto/index.d.ts:3355](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L3355)

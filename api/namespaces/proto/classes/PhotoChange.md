@@ -1,6 +1,6 @@
 # Class: PhotoChange
 
-Defined in: [WAProto/index.d.ts:38933](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38933)
+Defined in: [WAProto/index.d.ts:38933](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L38933)
 
 Represents a PhotoChange.
 
@@ -14,7 +14,7 @@ Represents a PhotoChange.
 
 > **new PhotoChange**(`properties`?): [`PhotoChange`](PhotoChange.md)
 
-Defined in: [WAProto/index.d.ts:38939](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38939)
+Defined in: [WAProto/index.d.ts:38939](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L38939)
 
 Constructs a new PhotoChange.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **newPhoto**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38945](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38945)
+Defined in: [WAProto/index.d.ts:38945](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L38945)
 
 PhotoChange newPhoto.
 
@@ -50,7 +50,7 @@ PhotoChange newPhoto.
 
 > `optional` **newPhotoId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38948](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38948)
+Defined in: [WAProto/index.d.ts:38948](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L38948)
 
 PhotoChange newPhotoId.
 
@@ -64,7 +64,7 @@ PhotoChange newPhotoId.
 
 > `optional` **oldPhoto**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38942](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38942)
+Defined in: [WAProto/index.d.ts:38942](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L38942)
 
 PhotoChange oldPhoto.
 
@@ -78,7 +78,7 @@ PhotoChange oldPhoto.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:39018](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39018)
+Defined in: [WAProto/index.d.ts:39018](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39018)
 
 Converts this PhotoChange to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PhotoChange`](PhotoChange.md)
 
-Defined in: [WAProto/index.d.ts:38955](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38955)
+Defined in: [WAProto/index.d.ts:38955](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L38955)
 
 Creates a new PhotoChange instance using the specified properties.
 
@@ -118,7 +118,7 @@ PhotoChange instance
 
 > `static` **decode**(`reader`, `length`?): [`PhotoChange`](PhotoChange.md)
 
-Defined in: [WAProto/index.d.ts:38981](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38981)
+Defined in: [WAProto/index.d.ts:38981](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L38981)
 
 Decodes a PhotoChange message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PhotoChange`](PhotoChange.md)
 
-Defined in: [WAProto/index.d.ts:38990](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38990)
+Defined in: [WAProto/index.d.ts:38990](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L38990)
 
 Decodes a PhotoChange message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:38963](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38963)
+Defined in: [WAProto/index.d.ts:38963](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L38963)
 
 Encodes the specified PhotoChange message. Does not implicitly [verify](PhotoChange.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:38971](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38971)
+Defined in: [WAProto/index.d.ts:38971](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L38971)
 
 Encodes the specified PhotoChange message, length delimited. Does not implicitly [verify](PhotoChange.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PhotoChange`](PhotoChange.md)
 
-Defined in: [WAProto/index.d.ts:39004](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39004)
+Defined in: [WAProto/index.d.ts:39004](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39004)
 
 Creates a PhotoChange message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ PhotoChange
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:39025](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39025)
+Defined in: [WAProto/index.d.ts:39025](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39025)
 
 Gets the default type url for PhotoChange
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:39012](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39012)
+Defined in: [WAProto/index.d.ts:39012](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39012)
 
 Creates a plain object from a PhotoChange message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:38997](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38997)
+Defined in: [WAProto/index.d.ts:38997](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L38997)
 
 Verifies a PhotoChange message.
 

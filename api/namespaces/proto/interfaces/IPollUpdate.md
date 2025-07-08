@@ -1,6 +1,6 @@
 # Interface: IPollUpdate
 
-Defined in: [WAProto/index.d.ts:39475](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39475)
+Defined in: [WAProto/index.d.ts:39475](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39475)
 
 Properties of a PollUpdate.
 
@@ -10,7 +10,7 @@ Properties of a PollUpdate.
 
 > `optional` **pollUpdateMessageKey**: `null` \| [`IMessageKey`](IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:39478](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39478)
+Defined in: [WAProto/index.d.ts:39478](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39478)
 
 PollUpdate pollUpdateMessageKey
 
@@ -20,7 +20,7 @@ PollUpdate pollUpdateMessageKey
 
 > `optional` **senderTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:39484](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39484)
+Defined in: [WAProto/index.d.ts:39484](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39484)
 
 PollUpdate senderTimestampMs
 
@@ -30,7 +30,7 @@ PollUpdate senderTimestampMs
 
 > `optional` **serverTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:39487](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39487)
+Defined in: [WAProto/index.d.ts:39487](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39487)
 
 PollUpdate serverTimestampMs
 
@@ -40,7 +40,7 @@ PollUpdate serverTimestampMs
 
 > `optional` **unread**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:39490](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39490)
+Defined in: [WAProto/index.d.ts:39490](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39490)
 
 PollUpdate unread
 
@@ -50,6 +50,6 @@ PollUpdate unread
 
 > `optional` **vote**: `null` \| [`IPollVoteMessage`](../namespaces/Message/interfaces/IPollVoteMessage.md)
 
-Defined in: [WAProto/index.d.ts:39481](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L39481)
+Defined in: [WAProto/index.d.ts:39481](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L39481)
 
 PollUpdate vote

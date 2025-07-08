@@ -1,6 +1,6 @@
 # Enumeration: StatusNotificationType
 
-Defined in: [WAProto/index.d.ts:33965](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33965)
+Defined in: [WAProto/index.d.ts:33965](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33965)
 
 StatusNotificationType enum.
 
@@ -10,7 +10,7 @@ StatusNotificationType enum.
 
 > **STATUS\_ADD\_YOURS**: `1`
 
-Defined in: [WAProto/index.d.ts:33967](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33967)
+Defined in: [WAProto/index.d.ts:33967](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33967)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:33967](https://github.com/Fokusdotid/bail/blob/f
 
 > **STATUS\_RESHARE**: `2`
 
-Defined in: [WAProto/index.d.ts:33968](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33968)
+Defined in: [WAProto/index.d.ts:33968](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33968)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:33968](https://github.com/Fokusdotid/bail/blob/f
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:33966](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33966)
+Defined in: [WAProto/index.d.ts:33966](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33966)

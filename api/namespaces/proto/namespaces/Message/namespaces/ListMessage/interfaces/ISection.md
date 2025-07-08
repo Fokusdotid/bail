@@ -1,6 +1,6 @@
 # Interface: ISection
 
-Defined in: [WAProto/index.d.ts:27371](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L27371)
+Defined in: [WAProto/index.d.ts:27371](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L27371)
 
 Properties of a Section.
 
@@ -10,7 +10,7 @@ Properties of a Section.
 
 > `optional` **rows**: `null` \| [`IRow`](IRow.md)[]
 
-Defined in: [WAProto/index.d.ts:27377](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L27377)
+Defined in: [WAProto/index.d.ts:27377](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L27377)
 
 Section rows
 
@@ -20,6 +20,6 @@ Section rows
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27374](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L27374)
+Defined in: [WAProto/index.d.ts:27374](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L27374)
 
 Section title

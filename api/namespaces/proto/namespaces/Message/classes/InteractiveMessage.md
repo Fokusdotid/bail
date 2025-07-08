@@ -1,6 +1,6 @@
 # Class: InteractiveMessage
 
-Defined in: [WAProto/index.d.ts:24979](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L24979)
+Defined in: [WAProto/index.d.ts:24979](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L24979)
 
 Represents an InteractiveMessage.
 
@@ -14,7 +14,7 @@ Represents an InteractiveMessage.
 
 > **new InteractiveMessage**(`properties`?): [`InteractiveMessage`](InteractiveMessage.md)
 
-Defined in: [WAProto/index.d.ts:24985](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L24985)
+Defined in: [WAProto/index.d.ts:24985](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L24985)
 
 Constructs a new InteractiveMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **body**: `null` \| [`IBody`](../namespaces/InteractiveMessage/interfaces/IBody.md)
 
-Defined in: [WAProto/index.d.ts:24991](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L24991)
+Defined in: [WAProto/index.d.ts:24991](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L24991)
 
 InteractiveMessage body.
 
@@ -50,7 +50,7 @@ InteractiveMessage body.
 
 > `optional` **carouselMessage**: `null` \| [`ICarouselMessage`](../namespaces/InteractiveMessage/interfaces/ICarouselMessage.md)
 
-Defined in: [WAProto/index.d.ts:25012](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25012)
+Defined in: [WAProto/index.d.ts:25012](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L25012)
 
 InteractiveMessage carouselMessage.
 
@@ -64,7 +64,7 @@ InteractiveMessage carouselMessage.
 
 > `optional` **collectionMessage**: `null` \| [`ICollectionMessage`](../namespaces/InteractiveMessage/interfaces/ICollectionMessage.md)
 
-Defined in: [WAProto/index.d.ts:25006](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25006)
+Defined in: [WAProto/index.d.ts:25006](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L25006)
 
 InteractiveMessage collectionMessage.
 
@@ -78,7 +78,7 @@ InteractiveMessage collectionMessage.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:24997](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L24997)
+Defined in: [WAProto/index.d.ts:24997](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L24997)
 
 InteractiveMessage contextInfo.
 
@@ -92,7 +92,7 @@ InteractiveMessage contextInfo.
 
 > `optional` **footer**: `null` \| [`IFooter`](../namespaces/InteractiveMessage/interfaces/IFooter.md)
 
-Defined in: [WAProto/index.d.ts:24994](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L24994)
+Defined in: [WAProto/index.d.ts:24994](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L24994)
 
 InteractiveMessage footer.
 
@@ -106,7 +106,7 @@ InteractiveMessage footer.
 
 > `optional` **header**: `null` \| [`IHeader`](../namespaces/InteractiveMessage/interfaces/IHeader.md)
 
-Defined in: [WAProto/index.d.ts:24988](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L24988)
+Defined in: [WAProto/index.d.ts:24988](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L24988)
 
 InteractiveMessage header.
 
@@ -118,9 +118,9 @@ InteractiveMessage header.
 
 ### interactiveMessage?
 
-> `optional` **interactiveMessage**: `"shopStorefrontMessage"` \| `"collectionMessage"` \| `"nativeFlowMessage"` \| `"carouselMessage"`
+> `optional` **interactiveMessage**: `"nativeFlowMessage"` \| `"shopStorefrontMessage"` \| `"collectionMessage"` \| `"carouselMessage"`
 
-Defined in: [WAProto/index.d.ts:25015](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25015)
+Defined in: [WAProto/index.d.ts:25015](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L25015)
 
 InteractiveMessage interactiveMessage.
 
@@ -130,7 +130,7 @@ InteractiveMessage interactiveMessage.
 
 > `optional` **nativeFlowMessage**: `null` \| [`INativeFlowMessage`](../namespaces/InteractiveMessage/interfaces/INativeFlowMessage.md)
 
-Defined in: [WAProto/index.d.ts:25009](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25009)
+Defined in: [WAProto/index.d.ts:25009](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L25009)
 
 InteractiveMessage nativeFlowMessage.
 
@@ -144,7 +144,7 @@ InteractiveMessage nativeFlowMessage.
 
 > `optional` **shopStorefrontMessage**: `null` \| [`IShopMessage`](../namespaces/InteractiveMessage/interfaces/IShopMessage.md)
 
-Defined in: [WAProto/index.d.ts:25003](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25003)
+Defined in: [WAProto/index.d.ts:25003](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L25003)
 
 InteractiveMessage shopStorefrontMessage.
 
@@ -158,7 +158,7 @@ InteractiveMessage shopStorefrontMessage.
 
 > `optional` **urlTrackingMap**: `null` \| [`IUrlTrackingMap`](../../../interfaces/IUrlTrackingMap.md)
 
-Defined in: [WAProto/index.d.ts:25000](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25000)
+Defined in: [WAProto/index.d.ts:25000](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L25000)
 
 InteractiveMessage urlTrackingMap.
 
@@ -172,7 +172,7 @@ InteractiveMessage urlTrackingMap.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:25085](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25085)
+Defined in: [WAProto/index.d.ts:25085](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L25085)
 
 Converts this InteractiveMessage to JSON.
 
@@ -188,7 +188,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`InteractiveMessage`](InteractiveMessage.md)
 
-Defined in: [WAProto/index.d.ts:25022](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25022)
+Defined in: [WAProto/index.d.ts:25022](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L25022)
 
 Creates a new InteractiveMessage instance using the specified properties.
 
@@ -212,7 +212,7 @@ InteractiveMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`InteractiveMessage`](InteractiveMessage.md)
 
-Defined in: [WAProto/index.d.ts:25048](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25048)
+Defined in: [WAProto/index.d.ts:25048](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L25048)
 
 Decodes an InteractiveMessage message from the specified reader or buffer.
 
@@ -250,7 +250,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`InteractiveMessage`](InteractiveMessage.md)
 
-Defined in: [WAProto/index.d.ts:25057](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25057)
+Defined in: [WAProto/index.d.ts:25057](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L25057)
 
 Decodes an InteractiveMessage message from the specified reader or buffer, length delimited.
 
@@ -282,7 +282,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25030](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25030)
+Defined in: [WAProto/index.d.ts:25030](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L25030)
 
 Encodes the specified InteractiveMessage message. Does not implicitly [verify](InteractiveMessage.md#verify) messages.
 
@@ -312,7 +312,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25038](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25038)
+Defined in: [WAProto/index.d.ts:25038](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L25038)
 
 Encodes the specified InteractiveMessage message, length delimited. Does not implicitly [verify](InteractiveMessage.md#verify) messages.
 
@@ -342,7 +342,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`InteractiveMessage`](InteractiveMessage.md)
 
-Defined in: [WAProto/index.d.ts:25071](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25071)
+Defined in: [WAProto/index.d.ts:25071](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L25071)
 
 Creates an InteractiveMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -364,7 +364,7 @@ InteractiveMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:25092](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25092)
+Defined in: [WAProto/index.d.ts:25092](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L25092)
 
 Gets the default type url for InteractiveMessage
 
@@ -388,7 +388,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:25079](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25079)
+Defined in: [WAProto/index.d.ts:25079](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L25079)
 
 Creates a plain object from an InteractiveMessage message. Also converts values to other types if specified.
 
@@ -418,7 +418,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25064](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25064)
+Defined in: [WAProto/index.d.ts:25064](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L25064)
 
 Verifies an InteractiveMessage message.
 

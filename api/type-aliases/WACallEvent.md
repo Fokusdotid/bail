@@ -2,7 +2,7 @@
 
 > **WACallEvent**: `object`
 
-Defined in: [src/Types/Call.ts:3](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/Types/Call.ts#L3)
+Defined in: [src/Types/Call.ts:3](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/Types/Call.ts#L3)
 
 ## Type declaration
 

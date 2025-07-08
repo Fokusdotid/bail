@@ -1,6 +1,6 @@
 # Enumeration: BizPrivacyStatus
 
-Defined in: [WAProto/index.d.ts:53118](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L53118)
+Defined in: [WAProto/index.d.ts:53118](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L53118)
 
 BizPrivacyStatus enum.
 
@@ -10,7 +10,7 @@ BizPrivacyStatus enum.
 
 > **BSP**: `1`
 
-Defined in: [WAProto/index.d.ts:53121](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L53121)
+Defined in: [WAProto/index.d.ts:53121](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L53121)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:53121](https://github.com/Fokusdotid/bail/blob/f
 
 > **BSP\_AND\_FB**: `3`
 
-Defined in: [WAProto/index.d.ts:53122](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L53122)
+Defined in: [WAProto/index.d.ts:53122](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L53122)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:53122](https://github.com/Fokusdotid/bail/blob/f
 
 > **E2EE**: `0`
 
-Defined in: [WAProto/index.d.ts:53119](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L53119)
+Defined in: [WAProto/index.d.ts:53119](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L53119)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:53119](https://github.com/Fokusdotid/bail/blob/f
 
 > **FB**: `2`
 
-Defined in: [WAProto/index.d.ts:53120](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L53120)
+Defined in: [WAProto/index.d.ts:53120](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L53120)

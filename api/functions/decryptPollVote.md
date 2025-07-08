@@ -2,7 +2,7 @@
 
 > **decryptPollVote**(`vote`, `ctx`): [`PollVoteMessage`](../namespaces/proto/namespaces/Message/classes/PollVoteMessage.md)
 
-Defined in: [src/Utils/process-message.ts:122](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/Utils/process-message.ts#L122)
+Defined in: [src/Utils/process-message.ts:122](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/Utils/process-message.ts#L122)
 
 Decrypt a poll vote
 

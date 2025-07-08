@@ -1,6 +1,6 @@
 # Class: Pushname
 
-Defined in: [WAProto/index.d.ts:40302](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40302)
+Defined in: [WAProto/index.d.ts:40302](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40302)
 
 Represents a Pushname.
 
@@ -14,7 +14,7 @@ Represents a Pushname.
 
 > **new Pushname**(`properties`?): [`Pushname`](Pushname.md)
 
-Defined in: [WAProto/index.d.ts:40308](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40308)
+Defined in: [WAProto/index.d.ts:40308](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40308)
 
 Constructs a new Pushname.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:40311](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40311)
+Defined in: [WAProto/index.d.ts:40311](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40311)
 
 Pushname id.
 
@@ -50,7 +50,7 @@ Pushname id.
 
 > `optional` **pushname**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:40314](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40314)
+Defined in: [WAProto/index.d.ts:40314](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40314)
 
 Pushname pushname.
 
@@ -64,7 +64,7 @@ Pushname pushname.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:40384](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40384)
+Defined in: [WAProto/index.d.ts:40384](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40384)
 
 Converts this Pushname to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Pushname`](Pushname.md)
 
-Defined in: [WAProto/index.d.ts:40321](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40321)
+Defined in: [WAProto/index.d.ts:40321](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40321)
 
 Creates a new Pushname instance using the specified properties.
 
@@ -104,7 +104,7 @@ Pushname instance
 
 > `static` **decode**(`reader`, `length`?): [`Pushname`](Pushname.md)
 
-Defined in: [WAProto/index.d.ts:40347](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40347)
+Defined in: [WAProto/index.d.ts:40347](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40347)
 
 Decodes a Pushname message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Pushname`](Pushname.md)
 
-Defined in: [WAProto/index.d.ts:40356](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40356)
+Defined in: [WAProto/index.d.ts:40356](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40356)
 
 Decodes a Pushname message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:40329](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40329)
+Defined in: [WAProto/index.d.ts:40329](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40329)
 
 Encodes the specified Pushname message. Does not implicitly [verify](Pushname.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:40337](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40337)
+Defined in: [WAProto/index.d.ts:40337](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40337)
 
 Encodes the specified Pushname message, length delimited. Does not implicitly [verify](Pushname.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Pushname`](Pushname.md)
 
-Defined in: [WAProto/index.d.ts:40370](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40370)
+Defined in: [WAProto/index.d.ts:40370](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40370)
 
 Creates a Pushname message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ Pushname
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:40391](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40391)
+Defined in: [WAProto/index.d.ts:40391](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40391)
 
 Gets the default type url for Pushname
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:40378](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40378)
+Defined in: [WAProto/index.d.ts:40378](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40378)
 
 Creates a plain object from a Pushname message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:40363](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40363)
+Defined in: [WAProto/index.d.ts:40363](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L40363)
 
 Verifies a Pushname message.
 

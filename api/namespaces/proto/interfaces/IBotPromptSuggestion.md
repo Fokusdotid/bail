@@ -1,6 +1,6 @@
 # Interface: IBotPromptSuggestion
 
-Defined in: [WAProto/index.d.ts:6265](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L6265)
+Defined in: [WAProto/index.d.ts:6265](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L6265)
 
 Properties of a BotPromptSuggestion.
 
@@ -10,7 +10,7 @@ Properties of a BotPromptSuggestion.
 
 > `optional` **prompt**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:6268](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L6268)
+Defined in: [WAProto/index.d.ts:6268](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L6268)
 
 BotPromptSuggestion prompt
 
@@ -20,6 +20,6 @@ BotPromptSuggestion prompt
 
 > `optional` **promptId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:6271](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L6271)
+Defined in: [WAProto/index.d.ts:6271](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L6271)
 
 BotPromptSuggestion promptId

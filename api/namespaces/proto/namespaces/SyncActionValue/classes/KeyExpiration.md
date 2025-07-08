@@ -1,6 +1,6 @@
 # Class: KeyExpiration
 
-Defined in: [WAProto/index.d.ts:45615](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45615)
+Defined in: [WAProto/index.d.ts:45615](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45615)
 
 Represents a KeyExpiration.
 
@@ -14,7 +14,7 @@ Represents a KeyExpiration.
 
 > **new KeyExpiration**(`properties`?): [`KeyExpiration`](KeyExpiration.md)
 
-Defined in: [WAProto/index.d.ts:45621](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45621)
+Defined in: [WAProto/index.d.ts:45621](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45621)
 
 Constructs a new KeyExpiration.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **expiredKeyEpoch**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:45624](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45624)
+Defined in: [WAProto/index.d.ts:45624](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45624)
 
 KeyExpiration expiredKeyEpoch.
 
@@ -50,7 +50,7 @@ KeyExpiration expiredKeyEpoch.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:45694](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45694)
+Defined in: [WAProto/index.d.ts:45694](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45694)
 
 Converts this KeyExpiration to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`KeyExpiration`](KeyExpiration.md)
 
-Defined in: [WAProto/index.d.ts:45631](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45631)
+Defined in: [WAProto/index.d.ts:45631](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45631)
 
 Creates a new KeyExpiration instance using the specified properties.
 
@@ -90,7 +90,7 @@ KeyExpiration instance
 
 > `static` **decode**(`reader`, `length`?): [`KeyExpiration`](KeyExpiration.md)
 
-Defined in: [WAProto/index.d.ts:45657](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45657)
+Defined in: [WAProto/index.d.ts:45657](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45657)
 
 Decodes a KeyExpiration message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`KeyExpiration`](KeyExpiration.md)
 
-Defined in: [WAProto/index.d.ts:45666](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45666)
+Defined in: [WAProto/index.d.ts:45666](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45666)
 
 Decodes a KeyExpiration message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:45639](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45639)
+Defined in: [WAProto/index.d.ts:45639](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45639)
 
 Encodes the specified KeyExpiration message. Does not implicitly [verify](KeyExpiration.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:45647](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45647)
+Defined in: [WAProto/index.d.ts:45647](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45647)
 
 Encodes the specified KeyExpiration message, length delimited. Does not implicitly [verify](KeyExpiration.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`KeyExpiration`](KeyExpiration.md)
 
-Defined in: [WAProto/index.d.ts:45680](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45680)
+Defined in: [WAProto/index.d.ts:45680](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45680)
 
 Creates a KeyExpiration message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ KeyExpiration
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:45701](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45701)
+Defined in: [WAProto/index.d.ts:45701](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45701)
 
 Gets the default type url for KeyExpiration
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:45688](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45688)
+Defined in: [WAProto/index.d.ts:45688](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45688)
 
 Creates a plain object from a KeyExpiration message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:45673](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45673)
+Defined in: [WAProto/index.d.ts:45673](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45673)
 
 Verifies a KeyExpiration message.
 

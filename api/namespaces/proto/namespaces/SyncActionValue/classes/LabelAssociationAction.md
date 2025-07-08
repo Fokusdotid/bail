@@ -1,6 +1,6 @@
 # Class: LabelAssociationAction
 
-Defined in: [WAProto/index.d.ts:45712](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45712)
+Defined in: [WAProto/index.d.ts:45712](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45712)
 
 Represents a LabelAssociationAction.
 
@@ -14,7 +14,7 @@ Represents a LabelAssociationAction.
 
 > **new LabelAssociationAction**(`properties`?): [`LabelAssociationAction`](LabelAssociationAction.md)
 
-Defined in: [WAProto/index.d.ts:45718](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45718)
+Defined in: [WAProto/index.d.ts:45718](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45718)
 
 Constructs a new LabelAssociationAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **labeled**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:45721](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45721)
+Defined in: [WAProto/index.d.ts:45721](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45721)
 
 LabelAssociationAction labeled.
 
@@ -50,7 +50,7 @@ LabelAssociationAction labeled.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:45791](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45791)
+Defined in: [WAProto/index.d.ts:45791](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45791)
 
 Converts this LabelAssociationAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LabelAssociationAction`](LabelAssociationAction.md)
 
-Defined in: [WAProto/index.d.ts:45728](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45728)
+Defined in: [WAProto/index.d.ts:45728](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45728)
 
 Creates a new LabelAssociationAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ LabelAssociationAction instance
 
 > `static` **decode**(`reader`, `length`?): [`LabelAssociationAction`](LabelAssociationAction.md)
 
-Defined in: [WAProto/index.d.ts:45754](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45754)
+Defined in: [WAProto/index.d.ts:45754](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45754)
 
 Decodes a LabelAssociationAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LabelAssociationAction`](LabelAssociationAction.md)
 
-Defined in: [WAProto/index.d.ts:45763](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45763)
+Defined in: [WAProto/index.d.ts:45763](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45763)
 
 Decodes a LabelAssociationAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:45736](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45736)
+Defined in: [WAProto/index.d.ts:45736](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45736)
 
 Encodes the specified LabelAssociationAction message. Does not implicitly [verify](LabelAssociationAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:45744](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45744)
+Defined in: [WAProto/index.d.ts:45744](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45744)
 
 Encodes the specified LabelAssociationAction message, length delimited. Does not implicitly [verify](LabelAssociationAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LabelAssociationAction`](LabelAssociationAction.md)
 
-Defined in: [WAProto/index.d.ts:45777](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45777)
+Defined in: [WAProto/index.d.ts:45777](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45777)
 
 Creates a LabelAssociationAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ LabelAssociationAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:45798](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45798)
+Defined in: [WAProto/index.d.ts:45798](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45798)
 
 Gets the default type url for LabelAssociationAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:45785](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45785)
+Defined in: [WAProto/index.d.ts:45785](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45785)
 
 Creates a plain object from a LabelAssociationAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:45770](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45770)
+Defined in: [WAProto/index.d.ts:45770](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L45770)
 
 Verifies a LabelAssociationAction message.
 

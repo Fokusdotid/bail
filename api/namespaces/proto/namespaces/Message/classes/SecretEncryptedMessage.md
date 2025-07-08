@@ -1,6 +1,6 @@
 # Class: SecretEncryptedMessage
 
-Defined in: [WAProto/index.d.ts:33533](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33533)
+Defined in: [WAProto/index.d.ts:33533](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33533)
 
 Represents a SecretEncryptedMessage.
 
@@ -14,7 +14,7 @@ Represents a SecretEncryptedMessage.
 
 > **new SecretEncryptedMessage**(`properties`?): [`SecretEncryptedMessage`](SecretEncryptedMessage.md)
 
-Defined in: [WAProto/index.d.ts:33539](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33539)
+Defined in: [WAProto/index.d.ts:33539](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33539)
 
 Constructs a new SecretEncryptedMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **encIv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:33548](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33548)
+Defined in: [WAProto/index.d.ts:33548](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33548)
 
 SecretEncryptedMessage encIv.
 
@@ -50,7 +50,7 @@ SecretEncryptedMessage encIv.
 
 > `optional` **encPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:33545](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33545)
+Defined in: [WAProto/index.d.ts:33545](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33545)
 
 SecretEncryptedMessage encPayload.
 
@@ -64,7 +64,7 @@ SecretEncryptedMessage encPayload.
 
 > `optional` **secretEncType**: `null` \| [`SecretEncType`](../namespaces/SecretEncryptedMessage/enumerations/SecretEncType.md)
 
-Defined in: [WAProto/index.d.ts:33551](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33551)
+Defined in: [WAProto/index.d.ts:33551](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33551)
 
 SecretEncryptedMessage secretEncType.
 
@@ -78,7 +78,7 @@ SecretEncryptedMessage secretEncType.
 
 > `optional` **targetMessageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:33542](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33542)
+Defined in: [WAProto/index.d.ts:33542](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33542)
 
 SecretEncryptedMessage targetMessageKey.
 
@@ -92,7 +92,7 @@ SecretEncryptedMessage targetMessageKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:33621](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33621)
+Defined in: [WAProto/index.d.ts:33621](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33621)
 
 Converts this SecretEncryptedMessage to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SecretEncryptedMessage`](SecretEncryptedMessage.md)
 
-Defined in: [WAProto/index.d.ts:33558](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33558)
+Defined in: [WAProto/index.d.ts:33558](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33558)
 
 Creates a new SecretEncryptedMessage instance using the specified properties.
 
@@ -132,7 +132,7 @@ SecretEncryptedMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`SecretEncryptedMessage`](SecretEncryptedMessage.md)
 
-Defined in: [WAProto/index.d.ts:33584](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33584)
+Defined in: [WAProto/index.d.ts:33584](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33584)
 
 Decodes a SecretEncryptedMessage message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SecretEncryptedMessage`](SecretEncryptedMessage.md)
 
-Defined in: [WAProto/index.d.ts:33593](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33593)
+Defined in: [WAProto/index.d.ts:33593](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33593)
 
 Decodes a SecretEncryptedMessage message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:33566](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33566)
+Defined in: [WAProto/index.d.ts:33566](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33566)
 
 Encodes the specified SecretEncryptedMessage message. Does not implicitly [verify](SecretEncryptedMessage.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:33574](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33574)
+Defined in: [WAProto/index.d.ts:33574](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33574)
 
 Encodes the specified SecretEncryptedMessage message, length delimited. Does not implicitly [verify](SecretEncryptedMessage.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SecretEncryptedMessage`](SecretEncryptedMessage.md)
 
-Defined in: [WAProto/index.d.ts:33607](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33607)
+Defined in: [WAProto/index.d.ts:33607](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33607)
 
 Creates a SecretEncryptedMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ SecretEncryptedMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:33628](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33628)
+Defined in: [WAProto/index.d.ts:33628](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33628)
 
 Gets the default type url for SecretEncryptedMessage
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:33615](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33615)
+Defined in: [WAProto/index.d.ts:33615](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33615)
 
 Creates a plain object from a SecretEncryptedMessage message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33600](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33600)
+Defined in: [WAProto/index.d.ts:33600](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33600)
 
 Verifies a SecretEncryptedMessage message.
 

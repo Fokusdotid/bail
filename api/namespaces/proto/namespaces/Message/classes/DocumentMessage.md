@@ -1,6 +1,6 @@
 # Class: DocumentMessage
 
-Defined in: [WAProto/index.d.ts:22278](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22278)
+Defined in: [WAProto/index.d.ts:22278](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22278)
 
 Represents a DocumentMessage.
 
@@ -14,7 +14,7 @@ Represents a DocumentMessage.
 
 > **new DocumentMessage**(`properties`?): [`DocumentMessage`](DocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:22284](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22284)
+Defined in: [WAProto/index.d.ts:22284](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22284)
 
 Constructs a new DocumentMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **accessibilityLabel**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22347](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22347)
+Defined in: [WAProto/index.d.ts:22347](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22347)
 
 DocumentMessage accessibilityLabel.
 
@@ -50,7 +50,7 @@ DocumentMessage accessibilityLabel.
 
 > `optional` **caption**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22344](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22344)
+Defined in: [WAProto/index.d.ts:22344](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22344)
 
 DocumentMessage caption.
 
@@ -64,7 +64,7 @@ DocumentMessage caption.
 
 > `optional` **contactVcard**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:22320](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22320)
+Defined in: [WAProto/index.d.ts:22320](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22320)
 
 DocumentMessage contactVcard.
 
@@ -78,7 +78,7 @@ DocumentMessage contactVcard.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:22335](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22335)
+Defined in: [WAProto/index.d.ts:22335](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22335)
 
 DocumentMessage contextInfo.
 
@@ -92,7 +92,7 @@ DocumentMessage contextInfo.
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22314](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22314)
+Defined in: [WAProto/index.d.ts:22314](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22314)
 
 DocumentMessage directPath.
 
@@ -106,7 +106,7 @@ DocumentMessage directPath.
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22311](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22311)
+Defined in: [WAProto/index.d.ts:22311](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22311)
 
 DocumentMessage fileEncSha256.
 
@@ -120,7 +120,7 @@ DocumentMessage fileEncSha256.
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:22299](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22299)
+Defined in: [WAProto/index.d.ts:22299](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22299)
 
 DocumentMessage fileLength.
 
@@ -134,7 +134,7 @@ DocumentMessage fileLength.
 
 > `optional` **fileName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22308](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22308)
+Defined in: [WAProto/index.d.ts:22308](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22308)
 
 DocumentMessage fileName.
 
@@ -148,7 +148,7 @@ DocumentMessage fileName.
 
 > `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22296](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22296)
+Defined in: [WAProto/index.d.ts:22296](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22296)
 
 DocumentMessage fileSha256.
 
@@ -162,7 +162,7 @@ DocumentMessage fileSha256.
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22332](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22332)
+Defined in: [WAProto/index.d.ts:22332](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22332)
 
 DocumentMessage jpegThumbnail.
 
@@ -176,7 +176,7 @@ DocumentMessage jpegThumbnail.
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22305](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22305)
+Defined in: [WAProto/index.d.ts:22305](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22305)
 
 DocumentMessage mediaKey.
 
@@ -190,7 +190,7 @@ DocumentMessage mediaKey.
 
 > `optional` **mediaKeyTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:22317](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22317)
+Defined in: [WAProto/index.d.ts:22317](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22317)
 
 DocumentMessage mediaKeyTimestamp.
 
@@ -204,7 +204,7 @@ DocumentMessage mediaKeyTimestamp.
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22290](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22290)
+Defined in: [WAProto/index.d.ts:22290](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22290)
 
 DocumentMessage mimetype.
 
@@ -218,7 +218,7 @@ DocumentMessage mimetype.
 
 > `optional` **pageCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:22302](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22302)
+Defined in: [WAProto/index.d.ts:22302](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22302)
 
 DocumentMessage pageCount.
 
@@ -232,7 +232,7 @@ DocumentMessage pageCount.
 
 > `optional` **thumbnailDirectPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22323](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22323)
+Defined in: [WAProto/index.d.ts:22323](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22323)
 
 DocumentMessage thumbnailDirectPath.
 
@@ -246,7 +246,7 @@ DocumentMessage thumbnailDirectPath.
 
 > `optional` **thumbnailEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22329](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22329)
+Defined in: [WAProto/index.d.ts:22329](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22329)
 
 DocumentMessage thumbnailEncSha256.
 
@@ -260,7 +260,7 @@ DocumentMessage thumbnailEncSha256.
 
 > `optional` **thumbnailHeight**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:22338](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22338)
+Defined in: [WAProto/index.d.ts:22338](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22338)
 
 DocumentMessage thumbnailHeight.
 
@@ -274,7 +274,7 @@ DocumentMessage thumbnailHeight.
 
 > `optional` **thumbnailSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22326](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22326)
+Defined in: [WAProto/index.d.ts:22326](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22326)
 
 DocumentMessage thumbnailSha256.
 
@@ -288,7 +288,7 @@ DocumentMessage thumbnailSha256.
 
 > `optional` **thumbnailWidth**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:22341](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22341)
+Defined in: [WAProto/index.d.ts:22341](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22341)
 
 DocumentMessage thumbnailWidth.
 
@@ -302,7 +302,7 @@ DocumentMessage thumbnailWidth.
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22293](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22293)
+Defined in: [WAProto/index.d.ts:22293](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22293)
 
 DocumentMessage title.
 
@@ -316,7 +316,7 @@ DocumentMessage title.
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22287](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22287)
+Defined in: [WAProto/index.d.ts:22287](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22287)
 
 DocumentMessage url.
 
@@ -330,7 +330,7 @@ DocumentMessage url.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:22417](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22417)
+Defined in: [WAProto/index.d.ts:22417](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22417)
 
 Converts this DocumentMessage to JSON.
 
@@ -346,7 +346,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`DocumentMessage`](DocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:22354](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22354)
+Defined in: [WAProto/index.d.ts:22354](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22354)
 
 Creates a new DocumentMessage instance using the specified properties.
 
@@ -370,7 +370,7 @@ DocumentMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`DocumentMessage`](DocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:22380](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22380)
+Defined in: [WAProto/index.d.ts:22380](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22380)
 
 Decodes a DocumentMessage message from the specified reader or buffer.
 
@@ -408,7 +408,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`DocumentMessage`](DocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:22389](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22389)
+Defined in: [WAProto/index.d.ts:22389](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22389)
 
 Decodes a DocumentMessage message from the specified reader or buffer, length delimited.
 
@@ -440,7 +440,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:22362](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22362)
+Defined in: [WAProto/index.d.ts:22362](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22362)
 
 Encodes the specified DocumentMessage message. Does not implicitly [verify](DocumentMessage.md#verify) messages.
 
@@ -470,7 +470,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:22370](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22370)
+Defined in: [WAProto/index.d.ts:22370](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22370)
 
 Encodes the specified DocumentMessage message, length delimited. Does not implicitly [verify](DocumentMessage.md#verify) messages.
 
@@ -500,7 +500,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`DocumentMessage`](DocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:22403](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22403)
+Defined in: [WAProto/index.d.ts:22403](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22403)
 
 Creates a DocumentMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -522,7 +522,7 @@ DocumentMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:22424](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22424)
+Defined in: [WAProto/index.d.ts:22424](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22424)
 
 Gets the default type url for DocumentMessage
 
@@ -546,7 +546,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:22411](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22411)
+Defined in: [WAProto/index.d.ts:22411](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22411)
 
 Creates a plain object from a DocumentMessage message. Also converts values to other types if specified.
 
@@ -576,7 +576,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22396](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L22396)
+Defined in: [WAProto/index.d.ts:22396](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L22396)
 
 Verifies a DocumentMessage message.
 

@@ -1,6 +1,6 @@
 # Class: USyncQuery
 
-Defined in: [src/WAUSync/USyncQuery.ts:20](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/WAUSync/USyncQuery.ts#L20)
+Defined in: [src/WAUSync/USyncQuery.ts:20](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/WAUSync/USyncQuery.ts#L20)
 
 ## Constructors
 
@@ -8,7 +8,7 @@ Defined in: [src/WAUSync/USyncQuery.ts:20](https://github.com/Fokusdotid/bail/bl
 
 > **new USyncQuery**(): [`USyncQuery`](USyncQuery.md)
 
-Defined in: [src/WAUSync/USyncQuery.ts:26](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/WAUSync/USyncQuery.ts#L26)
+Defined in: [src/WAUSync/USyncQuery.ts:26](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/WAUSync/USyncQuery.ts#L26)
 
 #### Returns
 
@@ -20,7 +20,7 @@ Defined in: [src/WAUSync/USyncQuery.ts:26](https://github.com/Fokusdotid/bail/bl
 
 > **context**: `string`
 
-Defined in: [src/WAUSync/USyncQuery.ts:23](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/WAUSync/USyncQuery.ts#L23)
+Defined in: [src/WAUSync/USyncQuery.ts:23](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/WAUSync/USyncQuery.ts#L23)
 
 ***
 
@@ -28,7 +28,7 @@ Defined in: [src/WAUSync/USyncQuery.ts:23](https://github.com/Fokusdotid/bail/bl
 
 > **mode**: `string`
 
-Defined in: [src/WAUSync/USyncQuery.ts:24](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/WAUSync/USyncQuery.ts#L24)
+Defined in: [src/WAUSync/USyncQuery.ts:24](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/WAUSync/USyncQuery.ts#L24)
 
 ***
 
@@ -36,7 +36,7 @@ Defined in: [src/WAUSync/USyncQuery.ts:24](https://github.com/Fokusdotid/bail/bl
 
 > **protocols**: `USyncQueryProtocol`[]
 
-Defined in: [src/WAUSync/USyncQuery.ts:21](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/WAUSync/USyncQuery.ts#L21)
+Defined in: [src/WAUSync/USyncQuery.ts:21](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/WAUSync/USyncQuery.ts#L21)
 
 ***
 
@@ -44,7 +44,7 @@ Defined in: [src/WAUSync/USyncQuery.ts:21](https://github.com/Fokusdotid/bail/bl
 
 > **users**: [`USyncUser`](USyncUser.md)[]
 
-Defined in: [src/WAUSync/USyncQuery.ts:22](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/WAUSync/USyncQuery.ts#L22)
+Defined in: [src/WAUSync/USyncQuery.ts:22](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/WAUSync/USyncQuery.ts#L22)
 
 ## Methods
 
@@ -52,7 +52,7 @@ Defined in: [src/WAUSync/USyncQuery.ts:22](https://github.com/Fokusdotid/bail/bl
 
 > **parseUSyncQueryResult**(`result`): `undefined` \| [`USyncQueryResult`](../type-aliases/USyncQueryResult.md)
 
-Defined in: [src/WAUSync/USyncQuery.ts:48](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/WAUSync/USyncQuery.ts#L48)
+Defined in: [src/WAUSync/USyncQuery.ts:48](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/WAUSync/USyncQuery.ts#L48)
 
 #### Parameters
 
@@ -70,7 +70,7 @@ Defined in: [src/WAUSync/USyncQuery.ts:48](https://github.com/Fokusdotid/bail/bl
 
 > **withBotProfileProtocol**(): [`USyncQuery`](USyncQuery.md)
 
-Defined in: [src/WAUSync/USyncQuery.ts:119](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/WAUSync/USyncQuery.ts#L119)
+Defined in: [src/WAUSync/USyncQuery.ts:119](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/WAUSync/USyncQuery.ts#L119)
 
 #### Returns
 
@@ -82,7 +82,7 @@ Defined in: [src/WAUSync/USyncQuery.ts:119](https://github.com/Fokusdotid/bail/b
 
 > **withContactProtocol**(): [`USyncQuery`](USyncQuery.md)
 
-Defined in: [src/WAUSync/USyncQuery.ts:104](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/WAUSync/USyncQuery.ts#L104)
+Defined in: [src/WAUSync/USyncQuery.ts:104](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/WAUSync/USyncQuery.ts#L104)
 
 #### Returns
 
@@ -94,7 +94,7 @@ Defined in: [src/WAUSync/USyncQuery.ts:104](https://github.com/Fokusdotid/bail/b
 
 > **withContext**(`context`): [`USyncQuery`](USyncQuery.md)
 
-Defined in: [src/WAUSync/USyncQuery.ts:38](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/WAUSync/USyncQuery.ts#L38)
+Defined in: [src/WAUSync/USyncQuery.ts:38](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/WAUSync/USyncQuery.ts#L38)
 
 #### Parameters
 
@@ -112,7 +112,7 @@ Defined in: [src/WAUSync/USyncQuery.ts:38](https://github.com/Fokusdotid/bail/bl
 
 > **withDeviceProtocol**(): [`USyncQuery`](USyncQuery.md)
 
-Defined in: [src/WAUSync/USyncQuery.ts:99](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/WAUSync/USyncQuery.ts#L99)
+Defined in: [src/WAUSync/USyncQuery.ts:99](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/WAUSync/USyncQuery.ts#L99)
 
 #### Returns
 
@@ -124,7 +124,7 @@ Defined in: [src/WAUSync/USyncQuery.ts:99](https://github.com/Fokusdotid/bail/bl
 
 > **withDisappearingModeProtocol**(): [`USyncQuery`](USyncQuery.md)
 
-Defined in: [src/WAUSync/USyncQuery.ts:114](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/WAUSync/USyncQuery.ts#L114)
+Defined in: [src/WAUSync/USyncQuery.ts:114](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/WAUSync/USyncQuery.ts#L114)
 
 #### Returns
 
@@ -136,7 +136,7 @@ Defined in: [src/WAUSync/USyncQuery.ts:114](https://github.com/Fokusdotid/bail/b
 
 > **withLIDProtocol**(): [`USyncQuery`](USyncQuery.md)
 
-Defined in: [src/WAUSync/USyncQuery.ts:124](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/WAUSync/USyncQuery.ts#L124)
+Defined in: [src/WAUSync/USyncQuery.ts:124](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/WAUSync/USyncQuery.ts#L124)
 
 #### Returns
 
@@ -148,7 +148,7 @@ Defined in: [src/WAUSync/USyncQuery.ts:124](https://github.com/Fokusdotid/bail/b
 
 > **withMode**(`mode`): [`USyncQuery`](USyncQuery.md)
 
-Defined in: [src/WAUSync/USyncQuery.ts:33](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/WAUSync/USyncQuery.ts#L33)
+Defined in: [src/WAUSync/USyncQuery.ts:33](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/WAUSync/USyncQuery.ts#L33)
 
 #### Parameters
 
@@ -166,7 +166,7 @@ Defined in: [src/WAUSync/USyncQuery.ts:33](https://github.com/Fokusdotid/bail/bl
 
 > **withStatusProtocol**(): [`USyncQuery`](USyncQuery.md)
 
-Defined in: [src/WAUSync/USyncQuery.ts:109](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/WAUSync/USyncQuery.ts#L109)
+Defined in: [src/WAUSync/USyncQuery.ts:109](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/WAUSync/USyncQuery.ts#L109)
 
 #### Returns
 
@@ -178,7 +178,7 @@ Defined in: [src/WAUSync/USyncQuery.ts:109](https://github.com/Fokusdotid/bail/b
 
 > **withUser**(`user`): [`USyncQuery`](USyncQuery.md)
 
-Defined in: [src/WAUSync/USyncQuery.ts:43](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/WAUSync/USyncQuery.ts#L43)
+Defined in: [src/WAUSync/USyncQuery.ts:43](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/WAUSync/USyncQuery.ts#L43)
 
 #### Parameters
 

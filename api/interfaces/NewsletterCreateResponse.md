@@ -1,6 +1,6 @@
 # Interface: NewsletterCreateResponse
 
-Defined in: [src/Types/Newsletter.ts:34](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/Types/Newsletter.ts#L34)
+Defined in: [src/Types/Newsletter.ts:34](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/Types/Newsletter.ts#L34)
 
 ## Properties
 
@@ -8,7 +8,7 @@ Defined in: [src/Types/Newsletter.ts:34](https://github.com/Fokusdotid/bail/blob
 
 > **id**: `string`
 
-Defined in: [src/Types/Newsletter.ts:35](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/Types/Newsletter.ts#L35)
+Defined in: [src/Types/Newsletter.ts:35](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/Types/Newsletter.ts#L35)
 
 ***
 
@@ -16,7 +16,7 @@ Defined in: [src/Types/Newsletter.ts:35](https://github.com/Fokusdotid/bail/blob
 
 > **state**: `object`
 
-Defined in: [src/Types/Newsletter.ts:36](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/Types/Newsletter.ts#L36)
+Defined in: [src/Types/Newsletter.ts:36](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/Types/Newsletter.ts#L36)
 
 #### type
 
@@ -28,7 +28,7 @@ Defined in: [src/Types/Newsletter.ts:36](https://github.com/Fokusdotid/bail/blob
 
 > **thread\_metadata**: `object`
 
-Defined in: [src/Types/Newsletter.ts:37](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/Types/Newsletter.ts#L37)
+Defined in: [src/Types/Newsletter.ts:37](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/Types/Newsletter.ts#L37)
 
 #### creation\_time
 
@@ -120,7 +120,7 @@ Defined in: [src/Types/Newsletter.ts:37](https://github.com/Fokusdotid/bail/blob
 
 > **viewer\_metadata**: `object`
 
-Defined in: [src/Types/Newsletter.ts:48](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/Types/Newsletter.ts#L48)
+Defined in: [src/Types/Newsletter.ts:48](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/Types/Newsletter.ts#L48)
 
 #### mute
 

@@ -1,6 +1,6 @@
 # Interface: IBotMetricsMetadata
 
-Defined in: [WAProto/index.d.ts:5027](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L5027)
+Defined in: [WAProto/index.d.ts:5027](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L5027)
 
 Properties of a BotMetricsMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotMetricsMetadata.
 
 > `optional` **destinationEntryPoint**: `null` \| [`BotMetricsEntryPoint`](../enumerations/BotMetricsEntryPoint.md)
 
-Defined in: [WAProto/index.d.ts:5033](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L5033)
+Defined in: [WAProto/index.d.ts:5033](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L5033)
 
 BotMetricsMetadata destinationEntryPoint
 
@@ -20,7 +20,7 @@ BotMetricsMetadata destinationEntryPoint
 
 > `optional` **destinationId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5030](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L5030)
+Defined in: [WAProto/index.d.ts:5030](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L5030)
 
 BotMetricsMetadata destinationId
 
@@ -30,6 +30,6 @@ BotMetricsMetadata destinationId
 
 > `optional` **threadOrigin**: `null` \| [`BotMetricsThreadEntryPoint`](../enumerations/BotMetricsThreadEntryPoint.md)
 
-Defined in: [WAProto/index.d.ts:5036](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L5036)
+Defined in: [WAProto/index.d.ts:5036](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L5036)
 
 BotMetricsMetadata threadOrigin

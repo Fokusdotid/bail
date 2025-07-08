@@ -1,6 +1,6 @@
 # Class: SyncdValue
 
-Defined in: [WAProto/index.d.ts:50540](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L50540)
+Defined in: [WAProto/index.d.ts:50540](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50540)
 
 Represents a SyncdValue.
 
@@ -14,7 +14,7 @@ Represents a SyncdValue.
 
 > **new SyncdValue**(`properties`?): [`SyncdValue`](SyncdValue.md)
 
-Defined in: [WAProto/index.d.ts:50546](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L50546)
+Defined in: [WAProto/index.d.ts:50546](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50546)
 
 Constructs a new SyncdValue.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **blob**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:50549](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L50549)
+Defined in: [WAProto/index.d.ts:50549](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50549)
 
 SyncdValue blob.
 
@@ -50,7 +50,7 @@ SyncdValue blob.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:50619](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L50619)
+Defined in: [WAProto/index.d.ts:50619](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50619)
 
 Converts this SyncdValue to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SyncdValue`](SyncdValue.md)
 
-Defined in: [WAProto/index.d.ts:50556](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L50556)
+Defined in: [WAProto/index.d.ts:50556](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50556)
 
 Creates a new SyncdValue instance using the specified properties.
 
@@ -90,7 +90,7 @@ SyncdValue instance
 
 > `static` **decode**(`reader`, `length`?): [`SyncdValue`](SyncdValue.md)
 
-Defined in: [WAProto/index.d.ts:50582](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L50582)
+Defined in: [WAProto/index.d.ts:50582](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50582)
 
 Decodes a SyncdValue message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SyncdValue`](SyncdValue.md)
 
-Defined in: [WAProto/index.d.ts:50591](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L50591)
+Defined in: [WAProto/index.d.ts:50591](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50591)
 
 Decodes a SyncdValue message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:50564](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L50564)
+Defined in: [WAProto/index.d.ts:50564](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50564)
 
 Encodes the specified SyncdValue message. Does not implicitly [verify](SyncdValue.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:50572](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L50572)
+Defined in: [WAProto/index.d.ts:50572](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50572)
 
 Encodes the specified SyncdValue message, length delimited. Does not implicitly [verify](SyncdValue.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SyncdValue`](SyncdValue.md)
 
-Defined in: [WAProto/index.d.ts:50605](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L50605)
+Defined in: [WAProto/index.d.ts:50605](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50605)
 
 Creates a SyncdValue message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ SyncdValue
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:50626](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L50626)
+Defined in: [WAProto/index.d.ts:50626](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50626)
 
 Gets the default type url for SyncdValue
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:50613](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L50613)
+Defined in: [WAProto/index.d.ts:50613](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50613)
 
 Creates a plain object from a SyncdValue message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:50598](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L50598)
+Defined in: [WAProto/index.d.ts:50598](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L50598)
 
 Verifies a SyncdValue message.
 

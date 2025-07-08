@@ -1,6 +1,6 @@
 # Class: TemplateButtonReplyMessage
 
-Defined in: [WAProto/index.d.ts:34672](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L34672)
+Defined in: [WAProto/index.d.ts:34672](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L34672)
 
 Represents a TemplateButtonReplyMessage.
 
@@ -14,7 +14,7 @@ Represents a TemplateButtonReplyMessage.
 
 > **new TemplateButtonReplyMessage**(`properties`?): [`TemplateButtonReplyMessage`](TemplateButtonReplyMessage.md)
 
-Defined in: [WAProto/index.d.ts:34678](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L34678)
+Defined in: [WAProto/index.d.ts:34678](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L34678)
 
 Constructs a new TemplateButtonReplyMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:34687](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L34687)
+Defined in: [WAProto/index.d.ts:34687](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L34687)
 
 TemplateButtonReplyMessage contextInfo.
 
@@ -50,7 +50,7 @@ TemplateButtonReplyMessage contextInfo.
 
 > `optional` **selectedCarouselCardIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:34693](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L34693)
+Defined in: [WAProto/index.d.ts:34693](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L34693)
 
 TemplateButtonReplyMessage selectedCarouselCardIndex.
 
@@ -64,7 +64,7 @@ TemplateButtonReplyMessage selectedCarouselCardIndex.
 
 > `optional` **selectedDisplayText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34684](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L34684)
+Defined in: [WAProto/index.d.ts:34684](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L34684)
 
 TemplateButtonReplyMessage selectedDisplayText.
 
@@ -78,7 +78,7 @@ TemplateButtonReplyMessage selectedDisplayText.
 
 > `optional` **selectedId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34681](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L34681)
+Defined in: [WAProto/index.d.ts:34681](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L34681)
 
 TemplateButtonReplyMessage selectedId.
 
@@ -92,7 +92,7 @@ TemplateButtonReplyMessage selectedId.
 
 > `optional` **selectedIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:34690](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L34690)
+Defined in: [WAProto/index.d.ts:34690](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L34690)
 
 TemplateButtonReplyMessage selectedIndex.
 
@@ -106,7 +106,7 @@ TemplateButtonReplyMessage selectedIndex.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:34763](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L34763)
+Defined in: [WAProto/index.d.ts:34763](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L34763)
 
 Converts this TemplateButtonReplyMessage to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`TemplateButtonReplyMessage`](TemplateButtonReplyMessage.md)
 
-Defined in: [WAProto/index.d.ts:34700](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L34700)
+Defined in: [WAProto/index.d.ts:34700](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L34700)
 
 Creates a new TemplateButtonReplyMessage instance using the specified properties.
 
@@ -146,7 +146,7 @@ TemplateButtonReplyMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`TemplateButtonReplyMessage`](TemplateButtonReplyMessage.md)
 
-Defined in: [WAProto/index.d.ts:34726](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L34726)
+Defined in: [WAProto/index.d.ts:34726](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L34726)
 
 Decodes a TemplateButtonReplyMessage message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`TemplateButtonReplyMessage`](TemplateButtonReplyMessage.md)
 
-Defined in: [WAProto/index.d.ts:34735](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L34735)
+Defined in: [WAProto/index.d.ts:34735](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L34735)
 
 Decodes a TemplateButtonReplyMessage message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:34708](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L34708)
+Defined in: [WAProto/index.d.ts:34708](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L34708)
 
 Encodes the specified TemplateButtonReplyMessage message. Does not implicitly [verify](TemplateButtonReplyMessage.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:34716](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L34716)
+Defined in: [WAProto/index.d.ts:34716](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L34716)
 
 Encodes the specified TemplateButtonReplyMessage message, length delimited. Does not implicitly [verify](TemplateButtonReplyMessage.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`TemplateButtonReplyMessage`](TemplateButtonReplyMessage.md)
 
-Defined in: [WAProto/index.d.ts:34749](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L34749)
+Defined in: [WAProto/index.d.ts:34749](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L34749)
 
 Creates a TemplateButtonReplyMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ TemplateButtonReplyMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:34770](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L34770)
+Defined in: [WAProto/index.d.ts:34770](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L34770)
 
 Gets the default type url for TemplateButtonReplyMessage
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:34757](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L34757)
+Defined in: [WAProto/index.d.ts:34757](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L34757)
 
 Creates a plain object from a TemplateButtonReplyMessage message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34742](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L34742)
+Defined in: [WAProto/index.d.ts:34742](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L34742)
 
 Verifies a TemplateButtonReplyMessage message.
 

@@ -1,6 +1,6 @@
 # Interface: INativeFlowMessage
 
-Defined in: [WAProto/index.d.ts:25652](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25652)
+Defined in: [WAProto/index.d.ts:25652](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L25652)
 
 Properties of a NativeFlowMessage.
 
@@ -10,7 +10,7 @@ Properties of a NativeFlowMessage.
 
 > `optional` **buttons**: `null` \| [`INativeFlowButton`](../namespaces/NativeFlowMessage/interfaces/INativeFlowButton.md)[]
 
-Defined in: [WAProto/index.d.ts:25655](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25655)
+Defined in: [WAProto/index.d.ts:25655](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L25655)
 
 NativeFlowMessage buttons
 
@@ -20,7 +20,7 @@ NativeFlowMessage buttons
 
 > `optional` **messageParamsJson**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25658](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25658)
+Defined in: [WAProto/index.d.ts:25658](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L25658)
 
 NativeFlowMessage messageParamsJson
 
@@ -30,6 +30,6 @@ NativeFlowMessage messageParamsJson
 
 > `optional` **messageVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:25661](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25661)
+Defined in: [WAProto/index.d.ts:25661](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L25661)
 
 NativeFlowMessage messageVersion

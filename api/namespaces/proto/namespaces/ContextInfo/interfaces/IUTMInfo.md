@@ -1,6 +1,6 @@
 # Interface: IUTMInfo
 
-Defined in: [WAProto/index.d.ts:12208](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L12208)
+Defined in: [WAProto/index.d.ts:12208](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L12208)
 
 Properties of a UTMInfo.
 
@@ -10,7 +10,7 @@ Properties of a UTMInfo.
 
 > `optional` **utmCampaign**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12214](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L12214)
+Defined in: [WAProto/index.d.ts:12214](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L12214)
 
 UTMInfo utmCampaign
 
@@ -20,6 +20,6 @@ UTMInfo utmCampaign
 
 > `optional` **utmSource**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12211](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L12211)
+Defined in: [WAProto/index.d.ts:12211](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L12211)
 
 UTMInfo utmSource

@@ -1,6 +1,6 @@
 # Interface: IAIRichResponseLatexExpression
 
-Defined in: [WAProto/index.d.ts:1921](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L1921)
+Defined in: [WAProto/index.d.ts:1921](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1921)
 
 Properties of a AIRichResponseLatexExpression.
 
@@ -10,7 +10,7 @@ Properties of a AIRichResponseLatexExpression.
 
 > `optional` **fontHeight**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1936](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L1936)
+Defined in: [WAProto/index.d.ts:1936](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1936)
 
 AIRichResponseLatexExpression fontHeight
 
@@ -20,7 +20,7 @@ AIRichResponseLatexExpression fontHeight
 
 > `optional` **height**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1933](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L1933)
+Defined in: [WAProto/index.d.ts:1933](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1933)
 
 AIRichResponseLatexExpression height
 
@@ -30,7 +30,7 @@ AIRichResponseLatexExpression height
 
 > `optional` **imageBottomPadding**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1945](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L1945)
+Defined in: [WAProto/index.d.ts:1945](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1945)
 
 AIRichResponseLatexExpression imageBottomPadding
 
@@ -40,7 +40,7 @@ AIRichResponseLatexExpression imageBottomPadding
 
 > `optional` **imageLeadingPadding**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1942](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L1942)
+Defined in: [WAProto/index.d.ts:1942](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1942)
 
 AIRichResponseLatexExpression imageLeadingPadding
 
@@ -50,7 +50,7 @@ AIRichResponseLatexExpression imageLeadingPadding
 
 > `optional` **imageTopPadding**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1939](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L1939)
+Defined in: [WAProto/index.d.ts:1939](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1939)
 
 AIRichResponseLatexExpression imageTopPadding
 
@@ -60,7 +60,7 @@ AIRichResponseLatexExpression imageTopPadding
 
 > `optional` **imageTrailingPadding**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1948](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L1948)
+Defined in: [WAProto/index.d.ts:1948](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1948)
 
 AIRichResponseLatexExpression imageTrailingPadding
 
@@ -70,7 +70,7 @@ AIRichResponseLatexExpression imageTrailingPadding
 
 > `optional` **latexExpression**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1924](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L1924)
+Defined in: [WAProto/index.d.ts:1924](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1924)
 
 AIRichResponseLatexExpression latexExpression
 
@@ -80,7 +80,7 @@ AIRichResponseLatexExpression latexExpression
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1927](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L1927)
+Defined in: [WAProto/index.d.ts:1927](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1927)
 
 AIRichResponseLatexExpression url
 
@@ -90,6 +90,6 @@ AIRichResponseLatexExpression url
 
 > `optional` **width**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1930](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L1930)
+Defined in: [WAProto/index.d.ts:1930](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L1930)
 
 AIRichResponseLatexExpression width

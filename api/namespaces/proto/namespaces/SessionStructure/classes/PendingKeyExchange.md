@@ -1,6 +1,6 @@
 # Class: PendingKeyExchange
 
-Defined in: [WAProto/index.d.ts:42311](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L42311)
+Defined in: [WAProto/index.d.ts:42311](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L42311)
 
 Represents a PendingKeyExchange.
 
@@ -14,7 +14,7 @@ Represents a PendingKeyExchange.
 
 > **new PendingKeyExchange**(`properties`?): [`PendingKeyExchange`](PendingKeyExchange.md)
 
-Defined in: [WAProto/index.d.ts:42317](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L42317)
+Defined in: [WAProto/index.d.ts:42317](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L42317)
 
 Constructs a new PendingKeyExchange.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **localBaseKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:42323](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L42323)
+Defined in: [WAProto/index.d.ts:42323](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L42323)
 
 PendingKeyExchange localBaseKey.
 
@@ -50,7 +50,7 @@ PendingKeyExchange localBaseKey.
 
 > `optional` **localBaseKeyPrivate**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:42326](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L42326)
+Defined in: [WAProto/index.d.ts:42326](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L42326)
 
 PendingKeyExchange localBaseKeyPrivate.
 
@@ -64,7 +64,7 @@ PendingKeyExchange localBaseKeyPrivate.
 
 > `optional` **localIdentityKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:42335](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L42335)
+Defined in: [WAProto/index.d.ts:42335](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L42335)
 
 PendingKeyExchange localIdentityKey.
 
@@ -78,7 +78,7 @@ PendingKeyExchange localIdentityKey.
 
 > `optional` **localIdentityKeyPrivate**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:42338](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L42338)
+Defined in: [WAProto/index.d.ts:42338](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L42338)
 
 PendingKeyExchange localIdentityKeyPrivate.
 
@@ -92,7 +92,7 @@ PendingKeyExchange localIdentityKeyPrivate.
 
 > `optional` **localRatchetKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:42329](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L42329)
+Defined in: [WAProto/index.d.ts:42329](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L42329)
 
 PendingKeyExchange localRatchetKey.
 
@@ -106,7 +106,7 @@ PendingKeyExchange localRatchetKey.
 
 > `optional` **localRatchetKeyPrivate**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:42332](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L42332)
+Defined in: [WAProto/index.d.ts:42332](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L42332)
 
 PendingKeyExchange localRatchetKeyPrivate.
 
@@ -120,7 +120,7 @@ PendingKeyExchange localRatchetKeyPrivate.
 
 > `optional` **sequence**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:42320](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L42320)
+Defined in: [WAProto/index.d.ts:42320](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L42320)
 
 PendingKeyExchange sequence.
 
@@ -134,7 +134,7 @@ PendingKeyExchange sequence.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:42408](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L42408)
+Defined in: [WAProto/index.d.ts:42408](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L42408)
 
 Converts this PendingKeyExchange to JSON.
 
@@ -150,7 +150,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PendingKeyExchange`](PendingKeyExchange.md)
 
-Defined in: [WAProto/index.d.ts:42345](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L42345)
+Defined in: [WAProto/index.d.ts:42345](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L42345)
 
 Creates a new PendingKeyExchange instance using the specified properties.
 
@@ -174,7 +174,7 @@ PendingKeyExchange instance
 
 > `static` **decode**(`reader`, `length`?): [`PendingKeyExchange`](PendingKeyExchange.md)
 
-Defined in: [WAProto/index.d.ts:42371](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L42371)
+Defined in: [WAProto/index.d.ts:42371](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L42371)
 
 Decodes a PendingKeyExchange message from the specified reader or buffer.
 
@@ -212,7 +212,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PendingKeyExchange`](PendingKeyExchange.md)
 
-Defined in: [WAProto/index.d.ts:42380](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L42380)
+Defined in: [WAProto/index.d.ts:42380](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L42380)
 
 Decodes a PendingKeyExchange message from the specified reader or buffer, length delimited.
 
@@ -244,7 +244,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42353](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L42353)
+Defined in: [WAProto/index.d.ts:42353](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L42353)
 
 Encodes the specified PendingKeyExchange message. Does not implicitly [verify](PendingKeyExchange.md#verify) messages.
 
@@ -274,7 +274,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42361](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L42361)
+Defined in: [WAProto/index.d.ts:42361](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L42361)
 
 Encodes the specified PendingKeyExchange message, length delimited. Does not implicitly [verify](PendingKeyExchange.md#verify) messages.
 
@@ -304,7 +304,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PendingKeyExchange`](PendingKeyExchange.md)
 
-Defined in: [WAProto/index.d.ts:42394](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L42394)
+Defined in: [WAProto/index.d.ts:42394](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L42394)
 
 Creates a PendingKeyExchange message from a plain object. Also converts values to their respective internal types.
 
@@ -326,7 +326,7 @@ PendingKeyExchange
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:42415](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L42415)
+Defined in: [WAProto/index.d.ts:42415](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L42415)
 
 Gets the default type url for PendingKeyExchange
 
@@ -350,7 +350,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:42402](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L42402)
+Defined in: [WAProto/index.d.ts:42402](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L42402)
 
 Creates a plain object from a PendingKeyExchange message. Also converts values to other types if specified.
 
@@ -380,7 +380,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:42387](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L42387)
+Defined in: [WAProto/index.d.ts:42387](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L42387)
 
 Verifies a PendingKeyExchange message.
 

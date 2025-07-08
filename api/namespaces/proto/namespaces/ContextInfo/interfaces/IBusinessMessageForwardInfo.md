@@ -1,6 +1,6 @@
 # Interface: IBusinessMessageForwardInfo
 
-Defined in: [WAProto/index.d.ts:11238](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L11238)
+Defined in: [WAProto/index.d.ts:11238](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L11238)
 
 Properties of a BusinessMessageForwardInfo.
 
@@ -10,6 +10,6 @@ Properties of a BusinessMessageForwardInfo.
 
 > `optional` **businessOwnerJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11241](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L11241)
+Defined in: [WAProto/index.d.ts:11241](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L11241)
 
 BusinessMessageForwardInfo businessOwnerJid

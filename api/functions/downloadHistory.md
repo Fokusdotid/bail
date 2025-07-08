@@ -2,7 +2,7 @@
 
 > **downloadHistory**(`msg`, `options`): `Promise`\<[`HistorySync`](../namespaces/proto/classes/HistorySync.md)\>
 
-Defined in: [src/Utils/history.ts:13](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/Utils/history.ts#L13)
+Defined in: [src/Utils/history.ts:13](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/Utils/history.ts#L13)
 
 ## Parameters
 

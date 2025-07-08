@@ -1,6 +1,6 @@
 # Class: SyncActionValue
 
-Defined in: [WAProto/index.d.ts:43418](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43418)
+Defined in: [WAProto/index.d.ts:43418](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43418)
 
 Represents a SyncActionValue.
 
@@ -14,7 +14,7 @@ Represents a SyncActionValue.
 
 > **new SyncActionValue**(`properties`?): [`SyncActionValue`](SyncActionValue.md)
 
-Defined in: [WAProto/index.d.ts:43424](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43424)
+Defined in: [WAProto/index.d.ts:43424](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43424)
 
 Constructs a new SyncActionValue.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **agentAction**: `null` \| [`IAgentAction`](../namespaces/SyncActionValue/interfaces/IAgentAction.md)
 
-Defined in: [WAProto/index.d.ts:43490](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43490)
+Defined in: [WAProto/index.d.ts:43490](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43490)
 
 SyncActionValue agentAction.
 
@@ -50,7 +50,7 @@ SyncActionValue agentAction.
 
 > `optional` **androidUnsupportedActions**: `null` \| [`IAndroidUnsupportedActions`](../namespaces/SyncActionValue/interfaces/IAndroidUnsupportedActions.md)
 
-Defined in: [WAProto/index.d.ts:43487](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43487)
+Defined in: [WAProto/index.d.ts:43487](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43487)
 
 SyncActionValue androidUnsupportedActions.
 
@@ -64,7 +64,7 @@ SyncActionValue androidUnsupportedActions.
 
 > `optional` **archiveChatAction**: `null` \| [`IArchiveChatAction`](../namespaces/SyncActionValue/interfaces/IArchiveChatAction.md)
 
-Defined in: [WAProto/index.d.ts:43463](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43463)
+Defined in: [WAProto/index.d.ts:43463](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43463)
 
 SyncActionValue archiveChatAction.
 
@@ -78,7 +78,7 @@ SyncActionValue archiveChatAction.
 
 > `optional` **botWelcomeRequestAction**: `null` \| [`IBotWelcomeRequestAction`](../namespaces/SyncActionValue/interfaces/IBotWelcomeRequestAction.md)
 
-Defined in: [WAProto/index.d.ts:43541](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43541)
+Defined in: [WAProto/index.d.ts:43541](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43541)
 
 SyncActionValue botWelcomeRequestAction.
 
@@ -92,7 +92,7 @@ SyncActionValue botWelcomeRequestAction.
 
 > `optional` **callLogAction**: `null` \| [`ICallLogAction`](../namespaces/SyncActionValue/interfaces/ICallLogAction.md)
 
-Defined in: [WAProto/index.d.ts:43535](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43535)
+Defined in: [WAProto/index.d.ts:43535](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43535)
 
 SyncActionValue callLogAction.
 
@@ -106,7 +106,7 @@ SyncActionValue callLogAction.
 
 > `optional` **chatAssignment**: `null` \| [`IChatAssignmentAction`](../namespaces/SyncActionValue/interfaces/IChatAssignmentAction.md)
 
-Defined in: [WAProto/index.d.ts:43514](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43514)
+Defined in: [WAProto/index.d.ts:43514](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43514)
 
 SyncActionValue chatAssignment.
 
@@ -120,7 +120,7 @@ SyncActionValue chatAssignment.
 
 > `optional` **chatAssignmentOpenedStatus**: `null` \| [`IChatAssignmentOpenedStatusAction`](../namespaces/SyncActionValue/interfaces/IChatAssignmentOpenedStatusAction.md)
 
-Defined in: [WAProto/index.d.ts:43517](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43517)
+Defined in: [WAProto/index.d.ts:43517](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43517)
 
 SyncActionValue chatAssignmentOpenedStatus.
 
@@ -134,7 +134,7 @@ SyncActionValue chatAssignmentOpenedStatus.
 
 > `optional` **chatLockSettings**: `null` \| [`IChatLockSettings`](../interfaces/IChatLockSettings.md)
 
-Defined in: [WAProto/index.d.ts:43559](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43559)
+Defined in: [WAProto/index.d.ts:43559](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43559)
 
 SyncActionValue chatLockSettings.
 
@@ -148,7 +148,7 @@ SyncActionValue chatLockSettings.
 
 > `optional` **clearChatAction**: `null` \| [`IClearChatAction`](../namespaces/SyncActionValue/interfaces/IClearChatAction.md)
 
-Defined in: [WAProto/index.d.ts:43475](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43475)
+Defined in: [WAProto/index.d.ts:43475](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43475)
 
 SyncActionValue clearChatAction.
 
@@ -162,7 +162,7 @@ SyncActionValue clearChatAction.
 
 > `optional` **contactAction**: `null` \| [`IContactAction`](../namespaces/SyncActionValue/interfaces/IContactAction.md)
 
-Defined in: [WAProto/index.d.ts:43433](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43433)
+Defined in: [WAProto/index.d.ts:43433](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43433)
 
 SyncActionValue contactAction.
 
@@ -176,7 +176,7 @@ SyncActionValue contactAction.
 
 > `optional` **ctwaPerCustomerDataSharingAction**: `null` \| [`ICtwaPerCustomerDataSharingAction`](../namespaces/SyncActionValue/interfaces/ICtwaPerCustomerDataSharingAction.md)
 
-Defined in: [WAProto/index.d.ts:43592](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43592)
+Defined in: [WAProto/index.d.ts:43592](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43592)
 
 SyncActionValue ctwaPerCustomerDataSharingAction.
 
@@ -190,7 +190,7 @@ SyncActionValue ctwaPerCustomerDataSharingAction.
 
 > `optional` **customPaymentMethodsAction**: `null` \| [`ICustomPaymentMethodsAction`](../namespaces/SyncActionValue/interfaces/ICustomPaymentMethodsAction.md)
 
-Defined in: [WAProto/index.d.ts:43553](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43553)
+Defined in: [WAProto/index.d.ts:43553](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43553)
 
 SyncActionValue customPaymentMethodsAction.
 
@@ -204,7 +204,7 @@ SyncActionValue customPaymentMethodsAction.
 
 > `optional` **deleteChatAction**: `null` \| [`IDeleteChatAction`](../namespaces/SyncActionValue/interfaces/IDeleteChatAction.md)
 
-Defined in: [WAProto/index.d.ts:43478](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43478)
+Defined in: [WAProto/index.d.ts:43478](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43478)
 
 SyncActionValue deleteChatAction.
 
@@ -218,7 +218,7 @@ SyncActionValue deleteChatAction.
 
 > `optional` **deleteIndividualCallLog**: `null` \| [`IDeleteIndividualCallLogAction`](../namespaces/SyncActionValue/interfaces/IDeleteIndividualCallLogAction.md)
 
-Defined in: [WAProto/index.d.ts:43544](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43544)
+Defined in: [WAProto/index.d.ts:43544](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43544)
 
 SyncActionValue deleteIndividualCallLog.
 
@@ -232,7 +232,7 @@ SyncActionValue deleteIndividualCallLog.
 
 > `optional` **deleteMessageForMeAction**: `null` \| [`IDeleteMessageForMeAction`](../namespaces/SyncActionValue/interfaces/IDeleteMessageForMeAction.md)
 
-Defined in: [WAProto/index.d.ts:43466](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43466)
+Defined in: [WAProto/index.d.ts:43466](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43466)
 
 SyncActionValue deleteMessageForMeAction.
 
@@ -246,7 +246,7 @@ SyncActionValue deleteMessageForMeAction.
 
 > `optional` **deviceCapabilities**: `null` \| [`IDeviceCapabilities`](../interfaces/IDeviceCapabilities.md)
 
-Defined in: [WAProto/index.d.ts:43568](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43568)
+Defined in: [WAProto/index.d.ts:43568](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43568)
 
 SyncActionValue deviceCapabilities.
 
@@ -260,7 +260,7 @@ SyncActionValue deviceCapabilities.
 
 > `optional` **externalWebBetaAction**: `null` \| [`IExternalWebBetaAction`](../namespaces/SyncActionValue/interfaces/IExternalWebBetaAction.md)
 
-Defined in: [WAProto/index.d.ts:43529](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43529)
+Defined in: [WAProto/index.d.ts:43529](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43529)
 
 SyncActionValue externalWebBetaAction.
 
@@ -274,7 +274,7 @@ SyncActionValue externalWebBetaAction.
 
 > `optional` **favoritesAction**: `null` \| [`IFavoritesAction`](../namespaces/SyncActionValue/interfaces/IFavoritesAction.md)
 
-Defined in: [WAProto/index.d.ts:43574](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43574)
+Defined in: [WAProto/index.d.ts:43574](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43574)
 
 SyncActionValue favoritesAction.
 
@@ -288,7 +288,7 @@ SyncActionValue favoritesAction.
 
 > `optional` **keyExpiration**: `null` \| [`IKeyExpiration`](../namespaces/SyncActionValue/interfaces/IKeyExpiration.md)
 
-Defined in: [WAProto/index.d.ts:43469](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43469)
+Defined in: [WAProto/index.d.ts:43469](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43469)
 
 SyncActionValue keyExpiration.
 
@@ -302,7 +302,7 @@ SyncActionValue keyExpiration.
 
 > `optional` **labelAssociationAction**: `null` \| [`ILabelAssociationAction`](../namespaces/SyncActionValue/interfaces/ILabelAssociationAction.md)
 
-Defined in: [WAProto/index.d.ts:43457](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43457)
+Defined in: [WAProto/index.d.ts:43457](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43457)
 
 SyncActionValue labelAssociationAction.
 
@@ -316,7 +316,7 @@ SyncActionValue labelAssociationAction.
 
 > `optional` **labelEditAction**: `null` \| [`ILabelEditAction`](../namespaces/SyncActionValue/interfaces/ILabelEditAction.md)
 
-Defined in: [WAProto/index.d.ts:43454](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43454)
+Defined in: [WAProto/index.d.ts:43454](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43454)
 
 SyncActionValue labelEditAction.
 
@@ -330,7 +330,7 @@ SyncActionValue labelEditAction.
 
 > `optional` **labelReorderingAction**: `null` \| [`ILabelReorderingAction`](../namespaces/SyncActionValue/interfaces/ILabelReorderingAction.md)
 
-Defined in: [WAProto/index.d.ts:43547](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43547)
+Defined in: [WAProto/index.d.ts:43547](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43547)
 
 SyncActionValue labelReorderingAction.
 
@@ -344,7 +344,7 @@ SyncActionValue labelReorderingAction.
 
 > `optional` **lidContactAction**: `null` \| [`ILidContactAction`](../namespaces/SyncActionValue/interfaces/ILidContactAction.md)
 
-Defined in: [WAProto/index.d.ts:43589](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43589)
+Defined in: [WAProto/index.d.ts:43589](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43589)
 
 SyncActionValue lidContactAction.
 
@@ -358,7 +358,7 @@ SyncActionValue lidContactAction.
 
 > `optional` **localeSetting**: `null` \| [`ILocaleSetting`](../namespaces/SyncActionValue/interfaces/ILocaleSetting.md)
 
-Defined in: [WAProto/index.d.ts:43460](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43460)
+Defined in: [WAProto/index.d.ts:43460](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43460)
 
 SyncActionValue localeSetting.
 
@@ -372,7 +372,7 @@ SyncActionValue localeSetting.
 
 > `optional` **lockChatAction**: `null` \| [`ILockChatAction`](../namespaces/SyncActionValue/interfaces/ILockChatAction.md)
 
-Defined in: [WAProto/index.d.ts:43556](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43556)
+Defined in: [WAProto/index.d.ts:43556](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43556)
 
 SyncActionValue lockChatAction.
 
@@ -386,7 +386,7 @@ SyncActionValue lockChatAction.
 
 > `optional` **markChatAsReadAction**: `null` \| [`IMarkChatAsReadAction`](../namespaces/SyncActionValue/interfaces/IMarkChatAsReadAction.md)
 
-Defined in: [WAProto/index.d.ts:43472](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43472)
+Defined in: [WAProto/index.d.ts:43472](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43472)
 
 SyncActionValue markChatAsReadAction.
 
@@ -400,7 +400,7 @@ SyncActionValue markChatAsReadAction.
 
 > `optional` **marketingMessageAction**: `null` \| [`IMarketingMessageAction`](../namespaces/SyncActionValue/interfaces/IMarketingMessageAction.md)
 
-Defined in: [WAProto/index.d.ts:43523](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43523)
+Defined in: [WAProto/index.d.ts:43523](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43523)
 
 SyncActionValue marketingMessageAction.
 
@@ -414,7 +414,7 @@ SyncActionValue marketingMessageAction.
 
 > `optional` **marketingMessageBroadcastAction**: `null` \| [`IMarketingMessageBroadcastAction`](../namespaces/SyncActionValue/interfaces/IMarketingMessageBroadcastAction.md)
 
-Defined in: [WAProto/index.d.ts:43526](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43526)
+Defined in: [WAProto/index.d.ts:43526](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43526)
 
 SyncActionValue marketingMessageBroadcastAction.
 
@@ -428,7 +428,7 @@ SyncActionValue marketingMessageBroadcastAction.
 
 > `optional` **merchantPaymentPartnerAction**: `null` \| [`IMerchantPaymentPartnerAction`](../namespaces/SyncActionValue/interfaces/IMerchantPaymentPartnerAction.md)
 
-Defined in: [WAProto/index.d.ts:43577](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43577)
+Defined in: [WAProto/index.d.ts:43577](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43577)
 
 SyncActionValue merchantPaymentPartnerAction.
 
@@ -442,7 +442,7 @@ SyncActionValue merchantPaymentPartnerAction.
 
 > `optional` **muteAction**: `null` \| [`IMuteAction`](../namespaces/SyncActionValue/interfaces/IMuteAction.md)
 
-Defined in: [WAProto/index.d.ts:43436](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43436)
+Defined in: [WAProto/index.d.ts:43436](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43436)
 
 SyncActionValue muteAction.
 
@@ -456,7 +456,7 @@ SyncActionValue muteAction.
 
 > `optional` **noteEditAction**: `null` \| [`INoteEditAction`](../namespaces/SyncActionValue/interfaces/INoteEditAction.md)
 
-Defined in: [WAProto/index.d.ts:43571](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43571)
+Defined in: [WAProto/index.d.ts:43571](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43571)
 
 SyncActionValue noteEditAction.
 
@@ -470,7 +470,7 @@ SyncActionValue noteEditAction.
 
 > `optional` **notificationActivitySettingAction**: `null` \| [`INotificationActivitySettingAction`](../namespaces/SyncActionValue/interfaces/INotificationActivitySettingAction.md)
 
-Defined in: [WAProto/index.d.ts:43586](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43586)
+Defined in: [WAProto/index.d.ts:43586](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43586)
 
 SyncActionValue notificationActivitySettingAction.
 
@@ -484,7 +484,7 @@ SyncActionValue notificationActivitySettingAction.
 
 > `optional` **nuxAction**: `null` \| [`INuxAction`](../namespaces/SyncActionValue/interfaces/INuxAction.md)
 
-Defined in: [WAProto/index.d.ts:43502](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43502)
+Defined in: [WAProto/index.d.ts:43502](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43502)
 
 SyncActionValue nuxAction.
 
@@ -498,7 +498,7 @@ SyncActionValue nuxAction.
 
 > `optional` **paymentInfoAction**: `null` \| [`IPaymentInfoAction`](../namespaces/SyncActionValue/interfaces/IPaymentInfoAction.md)
 
-Defined in: [WAProto/index.d.ts:43550](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43550)
+Defined in: [WAProto/index.d.ts:43550](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43550)
 
 SyncActionValue paymentInfoAction.
 
@@ -512,7 +512,7 @@ SyncActionValue paymentInfoAction.
 
 > `optional` **paymentTosAction**: `null` \| [`IPaymentTosAction`](../namespaces/SyncActionValue/interfaces/IPaymentTosAction.md)
 
-Defined in: [WAProto/index.d.ts:43595](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43595)
+Defined in: [WAProto/index.d.ts:43595](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43595)
 
 SyncActionValue paymentTosAction.
 
@@ -526,7 +526,7 @@ SyncActionValue paymentTosAction.
 
 > `optional` **pinAction**: `null` \| [`IPinAction`](../namespaces/SyncActionValue/interfaces/IPinAction.md)
 
-Defined in: [WAProto/index.d.ts:43439](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43439)
+Defined in: [WAProto/index.d.ts:43439](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43439)
 
 SyncActionValue pinAction.
 
@@ -540,7 +540,7 @@ SyncActionValue pinAction.
 
 > `optional` **pnForLidChatAction**: `null` \| [`IPnForLidChatAction`](../namespaces/SyncActionValue/interfaces/IPnForLidChatAction.md)
 
-Defined in: [WAProto/index.d.ts:43520](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43520)
+Defined in: [WAProto/index.d.ts:43520](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43520)
 
 SyncActionValue pnForLidChatAction.
 
@@ -554,7 +554,7 @@ SyncActionValue pnForLidChatAction.
 
 > `optional` **primaryFeature**: `null` \| [`IPrimaryFeature`](../namespaces/SyncActionValue/interfaces/IPrimaryFeature.md)
 
-Defined in: [WAProto/index.d.ts:43484](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43484)
+Defined in: [WAProto/index.d.ts:43484](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43484)
 
 SyncActionValue primaryFeature.
 
@@ -568,7 +568,7 @@ SyncActionValue primaryFeature.
 
 > `optional` **primaryVersionAction**: `null` \| [`IPrimaryVersionAction`](../namespaces/SyncActionValue/interfaces/IPrimaryVersionAction.md)
 
-Defined in: [WAProto/index.d.ts:43505](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43505)
+Defined in: [WAProto/index.d.ts:43505](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43505)
 
 SyncActionValue primaryVersionAction.
 
@@ -582,7 +582,7 @@ SyncActionValue primaryVersionAction.
 
 > `optional` **privacySettingDisableLinkPreviewsAction**: `null` \| [`IPrivacySettingDisableLinkPreviewsAction`](../namespaces/SyncActionValue/interfaces/IPrivacySettingDisableLinkPreviewsAction.md)
 
-Defined in: [WAProto/index.d.ts:43565](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43565)
+Defined in: [WAProto/index.d.ts:43565](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43565)
 
 SyncActionValue privacySettingDisableLinkPreviewsAction.
 
@@ -596,7 +596,7 @@ SyncActionValue privacySettingDisableLinkPreviewsAction.
 
 > `optional` **privacySettingRelayAllCalls**: `null` \| [`IPrivacySettingRelayAllCalls`](../namespaces/SyncActionValue/interfaces/IPrivacySettingRelayAllCalls.md)
 
-Defined in: [WAProto/index.d.ts:43532](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43532)
+Defined in: [WAProto/index.d.ts:43532](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43532)
 
 SyncActionValue privacySettingRelayAllCalls.
 
@@ -610,7 +610,7 @@ SyncActionValue privacySettingRelayAllCalls.
 
 > `optional` **pushNameSetting**: `null` \| [`IPushNameSetting`](../namespaces/SyncActionValue/interfaces/IPushNameSetting.md)
 
-Defined in: [WAProto/index.d.ts:43445](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43445)
+Defined in: [WAProto/index.d.ts:43445](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43445)
 
 SyncActionValue pushNameSetting.
 
@@ -624,7 +624,7 @@ SyncActionValue pushNameSetting.
 
 > `optional` **quickReplyAction**: `null` \| [`IQuickReplyAction`](../namespaces/SyncActionValue/interfaces/IQuickReplyAction.md)
 
-Defined in: [WAProto/index.d.ts:43448](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43448)
+Defined in: [WAProto/index.d.ts:43448](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43448)
 
 SyncActionValue quickReplyAction.
 
@@ -638,7 +638,7 @@ SyncActionValue quickReplyAction.
 
 > `optional` **recentEmojiWeightsAction**: `null` \| [`IRecentEmojiWeightsAction`](../namespaces/SyncActionValue/interfaces/IRecentEmojiWeightsAction.md)
 
-Defined in: [WAProto/index.d.ts:43451](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43451)
+Defined in: [WAProto/index.d.ts:43451](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43451)
 
 SyncActionValue recentEmojiWeightsAction.
 
@@ -652,7 +652,7 @@ SyncActionValue recentEmojiWeightsAction.
 
 > `optional` **removeRecentStickerAction**: `null` \| [`IRemoveRecentStickerAction`](../namespaces/SyncActionValue/interfaces/IRemoveRecentStickerAction.md)
 
-Defined in: [WAProto/index.d.ts:43511](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43511)
+Defined in: [WAProto/index.d.ts:43511](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43511)
 
 SyncActionValue removeRecentStickerAction.
 
@@ -666,7 +666,7 @@ SyncActionValue removeRecentStickerAction.
 
 > `optional` **securityNotificationSetting**: `null` \| [`ISecurityNotificationSetting`](../namespaces/SyncActionValue/interfaces/ISecurityNotificationSetting.md)
 
-Defined in: [WAProto/index.d.ts:43442](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43442)
+Defined in: [WAProto/index.d.ts:43442](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43442)
 
 SyncActionValue securityNotificationSetting.
 
@@ -680,7 +680,7 @@ SyncActionValue securityNotificationSetting.
 
 > `optional` **starAction**: `null` \| [`IStarAction`](../namespaces/SyncActionValue/interfaces/IStarAction.md)
 
-Defined in: [WAProto/index.d.ts:43430](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43430)
+Defined in: [WAProto/index.d.ts:43430](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43430)
 
 SyncActionValue starAction.
 
@@ -694,7 +694,7 @@ SyncActionValue starAction.
 
 > `optional` **statusPrivacy**: `null` \| [`IStatusPrivacyAction`](../namespaces/SyncActionValue/interfaces/IStatusPrivacyAction.md)
 
-Defined in: [WAProto/index.d.ts:43538](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43538)
+Defined in: [WAProto/index.d.ts:43538](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43538)
 
 SyncActionValue statusPrivacy.
 
@@ -708,7 +708,7 @@ SyncActionValue statusPrivacy.
 
 > `optional` **stickerAction**: `null` \| [`IStickerAction`](../namespaces/SyncActionValue/interfaces/IStickerAction.md)
 
-Defined in: [WAProto/index.d.ts:43508](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43508)
+Defined in: [WAProto/index.d.ts:43508](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43508)
 
 SyncActionValue stickerAction.
 
@@ -722,7 +722,7 @@ SyncActionValue stickerAction.
 
 > `optional` **subscriptionAction**: `null` \| [`ISubscriptionAction`](../namespaces/SyncActionValue/interfaces/ISubscriptionAction.md)
 
-Defined in: [WAProto/index.d.ts:43493](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43493)
+Defined in: [WAProto/index.d.ts:43493](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43493)
 
 SyncActionValue subscriptionAction.
 
@@ -736,7 +736,7 @@ SyncActionValue subscriptionAction.
 
 > `optional` **timeFormatAction**: `null` \| [`ITimeFormatAction`](../namespaces/SyncActionValue/interfaces/ITimeFormatAction.md)
 
-Defined in: [WAProto/index.d.ts:43499](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43499)
+Defined in: [WAProto/index.d.ts:43499](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43499)
 
 SyncActionValue timeFormatAction.
 
@@ -750,7 +750,7 @@ SyncActionValue timeFormatAction.
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:43427](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43427)
+Defined in: [WAProto/index.d.ts:43427](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43427)
 
 SyncActionValue timestamp.
 
@@ -764,7 +764,7 @@ SyncActionValue timestamp.
 
 > `optional` **unarchiveChatsSetting**: `null` \| [`IUnarchiveChatsSetting`](../namespaces/SyncActionValue/interfaces/IUnarchiveChatsSetting.md)
 
-Defined in: [WAProto/index.d.ts:43481](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43481)
+Defined in: [WAProto/index.d.ts:43481](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43481)
 
 SyncActionValue unarchiveChatsSetting.
 
@@ -778,7 +778,7 @@ SyncActionValue unarchiveChatsSetting.
 
 > `optional` **usernameChatStartMode**: `null` \| [`IUsernameChatStartModeAction`](../namespaces/SyncActionValue/interfaces/IUsernameChatStartModeAction.md)
 
-Defined in: [WAProto/index.d.ts:43583](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43583)
+Defined in: [WAProto/index.d.ts:43583](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43583)
 
 SyncActionValue usernameChatStartMode.
 
@@ -792,7 +792,7 @@ SyncActionValue usernameChatStartMode.
 
 > `optional` **userStatusMuteAction**: `null` \| [`IUserStatusMuteAction`](../namespaces/SyncActionValue/interfaces/IUserStatusMuteAction.md)
 
-Defined in: [WAProto/index.d.ts:43496](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43496)
+Defined in: [WAProto/index.d.ts:43496](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43496)
 
 SyncActionValue userStatusMuteAction.
 
@@ -806,7 +806,7 @@ SyncActionValue userStatusMuteAction.
 
 > `optional` **waffleAccountLinkStateAction**: `null` \| [`IWaffleAccountLinkStateAction`](../namespaces/SyncActionValue/interfaces/IWaffleAccountLinkStateAction.md)
 
-Defined in: [WAProto/index.d.ts:43580](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43580)
+Defined in: [WAProto/index.d.ts:43580](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43580)
 
 SyncActionValue waffleAccountLinkStateAction.
 
@@ -820,7 +820,7 @@ SyncActionValue waffleAccountLinkStateAction.
 
 > `optional` **wamoUserIdentifierAction**: `null` \| [`IWamoUserIdentifierAction`](../namespaces/SyncActionValue/interfaces/IWamoUserIdentifierAction.md)
 
-Defined in: [WAProto/index.d.ts:43562](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43562)
+Defined in: [WAProto/index.d.ts:43562](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43562)
 
 SyncActionValue wamoUserIdentifierAction.
 
@@ -834,7 +834,7 @@ SyncActionValue wamoUserIdentifierAction.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:43665](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43665)
+Defined in: [WAProto/index.d.ts:43665](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43665)
 
 Converts this SyncActionValue to JSON.
 
@@ -850,7 +850,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SyncActionValue`](SyncActionValue.md)
 
-Defined in: [WAProto/index.d.ts:43602](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43602)
+Defined in: [WAProto/index.d.ts:43602](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43602)
 
 Creates a new SyncActionValue instance using the specified properties.
 
@@ -874,7 +874,7 @@ SyncActionValue instance
 
 > `static` **decode**(`reader`, `length`?): [`SyncActionValue`](SyncActionValue.md)
 
-Defined in: [WAProto/index.d.ts:43628](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43628)
+Defined in: [WAProto/index.d.ts:43628](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43628)
 
 Decodes a SyncActionValue message from the specified reader or buffer.
 
@@ -912,7 +912,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SyncActionValue`](SyncActionValue.md)
 
-Defined in: [WAProto/index.d.ts:43637](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43637)
+Defined in: [WAProto/index.d.ts:43637](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43637)
 
 Decodes a SyncActionValue message from the specified reader or buffer, length delimited.
 
@@ -944,7 +944,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:43610](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43610)
+Defined in: [WAProto/index.d.ts:43610](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43610)
 
 Encodes the specified SyncActionValue message. Does not implicitly [verify](SyncActionValue.md#verify) messages.
 
@@ -974,7 +974,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:43618](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43618)
+Defined in: [WAProto/index.d.ts:43618](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43618)
 
 Encodes the specified SyncActionValue message, length delimited. Does not implicitly [verify](SyncActionValue.md#verify) messages.
 
@@ -1004,7 +1004,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SyncActionValue`](SyncActionValue.md)
 
-Defined in: [WAProto/index.d.ts:43651](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43651)
+Defined in: [WAProto/index.d.ts:43651](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43651)
 
 Creates a SyncActionValue message from a plain object. Also converts values to their respective internal types.
 
@@ -1026,7 +1026,7 @@ SyncActionValue
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:43672](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43672)
+Defined in: [WAProto/index.d.ts:43672](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43672)
 
 Gets the default type url for SyncActionValue
 
@@ -1050,7 +1050,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:43659](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43659)
+Defined in: [WAProto/index.d.ts:43659](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43659)
 
 Creates a plain object from a SyncActionValue message. Also converts values to other types if specified.
 
@@ -1080,7 +1080,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:43644](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43644)
+Defined in: [WAProto/index.d.ts:43644](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L43644)
 
 Verifies a SyncActionValue message.
 

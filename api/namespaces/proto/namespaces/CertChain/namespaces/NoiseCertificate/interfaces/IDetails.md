@@ -1,6 +1,6 @@
 # Interface: IDetails
 
-Defined in: [WAProto/index.d.ts:8021](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L8021)
+Defined in: [WAProto/index.d.ts:8021](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L8021)
 
 Properties of a Details.
 
@@ -10,7 +10,7 @@ Properties of a Details.
 
 > `optional` **issuerSerial**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:8027](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L8027)
+Defined in: [WAProto/index.d.ts:8027](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L8027)
 
 Details issuerSerial
 
@@ -20,7 +20,7 @@ Details issuerSerial
 
 > `optional` **key**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:8030](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L8030)
+Defined in: [WAProto/index.d.ts:8030](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L8030)
 
 Details key
 
@@ -30,7 +30,7 @@ Details key
 
 > `optional` **notAfter**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:8036](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L8036)
+Defined in: [WAProto/index.d.ts:8036](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L8036)
 
 Details notAfter
 
@@ -40,7 +40,7 @@ Details notAfter
 
 > `optional` **notBefore**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:8033](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L8033)
+Defined in: [WAProto/index.d.ts:8033](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L8033)
 
 Details notBefore
 
@@ -50,6 +50,6 @@ Details notBefore
 
 > `optional` **serial**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:8024](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L8024)
+Defined in: [WAProto/index.d.ts:8024](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L8024)
 
 Details serial

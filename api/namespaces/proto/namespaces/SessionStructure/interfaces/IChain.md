@@ -1,6 +1,6 @@
 # Interface: IChain
 
-Defined in: [WAProto/index.d.ts:41950](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41950)
+Defined in: [WAProto/index.d.ts:41950](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L41950)
 
 Properties of a Chain.
 
@@ -10,7 +10,7 @@ Properties of a Chain.
 
 > `optional` **chainKey**: `null` \| [`IChainKey`](../namespaces/Chain/interfaces/IChainKey.md)
 
-Defined in: [WAProto/index.d.ts:41959](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41959)
+Defined in: [WAProto/index.d.ts:41959](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L41959)
 
 Chain chainKey
 
@@ -20,7 +20,7 @@ Chain chainKey
 
 > `optional` **messageKeys**: `null` \| [`IMessageKey`](../namespaces/Chain/interfaces/IMessageKey.md)[]
 
-Defined in: [WAProto/index.d.ts:41962](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41962)
+Defined in: [WAProto/index.d.ts:41962](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L41962)
 
 Chain messageKeys
 
@@ -30,7 +30,7 @@ Chain messageKeys
 
 > `optional` **senderRatchetKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:41953](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41953)
+Defined in: [WAProto/index.d.ts:41953](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L41953)
 
 Chain senderRatchetKey
 
@@ -40,6 +40,6 @@ Chain senderRatchetKey
 
 > `optional` **senderRatchetKeyPrivate**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:41956](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41956)
+Defined in: [WAProto/index.d.ts:41956](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L41956)
 
 Chain senderRatchetKeyPrivate

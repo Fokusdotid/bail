@@ -1,6 +1,6 @@
 # Interface: IBotAgeCollectionMetadata
 
-Defined in: [WAProto/index.d.ts:3625](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L3625)
+Defined in: [WAProto/index.d.ts:3625](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L3625)
 
 Properties of a BotAgeCollectionMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotAgeCollectionMetadata.
 
 > `optional` **ageCollectionEligible**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:3628](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L3628)
+Defined in: [WAProto/index.d.ts:3628](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L3628)
 
 BotAgeCollectionMetadata ageCollectionEligible
 
@@ -20,6 +20,6 @@ BotAgeCollectionMetadata ageCollectionEligible
 
 > `optional` **shouldTriggerAgeCollectionOnClient**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:3631](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L3631)
+Defined in: [WAProto/index.d.ts:3631](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L3631)
 
 BotAgeCollectionMetadata shouldTriggerAgeCollectionOnClient

@@ -1,6 +1,6 @@
 # Interface: ISecretEncryptedMessage
 
-Defined in: [WAProto/index.d.ts:33517](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33517)
+Defined in: [WAProto/index.d.ts:33517](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33517)
 
 Properties of a SecretEncryptedMessage.
 
@@ -10,7 +10,7 @@ Properties of a SecretEncryptedMessage.
 
 > `optional` **encIv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:33526](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33526)
+Defined in: [WAProto/index.d.ts:33526](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33526)
 
 SecretEncryptedMessage encIv
 
@@ -20,7 +20,7 @@ SecretEncryptedMessage encIv
 
 > `optional` **encPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:33523](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33523)
+Defined in: [WAProto/index.d.ts:33523](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33523)
 
 SecretEncryptedMessage encPayload
 
@@ -30,7 +30,7 @@ SecretEncryptedMessage encPayload
 
 > `optional` **secretEncType**: `null` \| [`SecretEncType`](../namespaces/SecretEncryptedMessage/enumerations/SecretEncType.md)
 
-Defined in: [WAProto/index.d.ts:33529](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33529)
+Defined in: [WAProto/index.d.ts:33529](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33529)
 
 SecretEncryptedMessage secretEncType
 
@@ -40,6 +40,6 @@ SecretEncryptedMessage secretEncType
 
 > `optional` **targetMessageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:33520](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L33520)
+Defined in: [WAProto/index.d.ts:33520](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L33520)
 
 SecretEncryptedMessage targetMessageKey

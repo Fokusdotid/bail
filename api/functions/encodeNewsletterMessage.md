@@ -2,7 +2,7 @@
 
 > **encodeNewsletterMessage**(`message`): `Uint8Array`
 
-Defined in: [src/Utils/generics.ts:447](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/Utils/generics.ts#L447)
+Defined in: [src/Utils/generics.ts:447](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/src/Utils/generics.ts#L447)
 
 ## Parameters
 

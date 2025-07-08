@@ -1,6 +1,6 @@
 # Class: AppVersion
 
-Defined in: [WAProto/index.d.ts:9880](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9880)
+Defined in: [WAProto/index.d.ts:9880](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L9880)
 
 Represents an AppVersion.
 
@@ -14,7 +14,7 @@ Represents an AppVersion.
 
 > **new AppVersion**(`properties`?): [`AppVersion`](AppVersion.md)
 
-Defined in: [WAProto/index.d.ts:9886](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9886)
+Defined in: [WAProto/index.d.ts:9886](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L9886)
 
 Constructs a new AppVersion.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **primary**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:9889](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9889)
+Defined in: [WAProto/index.d.ts:9889](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L9889)
 
 AppVersion primary.
 
@@ -50,7 +50,7 @@ AppVersion primary.
 
 > `optional` **quaternary**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:9898](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9898)
+Defined in: [WAProto/index.d.ts:9898](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L9898)
 
 AppVersion quaternary.
 
@@ -64,7 +64,7 @@ AppVersion quaternary.
 
 > `optional` **quinary**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:9901](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9901)
+Defined in: [WAProto/index.d.ts:9901](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L9901)
 
 AppVersion quinary.
 
@@ -78,7 +78,7 @@ AppVersion quinary.
 
 > `optional` **secondary**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:9892](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9892)
+Defined in: [WAProto/index.d.ts:9892](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L9892)
 
 AppVersion secondary.
 
@@ -92,7 +92,7 @@ AppVersion secondary.
 
 > `optional` **tertiary**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:9895](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9895)
+Defined in: [WAProto/index.d.ts:9895](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L9895)
 
 AppVersion tertiary.
 
@@ -106,7 +106,7 @@ AppVersion tertiary.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:9971](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9971)
+Defined in: [WAProto/index.d.ts:9971](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L9971)
 
 Converts this AppVersion to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AppVersion`](AppVersion.md)
 
-Defined in: [WAProto/index.d.ts:9908](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9908)
+Defined in: [WAProto/index.d.ts:9908](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L9908)
 
 Creates a new AppVersion instance using the specified properties.
 
@@ -146,7 +146,7 @@ AppVersion instance
 
 > `static` **decode**(`reader`, `length`?): [`AppVersion`](AppVersion.md)
 
-Defined in: [WAProto/index.d.ts:9934](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9934)
+Defined in: [WAProto/index.d.ts:9934](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L9934)
 
 Decodes an AppVersion message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AppVersion`](AppVersion.md)
 
-Defined in: [WAProto/index.d.ts:9943](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9943)
+Defined in: [WAProto/index.d.ts:9943](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L9943)
 
 Decodes an AppVersion message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:9916](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9916)
+Defined in: [WAProto/index.d.ts:9916](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L9916)
 
 Encodes the specified AppVersion message. Does not implicitly [verify](AppVersion.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:9924](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9924)
+Defined in: [WAProto/index.d.ts:9924](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L9924)
 
 Encodes the specified AppVersion message, length delimited. Does not implicitly [verify](AppVersion.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AppVersion`](AppVersion.md)
 
-Defined in: [WAProto/index.d.ts:9957](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9957)
+Defined in: [WAProto/index.d.ts:9957](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L9957)
 
 Creates an AppVersion message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ AppVersion
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:9978](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9978)
+Defined in: [WAProto/index.d.ts:9978](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L9978)
 
 Gets the default type url for AppVersion
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:9965](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9965)
+Defined in: [WAProto/index.d.ts:9965](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L9965)
 
 Creates a plain object from an AppVersion message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:9950](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9950)
+Defined in: [WAProto/index.d.ts:9950](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L9950)
 
 Verifies an AppVersion message.
 

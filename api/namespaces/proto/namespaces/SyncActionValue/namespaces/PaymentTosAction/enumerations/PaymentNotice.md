@@ -1,6 +1,6 @@
 # Enumeration: PaymentNotice
 
-Defined in: [WAProto/index.d.ts:47473](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L47473)
+Defined in: [WAProto/index.d.ts:47473](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L47473)
 
 PaymentNotice enum.
 
@@ -10,4 +10,4 @@ PaymentNotice enum.
 
 > **BR\_PAY\_PRIVACY\_POLICY**: `0`
 
-Defined in: [WAProto/index.d.ts:47474](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L47474)
+Defined in: [WAProto/index.d.ts:47474](https://github.com/Fokusdotid/bail/blob/dad8cbc7bd41e0c17126095b0fc017b92c3d85cf/WAProto/index.d.ts#L47474)
