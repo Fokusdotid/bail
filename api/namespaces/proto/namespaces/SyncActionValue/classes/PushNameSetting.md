@@ -1,6 +1,6 @@
 # Class: PushNameSetting
 
-Defined in: [WAProto/index.d.ts:48068](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L48068)
+Defined in: [WAProto/index.d.ts:48068](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48068)
 
 Represents a PushNameSetting.
 
@@ -14,7 +14,7 @@ Represents a PushNameSetting.
 
 > **new PushNameSetting**(`properties`?): [`PushNameSetting`](PushNameSetting.md)
 
-Defined in: [WAProto/index.d.ts:48074](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L48074)
+Defined in: [WAProto/index.d.ts:48074](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48074)
 
 Constructs a new PushNameSetting.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48077](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L48077)
+Defined in: [WAProto/index.d.ts:48077](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48077)
 
 PushNameSetting name.
 
@@ -50,7 +50,7 @@ PushNameSetting name.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:48147](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L48147)
+Defined in: [WAProto/index.d.ts:48147](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48147)
 
 Converts this PushNameSetting to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PushNameSetting`](PushNameSetting.md)
 
-Defined in: [WAProto/index.d.ts:48084](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L48084)
+Defined in: [WAProto/index.d.ts:48084](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48084)
 
 Creates a new PushNameSetting instance using the specified properties.
 
@@ -90,7 +90,7 @@ PushNameSetting instance
 
 > `static` **decode**(`reader`, `length`?): [`PushNameSetting`](PushNameSetting.md)
 
-Defined in: [WAProto/index.d.ts:48110](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L48110)
+Defined in: [WAProto/index.d.ts:48110](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48110)
 
 Decodes a PushNameSetting message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PushNameSetting`](PushNameSetting.md)
 
-Defined in: [WAProto/index.d.ts:48119](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L48119)
+Defined in: [WAProto/index.d.ts:48119](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48119)
 
 Decodes a PushNameSetting message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:48092](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L48092)
+Defined in: [WAProto/index.d.ts:48092](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48092)
 
 Encodes the specified PushNameSetting message. Does not implicitly [verify](PushNameSetting.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:48100](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L48100)
+Defined in: [WAProto/index.d.ts:48100](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48100)
 
 Encodes the specified PushNameSetting message, length delimited. Does not implicitly [verify](PushNameSetting.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PushNameSetting`](PushNameSetting.md)
 
-Defined in: [WAProto/index.d.ts:48133](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L48133)
+Defined in: [WAProto/index.d.ts:48133](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48133)
 
 Creates a PushNameSetting message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PushNameSetting
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:48154](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L48154)
+Defined in: [WAProto/index.d.ts:48154](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48154)
 
 Gets the default type url for PushNameSetting
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:48141](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L48141)
+Defined in: [WAProto/index.d.ts:48141](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48141)
 
 Creates a plain object from a PushNameSetting message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48126](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L48126)
+Defined in: [WAProto/index.d.ts:48126](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48126)
 
 Verifies a PushNameSetting message.
 

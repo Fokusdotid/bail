@@ -1,6 +1,6 @@
 # Interface: ICompanionEphemeralIdentity
 
-Defined in: [WAProto/index.d.ts:10526](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L10526)
+Defined in: [WAProto/index.d.ts:10526](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10526)
 
 Properties of a CompanionEphemeralIdentity.
 
@@ -10,7 +10,7 @@ Properties of a CompanionEphemeralIdentity.
 
 > `optional` **deviceType**: `null` \| [`PlatformType`](../namespaces/DeviceProps/enumerations/PlatformType.md)
 
-Defined in: [WAProto/index.d.ts:10532](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L10532)
+Defined in: [WAProto/index.d.ts:10532](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10532)
 
 CompanionEphemeralIdentity deviceType
 
@@ -20,7 +20,7 @@ CompanionEphemeralIdentity deviceType
 
 > `optional` **publicKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:10529](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L10529)
+Defined in: [WAProto/index.d.ts:10529](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10529)
 
 CompanionEphemeralIdentity publicKey
 
@@ -30,6 +30,6 @@ CompanionEphemeralIdentity publicKey
 
 > `optional` **ref**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10535](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L10535)
+Defined in: [WAProto/index.d.ts:10535](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10535)
 
 CompanionEphemeralIdentity ref

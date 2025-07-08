@@ -1,6 +1,6 @@
 # Interface: IAIRichResponseMapMetadata
 
-Defined in: [WAProto/index.d.ts:2067](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L2067)
+Defined in: [WAProto/index.d.ts:2067](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L2067)
 
 Properties of a AIRichResponseMapMetadata.
 
@@ -10,7 +10,7 @@ Properties of a AIRichResponseMapMetadata.
 
 > `optional` **annotations**: `null` \| [`IAIRichResponseMapAnnotation`](../namespaces/AIRichResponseMapMetadata/interfaces/IAIRichResponseMapAnnotation.md)[]
 
-Defined in: [WAProto/index.d.ts:2082](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L2082)
+Defined in: [WAProto/index.d.ts:2082](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L2082)
 
 AIRichResponseMapMetadata annotations
 
@@ -20,7 +20,7 @@ AIRichResponseMapMetadata annotations
 
 > `optional` **centerLatitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:2070](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L2070)
+Defined in: [WAProto/index.d.ts:2070](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L2070)
 
 AIRichResponseMapMetadata centerLatitude
 
@@ -30,7 +30,7 @@ AIRichResponseMapMetadata centerLatitude
 
 > `optional` **centerLongitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:2073](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L2073)
+Defined in: [WAProto/index.d.ts:2073](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L2073)
 
 AIRichResponseMapMetadata centerLongitude
 
@@ -40,7 +40,7 @@ AIRichResponseMapMetadata centerLongitude
 
 > `optional` **latitudeDelta**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:2076](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L2076)
+Defined in: [WAProto/index.d.ts:2076](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L2076)
 
 AIRichResponseMapMetadata latitudeDelta
 
@@ -50,7 +50,7 @@ AIRichResponseMapMetadata latitudeDelta
 
 > `optional` **longitudeDelta**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:2079](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L2079)
+Defined in: [WAProto/index.d.ts:2079](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L2079)
 
 AIRichResponseMapMetadata longitudeDelta
 
@@ -60,6 +60,6 @@ AIRichResponseMapMetadata longitudeDelta
 
 > `optional` **showInfoList**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:2085](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L2085)
+Defined in: [WAProto/index.d.ts:2085](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L2085)
 
 AIRichResponseMapMetadata showInfoList

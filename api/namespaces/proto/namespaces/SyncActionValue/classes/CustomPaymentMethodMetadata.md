@@ -1,6 +1,6 @@
 # Class: CustomPaymentMethodMetadata
 
-Defined in: [WAProto/index.d.ts:44821](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L44821)
+Defined in: [WAProto/index.d.ts:44821](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L44821)
 
 Represents a CustomPaymentMethodMetadata.
 
@@ -14,7 +14,7 @@ Represents a CustomPaymentMethodMetadata.
 
 > **new CustomPaymentMethodMetadata**(`properties`?): [`CustomPaymentMethodMetadata`](CustomPaymentMethodMetadata.md)
 
-Defined in: [WAProto/index.d.ts:44827](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L44827)
+Defined in: [WAProto/index.d.ts:44827](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L44827)
 
 Constructs a new CustomPaymentMethodMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **key**: `string`
 
-Defined in: [WAProto/index.d.ts:44830](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L44830)
+Defined in: [WAProto/index.d.ts:44830](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L44830)
 
 CustomPaymentMethodMetadata key.
 
@@ -50,7 +50,7 @@ CustomPaymentMethodMetadata key.
 
 > **value**: `string`
 
-Defined in: [WAProto/index.d.ts:44833](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L44833)
+Defined in: [WAProto/index.d.ts:44833](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L44833)
 
 CustomPaymentMethodMetadata value.
 
@@ -64,7 +64,7 @@ CustomPaymentMethodMetadata value.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:44903](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L44903)
+Defined in: [WAProto/index.d.ts:44903](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L44903)
 
 Converts this CustomPaymentMethodMetadata to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CustomPaymentMethodMetadata`](CustomPaymentMethodMetadata.md)
 
-Defined in: [WAProto/index.d.ts:44840](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L44840)
+Defined in: [WAProto/index.d.ts:44840](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L44840)
 
 Creates a new CustomPaymentMethodMetadata instance using the specified properties.
 
@@ -104,7 +104,7 @@ CustomPaymentMethodMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`CustomPaymentMethodMetadata`](CustomPaymentMethodMetadata.md)
 
-Defined in: [WAProto/index.d.ts:44866](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L44866)
+Defined in: [WAProto/index.d.ts:44866](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L44866)
 
 Decodes a CustomPaymentMethodMetadata message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CustomPaymentMethodMetadata`](CustomPaymentMethodMetadata.md)
 
-Defined in: [WAProto/index.d.ts:44875](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L44875)
+Defined in: [WAProto/index.d.ts:44875](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L44875)
 
 Decodes a CustomPaymentMethodMetadata message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44848](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L44848)
+Defined in: [WAProto/index.d.ts:44848](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L44848)
 
 Encodes the specified CustomPaymentMethodMetadata message. Does not implicitly [verify](CustomPaymentMethodMetadata.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44856](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L44856)
+Defined in: [WAProto/index.d.ts:44856](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L44856)
 
 Encodes the specified CustomPaymentMethodMetadata message, length delimited. Does not implicitly [verify](CustomPaymentMethodMetadata.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CustomPaymentMethodMetadata`](CustomPaymentMethodMetadata.md)
 
-Defined in: [WAProto/index.d.ts:44889](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L44889)
+Defined in: [WAProto/index.d.ts:44889](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L44889)
 
 Creates a CustomPaymentMethodMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ CustomPaymentMethodMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:44910](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L44910)
+Defined in: [WAProto/index.d.ts:44910](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L44910)
 
 Gets the default type url for CustomPaymentMethodMetadata
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:44897](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L44897)
+Defined in: [WAProto/index.d.ts:44897](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L44897)
 
 Creates a plain object from a CustomPaymentMethodMetadata message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44882](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L44882)
+Defined in: [WAProto/index.d.ts:44882](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L44882)
 
 Verifies a CustomPaymentMethodMetadata message.
 

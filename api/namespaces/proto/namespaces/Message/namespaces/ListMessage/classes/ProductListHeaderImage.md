@@ -1,6 +1,6 @@
 # Class: ProductListHeaderImage
 
-Defined in: [WAProto/index.d.ts:26957](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L26957)
+Defined in: [WAProto/index.d.ts:26957](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L26957)
 
 Represents a ProductListHeaderImage.
 
@@ -14,7 +14,7 @@ Represents a ProductListHeaderImage.
 
 > **new ProductListHeaderImage**(`properties`?): [`ProductListHeaderImage`](ProductListHeaderImage.md)
 
-Defined in: [WAProto/index.d.ts:26963](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L26963)
+Defined in: [WAProto/index.d.ts:26963](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L26963)
 
 Constructs a new ProductListHeaderImage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:26969](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L26969)
+Defined in: [WAProto/index.d.ts:26969](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L26969)
 
 ProductListHeaderImage jpegThumbnail.
 
@@ -50,7 +50,7 @@ ProductListHeaderImage jpegThumbnail.
 
 > `optional` **productId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26966](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L26966)
+Defined in: [WAProto/index.d.ts:26966](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L26966)
 
 ProductListHeaderImage productId.
 
@@ -64,7 +64,7 @@ ProductListHeaderImage productId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:27039](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27039)
+Defined in: [WAProto/index.d.ts:27039](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27039)
 
 Converts this ProductListHeaderImage to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ProductListHeaderImage`](ProductListHeaderImage.md)
 
-Defined in: [WAProto/index.d.ts:26976](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L26976)
+Defined in: [WAProto/index.d.ts:26976](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L26976)
 
 Creates a new ProductListHeaderImage instance using the specified properties.
 
@@ -104,7 +104,7 @@ ProductListHeaderImage instance
 
 > `static` **decode**(`reader`, `length`?): [`ProductListHeaderImage`](ProductListHeaderImage.md)
 
-Defined in: [WAProto/index.d.ts:27002](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27002)
+Defined in: [WAProto/index.d.ts:27002](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27002)
 
 Decodes a ProductListHeaderImage message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ProductListHeaderImage`](ProductListHeaderImage.md)
 
-Defined in: [WAProto/index.d.ts:27011](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27011)
+Defined in: [WAProto/index.d.ts:27011](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27011)
 
 Decodes a ProductListHeaderImage message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:26984](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L26984)
+Defined in: [WAProto/index.d.ts:26984](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L26984)
 
 Encodes the specified ProductListHeaderImage message. Does not implicitly [verify](ProductListHeaderImage.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:26992](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L26992)
+Defined in: [WAProto/index.d.ts:26992](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L26992)
 
 Encodes the specified ProductListHeaderImage message, length delimited. Does not implicitly [verify](ProductListHeaderImage.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ProductListHeaderImage`](ProductListHeaderImage.md)
 
-Defined in: [WAProto/index.d.ts:27025](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27025)
+Defined in: [WAProto/index.d.ts:27025](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27025)
 
 Creates a ProductListHeaderImage message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ ProductListHeaderImage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:27046](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27046)
+Defined in: [WAProto/index.d.ts:27046](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27046)
 
 Gets the default type url for ProductListHeaderImage
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:27033](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27033)
+Defined in: [WAProto/index.d.ts:27033](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27033)
 
 Creates a plain object from a ProductListHeaderImage message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27018](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27018)
+Defined in: [WAProto/index.d.ts:27018](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27018)
 
 Verifies a ProductListHeaderImage message.
 

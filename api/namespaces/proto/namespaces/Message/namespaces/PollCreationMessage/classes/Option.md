@@ -1,6 +1,6 @@
 # Class: Option
 
-Defined in: [WAProto/index.d.ts:31444](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L31444)
+Defined in: [WAProto/index.d.ts:31444](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L31444)
 
 Represents an Option.
 
@@ -14,7 +14,7 @@ Represents an Option.
 
 > **new Option**(`properties`?): [`Option`](Option.md)
 
-Defined in: [WAProto/index.d.ts:31450](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L31450)
+Defined in: [WAProto/index.d.ts:31450](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L31450)
 
 Constructs a new Option.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **optionHash**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:31456](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L31456)
+Defined in: [WAProto/index.d.ts:31456](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L31456)
 
 Option optionHash.
 
@@ -50,7 +50,7 @@ Option optionHash.
 
 > `optional` **optionName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:31453](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L31453)
+Defined in: [WAProto/index.d.ts:31453](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L31453)
 
 Option optionName.
 
@@ -64,7 +64,7 @@ Option optionName.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:31526](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L31526)
+Defined in: [WAProto/index.d.ts:31526](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L31526)
 
 Converts this Option to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Option`](Option.md)
 
-Defined in: [WAProto/index.d.ts:31463](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L31463)
+Defined in: [WAProto/index.d.ts:31463](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L31463)
 
 Creates a new Option instance using the specified properties.
 
@@ -104,7 +104,7 @@ Option instance
 
 > `static` **decode**(`reader`, `length`?): [`Option`](Option.md)
 
-Defined in: [WAProto/index.d.ts:31489](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L31489)
+Defined in: [WAProto/index.d.ts:31489](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L31489)
 
 Decodes an Option message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Option`](Option.md)
 
-Defined in: [WAProto/index.d.ts:31498](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L31498)
+Defined in: [WAProto/index.d.ts:31498](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L31498)
 
 Decodes an Option message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:31471](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L31471)
+Defined in: [WAProto/index.d.ts:31471](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L31471)
 
 Encodes the specified Option message. Does not implicitly [verify](Option.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:31479](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L31479)
+Defined in: [WAProto/index.d.ts:31479](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L31479)
 
 Encodes the specified Option message, length delimited. Does not implicitly [verify](Option.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Option`](Option.md)
 
-Defined in: [WAProto/index.d.ts:31512](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L31512)
+Defined in: [WAProto/index.d.ts:31512](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L31512)
 
 Creates an Option message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ Option
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:31533](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L31533)
+Defined in: [WAProto/index.d.ts:31533](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L31533)
 
 Gets the default type url for Option
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:31520](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L31520)
+Defined in: [WAProto/index.d.ts:31520](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L31520)
 
 Creates a plain object from an Option message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:31505](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L31505)
+Defined in: [WAProto/index.d.ts:31505](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L31505)
 
 Verifies an Option message.
 

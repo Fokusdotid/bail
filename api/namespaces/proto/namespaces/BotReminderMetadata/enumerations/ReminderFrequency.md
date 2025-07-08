@@ -1,6 +1,6 @@
 # Enumeration: ReminderFrequency
 
-Defined in: [WAProto/index.d.ts:6814](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L6814)
+Defined in: [WAProto/index.d.ts:6814](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L6814)
 
 ReminderFrequency enum.
 
@@ -10,7 +10,7 @@ ReminderFrequency enum.
 
 > **BIWEEKLY**: `4`
 
-Defined in: [WAProto/index.d.ts:6818](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L6818)
+Defined in: [WAProto/index.d.ts:6818](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L6818)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:6818](https://github.com/Fokusdotid/bail/blob/a0
 
 > **DAILY**: `2`
 
-Defined in: [WAProto/index.d.ts:6816](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L6816)
+Defined in: [WAProto/index.d.ts:6816](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L6816)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:6816](https://github.com/Fokusdotid/bail/blob/a0
 
 > **MONTHLY**: `5`
 
-Defined in: [WAProto/index.d.ts:6819](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L6819)
+Defined in: [WAProto/index.d.ts:6819](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L6819)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:6819](https://github.com/Fokusdotid/bail/blob/a0
 
 > **ONCE**: `1`
 
-Defined in: [WAProto/index.d.ts:6815](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L6815)
+Defined in: [WAProto/index.d.ts:6815](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L6815)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [WAProto/index.d.ts:6815](https://github.com/Fokusdotid/bail/blob/a0
 
 > **WEEKLY**: `3`
 
-Defined in: [WAProto/index.d.ts:6817](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L6817)
+Defined in: [WAProto/index.d.ts:6817](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L6817)

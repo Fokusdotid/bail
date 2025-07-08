@@ -1,6 +1,6 @@
 # Class: PreKeyRecordStructure
 
-Defined in: [WAProto/index.d.ts:39609](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L39609)
+Defined in: [WAProto/index.d.ts:39609](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L39609)
 
 Represents a PreKeyRecordStructure.
 
@@ -14,7 +14,7 @@ Represents a PreKeyRecordStructure.
 
 > **new PreKeyRecordStructure**(`properties`?): [`PreKeyRecordStructure`](PreKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:39615](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L39615)
+Defined in: [WAProto/index.d.ts:39615](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L39615)
 
 Constructs a new PreKeyRecordStructure.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **id**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39618](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L39618)
+Defined in: [WAProto/index.d.ts:39618](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L39618)
 
 PreKeyRecordStructure id.
 
@@ -50,7 +50,7 @@ PreKeyRecordStructure id.
 
 > `optional` **privateKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39624](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L39624)
+Defined in: [WAProto/index.d.ts:39624](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L39624)
 
 PreKeyRecordStructure privateKey.
 
@@ -64,7 +64,7 @@ PreKeyRecordStructure privateKey.
 
 > `optional` **publicKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39621](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L39621)
+Defined in: [WAProto/index.d.ts:39621](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L39621)
 
 PreKeyRecordStructure publicKey.
 
@@ -78,7 +78,7 @@ PreKeyRecordStructure publicKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:39694](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L39694)
+Defined in: [WAProto/index.d.ts:39694](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L39694)
 
 Converts this PreKeyRecordStructure to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PreKeyRecordStructure`](PreKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:39631](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L39631)
+Defined in: [WAProto/index.d.ts:39631](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L39631)
 
 Creates a new PreKeyRecordStructure instance using the specified properties.
 
@@ -118,7 +118,7 @@ PreKeyRecordStructure instance
 
 > `static` **decode**(`reader`, `length`?): [`PreKeyRecordStructure`](PreKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:39657](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L39657)
+Defined in: [WAProto/index.d.ts:39657](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L39657)
 
 Decodes a PreKeyRecordStructure message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PreKeyRecordStructure`](PreKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:39666](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L39666)
+Defined in: [WAProto/index.d.ts:39666](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L39666)
 
 Decodes a PreKeyRecordStructure message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39639](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L39639)
+Defined in: [WAProto/index.d.ts:39639](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L39639)
 
 Encodes the specified PreKeyRecordStructure message. Does not implicitly [verify](PreKeyRecordStructure.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39647](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L39647)
+Defined in: [WAProto/index.d.ts:39647](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L39647)
 
 Encodes the specified PreKeyRecordStructure message, length delimited. Does not implicitly [verify](PreKeyRecordStructure.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PreKeyRecordStructure`](PreKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:39680](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L39680)
+Defined in: [WAProto/index.d.ts:39680](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L39680)
 
 Creates a PreKeyRecordStructure message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ PreKeyRecordStructure
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:39701](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L39701)
+Defined in: [WAProto/index.d.ts:39701](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L39701)
 
 Gets the default type url for PreKeyRecordStructure
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:39688](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L39688)
+Defined in: [WAProto/index.d.ts:39688](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L39688)
 
 Creates a plain object from a PreKeyRecordStructure message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:39673](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L39673)
+Defined in: [WAProto/index.d.ts:39673](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L39673)
 
 Verifies a PreKeyRecordStructure message.
 

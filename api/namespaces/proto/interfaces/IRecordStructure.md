@@ -1,6 +1,6 @@
 # Interface: IRecordStructure
 
-Defined in: [WAProto/index.d.ts:40619](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L40619)
+Defined in: [WAProto/index.d.ts:40619](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L40619)
 
 Properties of a RecordStructure.
 
@@ -10,7 +10,7 @@ Properties of a RecordStructure.
 
 > `optional` **currentSession**: `null` \| [`ISessionStructure`](ISessionStructure.md)
 
-Defined in: [WAProto/index.d.ts:40622](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L40622)
+Defined in: [WAProto/index.d.ts:40622](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L40622)
 
 RecordStructure currentSession
 
@@ -20,6 +20,6 @@ RecordStructure currentSession
 
 > `optional` **previousSessions**: `null` \| [`ISessionStructure`](ISessionStructure.md)[]
 
-Defined in: [WAProto/index.d.ts:40625](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L40625)
+Defined in: [WAProto/index.d.ts:40625](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L40625)
 
 RecordStructure previousSessions

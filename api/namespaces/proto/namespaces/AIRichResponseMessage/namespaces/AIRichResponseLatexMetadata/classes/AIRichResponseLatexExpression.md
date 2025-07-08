@@ -1,6 +1,6 @@
 # Class: AIRichResponseLatexExpression
 
-Defined in: [WAProto/index.d.ts:1952](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L1952)
+Defined in: [WAProto/index.d.ts:1952](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L1952)
 
 Represents a AIRichResponseLatexExpression.
 
@@ -14,7 +14,7 @@ Represents a AIRichResponseLatexExpression.
 
 > **new AIRichResponseLatexExpression**(`properties`?): [`AIRichResponseLatexExpression`](AIRichResponseLatexExpression.md)
 
-Defined in: [WAProto/index.d.ts:1958](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L1958)
+Defined in: [WAProto/index.d.ts:1958](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L1958)
 
 Constructs a new AIRichResponseLatexExpression.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **fontHeight**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1973](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L1973)
+Defined in: [WAProto/index.d.ts:1973](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L1973)
 
 AIRichResponseLatexExpression fontHeight.
 
@@ -50,7 +50,7 @@ AIRichResponseLatexExpression fontHeight.
 
 > `optional` **height**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1970](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L1970)
+Defined in: [WAProto/index.d.ts:1970](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L1970)
 
 AIRichResponseLatexExpression height.
 
@@ -64,7 +64,7 @@ AIRichResponseLatexExpression height.
 
 > `optional` **imageBottomPadding**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1982](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L1982)
+Defined in: [WAProto/index.d.ts:1982](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L1982)
 
 AIRichResponseLatexExpression imageBottomPadding.
 
@@ -78,7 +78,7 @@ AIRichResponseLatexExpression imageBottomPadding.
 
 > `optional` **imageLeadingPadding**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1979](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L1979)
+Defined in: [WAProto/index.d.ts:1979](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L1979)
 
 AIRichResponseLatexExpression imageLeadingPadding.
 
@@ -92,7 +92,7 @@ AIRichResponseLatexExpression imageLeadingPadding.
 
 > `optional` **imageTopPadding**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1976](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L1976)
+Defined in: [WAProto/index.d.ts:1976](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L1976)
 
 AIRichResponseLatexExpression imageTopPadding.
 
@@ -106,7 +106,7 @@ AIRichResponseLatexExpression imageTopPadding.
 
 > `optional` **imageTrailingPadding**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1985](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L1985)
+Defined in: [WAProto/index.d.ts:1985](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L1985)
 
 AIRichResponseLatexExpression imageTrailingPadding.
 
@@ -120,7 +120,7 @@ AIRichResponseLatexExpression imageTrailingPadding.
 
 > `optional` **latexExpression**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1961](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L1961)
+Defined in: [WAProto/index.d.ts:1961](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L1961)
 
 AIRichResponseLatexExpression latexExpression.
 
@@ -134,7 +134,7 @@ AIRichResponseLatexExpression latexExpression.
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1964](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L1964)
+Defined in: [WAProto/index.d.ts:1964](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L1964)
 
 AIRichResponseLatexExpression url.
 
@@ -148,7 +148,7 @@ AIRichResponseLatexExpression url.
 
 > `optional` **width**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:1967](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L1967)
+Defined in: [WAProto/index.d.ts:1967](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L1967)
 
 AIRichResponseLatexExpression width.
 
@@ -162,7 +162,7 @@ AIRichResponseLatexExpression width.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:2055](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L2055)
+Defined in: [WAProto/index.d.ts:2055](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L2055)
 
 Converts this AIRichResponseLatexExpression to JSON.
 
@@ -178,7 +178,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIRichResponseLatexExpression`](AIRichResponseLatexExpression.md)
 
-Defined in: [WAProto/index.d.ts:1992](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L1992)
+Defined in: [WAProto/index.d.ts:1992](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L1992)
 
 Creates a new AIRichResponseLatexExpression instance using the specified properties.
 
@@ -202,7 +202,7 @@ AIRichResponseLatexExpression instance
 
 > `static` **decode**(`reader`, `length`?): [`AIRichResponseLatexExpression`](AIRichResponseLatexExpression.md)
 
-Defined in: [WAProto/index.d.ts:2018](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L2018)
+Defined in: [WAProto/index.d.ts:2018](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L2018)
 
 Decodes a AIRichResponseLatexExpression message from the specified reader or buffer.
 
@@ -240,7 +240,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIRichResponseLatexExpression`](AIRichResponseLatexExpression.md)
 
-Defined in: [WAProto/index.d.ts:2027](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L2027)
+Defined in: [WAProto/index.d.ts:2027](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L2027)
 
 Decodes a AIRichResponseLatexExpression message from the specified reader or buffer, length delimited.
 
@@ -272,7 +272,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2000](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L2000)
+Defined in: [WAProto/index.d.ts:2000](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L2000)
 
 Encodes the specified AIRichResponseLatexExpression message. Does not implicitly [verify](AIRichResponseLatexExpression.md#verify) messages.
 
@@ -302,7 +302,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2008](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L2008)
+Defined in: [WAProto/index.d.ts:2008](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L2008)
 
 Encodes the specified AIRichResponseLatexExpression message, length delimited. Does not implicitly [verify](AIRichResponseLatexExpression.md#verify) messages.
 
@@ -332,7 +332,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIRichResponseLatexExpression`](AIRichResponseLatexExpression.md)
 
-Defined in: [WAProto/index.d.ts:2041](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L2041)
+Defined in: [WAProto/index.d.ts:2041](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L2041)
 
 Creates a AIRichResponseLatexExpression message from a plain object. Also converts values to their respective internal types.
 
@@ -354,7 +354,7 @@ AIRichResponseLatexExpression
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:2062](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L2062)
+Defined in: [WAProto/index.d.ts:2062](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L2062)
 
 Gets the default type url for AIRichResponseLatexExpression
 
@@ -378,7 +378,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:2049](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L2049)
+Defined in: [WAProto/index.d.ts:2049](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L2049)
 
 Creates a plain object from a AIRichResponseLatexExpression message. Also converts values to other types if specified.
 
@@ -408,7 +408,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2034](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L2034)
+Defined in: [WAProto/index.d.ts:2034](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L2034)
 
 Verifies a AIRichResponseLatexExpression message.
 

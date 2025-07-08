@@ -1,6 +1,6 @@
 # Interface: ICertChain
 
-Defined in: [WAProto/index.d.ts:7811](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L7811)
+Defined in: [WAProto/index.d.ts:7811](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L7811)
 
 Properties of a CertChain.
 
@@ -10,7 +10,7 @@ Properties of a CertChain.
 
 > `optional` **intermediate**: `null` \| [`INoiseCertificate`](../namespaces/CertChain/interfaces/INoiseCertificate.md)
 
-Defined in: [WAProto/index.d.ts:7817](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L7817)
+Defined in: [WAProto/index.d.ts:7817](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L7817)
 
 CertChain intermediate
 
@@ -20,6 +20,6 @@ CertChain intermediate
 
 > `optional` **leaf**: `null` \| [`INoiseCertificate`](../namespaces/CertChain/interfaces/INoiseCertificate.md)
 
-Defined in: [WAProto/index.d.ts:7814](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L7814)
+Defined in: [WAProto/index.d.ts:7814](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L7814)
 
 CertChain leaf

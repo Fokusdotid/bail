@@ -1,6 +1,6 @@
 # Interface: IFullHistorySyncOnDemandRequestMetadata
 
-Defined in: [WAProto/index.d.ts:23318](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L23318)
+Defined in: [WAProto/index.d.ts:23318](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L23318)
 
 Properties of a FullHistorySyncOnDemandRequestMetadata.
 
@@ -10,6 +10,6 @@ Properties of a FullHistorySyncOnDemandRequestMetadata.
 
 > `optional` **requestId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23321](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L23321)
+Defined in: [WAProto/index.d.ts:23321](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L23321)
 
 FullHistorySyncOnDemandRequestMetadata requestId

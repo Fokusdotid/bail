@@ -1,6 +1,6 @@
 # Interface: IProtocolMessage
 
-Defined in: [WAProto/index.d.ts:32567](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32567)
+Defined in: [WAProto/index.d.ts:32567](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32567)
 
 Properties of a ProtocolMessage.
 
@@ -10,7 +10,7 @@ Properties of a ProtocolMessage.
 
 > `optional` **aiPsiMetadata**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:32633](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32633)
+Defined in: [WAProto/index.d.ts:32633](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32633)
 
 ProtocolMessage aiPsiMetadata
 
@@ -20,7 +20,7 @@ ProtocolMessage aiPsiMetadata
 
 > `optional` **aiQueryFanout**: `null` \| [`IAIQueryFanout`](../../../interfaces/IAIQueryFanout.md)
 
-Defined in: [WAProto/index.d.ts:32636](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32636)
+Defined in: [WAProto/index.d.ts:32636](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32636)
 
 ProtocolMessage aiQueryFanout
 
@@ -30,7 +30,7 @@ ProtocolMessage aiQueryFanout
 
 > `optional` **appStateFatalExceptionNotification**: `null` \| [`IAppStateFatalExceptionNotification`](IAppStateFatalExceptionNotification.md)
 
-Defined in: [WAProto/index.d.ts:32594](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32594)
+Defined in: [WAProto/index.d.ts:32594](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32594)
 
 ProtocolMessage appStateFatalExceptionNotification
 
@@ -40,7 +40,7 @@ ProtocolMessage appStateFatalExceptionNotification
 
 > `optional` **appStateSyncKeyRequest**: `null` \| [`IAppStateSyncKeyRequest`](IAppStateSyncKeyRequest.md)
 
-Defined in: [WAProto/index.d.ts:32588](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32588)
+Defined in: [WAProto/index.d.ts:32588](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32588)
 
 ProtocolMessage appStateSyncKeyRequest
 
@@ -50,7 +50,7 @@ ProtocolMessage appStateSyncKeyRequest
 
 > `optional` **appStateSyncKeyShare**: `null` \| [`IAppStateSyncKeyShare`](IAppStateSyncKeyShare.md)
 
-Defined in: [WAProto/index.d.ts:32585](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32585)
+Defined in: [WAProto/index.d.ts:32585](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32585)
 
 ProtocolMessage appStateSyncKeyShare
 
@@ -60,7 +60,7 @@ ProtocolMessage appStateSyncKeyShare
 
 > `optional` **botFeedbackMessage**: `null` \| [`IBotFeedbackMessage`](IBotFeedbackMessage.md)
 
-Defined in: [WAProto/index.d.ts:32612](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32612)
+Defined in: [WAProto/index.d.ts:32612](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32612)
 
 ProtocolMessage botFeedbackMessage
 
@@ -70,7 +70,7 @@ ProtocolMessage botFeedbackMessage
 
 > `optional` **cloudApiThreadControlNotification**: `null` \| [`ICloudAPIThreadControlNotification`](ICloudAPIThreadControlNotification.md)
 
-Defined in: [WAProto/index.d.ts:32624](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32624)
+Defined in: [WAProto/index.d.ts:32624](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32624)
 
 ProtocolMessage cloudApiThreadControlNotification
 
@@ -80,7 +80,7 @@ ProtocolMessage cloudApiThreadControlNotification
 
 > `optional` **disappearingMode**: `null` \| [`IDisappearingMode`](../../../interfaces/IDisappearingMode.md)
 
-Defined in: [WAProto/index.d.ts:32597](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32597)
+Defined in: [WAProto/index.d.ts:32597](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32597)
 
 ProtocolMessage disappearingMode
 
@@ -90,7 +90,7 @@ ProtocolMessage disappearingMode
 
 > `optional` **editedMessage**: `null` \| [`IMessage`](../../../interfaces/IMessage.md)
 
-Defined in: [WAProto/index.d.ts:32600](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32600)
+Defined in: [WAProto/index.d.ts:32600](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32600)
 
 ProtocolMessage editedMessage
 
@@ -100,7 +100,7 @@ ProtocolMessage editedMessage
 
 > `optional` **ephemeralExpiration**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:32576](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32576)
+Defined in: [WAProto/index.d.ts:32576](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32576)
 
 ProtocolMessage ephemeralExpiration
 
@@ -110,7 +110,7 @@ ProtocolMessage ephemeralExpiration
 
 > `optional` **ephemeralSettingTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:32579](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32579)
+Defined in: [WAProto/index.d.ts:32579](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32579)
 
 ProtocolMessage ephemeralSettingTimestamp
 
@@ -120,7 +120,7 @@ ProtocolMessage ephemeralSettingTimestamp
 
 > `optional` **historySyncNotification**: `null` \| [`IHistorySyncNotification`](IHistorySyncNotification.md)
 
-Defined in: [WAProto/index.d.ts:32582](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32582)
+Defined in: [WAProto/index.d.ts:32582](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32582)
 
 ProtocolMessage historySyncNotification
 
@@ -130,7 +130,7 @@ ProtocolMessage historySyncNotification
 
 > `optional` **initialSecurityNotificationSettingSync**: `null` \| [`IInitialSecurityNotificationSettingSync`](IInitialSecurityNotificationSettingSync.md)
 
-Defined in: [WAProto/index.d.ts:32591](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32591)
+Defined in: [WAProto/index.d.ts:32591](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32591)
 
 ProtocolMessage initialSecurityNotificationSettingSync
 
@@ -140,7 +140,7 @@ ProtocolMessage initialSecurityNotificationSettingSync
 
 > `optional` **invokerJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32615](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32615)
+Defined in: [WAProto/index.d.ts:32615](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32615)
 
 ProtocolMessage invokerJid
 
@@ -150,7 +150,7 @@ ProtocolMessage invokerJid
 
 > `optional` **key**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:32570](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32570)
+Defined in: [WAProto/index.d.ts:32570](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32570)
 
 ProtocolMessage key
 
@@ -160,7 +160,7 @@ ProtocolMessage key
 
 > `optional` **lidMigrationMappingSyncMessage**: `null` \| [`ILIDMigrationMappingSyncMessage`](../../../interfaces/ILIDMigrationMappingSyncMessage.md)
 
-Defined in: [WAProto/index.d.ts:32627](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32627)
+Defined in: [WAProto/index.d.ts:32627](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32627)
 
 ProtocolMessage lidMigrationMappingSyncMessage
 
@@ -170,7 +170,7 @@ ProtocolMessage lidMigrationMappingSyncMessage
 
 > `optional` **limitSharing**: `null` \| [`ILimitSharing`](../../../interfaces/ILimitSharing.md)
 
-Defined in: [WAProto/index.d.ts:32630](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32630)
+Defined in: [WAProto/index.d.ts:32630](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32630)
 
 ProtocolMessage limitSharing
 
@@ -180,7 +180,7 @@ ProtocolMessage limitSharing
 
 > `optional` **mediaNotifyMessage**: `null` \| [`IMediaNotifyMessage`](../../../interfaces/IMediaNotifyMessage.md)
 
-Defined in: [WAProto/index.d.ts:32621](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32621)
+Defined in: [WAProto/index.d.ts:32621](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32621)
 
 ProtocolMessage mediaNotifyMessage
 
@@ -190,7 +190,7 @@ ProtocolMessage mediaNotifyMessage
 
 > `optional` **memberLabel**: `null` \| [`IMemberLabel`](../../../interfaces/IMemberLabel.md)
 
-Defined in: [WAProto/index.d.ts:32639](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32639)
+Defined in: [WAProto/index.d.ts:32639](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32639)
 
 ProtocolMessage memberLabel
 
@@ -200,7 +200,7 @@ ProtocolMessage memberLabel
 
 > `optional` **peerDataOperationRequestMessage**: `null` \| [`IPeerDataOperationRequestMessage`](IPeerDataOperationRequestMessage.md)
 
-Defined in: [WAProto/index.d.ts:32606](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32606)
+Defined in: [WAProto/index.d.ts:32606](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32606)
 
 ProtocolMessage peerDataOperationRequestMessage
 
@@ -210,7 +210,7 @@ ProtocolMessage peerDataOperationRequestMessage
 
 > `optional` **peerDataOperationRequestResponseMessage**: `null` \| [`IPeerDataOperationRequestResponseMessage`](IPeerDataOperationRequestResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:32609](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32609)
+Defined in: [WAProto/index.d.ts:32609](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32609)
 
 ProtocolMessage peerDataOperationRequestResponseMessage
 
@@ -220,7 +220,7 @@ ProtocolMessage peerDataOperationRequestResponseMessage
 
 > `optional` **requestWelcomeMessageMetadata**: `null` \| [`IRequestWelcomeMessageMetadata`](IRequestWelcomeMessageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:32618](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32618)
+Defined in: [WAProto/index.d.ts:32618](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32618)
 
 ProtocolMessage requestWelcomeMessageMetadata
 
@@ -230,7 +230,7 @@ ProtocolMessage requestWelcomeMessageMetadata
 
 > `optional` **timestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:32603](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32603)
+Defined in: [WAProto/index.d.ts:32603](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32603)
 
 ProtocolMessage timestampMs
 
@@ -240,6 +240,6 @@ ProtocolMessage timestampMs
 
 > `optional` **type**: `null` \| [`Type`](../namespaces/ProtocolMessage/enumerations/Type.md)
 
-Defined in: [WAProto/index.d.ts:32573](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32573)
+Defined in: [WAProto/index.d.ts:32573](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L32573)
 
 ProtocolMessage type

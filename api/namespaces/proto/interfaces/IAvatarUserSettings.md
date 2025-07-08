@@ -1,6 +1,6 @@
 # Interface: IAvatarUserSettings
 
-Defined in: [WAProto/index.d.ts:3123](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L3123)
+Defined in: [WAProto/index.d.ts:3123](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3123)
 
 Properties of an AvatarUserSettings.
 
@@ -10,7 +10,7 @@ Properties of an AvatarUserSettings.
 
 > `optional` **fbid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3126](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L3126)
+Defined in: [WAProto/index.d.ts:3126](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3126)
 
 AvatarUserSettings fbid
 
@@ -20,6 +20,6 @@ AvatarUserSettings fbid
 
 > `optional` **password**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3129](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L3129)
+Defined in: [WAProto/index.d.ts:3129](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3129)
 
 AvatarUserSettings password

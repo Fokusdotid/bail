@@ -1,6 +1,6 @@
 # Class: DraftMessage
 
-Defined in: [WAProto/index.d.ts:8365](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8365)
+Defined in: [WAProto/index.d.ts:8365](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8365)
 
 Represents a DraftMessage.
 
@@ -14,7 +14,7 @@ Represents a DraftMessage.
 
 > **new DraftMessage**(`properties`?): [`DraftMessage`](DraftMessage.md)
 
-Defined in: [WAProto/index.d.ts:8371](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8371)
+Defined in: [WAProto/index.d.ts:8371](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8371)
 
 Constructs a new DraftMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **ctwaContext**: `null` \| [`ICtwaContextData`](../namespaces/DraftMessage/interfaces/ICtwaContextData.md)
 
-Defined in: [WAProto/index.d.ts:8383](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8383)
+Defined in: [WAProto/index.d.ts:8383](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8383)
 
 DraftMessage ctwaContext.
 
@@ -50,7 +50,7 @@ DraftMessage ctwaContext.
 
 > `optional` **ctwaContextLinkData**: `null` \| [`ICtwaContextLinkData`](../namespaces/DraftMessage/interfaces/ICtwaContextLinkData.md)
 
-Defined in: [WAProto/index.d.ts:8380](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8380)
+Defined in: [WAProto/index.d.ts:8380](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8380)
 
 DraftMessage ctwaContextLinkData.
 
@@ -64,7 +64,7 @@ DraftMessage ctwaContextLinkData.
 
 > `optional` **omittedUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8377](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8377)
+Defined in: [WAProto/index.d.ts:8377](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8377)
 
 DraftMessage omittedUrl.
 
@@ -78,7 +78,7 @@ DraftMessage omittedUrl.
 
 > `optional` **text**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8374](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8374)
+Defined in: [WAProto/index.d.ts:8374](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8374)
 
 DraftMessage text.
 
@@ -92,7 +92,7 @@ DraftMessage text.
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:8386](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8386)
+Defined in: [WAProto/index.d.ts:8386](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8386)
 
 DraftMessage timestamp.
 
@@ -106,7 +106,7 @@ DraftMessage timestamp.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:8456](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8456)
+Defined in: [WAProto/index.d.ts:8456](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8456)
 
 Converts this DraftMessage to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`DraftMessage`](DraftMessage.md)
 
-Defined in: [WAProto/index.d.ts:8393](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8393)
+Defined in: [WAProto/index.d.ts:8393](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8393)
 
 Creates a new DraftMessage instance using the specified properties.
 
@@ -146,7 +146,7 @@ DraftMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`DraftMessage`](DraftMessage.md)
 
-Defined in: [WAProto/index.d.ts:8419](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8419)
+Defined in: [WAProto/index.d.ts:8419](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8419)
 
 Decodes a DraftMessage message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`DraftMessage`](DraftMessage.md)
 
-Defined in: [WAProto/index.d.ts:8428](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8428)
+Defined in: [WAProto/index.d.ts:8428](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8428)
 
 Decodes a DraftMessage message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:8401](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8401)
+Defined in: [WAProto/index.d.ts:8401](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8401)
 
 Encodes the specified DraftMessage message. Does not implicitly [verify](DraftMessage.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:8409](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8409)
+Defined in: [WAProto/index.d.ts:8409](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8409)
 
 Encodes the specified DraftMessage message, length delimited. Does not implicitly [verify](DraftMessage.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`DraftMessage`](DraftMessage.md)
 
-Defined in: [WAProto/index.d.ts:8442](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8442)
+Defined in: [WAProto/index.d.ts:8442](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8442)
 
 Creates a DraftMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ DraftMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:8463](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8463)
+Defined in: [WAProto/index.d.ts:8463](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8463)
 
 Gets the default type url for DraftMessage
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:8450](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8450)
+Defined in: [WAProto/index.d.ts:8450](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8450)
 
 Creates a plain object from a DraftMessage message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8435](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8435)
+Defined in: [WAProto/index.d.ts:8435](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8435)
 
 Verifies a DraftMessage message.
 

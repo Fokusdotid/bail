@@ -2,7 +2,7 @@
 
 > **downloadContentFromMessage**(`__namedParameters`, `type`, `opts`): `Promise`\<`Transform`\>
 
-Defined in: [src/Utils/messages-media.ts:490](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/src/Utils/messages-media.ts#L490)
+Defined in: [src/Utils/messages-media.ts:492](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/src/Utils/messages-media.ts#L492)
 
 ## Parameters
 

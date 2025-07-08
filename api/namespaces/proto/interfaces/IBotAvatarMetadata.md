@@ -1,6 +1,6 @@
 # Interface: IBotAvatarMetadata
 
-Defined in: [WAProto/index.d.ts:3728](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L3728)
+Defined in: [WAProto/index.d.ts:3728](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3728)
 
 Properties of a BotAvatarMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotAvatarMetadata.
 
 > `optional` **action**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:3737](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L3737)
+Defined in: [WAProto/index.d.ts:3737](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3737)
 
 BotAvatarMetadata action
 
@@ -20,7 +20,7 @@ BotAvatarMetadata action
 
 > `optional` **behaviorGraph**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3734](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L3734)
+Defined in: [WAProto/index.d.ts:3734](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3734)
 
 BotAvatarMetadata behaviorGraph
 
@@ -30,7 +30,7 @@ BotAvatarMetadata behaviorGraph
 
 > `optional` **intensity**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:3740](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L3740)
+Defined in: [WAProto/index.d.ts:3740](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3740)
 
 BotAvatarMetadata intensity
 
@@ -40,7 +40,7 @@ BotAvatarMetadata intensity
 
 > `optional` **sentiment**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:3731](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L3731)
+Defined in: [WAProto/index.d.ts:3731](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3731)
 
 BotAvatarMetadata sentiment
 
@@ -50,6 +50,6 @@ BotAvatarMetadata sentiment
 
 > `optional` **wordCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:3743](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L3743)
+Defined in: [WAProto/index.d.ts:3743](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3743)
 
 BotAvatarMetadata wordCount

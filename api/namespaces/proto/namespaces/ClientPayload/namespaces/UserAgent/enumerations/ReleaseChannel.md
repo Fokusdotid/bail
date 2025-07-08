@@ -1,6 +1,6 @@
 # Enumeration: ReleaseChannel
 
-Defined in: [WAProto/index.d.ts:10031](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L10031)
+Defined in: [WAProto/index.d.ts:10031](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10031)
 
 ReleaseChannel enum.
 
@@ -10,7 +10,7 @@ ReleaseChannel enum.
 
 > **ALPHA**: `2`
 
-Defined in: [WAProto/index.d.ts:10034](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L10034)
+Defined in: [WAProto/index.d.ts:10034](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10034)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:10034](https://github.com/Fokusdotid/bail/blob/a
 
 > **BETA**: `1`
 
-Defined in: [WAProto/index.d.ts:10033](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L10033)
+Defined in: [WAProto/index.d.ts:10033](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10033)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:10033](https://github.com/Fokusdotid/bail/blob/a
 
 > **DEBUG**: `3`
 
-Defined in: [WAProto/index.d.ts:10035](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L10035)
+Defined in: [WAProto/index.d.ts:10035](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10035)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:10035](https://github.com/Fokusdotid/bail/blob/a
 
 > **RELEASE**: `0`
 
-Defined in: [WAProto/index.d.ts:10032](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L10032)
+Defined in: [WAProto/index.d.ts:10032](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10032)

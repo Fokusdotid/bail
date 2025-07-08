@@ -1,6 +1,6 @@
 # Class: MuteAction
 
-Defined in: [WAProto/index.d.ts:46840](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L46840)
+Defined in: [WAProto/index.d.ts:46840](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46840)
 
 Represents a MuteAction.
 
@@ -14,7 +14,7 @@ Represents a MuteAction.
 
 > **new MuteAction**(`properties`?): [`MuteAction`](MuteAction.md)
 
-Defined in: [WAProto/index.d.ts:46846](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L46846)
+Defined in: [WAProto/index.d.ts:46846](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46846)
 
 Constructs a new MuteAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **autoMuted**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:46855](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L46855)
+Defined in: [WAProto/index.d.ts:46855](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46855)
 
 MuteAction autoMuted.
 
@@ -50,7 +50,7 @@ MuteAction autoMuted.
 
 > `optional` **muted**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:46849](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L46849)
+Defined in: [WAProto/index.d.ts:46849](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46849)
 
 MuteAction muted.
 
@@ -64,7 +64,7 @@ MuteAction muted.
 
 > `optional` **muteEndTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:46852](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L46852)
+Defined in: [WAProto/index.d.ts:46852](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46852)
 
 MuteAction muteEndTimestamp.
 
@@ -78,7 +78,7 @@ MuteAction muteEndTimestamp.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:46925](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L46925)
+Defined in: [WAProto/index.d.ts:46925](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46925)
 
 Converts this MuteAction to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`MuteAction`](MuteAction.md)
 
-Defined in: [WAProto/index.d.ts:46862](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L46862)
+Defined in: [WAProto/index.d.ts:46862](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46862)
 
 Creates a new MuteAction instance using the specified properties.
 
@@ -118,7 +118,7 @@ MuteAction instance
 
 > `static` **decode**(`reader`, `length`?): [`MuteAction`](MuteAction.md)
 
-Defined in: [WAProto/index.d.ts:46888](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L46888)
+Defined in: [WAProto/index.d.ts:46888](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46888)
 
 Decodes a MuteAction message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`MuteAction`](MuteAction.md)
 
-Defined in: [WAProto/index.d.ts:46897](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L46897)
+Defined in: [WAProto/index.d.ts:46897](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46897)
 
 Decodes a MuteAction message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46870](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L46870)
+Defined in: [WAProto/index.d.ts:46870](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46870)
 
 Encodes the specified MuteAction message. Does not implicitly [verify](MuteAction.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46878](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L46878)
+Defined in: [WAProto/index.d.ts:46878](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46878)
 
 Encodes the specified MuteAction message, length delimited. Does not implicitly [verify](MuteAction.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`MuteAction`](MuteAction.md)
 
-Defined in: [WAProto/index.d.ts:46911](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L46911)
+Defined in: [WAProto/index.d.ts:46911](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46911)
 
 Creates a MuteAction message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ MuteAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:46932](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L46932)
+Defined in: [WAProto/index.d.ts:46932](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46932)
 
 Gets the default type url for MuteAction
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:46919](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L46919)
+Defined in: [WAProto/index.d.ts:46919](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46919)
 
 Creates a plain object from a MuteAction message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46904](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L46904)
+Defined in: [WAProto/index.d.ts:46904](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46904)
 
 Verifies a MuteAction message.
 

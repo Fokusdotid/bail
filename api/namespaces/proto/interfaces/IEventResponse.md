@@ -1,6 +1,6 @@
 # Interface: IEventResponse
 
-Defined in: [WAProto/index.d.ts:14437](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L14437)
+Defined in: [WAProto/index.d.ts:14437](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14437)
 
 Properties of an EventResponse.
 
@@ -10,7 +10,7 @@ Properties of an EventResponse.
 
 > `optional` **eventResponseMessage**: `null` \| [`IEventResponseMessage`](../namespaces/Message/interfaces/IEventResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:14446](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L14446)
+Defined in: [WAProto/index.d.ts:14446](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14446)
 
 EventResponse eventResponseMessage
 
@@ -20,7 +20,7 @@ EventResponse eventResponseMessage
 
 > `optional` **eventResponseMessageKey**: `null` \| [`IMessageKey`](IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:14440](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L14440)
+Defined in: [WAProto/index.d.ts:14440](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14440)
 
 EventResponse eventResponseMessageKey
 
@@ -30,7 +30,7 @@ EventResponse eventResponseMessageKey
 
 > `optional` **timestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:14443](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L14443)
+Defined in: [WAProto/index.d.ts:14443](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14443)
 
 EventResponse timestampMs
 
@@ -40,6 +40,6 @@ EventResponse timestampMs
 
 > `optional` **unread**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:14449](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L14449)
+Defined in: [WAProto/index.d.ts:14449](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14449)
 
 EventResponse unread

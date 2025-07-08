@@ -1,6 +1,6 @@
 # Class: DevicePairingRegistrationData
 
-Defined in: [WAProto/index.d.ts:9430](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L9430)
+Defined in: [WAProto/index.d.ts:9430](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L9430)
 
 Represents a DevicePairingRegistrationData.
 
@@ -14,7 +14,7 @@ Represents a DevicePairingRegistrationData.
 
 > **new DevicePairingRegistrationData**(`properties`?): [`DevicePairingRegistrationData`](DevicePairingRegistrationData.md)
 
-Defined in: [WAProto/index.d.ts:9436](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L9436)
+Defined in: [WAProto/index.d.ts:9436](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L9436)
 
 Constructs a new DevicePairingRegistrationData.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **buildHash**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9457](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L9457)
+Defined in: [WAProto/index.d.ts:9457](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L9457)
 
 DevicePairingRegistrationData buildHash.
 
@@ -50,7 +50,7 @@ DevicePairingRegistrationData buildHash.
 
 > `optional` **deviceProps**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9460](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L9460)
+Defined in: [WAProto/index.d.ts:9460](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L9460)
 
 DevicePairingRegistrationData deviceProps.
 
@@ -64,7 +64,7 @@ DevicePairingRegistrationData deviceProps.
 
 > `optional` **eIdent**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9445](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L9445)
+Defined in: [WAProto/index.d.ts:9445](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L9445)
 
 DevicePairingRegistrationData eIdent.
 
@@ -78,7 +78,7 @@ DevicePairingRegistrationData eIdent.
 
 > `optional` **eKeytype**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9442](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L9442)
+Defined in: [WAProto/index.d.ts:9442](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L9442)
 
 DevicePairingRegistrationData eKeytype.
 
@@ -92,7 +92,7 @@ DevicePairingRegistrationData eKeytype.
 
 > `optional` **eRegid**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9439](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L9439)
+Defined in: [WAProto/index.d.ts:9439](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L9439)
 
 DevicePairingRegistrationData eRegid.
 
@@ -106,7 +106,7 @@ DevicePairingRegistrationData eRegid.
 
 > `optional` **eSkeyId**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9448](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L9448)
+Defined in: [WAProto/index.d.ts:9448](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L9448)
 
 DevicePairingRegistrationData eSkeyId.
 
@@ -120,7 +120,7 @@ DevicePairingRegistrationData eSkeyId.
 
 > `optional` **eSkeySig**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9454](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L9454)
+Defined in: [WAProto/index.d.ts:9454](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L9454)
 
 DevicePairingRegistrationData eSkeySig.
 
@@ -134,7 +134,7 @@ DevicePairingRegistrationData eSkeySig.
 
 > `optional` **eSkeyVal**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9451](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L9451)
+Defined in: [WAProto/index.d.ts:9451](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L9451)
 
 DevicePairingRegistrationData eSkeyVal.
 
@@ -148,7 +148,7 @@ DevicePairingRegistrationData eSkeyVal.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:9530](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L9530)
+Defined in: [WAProto/index.d.ts:9530](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L9530)
 
 Converts this DevicePairingRegistrationData to JSON.
 
@@ -164,7 +164,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`DevicePairingRegistrationData`](DevicePairingRegistrationData.md)
 
-Defined in: [WAProto/index.d.ts:9467](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L9467)
+Defined in: [WAProto/index.d.ts:9467](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L9467)
 
 Creates a new DevicePairingRegistrationData instance using the specified properties.
 
@@ -188,7 +188,7 @@ DevicePairingRegistrationData instance
 
 > `static` **decode**(`reader`, `length`?): [`DevicePairingRegistrationData`](DevicePairingRegistrationData.md)
 
-Defined in: [WAProto/index.d.ts:9493](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L9493)
+Defined in: [WAProto/index.d.ts:9493](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L9493)
 
 Decodes a DevicePairingRegistrationData message from the specified reader or buffer.
 
@@ -226,7 +226,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`DevicePairingRegistrationData`](DevicePairingRegistrationData.md)
 
-Defined in: [WAProto/index.d.ts:9502](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L9502)
+Defined in: [WAProto/index.d.ts:9502](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L9502)
 
 Decodes a DevicePairingRegistrationData message from the specified reader or buffer, length delimited.
 
@@ -258,7 +258,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:9475](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L9475)
+Defined in: [WAProto/index.d.ts:9475](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L9475)
 
 Encodes the specified DevicePairingRegistrationData message. Does not implicitly [verify](DevicePairingRegistrationData.md#verify) messages.
 
@@ -288,7 +288,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:9483](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L9483)
+Defined in: [WAProto/index.d.ts:9483](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L9483)
 
 Encodes the specified DevicePairingRegistrationData message, length delimited. Does not implicitly [verify](DevicePairingRegistrationData.md#verify) messages.
 
@@ -318,7 +318,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`DevicePairingRegistrationData`](DevicePairingRegistrationData.md)
 
-Defined in: [WAProto/index.d.ts:9516](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L9516)
+Defined in: [WAProto/index.d.ts:9516](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L9516)
 
 Creates a DevicePairingRegistrationData message from a plain object. Also converts values to their respective internal types.
 
@@ -340,7 +340,7 @@ DevicePairingRegistrationData
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:9537](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L9537)
+Defined in: [WAProto/index.d.ts:9537](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L9537)
 
 Gets the default type url for DevicePairingRegistrationData
 
@@ -364,7 +364,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:9524](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L9524)
+Defined in: [WAProto/index.d.ts:9524](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L9524)
 
 Creates a plain object from a DevicePairingRegistrationData message. Also converts values to other types if specified.
 
@@ -394,7 +394,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:9509](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L9509)
+Defined in: [WAProto/index.d.ts:9509](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L9509)
 
 Verifies a DevicePairingRegistrationData message.
 

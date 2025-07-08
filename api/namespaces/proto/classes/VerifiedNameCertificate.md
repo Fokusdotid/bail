@@ -1,6 +1,6 @@
 # Class: VerifiedNameCertificate
 
-Defined in: [WAProto/index.d.ts:51958](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L51958)
+Defined in: [WAProto/index.d.ts:51958](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L51958)
 
 Represents a VerifiedNameCertificate.
 
@@ -14,7 +14,7 @@ Represents a VerifiedNameCertificate.
 
 > **new VerifiedNameCertificate**(`properties`?): [`VerifiedNameCertificate`](VerifiedNameCertificate.md)
 
-Defined in: [WAProto/index.d.ts:51964](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L51964)
+Defined in: [WAProto/index.d.ts:51964](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L51964)
 
 Constructs a new VerifiedNameCertificate.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **details**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:51967](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L51967)
+Defined in: [WAProto/index.d.ts:51967](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L51967)
 
 VerifiedNameCertificate details.
 
@@ -50,7 +50,7 @@ VerifiedNameCertificate details.
 
 > `optional` **serverSignature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:51973](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L51973)
+Defined in: [WAProto/index.d.ts:51973](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L51973)
 
 VerifiedNameCertificate serverSignature.
 
@@ -64,7 +64,7 @@ VerifiedNameCertificate serverSignature.
 
 > `optional` **signature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:51970](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L51970)
+Defined in: [WAProto/index.d.ts:51970](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L51970)
 
 VerifiedNameCertificate signature.
 
@@ -78,7 +78,7 @@ VerifiedNameCertificate signature.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:52043](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L52043)
+Defined in: [WAProto/index.d.ts:52043](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L52043)
 
 Converts this VerifiedNameCertificate to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`VerifiedNameCertificate`](VerifiedNameCertificate.md)
 
-Defined in: [WAProto/index.d.ts:51980](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L51980)
+Defined in: [WAProto/index.d.ts:51980](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L51980)
 
 Creates a new VerifiedNameCertificate instance using the specified properties.
 
@@ -118,7 +118,7 @@ VerifiedNameCertificate instance
 
 > `static` **decode**(`reader`, `length`?): [`VerifiedNameCertificate`](VerifiedNameCertificate.md)
 
-Defined in: [WAProto/index.d.ts:52006](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L52006)
+Defined in: [WAProto/index.d.ts:52006](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L52006)
 
 Decodes a VerifiedNameCertificate message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`VerifiedNameCertificate`](VerifiedNameCertificate.md)
 
-Defined in: [WAProto/index.d.ts:52015](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L52015)
+Defined in: [WAProto/index.d.ts:52015](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L52015)
 
 Decodes a VerifiedNameCertificate message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:51988](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L51988)
+Defined in: [WAProto/index.d.ts:51988](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L51988)
 
 Encodes the specified VerifiedNameCertificate message. Does not implicitly [verify](VerifiedNameCertificate.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:51996](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L51996)
+Defined in: [WAProto/index.d.ts:51996](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L51996)
 
 Encodes the specified VerifiedNameCertificate message, length delimited. Does not implicitly [verify](VerifiedNameCertificate.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`VerifiedNameCertificate`](VerifiedNameCertificate.md)
 
-Defined in: [WAProto/index.d.ts:52029](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L52029)
+Defined in: [WAProto/index.d.ts:52029](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L52029)
 
 Creates a VerifiedNameCertificate message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ VerifiedNameCertificate
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:52050](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L52050)
+Defined in: [WAProto/index.d.ts:52050](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L52050)
 
 Gets the default type url for VerifiedNameCertificate
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:52037](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L52037)
+Defined in: [WAProto/index.d.ts:52037](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L52037)
 
 Creates a plain object from a VerifiedNameCertificate message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:52022](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L52022)
+Defined in: [WAProto/index.d.ts:52022](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L52022)
 
 Verifies a VerifiedNameCertificate message.
 

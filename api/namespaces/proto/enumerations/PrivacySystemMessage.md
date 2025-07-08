@@ -1,6 +1,6 @@
 # Enumeration: PrivacySystemMessage
 
-Defined in: [WAProto/index.d.ts:40032](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L40032)
+Defined in: [WAProto/index.d.ts:40032](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L40032)
 
 PrivacySystemMessage enum.
 
@@ -10,7 +10,7 @@ PrivacySystemMessage enum.
 
 > **E2EE\_MSG**: `1`
 
-Defined in: [WAProto/index.d.ts:40033](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L40033)
+Defined in: [WAProto/index.d.ts:40033](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L40033)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:40033](https://github.com/Fokusdotid/bail/blob/a
 
 > **NE2EE\_OTHER**: `3`
 
-Defined in: [WAProto/index.d.ts:40035](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L40035)
+Defined in: [WAProto/index.d.ts:40035](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L40035)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:40035](https://github.com/Fokusdotid/bail/blob/a
 
 > **NE2EE\_SELF**: `2`
 
-Defined in: [WAProto/index.d.ts:40034](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L40034)
+Defined in: [WAProto/index.d.ts:40034](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L40034)

@@ -1,6 +1,6 @@
 # Interface: IBizIdentityInfo
 
-Defined in: [WAProto/index.d.ts:3464](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L3464)
+Defined in: [WAProto/index.d.ts:3464](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3464)
 
 Properties of a BizIdentityInfo.
 
@@ -10,7 +10,7 @@ Properties of a BizIdentityInfo.
 
 > `optional` **actualActors**: `null` \| [`ActualActorsType`](../namespaces/BizIdentityInfo/enumerations/ActualActorsType.md)
 
-Defined in: [WAProto/index.d.ts:3482](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L3482)
+Defined in: [WAProto/index.d.ts:3482](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3482)
 
 BizIdentityInfo actualActors
 
@@ -20,7 +20,7 @@ BizIdentityInfo actualActors
 
 > `optional` **featureControls**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:3488](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L3488)
+Defined in: [WAProto/index.d.ts:3488](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3488)
 
 BizIdentityInfo featureControls
 
@@ -30,7 +30,7 @@ BizIdentityInfo featureControls
 
 > `optional` **hostStorage**: `null` \| [`HostStorageType`](../namespaces/BizIdentityInfo/enumerations/HostStorageType.md)
 
-Defined in: [WAProto/index.d.ts:3479](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L3479)
+Defined in: [WAProto/index.d.ts:3479](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3479)
 
 BizIdentityInfo hostStorage
 
@@ -40,7 +40,7 @@ BizIdentityInfo hostStorage
 
 > `optional` **privacyModeTs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:3485](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L3485)
+Defined in: [WAProto/index.d.ts:3485](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3485)
 
 BizIdentityInfo privacyModeTs
 
@@ -50,7 +50,7 @@ BizIdentityInfo privacyModeTs
 
 > `optional` **revoked**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:3476](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L3476)
+Defined in: [WAProto/index.d.ts:3476](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3476)
 
 BizIdentityInfo revoked
 
@@ -60,7 +60,7 @@ BizIdentityInfo revoked
 
 > `optional` **signed**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:3473](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L3473)
+Defined in: [WAProto/index.d.ts:3473](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3473)
 
 BizIdentityInfo signed
 
@@ -70,7 +70,7 @@ BizIdentityInfo signed
 
 > `optional` **vlevel**: `null` \| [`VerifiedLevelValue`](../namespaces/BizIdentityInfo/enumerations/VerifiedLevelValue.md)
 
-Defined in: [WAProto/index.d.ts:3467](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L3467)
+Defined in: [WAProto/index.d.ts:3467](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3467)
 
 BizIdentityInfo vlevel
 
@@ -80,6 +80,6 @@ BizIdentityInfo vlevel
 
 > `optional` **vnameCert**: `null` \| [`IVerifiedNameCertificate`](IVerifiedNameCertificate.md)
 
-Defined in: [WAProto/index.d.ts:3470](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L3470)
+Defined in: [WAProto/index.d.ts:3470](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3470)
 
 BizIdentityInfo vnameCert

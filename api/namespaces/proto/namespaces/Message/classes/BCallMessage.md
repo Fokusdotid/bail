@@ -1,6 +1,6 @@
 # Class: BCallMessage
 
-Defined in: [WAProto/index.d.ts:19972](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L19972)
+Defined in: [WAProto/index.d.ts:19972](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L19972)
 
 Represents a BCallMessage.
 
@@ -14,7 +14,7 @@ Represents a BCallMessage.
 
 > **new BCallMessage**(`properties`?): [`BCallMessage`](BCallMessage.md)
 
-Defined in: [WAProto/index.d.ts:19978](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L19978)
+Defined in: [WAProto/index.d.ts:19978](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L19978)
 
 Constructs a new BCallMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **caption**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19990](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L19990)
+Defined in: [WAProto/index.d.ts:19990](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L19990)
 
 BCallMessage caption.
 
@@ -50,7 +50,7 @@ BCallMessage caption.
 
 > `optional` **masterKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:19987](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L19987)
+Defined in: [WAProto/index.d.ts:19987](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L19987)
 
 BCallMessage masterKey.
 
@@ -64,7 +64,7 @@ BCallMessage masterKey.
 
 > `optional` **mediaType**: `null` \| [`MediaType`](../namespaces/BCallMessage/enumerations/MediaType.md)
 
-Defined in: [WAProto/index.d.ts:19984](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L19984)
+Defined in: [WAProto/index.d.ts:19984](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L19984)
 
 BCallMessage mediaType.
 
@@ -78,7 +78,7 @@ BCallMessage mediaType.
 
 > `optional` **sessionId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19981](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L19981)
+Defined in: [WAProto/index.d.ts:19981](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L19981)
 
 BCallMessage sessionId.
 
@@ -92,7 +92,7 @@ BCallMessage sessionId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:20060](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L20060)
+Defined in: [WAProto/index.d.ts:20060](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20060)
 
 Converts this BCallMessage to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BCallMessage`](BCallMessage.md)
 
-Defined in: [WAProto/index.d.ts:19997](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L19997)
+Defined in: [WAProto/index.d.ts:19997](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L19997)
 
 Creates a new BCallMessage instance using the specified properties.
 
@@ -132,7 +132,7 @@ BCallMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`BCallMessage`](BCallMessage.md)
 
-Defined in: [WAProto/index.d.ts:20023](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L20023)
+Defined in: [WAProto/index.d.ts:20023](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20023)
 
 Decodes a BCallMessage message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BCallMessage`](BCallMessage.md)
 
-Defined in: [WAProto/index.d.ts:20032](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L20032)
+Defined in: [WAProto/index.d.ts:20032](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20032)
 
 Decodes a BCallMessage message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20005](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L20005)
+Defined in: [WAProto/index.d.ts:20005](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20005)
 
 Encodes the specified BCallMessage message. Does not implicitly [verify](BCallMessage.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20013](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L20013)
+Defined in: [WAProto/index.d.ts:20013](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20013)
 
 Encodes the specified BCallMessage message, length delimited. Does not implicitly [verify](BCallMessage.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BCallMessage`](BCallMessage.md)
 
-Defined in: [WAProto/index.d.ts:20046](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L20046)
+Defined in: [WAProto/index.d.ts:20046](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20046)
 
 Creates a BCallMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ BCallMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:20067](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L20067)
+Defined in: [WAProto/index.d.ts:20067](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20067)
 
 Gets the default type url for BCallMessage
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:20054](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L20054)
+Defined in: [WAProto/index.d.ts:20054](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20054)
 
 Creates a plain object from a BCallMessage message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20039](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L20039)
+Defined in: [WAProto/index.d.ts:20039](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20039)
 
 Verifies a BCallMessage message.
 

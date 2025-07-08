@@ -1,6 +1,6 @@
 # Class: URLMetadata
 
-Defined in: [WAProto/index.d.ts:35210](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L35210)
+Defined in: [WAProto/index.d.ts:35210](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L35210)
 
 Represents a URLMetadata.
 
@@ -14,7 +14,7 @@ Represents a URLMetadata.
 
 > **new URLMetadata**(`properties`?): [`URLMetadata`](URLMetadata.md)
 
-Defined in: [WAProto/index.d.ts:35216](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L35216)
+Defined in: [WAProto/index.d.ts:35216](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L35216)
 
 Constructs a new URLMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **fbExperimentId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:35219](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L35219)
+Defined in: [WAProto/index.d.ts:35219](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L35219)
 
 URLMetadata fbExperimentId.
 
@@ -50,7 +50,7 @@ URLMetadata fbExperimentId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:35289](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L35289)
+Defined in: [WAProto/index.d.ts:35289](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L35289)
 
 Converts this URLMetadata to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`URLMetadata`](URLMetadata.md)
 
-Defined in: [WAProto/index.d.ts:35226](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L35226)
+Defined in: [WAProto/index.d.ts:35226](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L35226)
 
 Creates a new URLMetadata instance using the specified properties.
 
@@ -90,7 +90,7 @@ URLMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`URLMetadata`](URLMetadata.md)
 
-Defined in: [WAProto/index.d.ts:35252](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L35252)
+Defined in: [WAProto/index.d.ts:35252](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L35252)
 
 Decodes a URLMetadata message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`URLMetadata`](URLMetadata.md)
 
-Defined in: [WAProto/index.d.ts:35261](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L35261)
+Defined in: [WAProto/index.d.ts:35261](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L35261)
 
 Decodes a URLMetadata message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:35234](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L35234)
+Defined in: [WAProto/index.d.ts:35234](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L35234)
 
 Encodes the specified URLMetadata message. Does not implicitly [verify](URLMetadata.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:35242](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L35242)
+Defined in: [WAProto/index.d.ts:35242](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L35242)
 
 Encodes the specified URLMetadata message, length delimited. Does not implicitly [verify](URLMetadata.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`URLMetadata`](URLMetadata.md)
 
-Defined in: [WAProto/index.d.ts:35275](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L35275)
+Defined in: [WAProto/index.d.ts:35275](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L35275)
 
 Creates a URLMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ URLMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:35296](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L35296)
+Defined in: [WAProto/index.d.ts:35296](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L35296)
 
 Gets the default type url for URLMetadata
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:35283](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L35283)
+Defined in: [WAProto/index.d.ts:35283](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L35283)
 
 Creates a plain object from a URLMetadata message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35268](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L35268)
+Defined in: [WAProto/index.d.ts:35268](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L35268)
 
 Verifies a URLMetadata message.
 

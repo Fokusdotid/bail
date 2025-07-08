@@ -1,6 +1,6 @@
 # Class: DisappearingMode
 
-Defined in: [WAProto/index.d.ts:13648](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L13648)
+Defined in: [WAProto/index.d.ts:13648](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13648)
 
 Represents a DisappearingMode.
 
@@ -14,7 +14,7 @@ Represents a DisappearingMode.
 
 > **new DisappearingMode**(`properties`?): [`DisappearingMode`](DisappearingMode.md)
 
-Defined in: [WAProto/index.d.ts:13654](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L13654)
+Defined in: [WAProto/index.d.ts:13654](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13654)
 
 Constructs a new DisappearingMode.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **initiatedByMe**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:13666](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L13666)
+Defined in: [WAProto/index.d.ts:13666](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13666)
 
 DisappearingMode initiatedByMe.
 
@@ -50,7 +50,7 @@ DisappearingMode initiatedByMe.
 
 > `optional` **initiator**: `null` \| [`Initiator`](../namespaces/DisappearingMode/enumerations/Initiator.md)
 
-Defined in: [WAProto/index.d.ts:13657](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L13657)
+Defined in: [WAProto/index.d.ts:13657](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13657)
 
 DisappearingMode initiator.
 
@@ -64,7 +64,7 @@ DisappearingMode initiator.
 
 > `optional` **initiatorDeviceJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13663](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L13663)
+Defined in: [WAProto/index.d.ts:13663](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13663)
 
 DisappearingMode initiatorDeviceJid.
 
@@ -78,7 +78,7 @@ DisappearingMode initiatorDeviceJid.
 
 > `optional` **trigger**: `null` \| [`Trigger`](../namespaces/DisappearingMode/enumerations/Trigger.md)
 
-Defined in: [WAProto/index.d.ts:13660](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L13660)
+Defined in: [WAProto/index.d.ts:13660](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13660)
 
 DisappearingMode trigger.
 
@@ -92,7 +92,7 @@ DisappearingMode trigger.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:13736](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L13736)
+Defined in: [WAProto/index.d.ts:13736](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13736)
 
 Converts this DisappearingMode to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`DisappearingMode`](DisappearingMode.md)
 
-Defined in: [WAProto/index.d.ts:13673](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L13673)
+Defined in: [WAProto/index.d.ts:13673](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13673)
 
 Creates a new DisappearingMode instance using the specified properties.
 
@@ -132,7 +132,7 @@ DisappearingMode instance
 
 > `static` **decode**(`reader`, `length`?): [`DisappearingMode`](DisappearingMode.md)
 
-Defined in: [WAProto/index.d.ts:13699](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L13699)
+Defined in: [WAProto/index.d.ts:13699](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13699)
 
 Decodes a DisappearingMode message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`DisappearingMode`](DisappearingMode.md)
 
-Defined in: [WAProto/index.d.ts:13708](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L13708)
+Defined in: [WAProto/index.d.ts:13708](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13708)
 
 Decodes a DisappearingMode message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:13681](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L13681)
+Defined in: [WAProto/index.d.ts:13681](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13681)
 
 Encodes the specified DisappearingMode message. Does not implicitly [verify](DisappearingMode.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:13689](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L13689)
+Defined in: [WAProto/index.d.ts:13689](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13689)
 
 Encodes the specified DisappearingMode message, length delimited. Does not implicitly [verify](DisappearingMode.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`DisappearingMode`](DisappearingMode.md)
 
-Defined in: [WAProto/index.d.ts:13722](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L13722)
+Defined in: [WAProto/index.d.ts:13722](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13722)
 
 Creates a DisappearingMode message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ DisappearingMode
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:13743](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L13743)
+Defined in: [WAProto/index.d.ts:13743](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13743)
 
 Gets the default type url for DisappearingMode
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:13730](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L13730)
+Defined in: [WAProto/index.d.ts:13730](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13730)
 
 Creates a plain object from a DisappearingMode message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13715](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L13715)
+Defined in: [WAProto/index.d.ts:13715](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13715)
 
 Verifies a DisappearingMode message.
 

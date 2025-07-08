@@ -2,7 +2,7 @@
 
 > **mediaMessageSHA256B64**(`message`): `undefined` \| `null` \| `string`
 
-Defined in: [src/Utils/messages-media.ts:216](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/src/Utils/messages-media.ts#L216)
+Defined in: [src/Utils/messages-media.ts:218](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/src/Utils/messages-media.ts#L218)
 
 gets the SHA256 of the given media message
 

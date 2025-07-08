@@ -1,6 +1,6 @@
 # Class: ExitCode
 
-Defined in: [WAProto/index.d.ts:14562](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L14562)
+Defined in: [WAProto/index.d.ts:14562](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14562)
 
 Represents an ExitCode.
 
@@ -14,7 +14,7 @@ Represents an ExitCode.
 
 > **new ExitCode**(`properties`?): [`ExitCode`](ExitCode.md)
 
-Defined in: [WAProto/index.d.ts:14568](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L14568)
+Defined in: [WAProto/index.d.ts:14568](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14568)
 
 Constructs a new ExitCode.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **code**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:14571](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L14571)
+Defined in: [WAProto/index.d.ts:14571](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14571)
 
 ExitCode code.
 
@@ -50,7 +50,7 @@ ExitCode code.
 
 > `optional` **text**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14574](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L14574)
+Defined in: [WAProto/index.d.ts:14574](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14574)
 
 ExitCode text.
 
@@ -64,7 +64,7 @@ ExitCode text.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:14644](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L14644)
+Defined in: [WAProto/index.d.ts:14644](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14644)
 
 Converts this ExitCode to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ExitCode`](ExitCode.md)
 
-Defined in: [WAProto/index.d.ts:14581](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L14581)
+Defined in: [WAProto/index.d.ts:14581](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14581)
 
 Creates a new ExitCode instance using the specified properties.
 
@@ -104,7 +104,7 @@ ExitCode instance
 
 > `static` **decode**(`reader`, `length`?): [`ExitCode`](ExitCode.md)
 
-Defined in: [WAProto/index.d.ts:14607](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L14607)
+Defined in: [WAProto/index.d.ts:14607](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14607)
 
 Decodes an ExitCode message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ExitCode`](ExitCode.md)
 
-Defined in: [WAProto/index.d.ts:14616](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L14616)
+Defined in: [WAProto/index.d.ts:14616](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14616)
 
 Decodes an ExitCode message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:14589](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L14589)
+Defined in: [WAProto/index.d.ts:14589](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14589)
 
 Encodes the specified ExitCode message. Does not implicitly [verify](ExitCode.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:14597](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L14597)
+Defined in: [WAProto/index.d.ts:14597](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14597)
 
 Encodes the specified ExitCode message, length delimited. Does not implicitly [verify](ExitCode.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ExitCode`](ExitCode.md)
 
-Defined in: [WAProto/index.d.ts:14630](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L14630)
+Defined in: [WAProto/index.d.ts:14630](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14630)
 
 Creates an ExitCode message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ ExitCode
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:14651](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L14651)
+Defined in: [WAProto/index.d.ts:14651](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14651)
 
 Gets the default type url for ExitCode
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:14638](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L14638)
+Defined in: [WAProto/index.d.ts:14638](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14638)
 
 Creates a plain object from an ExitCode message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14623](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L14623)
+Defined in: [WAProto/index.d.ts:14623](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14623)
 
 Verifies an ExitCode message.
 

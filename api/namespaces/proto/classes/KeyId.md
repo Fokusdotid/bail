@@ -1,6 +1,6 @@
 # Class: KeyId
 
-Defined in: [WAProto/index.d.ts:17048](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L17048)
+Defined in: [WAProto/index.d.ts:17048](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17048)
 
 Represents a KeyId.
 
@@ -14,7 +14,7 @@ Represents a KeyId.
 
 > **new KeyId**(`properties`?): [`KeyId`](KeyId.md)
 
-Defined in: [WAProto/index.d.ts:17054](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L17054)
+Defined in: [WAProto/index.d.ts:17054](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17054)
 
 Constructs a new KeyId.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **id**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:17057](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L17057)
+Defined in: [WAProto/index.d.ts:17057](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17057)
 
 KeyId id.
 
@@ -50,7 +50,7 @@ KeyId id.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:17127](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L17127)
+Defined in: [WAProto/index.d.ts:17127](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17127)
 
 Converts this KeyId to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`KeyId`](KeyId.md)
 
-Defined in: [WAProto/index.d.ts:17064](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L17064)
+Defined in: [WAProto/index.d.ts:17064](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17064)
 
 Creates a new KeyId instance using the specified properties.
 
@@ -90,7 +90,7 @@ KeyId instance
 
 > `static` **decode**(`reader`, `length`?): [`KeyId`](KeyId.md)
 
-Defined in: [WAProto/index.d.ts:17090](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L17090)
+Defined in: [WAProto/index.d.ts:17090](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17090)
 
 Decodes a KeyId message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`KeyId`](KeyId.md)
 
-Defined in: [WAProto/index.d.ts:17099](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L17099)
+Defined in: [WAProto/index.d.ts:17099](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17099)
 
 Decodes a KeyId message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17072](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L17072)
+Defined in: [WAProto/index.d.ts:17072](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17072)
 
 Encodes the specified KeyId message. Does not implicitly [verify](KeyId.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17080](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L17080)
+Defined in: [WAProto/index.d.ts:17080](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17080)
 
 Encodes the specified KeyId message, length delimited. Does not implicitly [verify](KeyId.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`KeyId`](KeyId.md)
 
-Defined in: [WAProto/index.d.ts:17113](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L17113)
+Defined in: [WAProto/index.d.ts:17113](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17113)
 
 Creates a KeyId message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ KeyId
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:17134](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L17134)
+Defined in: [WAProto/index.d.ts:17134](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17134)
 
 Gets the default type url for KeyId
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:17121](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L17121)
+Defined in: [WAProto/index.d.ts:17121](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17121)
 
 Creates a plain object from a KeyId message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:17106](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L17106)
+Defined in: [WAProto/index.d.ts:17106](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17106)
 
 Verifies a KeyId message.
 

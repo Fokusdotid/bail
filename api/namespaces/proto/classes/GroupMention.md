@@ -1,6 +1,6 @@
 # Class: GroupMention
 
-Defined in: [WAProto/index.d.ts:15124](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L15124)
+Defined in: [WAProto/index.d.ts:15124](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L15124)
 
 Represents a GroupMention.
 
@@ -14,7 +14,7 @@ Represents a GroupMention.
 
 > **new GroupMention**(`properties`?): [`GroupMention`](GroupMention.md)
 
-Defined in: [WAProto/index.d.ts:15130](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L15130)
+Defined in: [WAProto/index.d.ts:15130](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L15130)
 
 Constructs a new GroupMention.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **groupJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:15133](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L15133)
+Defined in: [WAProto/index.d.ts:15133](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L15133)
 
 GroupMention groupJid.
 
@@ -50,7 +50,7 @@ GroupMention groupJid.
 
 > `optional` **groupSubject**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:15136](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L15136)
+Defined in: [WAProto/index.d.ts:15136](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L15136)
 
 GroupMention groupSubject.
 
@@ -64,7 +64,7 @@ GroupMention groupSubject.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:15206](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L15206)
+Defined in: [WAProto/index.d.ts:15206](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L15206)
 
 Converts this GroupMention to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`GroupMention`](GroupMention.md)
 
-Defined in: [WAProto/index.d.ts:15143](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L15143)
+Defined in: [WAProto/index.d.ts:15143](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L15143)
 
 Creates a new GroupMention instance using the specified properties.
 
@@ -104,7 +104,7 @@ GroupMention instance
 
 > `static` **decode**(`reader`, `length`?): [`GroupMention`](GroupMention.md)
 
-Defined in: [WAProto/index.d.ts:15169](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L15169)
+Defined in: [WAProto/index.d.ts:15169](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L15169)
 
 Decodes a GroupMention message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`GroupMention`](GroupMention.md)
 
-Defined in: [WAProto/index.d.ts:15178](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L15178)
+Defined in: [WAProto/index.d.ts:15178](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L15178)
 
 Decodes a GroupMention message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15151](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L15151)
+Defined in: [WAProto/index.d.ts:15151](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L15151)
 
 Encodes the specified GroupMention message. Does not implicitly [verify](GroupMention.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15159](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L15159)
+Defined in: [WAProto/index.d.ts:15159](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L15159)
 
 Encodes the specified GroupMention message, length delimited. Does not implicitly [verify](GroupMention.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`GroupMention`](GroupMention.md)
 
-Defined in: [WAProto/index.d.ts:15192](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L15192)
+Defined in: [WAProto/index.d.ts:15192](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L15192)
 
 Creates a GroupMention message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ GroupMention
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:15213](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L15213)
+Defined in: [WAProto/index.d.ts:15213](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L15213)
 
 Gets the default type url for GroupMention
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:15200](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L15200)
+Defined in: [WAProto/index.d.ts:15200](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L15200)
 
 Creates a plain object from a GroupMention message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:15185](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L15185)
+Defined in: [WAProto/index.d.ts:15185](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L15185)
 
 Verifies a GroupMention message.
 

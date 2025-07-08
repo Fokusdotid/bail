@@ -1,6 +1,6 @@
 # Class: Row
 
-Defined in: [WAProto/index.d.ts:27275](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27275)
+Defined in: [WAProto/index.d.ts:27275](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27275)
 
 Represents a Row.
 
@@ -14,7 +14,7 @@ Represents a Row.
 
 > **new Row**(`properties`?): [`Row`](Row.md)
 
-Defined in: [WAProto/index.d.ts:27281](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27281)
+Defined in: [WAProto/index.d.ts:27281](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27281)
 
 Constructs a new Row.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27287](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27287)
+Defined in: [WAProto/index.d.ts:27287](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27287)
 
 Row description.
 
@@ -50,7 +50,7 @@ Row description.
 
 > `optional` **rowId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27290](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27290)
+Defined in: [WAProto/index.d.ts:27290](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27290)
 
 Row rowId.
 
@@ -64,7 +64,7 @@ Row rowId.
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27284](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27284)
+Defined in: [WAProto/index.d.ts:27284](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27284)
 
 Row title.
 
@@ -78,7 +78,7 @@ Row title.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:27360](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27360)
+Defined in: [WAProto/index.d.ts:27360](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27360)
 
 Converts this Row to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Row`](Row.md)
 
-Defined in: [WAProto/index.d.ts:27297](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27297)
+Defined in: [WAProto/index.d.ts:27297](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27297)
 
 Creates a new Row instance using the specified properties.
 
@@ -118,7 +118,7 @@ Row instance
 
 > `static` **decode**(`reader`, `length`?): [`Row`](Row.md)
 
-Defined in: [WAProto/index.d.ts:27323](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27323)
+Defined in: [WAProto/index.d.ts:27323](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27323)
 
 Decodes a Row message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Row`](Row.md)
 
-Defined in: [WAProto/index.d.ts:27332](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27332)
+Defined in: [WAProto/index.d.ts:27332](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27332)
 
 Decodes a Row message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:27305](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27305)
+Defined in: [WAProto/index.d.ts:27305](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27305)
 
 Encodes the specified Row message. Does not implicitly [verify](Row.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:27313](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27313)
+Defined in: [WAProto/index.d.ts:27313](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27313)
 
 Encodes the specified Row message, length delimited. Does not implicitly [verify](Row.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Row`](Row.md)
 
-Defined in: [WAProto/index.d.ts:27346](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27346)
+Defined in: [WAProto/index.d.ts:27346](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27346)
 
 Creates a Row message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ Row
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:27367](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27367)
+Defined in: [WAProto/index.d.ts:27367](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27367)
 
 Gets the default type url for Row
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:27354](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27354)
+Defined in: [WAProto/index.d.ts:27354](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27354)
 
 Creates a plain object from a Row message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27339](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L27339)
+Defined in: [WAProto/index.d.ts:27339](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27339)
 
 Verifies a Row message.
 

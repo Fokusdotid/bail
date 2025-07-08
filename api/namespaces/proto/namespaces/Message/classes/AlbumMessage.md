@@ -1,6 +1,6 @@
 # Class: AlbumMessage
 
-Defined in: [WAProto/index.d.ts:18958](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L18958)
+Defined in: [WAProto/index.d.ts:18958](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L18958)
 
 Represents an AlbumMessage.
 
@@ -14,7 +14,7 @@ Represents an AlbumMessage.
 
 > **new AlbumMessage**(`properties`?): [`AlbumMessage`](AlbumMessage.md)
 
-Defined in: [WAProto/index.d.ts:18964](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L18964)
+Defined in: [WAProto/index.d.ts:18964](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L18964)
 
 Constructs a new AlbumMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:18973](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L18973)
+Defined in: [WAProto/index.d.ts:18973](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L18973)
 
 AlbumMessage contextInfo.
 
@@ -50,7 +50,7 @@ AlbumMessage contextInfo.
 
 > `optional` **expectedImageCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:18967](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L18967)
+Defined in: [WAProto/index.d.ts:18967](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L18967)
 
 AlbumMessage expectedImageCount.
 
@@ -64,7 +64,7 @@ AlbumMessage expectedImageCount.
 
 > `optional` **expectedVideoCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:18970](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L18970)
+Defined in: [WAProto/index.d.ts:18970](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L18970)
 
 AlbumMessage expectedVideoCount.
 
@@ -78,7 +78,7 @@ AlbumMessage expectedVideoCount.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:19043](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L19043)
+Defined in: [WAProto/index.d.ts:19043](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L19043)
 
 Converts this AlbumMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AlbumMessage`](AlbumMessage.md)
 
-Defined in: [WAProto/index.d.ts:18980](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L18980)
+Defined in: [WAProto/index.d.ts:18980](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L18980)
 
 Creates a new AlbumMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ AlbumMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`AlbumMessage`](AlbumMessage.md)
 
-Defined in: [WAProto/index.d.ts:19006](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L19006)
+Defined in: [WAProto/index.d.ts:19006](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L19006)
 
 Decodes an AlbumMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AlbumMessage`](AlbumMessage.md)
 
-Defined in: [WAProto/index.d.ts:19015](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L19015)
+Defined in: [WAProto/index.d.ts:19015](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L19015)
 
 Decodes an AlbumMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:18988](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L18988)
+Defined in: [WAProto/index.d.ts:18988](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L18988)
 
 Encodes the specified AlbumMessage message. Does not implicitly [verify](AlbumMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:18996](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L18996)
+Defined in: [WAProto/index.d.ts:18996](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L18996)
 
 Encodes the specified AlbumMessage message, length delimited. Does not implicitly [verify](AlbumMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AlbumMessage`](AlbumMessage.md)
 
-Defined in: [WAProto/index.d.ts:19029](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L19029)
+Defined in: [WAProto/index.d.ts:19029](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L19029)
 
 Creates an AlbumMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ AlbumMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:19050](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L19050)
+Defined in: [WAProto/index.d.ts:19050](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L19050)
 
 Gets the default type url for AlbumMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:19037](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L19037)
+Defined in: [WAProto/index.d.ts:19037](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L19037)
 
 Creates a plain object from an AlbumMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19022](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L19022)
+Defined in: [WAProto/index.d.ts:19022](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L19022)
 
 Verifies an AlbumMessage message.
 

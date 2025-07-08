@@ -1,6 +1,6 @@
 # Interface: ISignedPreKeyRecordStructure
 
-Defined in: [WAProto/index.d.ts:42644](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L42644)
+Defined in: [WAProto/index.d.ts:42644](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L42644)
 
 Properties of a SignedPreKeyRecordStructure.
 
@@ -10,7 +10,7 @@ Properties of a SignedPreKeyRecordStructure.
 
 > `optional` **id**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:42647](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L42647)
+Defined in: [WAProto/index.d.ts:42647](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L42647)
 
 SignedPreKeyRecordStructure id
 
@@ -20,7 +20,7 @@ SignedPreKeyRecordStructure id
 
 > `optional` **privateKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:42653](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L42653)
+Defined in: [WAProto/index.d.ts:42653](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L42653)
 
 SignedPreKeyRecordStructure privateKey
 
@@ -30,7 +30,7 @@ SignedPreKeyRecordStructure privateKey
 
 > `optional` **publicKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:42650](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L42650)
+Defined in: [WAProto/index.d.ts:42650](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L42650)
 
 SignedPreKeyRecordStructure publicKey
 
@@ -40,7 +40,7 @@ SignedPreKeyRecordStructure publicKey
 
 > `optional` **signature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:42656](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L42656)
+Defined in: [WAProto/index.d.ts:42656](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L42656)
 
 SignedPreKeyRecordStructure signature
 
@@ -50,6 +50,6 @@ SignedPreKeyRecordStructure signature
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:42659](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L42659)
+Defined in: [WAProto/index.d.ts:42659](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L42659)
 
 SignedPreKeyRecordStructure timestamp

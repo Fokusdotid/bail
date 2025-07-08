@@ -1,6 +1,6 @@
 # Class: BotSuggestedPromptMetadata
 
-Defined in: [WAProto/index.d.ts:7395](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L7395)
+Defined in: [WAProto/index.d.ts:7395](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L7395)
 
 Represents a BotSuggestedPromptMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotSuggestedPromptMetadata.
 
 > **new BotSuggestedPromptMetadata**(`properties`?): [`BotSuggestedPromptMetadata`](BotSuggestedPromptMetadata.md)
 
-Defined in: [WAProto/index.d.ts:7401](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L7401)
+Defined in: [WAProto/index.d.ts:7401](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L7401)
 
 Constructs a new BotSuggestedPromptMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **promptSuggestions**: `null` \| [`IBotPromptSuggestions`](../interfaces/IBotPromptSuggestions.md)
 
-Defined in: [WAProto/index.d.ts:7410](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L7410)
+Defined in: [WAProto/index.d.ts:7410](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L7410)
 
 BotSuggestedPromptMetadata promptSuggestions.
 
@@ -50,7 +50,7 @@ BotSuggestedPromptMetadata promptSuggestions.
 
 > `optional` **selectedPromptId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7413](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L7413)
+Defined in: [WAProto/index.d.ts:7413](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L7413)
 
 BotSuggestedPromptMetadata selectedPromptId.
 
@@ -64,7 +64,7 @@ BotSuggestedPromptMetadata selectedPromptId.
 
 > `optional` **selectedPromptIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:7407](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L7407)
+Defined in: [WAProto/index.d.ts:7407](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L7407)
 
 BotSuggestedPromptMetadata selectedPromptIndex.
 
@@ -78,7 +78,7 @@ BotSuggestedPromptMetadata selectedPromptIndex.
 
 > **suggestedPrompts**: `string`[]
 
-Defined in: [WAProto/index.d.ts:7404](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L7404)
+Defined in: [WAProto/index.d.ts:7404](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L7404)
 
 BotSuggestedPromptMetadata suggestedPrompts.
 
@@ -92,7 +92,7 @@ BotSuggestedPromptMetadata suggestedPrompts.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:7483](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L7483)
+Defined in: [WAProto/index.d.ts:7483](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L7483)
 
 Converts this BotSuggestedPromptMetadata to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotSuggestedPromptMetadata`](BotSuggestedPromptMetadata.md)
 
-Defined in: [WAProto/index.d.ts:7420](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L7420)
+Defined in: [WAProto/index.d.ts:7420](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L7420)
 
 Creates a new BotSuggestedPromptMetadata instance using the specified properties.
 
@@ -132,7 +132,7 @@ BotSuggestedPromptMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotSuggestedPromptMetadata`](BotSuggestedPromptMetadata.md)
 
-Defined in: [WAProto/index.d.ts:7446](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L7446)
+Defined in: [WAProto/index.d.ts:7446](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L7446)
 
 Decodes a BotSuggestedPromptMetadata message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotSuggestedPromptMetadata`](BotSuggestedPromptMetadata.md)
 
-Defined in: [WAProto/index.d.ts:7455](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L7455)
+Defined in: [WAProto/index.d.ts:7455](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L7455)
 
 Decodes a BotSuggestedPromptMetadata message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:7428](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L7428)
+Defined in: [WAProto/index.d.ts:7428](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L7428)
 
 Encodes the specified BotSuggestedPromptMetadata message. Does not implicitly [verify](BotSuggestedPromptMetadata.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:7436](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L7436)
+Defined in: [WAProto/index.d.ts:7436](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L7436)
 
 Encodes the specified BotSuggestedPromptMetadata message, length delimited. Does not implicitly [verify](BotSuggestedPromptMetadata.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotSuggestedPromptMetadata`](BotSuggestedPromptMetadata.md)
 
-Defined in: [WAProto/index.d.ts:7469](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L7469)
+Defined in: [WAProto/index.d.ts:7469](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L7469)
 
 Creates a BotSuggestedPromptMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ BotSuggestedPromptMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:7490](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L7490)
+Defined in: [WAProto/index.d.ts:7490](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L7490)
 
 Gets the default type url for BotSuggestedPromptMetadata
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:7477](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L7477)
+Defined in: [WAProto/index.d.ts:7477](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L7477)
 
 Creates a plain object from a BotSuggestedPromptMetadata message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7462](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L7462)
+Defined in: [WAProto/index.d.ts:7462](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L7462)
 
 Verifies a BotSuggestedPromptMetadata message.
 

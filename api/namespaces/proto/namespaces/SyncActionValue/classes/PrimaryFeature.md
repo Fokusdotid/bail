@@ -1,6 +1,6 @@
 # Class: PrimaryFeature
 
-Defined in: [WAProto/index.d.ts:47680](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L47680)
+Defined in: [WAProto/index.d.ts:47680](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47680)
 
 Represents a PrimaryFeature.
 
@@ -14,7 +14,7 @@ Represents a PrimaryFeature.
 
 > **new PrimaryFeature**(`properties`?): [`PrimaryFeature`](PrimaryFeature.md)
 
-Defined in: [WAProto/index.d.ts:47686](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L47686)
+Defined in: [WAProto/index.d.ts:47686](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47686)
 
 Constructs a new PrimaryFeature.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **flags**: `string`[]
 
-Defined in: [WAProto/index.d.ts:47689](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L47689)
+Defined in: [WAProto/index.d.ts:47689](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47689)
 
 PrimaryFeature flags.
 
@@ -50,7 +50,7 @@ PrimaryFeature flags.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:47759](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L47759)
+Defined in: [WAProto/index.d.ts:47759](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47759)
 
 Converts this PrimaryFeature to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PrimaryFeature`](PrimaryFeature.md)
 
-Defined in: [WAProto/index.d.ts:47696](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L47696)
+Defined in: [WAProto/index.d.ts:47696](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47696)
 
 Creates a new PrimaryFeature instance using the specified properties.
 
@@ -90,7 +90,7 @@ PrimaryFeature instance
 
 > `static` **decode**(`reader`, `length`?): [`PrimaryFeature`](PrimaryFeature.md)
 
-Defined in: [WAProto/index.d.ts:47722](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L47722)
+Defined in: [WAProto/index.d.ts:47722](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47722)
 
 Decodes a PrimaryFeature message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PrimaryFeature`](PrimaryFeature.md)
 
-Defined in: [WAProto/index.d.ts:47731](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L47731)
+Defined in: [WAProto/index.d.ts:47731](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47731)
 
 Decodes a PrimaryFeature message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:47704](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L47704)
+Defined in: [WAProto/index.d.ts:47704](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47704)
 
 Encodes the specified PrimaryFeature message. Does not implicitly [verify](PrimaryFeature.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:47712](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L47712)
+Defined in: [WAProto/index.d.ts:47712](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47712)
 
 Encodes the specified PrimaryFeature message, length delimited. Does not implicitly [verify](PrimaryFeature.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PrimaryFeature`](PrimaryFeature.md)
 
-Defined in: [WAProto/index.d.ts:47745](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L47745)
+Defined in: [WAProto/index.d.ts:47745](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47745)
 
 Creates a PrimaryFeature message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PrimaryFeature
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:47766](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L47766)
+Defined in: [WAProto/index.d.ts:47766](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47766)
 
 Gets the default type url for PrimaryFeature
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:47753](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L47753)
+Defined in: [WAProto/index.d.ts:47753](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47753)
 
 Creates a plain object from a PrimaryFeature message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:47738](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L47738)
+Defined in: [WAProto/index.d.ts:47738](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47738)
 
 Verifies a PrimaryFeature message.
 

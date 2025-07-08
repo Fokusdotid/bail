@@ -1,6 +1,6 @@
 # Enumeration: NoteType
 
-Defined in: [WAProto/index.d.ts:47059](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L47059)
+Defined in: [WAProto/index.d.ts:47059](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47059)
 
 NoteType enum.
 
@@ -10,7 +10,7 @@ NoteType enum.
 
 > **STRUCTURED**: `2`
 
-Defined in: [WAProto/index.d.ts:47061](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L47061)
+Defined in: [WAProto/index.d.ts:47061](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47061)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:47061](https://github.com/Fokusdotid/bail/blob/a
 
 > **UNSTRUCTURED**: `1`
 
-Defined in: [WAProto/index.d.ts:47060](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L47060)
+Defined in: [WAProto/index.d.ts:47060](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47060)

@@ -1,6 +1,6 @@
 # Enumeration: SearchProvider
 
-Defined in: [WAProto/index.d.ts:5542](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L5542)
+Defined in: [WAProto/index.d.ts:5542](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5542)
 
 SearchProvider enum.
 
@@ -10,7 +10,7 @@ SearchProvider enum.
 
 > **BING**: `1`
 
-Defined in: [WAProto/index.d.ts:5544](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L5544)
+Defined in: [WAProto/index.d.ts:5544](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5544)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:5544](https://github.com/Fokusdotid/bail/blob/a0
 
 > **GOOGLE**: `2`
 
-Defined in: [WAProto/index.d.ts:5545](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L5545)
+Defined in: [WAProto/index.d.ts:5545](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5545)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:5545](https://github.com/Fokusdotid/bail/blob/a0
 
 > **SUPPORT**: `3`
 
-Defined in: [WAProto/index.d.ts:5546](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L5546)
+Defined in: [WAProto/index.d.ts:5546](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5546)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:5546](https://github.com/Fokusdotid/bail/blob/a0
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:5543](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L5543)
+Defined in: [WAProto/index.d.ts:5543](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5543)

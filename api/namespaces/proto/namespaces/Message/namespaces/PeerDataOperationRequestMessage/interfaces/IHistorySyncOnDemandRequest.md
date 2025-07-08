@@ -1,6 +1,6 @@
 # Interface: IHistorySyncOnDemandRequest
 
-Defined in: [WAProto/index.d.ts:29484](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29484)
+Defined in: [WAProto/index.d.ts:29484](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29484)
 
 Properties of a HistorySyncOnDemandRequest.
 
@@ -10,7 +10,7 @@ Properties of a HistorySyncOnDemandRequest.
 
 > `optional` **accountLid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29502](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29502)
+Defined in: [WAProto/index.d.ts:29502](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29502)
 
 HistorySyncOnDemandRequest accountLid
 
@@ -20,7 +20,7 @@ HistorySyncOnDemandRequest accountLid
 
 > `optional` **chatJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29487](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29487)
+Defined in: [WAProto/index.d.ts:29487](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29487)
 
 HistorySyncOnDemandRequest chatJid
 
@@ -30,7 +30,7 @@ HistorySyncOnDemandRequest chatJid
 
 > `optional` **oldestMsgFromMe**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:29493](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29493)
+Defined in: [WAProto/index.d.ts:29493](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29493)
 
 HistorySyncOnDemandRequest oldestMsgFromMe
 
@@ -40,7 +40,7 @@ HistorySyncOnDemandRequest oldestMsgFromMe
 
 > `optional` **oldestMsgId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29490](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29490)
+Defined in: [WAProto/index.d.ts:29490](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29490)
 
 HistorySyncOnDemandRequest oldestMsgId
 
@@ -50,7 +50,7 @@ HistorySyncOnDemandRequest oldestMsgId
 
 > `optional` **oldestMsgTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:29499](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29499)
+Defined in: [WAProto/index.d.ts:29499](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29499)
 
 HistorySyncOnDemandRequest oldestMsgTimestampMs
 
@@ -60,6 +60,6 @@ HistorySyncOnDemandRequest oldestMsgTimestampMs
 
 > `optional` **onDemandMsgCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:29496](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29496)
+Defined in: [WAProto/index.d.ts:29496](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29496)
 
 HistorySyncOnDemandRequest onDemandMsgCount
