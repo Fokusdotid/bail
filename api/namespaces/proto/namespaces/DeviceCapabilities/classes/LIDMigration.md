@@ -1,6 +1,6 @@
 # Class: LIDMigration
 
-Defined in: [WAProto/index.d.ts:12850](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L12850)
+Defined in: [WAProto/index.d.ts:12850](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L12850)
 
 Represents a LIDMigration.
 
@@ -14,7 +14,7 @@ Represents a LIDMigration.
 
 > **new LIDMigration**(`properties`?): [`LIDMigration`](LIDMigration.md)
 
-Defined in: [WAProto/index.d.ts:12856](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L12856)
+Defined in: [WAProto/index.d.ts:12856](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L12856)
 
 Constructs a new LIDMigration.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **chatDbMigrationTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:12859](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L12859)
+Defined in: [WAProto/index.d.ts:12859](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L12859)
 
 LIDMigration chatDbMigrationTimestamp.
 
@@ -50,7 +50,7 @@ LIDMigration chatDbMigrationTimestamp.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:12929](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L12929)
+Defined in: [WAProto/index.d.ts:12929](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L12929)
 
 Converts this LIDMigration to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LIDMigration`](LIDMigration.md)
 
-Defined in: [WAProto/index.d.ts:12866](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L12866)
+Defined in: [WAProto/index.d.ts:12866](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L12866)
 
 Creates a new LIDMigration instance using the specified properties.
 
@@ -90,7 +90,7 @@ LIDMigration instance
 
 > `static` **decode**(`reader`, `length`?): [`LIDMigration`](LIDMigration.md)
 
-Defined in: [WAProto/index.d.ts:12892](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L12892)
+Defined in: [WAProto/index.d.ts:12892](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L12892)
 
 Decodes a LIDMigration message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LIDMigration`](LIDMigration.md)
 
-Defined in: [WAProto/index.d.ts:12901](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L12901)
+Defined in: [WAProto/index.d.ts:12901](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L12901)
 
 Decodes a LIDMigration message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:12874](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L12874)
+Defined in: [WAProto/index.d.ts:12874](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L12874)
 
 Encodes the specified LIDMigration message. Does not implicitly [verify](LIDMigration.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:12882](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L12882)
+Defined in: [WAProto/index.d.ts:12882](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L12882)
 
 Encodes the specified LIDMigration message, length delimited. Does not implicitly [verify](LIDMigration.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LIDMigration`](LIDMigration.md)
 
-Defined in: [WAProto/index.d.ts:12915](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L12915)
+Defined in: [WAProto/index.d.ts:12915](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L12915)
 
 Creates a LIDMigration message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ LIDMigration
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:12936](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L12936)
+Defined in: [WAProto/index.d.ts:12936](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L12936)
 
 Gets the default type url for LIDMigration
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:12923](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L12923)
+Defined in: [WAProto/index.d.ts:12923](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L12923)
 
 Creates a plain object from a LIDMigration message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12908](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L12908)
+Defined in: [WAProto/index.d.ts:12908](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L12908)
 
 Verifies a LIDMigration message.
 

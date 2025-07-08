@@ -1,6 +1,6 @@
 # Class: ButtonsMessage
 
-Defined in: [WAProto/index.d.ts:20285](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20285)
+Defined in: [WAProto/index.d.ts:20285](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20285)
 
 Represents a ButtonsMessage.
 
@@ -14,7 +14,7 @@ Represents a ButtonsMessage.
 
 > **new ButtonsMessage**(`properties`?): [`ButtonsMessage`](ButtonsMessage.md)
 
-Defined in: [WAProto/index.d.ts:20291](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20291)
+Defined in: [WAProto/index.d.ts:20291](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20291)
 
 Constructs a new ButtonsMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **buttons**: [`IButton`](../namespaces/ButtonsMessage/interfaces/IButton.md)[]
 
-Defined in: [WAProto/index.d.ts:20303](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20303)
+Defined in: [WAProto/index.d.ts:20303](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20303)
 
 ButtonsMessage buttons.
 
@@ -50,7 +50,7 @@ ButtonsMessage buttons.
 
 > `optional` **contentText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20294](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20294)
+Defined in: [WAProto/index.d.ts:20294](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20294)
 
 ButtonsMessage contentText.
 
@@ -64,7 +64,7 @@ ButtonsMessage contentText.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:20300](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20300)
+Defined in: [WAProto/index.d.ts:20300](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20300)
 
 ButtonsMessage contextInfo.
 
@@ -78,7 +78,7 @@ ButtonsMessage contextInfo.
 
 > `optional` **documentMessage**: `null` \| [`IDocumentMessage`](../interfaces/IDocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:20312](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20312)
+Defined in: [WAProto/index.d.ts:20312](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20312)
 
 ButtonsMessage documentMessage.
 
@@ -92,7 +92,7 @@ ButtonsMessage documentMessage.
 
 > `optional` **footerText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20297](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20297)
+Defined in: [WAProto/index.d.ts:20297](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20297)
 
 ButtonsMessage footerText.
 
@@ -106,7 +106,7 @@ ButtonsMessage footerText.
 
 > `optional` **header**: `"text"` \| `"imageMessage"` \| `"locationMessage"` \| `"documentMessage"` \| `"videoMessage"`
 
-Defined in: [WAProto/index.d.ts:20324](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20324)
+Defined in: [WAProto/index.d.ts:20324](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20324)
 
 ButtonsMessage header.
 
@@ -116,7 +116,7 @@ ButtonsMessage header.
 
 > `optional` **headerType**: `null` \| [`HeaderType`](../namespaces/ButtonsMessage/enumerations/HeaderType.md)
 
-Defined in: [WAProto/index.d.ts:20306](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20306)
+Defined in: [WAProto/index.d.ts:20306](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20306)
 
 ButtonsMessage headerType.
 
@@ -130,7 +130,7 @@ ButtonsMessage headerType.
 
 > `optional` **imageMessage**: `null` \| [`IImageMessage`](../interfaces/IImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:20315](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20315)
+Defined in: [WAProto/index.d.ts:20315](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20315)
 
 ButtonsMessage imageMessage.
 
@@ -144,7 +144,7 @@ ButtonsMessage imageMessage.
 
 > `optional` **locationMessage**: `null` \| [`ILocationMessage`](../interfaces/ILocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:20321](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20321)
+Defined in: [WAProto/index.d.ts:20321](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20321)
 
 ButtonsMessage locationMessage.
 
@@ -158,7 +158,7 @@ ButtonsMessage locationMessage.
 
 > `optional` **text**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20309](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20309)
+Defined in: [WAProto/index.d.ts:20309](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20309)
 
 ButtonsMessage text.
 
@@ -172,7 +172,7 @@ ButtonsMessage text.
 
 > `optional` **videoMessage**: `null` \| [`IVideoMessage`](../interfaces/IVideoMessage.md)
 
-Defined in: [WAProto/index.d.ts:20318](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20318)
+Defined in: [WAProto/index.d.ts:20318](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20318)
 
 ButtonsMessage videoMessage.
 
@@ -186,7 +186,7 @@ ButtonsMessage videoMessage.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:20394](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20394)
+Defined in: [WAProto/index.d.ts:20394](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20394)
 
 Converts this ButtonsMessage to JSON.
 
@@ -202,7 +202,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ButtonsMessage`](ButtonsMessage.md)
 
-Defined in: [WAProto/index.d.ts:20331](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20331)
+Defined in: [WAProto/index.d.ts:20331](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20331)
 
 Creates a new ButtonsMessage instance using the specified properties.
 
@@ -226,7 +226,7 @@ ButtonsMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`ButtonsMessage`](ButtonsMessage.md)
 
-Defined in: [WAProto/index.d.ts:20357](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20357)
+Defined in: [WAProto/index.d.ts:20357](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20357)
 
 Decodes a ButtonsMessage message from the specified reader or buffer.
 
@@ -264,7 +264,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ButtonsMessage`](ButtonsMessage.md)
 
-Defined in: [WAProto/index.d.ts:20366](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20366)
+Defined in: [WAProto/index.d.ts:20366](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20366)
 
 Decodes a ButtonsMessage message from the specified reader or buffer, length delimited.
 
@@ -296,7 +296,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20339](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20339)
+Defined in: [WAProto/index.d.ts:20339](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20339)
 
 Encodes the specified ButtonsMessage message. Does not implicitly [verify](ButtonsMessage.md#verify) messages.
 
@@ -326,7 +326,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20347](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20347)
+Defined in: [WAProto/index.d.ts:20347](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20347)
 
 Encodes the specified ButtonsMessage message, length delimited. Does not implicitly [verify](ButtonsMessage.md#verify) messages.
 
@@ -356,7 +356,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ButtonsMessage`](ButtonsMessage.md)
 
-Defined in: [WAProto/index.d.ts:20380](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20380)
+Defined in: [WAProto/index.d.ts:20380](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20380)
 
 Creates a ButtonsMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -378,7 +378,7 @@ ButtonsMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:20401](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20401)
+Defined in: [WAProto/index.d.ts:20401](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20401)
 
 Gets the default type url for ButtonsMessage
 
@@ -402,7 +402,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:20388](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20388)
+Defined in: [WAProto/index.d.ts:20388](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20388)
 
 Creates a plain object from a ButtonsMessage message. Also converts values to other types if specified.
 
@@ -432,7 +432,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20373](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20373)
+Defined in: [WAProto/index.d.ts:20373](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20373)
 
 Verifies a ButtonsMessage message.
 

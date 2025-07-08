@@ -1,6 +1,6 @@
 # Class: Header
 
-Defined in: [WAProto/index.d.ts:25535](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25535)
+Defined in: [WAProto/index.d.ts:25535](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25535)
 
 Represents a Header.
 
@@ -14,7 +14,7 @@ Represents a Header.
 
 > **new Header**(`properties`?): [`Header`](Header.md)
 
-Defined in: [WAProto/index.d.ts:25541](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25541)
+Defined in: [WAProto/index.d.ts:25541](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25541)
 
 Constructs a new Header.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **documentMessage**: `null` \| [`IDocumentMessage`](../../../interfaces/IDocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:25553](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25553)
+Defined in: [WAProto/index.d.ts:25553](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25553)
 
 Header documentMessage.
 
@@ -50,7 +50,7 @@ Header documentMessage.
 
 > `optional` **hasMediaAttachment**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:25550](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25550)
+Defined in: [WAProto/index.d.ts:25550](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25550)
 
 Header hasMediaAttachment.
 
@@ -64,7 +64,7 @@ Header hasMediaAttachment.
 
 > `optional` **imageMessage**: `null` \| [`IImageMessage`](../../../interfaces/IImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:25556](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25556)
+Defined in: [WAProto/index.d.ts:25556](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25556)
 
 Header imageMessage.
 
@@ -78,7 +78,7 @@ Header imageMessage.
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:25559](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25559)
+Defined in: [WAProto/index.d.ts:25559](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25559)
 
 Header jpegThumbnail.
 
@@ -92,7 +92,7 @@ Header jpegThumbnail.
 
 > `optional` **locationMessage**: `null` \| [`ILocationMessage`](../../../interfaces/ILocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:25565](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25565)
+Defined in: [WAProto/index.d.ts:25565](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25565)
 
 Header locationMessage.
 
@@ -106,7 +106,7 @@ Header locationMessage.
 
 > `optional` **media**: `"imageMessage"` \| `"locationMessage"` \| `"documentMessage"` \| `"videoMessage"` \| `"productMessage"` \| `"jpegThumbnail"`
 
-Defined in: [WAProto/index.d.ts:25571](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25571)
+Defined in: [WAProto/index.d.ts:25571](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25571)
 
 Header media.
 
@@ -116,7 +116,7 @@ Header media.
 
 > `optional` **productMessage**: `null` \| [`IProductMessage`](../../../interfaces/IProductMessage.md)
 
-Defined in: [WAProto/index.d.ts:25568](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25568)
+Defined in: [WAProto/index.d.ts:25568](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25568)
 
 Header productMessage.
 
@@ -130,7 +130,7 @@ Header productMessage.
 
 > `optional` **subtitle**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25547](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25547)
+Defined in: [WAProto/index.d.ts:25547](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25547)
 
 Header subtitle.
 
@@ -144,7 +144,7 @@ Header subtitle.
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25544](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25544)
+Defined in: [WAProto/index.d.ts:25544](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25544)
 
 Header title.
 
@@ -158,7 +158,7 @@ Header title.
 
 > `optional` **videoMessage**: `null` \| [`IVideoMessage`](../../../interfaces/IVideoMessage.md)
 
-Defined in: [WAProto/index.d.ts:25562](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25562)
+Defined in: [WAProto/index.d.ts:25562](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25562)
 
 Header videoMessage.
 
@@ -172,7 +172,7 @@ Header videoMessage.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:25641](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25641)
+Defined in: [WAProto/index.d.ts:25641](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25641)
 
 Converts this Header to JSON.
 
@@ -188,7 +188,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Header`](Header.md)
 
-Defined in: [WAProto/index.d.ts:25578](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25578)
+Defined in: [WAProto/index.d.ts:25578](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25578)
 
 Creates a new Header instance using the specified properties.
 
@@ -212,7 +212,7 @@ Header instance
 
 > `static` **decode**(`reader`, `length`?): [`Header`](Header.md)
 
-Defined in: [WAProto/index.d.ts:25604](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25604)
+Defined in: [WAProto/index.d.ts:25604](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25604)
 
 Decodes a Header message from the specified reader or buffer.
 
@@ -250,7 +250,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Header`](Header.md)
 
-Defined in: [WAProto/index.d.ts:25613](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25613)
+Defined in: [WAProto/index.d.ts:25613](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25613)
 
 Decodes a Header message from the specified reader or buffer, length delimited.
 
@@ -282,7 +282,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25586](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25586)
+Defined in: [WAProto/index.d.ts:25586](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25586)
 
 Encodes the specified Header message. Does not implicitly [verify](Header.md#verify) messages.
 
@@ -312,7 +312,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25594](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25594)
+Defined in: [WAProto/index.d.ts:25594](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25594)
 
 Encodes the specified Header message, length delimited. Does not implicitly [verify](Header.md#verify) messages.
 
@@ -342,7 +342,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Header`](Header.md)
 
-Defined in: [WAProto/index.d.ts:25627](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25627)
+Defined in: [WAProto/index.d.ts:25627](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25627)
 
 Creates a Header message from a plain object. Also converts values to their respective internal types.
 
@@ -364,7 +364,7 @@ Header
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:25648](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25648)
+Defined in: [WAProto/index.d.ts:25648](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25648)
 
 Gets the default type url for Header
 
@@ -388,7 +388,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:25635](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25635)
+Defined in: [WAProto/index.d.ts:25635](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25635)
 
 Creates a plain object from a Header message. Also converts values to other types if specified.
 
@@ -418,7 +418,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25620](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25620)
+Defined in: [WAProto/index.d.ts:25620](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25620)
 
 Verifies a Header message.
 

@@ -2,7 +2,7 @@
 
 > **decodeDecompressedBinaryNode**(`buffer`, `opts`, `indexRef`): [`BinaryNode`](../type-aliases/BinaryNode.md)
 
-Defined in: [src/WABinary/decode.ts:20](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/src/WABinary/decode.ts#L20)
+Defined in: [src/WABinary/decode.ts:20](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/WABinary/decode.ts#L20)
 
 ## Parameters
 

@@ -2,7 +2,7 @@
 
 > **BinaryNode**: `object`
 
-Defined in: [src/WABinary/types.ts:9](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/src/WABinary/types.ts#L9)
+Defined in: [src/WABinary/types.ts:9](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/WABinary/types.ts#L9)
 
 the binary node WA uses internally for communication
 

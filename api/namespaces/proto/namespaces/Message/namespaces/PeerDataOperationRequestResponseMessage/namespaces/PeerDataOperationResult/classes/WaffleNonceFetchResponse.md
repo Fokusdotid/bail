@@ -1,6 +1,6 @@
 # Class: WaffleNonceFetchResponse
 
-Defined in: [WAProto/index.d.ts:30954](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30954)
+Defined in: [WAProto/index.d.ts:30954](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30954)
 
 Represents a WaffleNonceFetchResponse.
 
@@ -14,7 +14,7 @@ Represents a WaffleNonceFetchResponse.
 
 > **new WaffleNonceFetchResponse**(`properties`?): [`WaffleNonceFetchResponse`](WaffleNonceFetchResponse.md)
 
-Defined in: [WAProto/index.d.ts:30960](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30960)
+Defined in: [WAProto/index.d.ts:30960](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30960)
 
 Constructs a new WaffleNonceFetchResponse.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **nonce**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30963](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30963)
+Defined in: [WAProto/index.d.ts:30963](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30963)
 
 WaffleNonceFetchResponse nonce.
 
@@ -50,7 +50,7 @@ WaffleNonceFetchResponse nonce.
 
 > `optional` **waEntFbid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30966](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30966)
+Defined in: [WAProto/index.d.ts:30966](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30966)
 
 WaffleNonceFetchResponse waEntFbid.
 
@@ -64,7 +64,7 @@ WaffleNonceFetchResponse waEntFbid.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:31036](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L31036)
+Defined in: [WAProto/index.d.ts:31036](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L31036)
 
 Converts this WaffleNonceFetchResponse to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`WaffleNonceFetchResponse`](WaffleNonceFetchResponse.md)
 
-Defined in: [WAProto/index.d.ts:30973](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30973)
+Defined in: [WAProto/index.d.ts:30973](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30973)
 
 Creates a new WaffleNonceFetchResponse instance using the specified properties.
 
@@ -104,7 +104,7 @@ WaffleNonceFetchResponse instance
 
 > `static` **decode**(`reader`, `length`?): [`WaffleNonceFetchResponse`](WaffleNonceFetchResponse.md)
 
-Defined in: [WAProto/index.d.ts:30999](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30999)
+Defined in: [WAProto/index.d.ts:30999](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30999)
 
 Decodes a WaffleNonceFetchResponse message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`WaffleNonceFetchResponse`](WaffleNonceFetchResponse.md)
 
-Defined in: [WAProto/index.d.ts:31008](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L31008)
+Defined in: [WAProto/index.d.ts:31008](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L31008)
 
 Decodes a WaffleNonceFetchResponse message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30981](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30981)
+Defined in: [WAProto/index.d.ts:30981](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30981)
 
 Encodes the specified WaffleNonceFetchResponse message. Does not implicitly [verify](WaffleNonceFetchResponse.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30989](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30989)
+Defined in: [WAProto/index.d.ts:30989](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30989)
 
 Encodes the specified WaffleNonceFetchResponse message, length delimited. Does not implicitly [verify](WaffleNonceFetchResponse.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`WaffleNonceFetchResponse`](WaffleNonceFetchResponse.md)
 
-Defined in: [WAProto/index.d.ts:31022](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L31022)
+Defined in: [WAProto/index.d.ts:31022](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L31022)
 
 Creates a WaffleNonceFetchResponse message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ WaffleNonceFetchResponse
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:31043](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L31043)
+Defined in: [WAProto/index.d.ts:31043](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L31043)
 
 Gets the default type url for WaffleNonceFetchResponse
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:31030](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L31030)
+Defined in: [WAProto/index.d.ts:31030](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L31030)
 
 Creates a plain object from a WaffleNonceFetchResponse message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:31015](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L31015)
+Defined in: [WAProto/index.d.ts:31015](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L31015)
 
 Verifies a WaffleNonceFetchResponse message.
 

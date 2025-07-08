@@ -1,6 +1,6 @@
 # Interface: IBotPlanningSearchSourceMetadata
 
-Defined in: [WAProto/index.d.ts:5791](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5791)
+Defined in: [WAProto/index.d.ts:5791](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5791)
 
 Properties of a BotPlanningSearchSourceMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotPlanningSearchSourceMetadata.
 
 > `optional` **favIconUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5803](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5803)
+Defined in: [WAProto/index.d.ts:5803](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5803)
 
 BotPlanningSearchSourceMetadata favIconUrl
 
@@ -20,7 +20,7 @@ BotPlanningSearchSourceMetadata favIconUrl
 
 > `optional` **provider**: `null` \| [`BotSearchSourceProvider`](../enumerations/BotSearchSourceProvider.md)
 
-Defined in: [WAProto/index.d.ts:5797](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5797)
+Defined in: [WAProto/index.d.ts:5797](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5797)
 
 BotPlanningSearchSourceMetadata provider
 
@@ -30,7 +30,7 @@ BotPlanningSearchSourceMetadata provider
 
 > `optional` **sourceUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5800](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5800)
+Defined in: [WAProto/index.d.ts:5800](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5800)
 
 BotPlanningSearchSourceMetadata sourceUrl
 
@@ -40,6 +40,6 @@ BotPlanningSearchSourceMetadata sourceUrl
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5794](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5794)
+Defined in: [WAProto/index.d.ts:5794](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5794)
 
 BotPlanningSearchSourceMetadata title

@@ -1,6 +1,6 @@
 # Class: LIDMigrationMapping
 
-Defined in: [WAProto/index.d.ts:17151](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17151)
+Defined in: [WAProto/index.d.ts:17151](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L17151)
 
 Represents a LIDMigrationMapping.
 
@@ -14,7 +14,7 @@ Represents a LIDMigrationMapping.
 
 > **new LIDMigrationMapping**(`properties`?): [`LIDMigrationMapping`](LIDMigrationMapping.md)
 
-Defined in: [WAProto/index.d.ts:17157](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17157)
+Defined in: [WAProto/index.d.ts:17157](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L17157)
 
 Constructs a new LIDMigrationMapping.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **assignedLid**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:17163](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17163)
+Defined in: [WAProto/index.d.ts:17163](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L17163)
 
 LIDMigrationMapping assignedLid.
 
@@ -50,7 +50,7 @@ LIDMigrationMapping assignedLid.
 
 > `optional` **latestLid**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:17166](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17166)
+Defined in: [WAProto/index.d.ts:17166](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L17166)
 
 LIDMigrationMapping latestLid.
 
@@ -64,7 +64,7 @@ LIDMigrationMapping latestLid.
 
 > **pn**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:17160](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17160)
+Defined in: [WAProto/index.d.ts:17160](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L17160)
 
 LIDMigrationMapping pn.
 
@@ -78,7 +78,7 @@ LIDMigrationMapping pn.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:17236](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17236)
+Defined in: [WAProto/index.d.ts:17236](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L17236)
 
 Converts this LIDMigrationMapping to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LIDMigrationMapping`](LIDMigrationMapping.md)
 
-Defined in: [WAProto/index.d.ts:17173](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17173)
+Defined in: [WAProto/index.d.ts:17173](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L17173)
 
 Creates a new LIDMigrationMapping instance using the specified properties.
 
@@ -118,7 +118,7 @@ LIDMigrationMapping instance
 
 > `static` **decode**(`reader`, `length`?): [`LIDMigrationMapping`](LIDMigrationMapping.md)
 
-Defined in: [WAProto/index.d.ts:17199](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17199)
+Defined in: [WAProto/index.d.ts:17199](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L17199)
 
 Decodes a LIDMigrationMapping message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LIDMigrationMapping`](LIDMigrationMapping.md)
 
-Defined in: [WAProto/index.d.ts:17208](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17208)
+Defined in: [WAProto/index.d.ts:17208](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L17208)
 
 Decodes a LIDMigrationMapping message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17181](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17181)
+Defined in: [WAProto/index.d.ts:17181](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L17181)
 
 Encodes the specified LIDMigrationMapping message. Does not implicitly [verify](LIDMigrationMapping.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17189](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17189)
+Defined in: [WAProto/index.d.ts:17189](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L17189)
 
 Encodes the specified LIDMigrationMapping message, length delimited. Does not implicitly [verify](LIDMigrationMapping.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LIDMigrationMapping`](LIDMigrationMapping.md)
 
-Defined in: [WAProto/index.d.ts:17222](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17222)
+Defined in: [WAProto/index.d.ts:17222](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L17222)
 
 Creates a LIDMigrationMapping message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ LIDMigrationMapping
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:17243](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17243)
+Defined in: [WAProto/index.d.ts:17243](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L17243)
 
 Gets the default type url for LIDMigrationMapping
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:17230](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17230)
+Defined in: [WAProto/index.d.ts:17230](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L17230)
 
 Creates a plain object from a LIDMigrationMapping message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:17215](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L17215)
+Defined in: [WAProto/index.d.ts:17215](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L17215)
 
 Verifies a LIDMigrationMapping message.
 

@@ -2,7 +2,7 @@
 
 > **getUrlFromDirectPath**(`directPath`): `string`
 
-Defined in: [src/Utils/messages-media.ts:490](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/src/Utils/messages-media.ts#L490)
+Defined in: [src/Utils/messages-media.ts:491](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Utils/messages-media.ts#L491)
 
 ## Parameters
 

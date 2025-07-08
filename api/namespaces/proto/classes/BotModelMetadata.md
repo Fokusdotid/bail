@@ -1,6 +1,6 @@
 # Class: BotModelMetadata
 
-Defined in: [WAProto/index.d.ts:5260](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5260)
+Defined in: [WAProto/index.d.ts:5260](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5260)
 
 Represents a BotModelMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotModelMetadata.
 
 > **new BotModelMetadata**(`properties`?): [`BotModelMetadata`](BotModelMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5266](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5266)
+Defined in: [WAProto/index.d.ts:5266](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5266)
 
 Constructs a new BotModelMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **modelType**: `null` \| [`ModelType`](../namespaces/BotModelMetadata/enumerations/ModelType.md)
 
-Defined in: [WAProto/index.d.ts:5269](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5269)
+Defined in: [WAProto/index.d.ts:5269](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5269)
 
 BotModelMetadata modelType.
 
@@ -50,7 +50,7 @@ BotModelMetadata modelType.
 
 > `optional` **premiumModelStatus**: `null` \| [`PremiumModelStatus`](../namespaces/BotModelMetadata/enumerations/PremiumModelStatus.md)
 
-Defined in: [WAProto/index.d.ts:5272](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5272)
+Defined in: [WAProto/index.d.ts:5272](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5272)
 
 BotModelMetadata premiumModelStatus.
 
@@ -64,7 +64,7 @@ BotModelMetadata premiumModelStatus.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:5342](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5342)
+Defined in: [WAProto/index.d.ts:5342](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5342)
 
 Converts this BotModelMetadata to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotModelMetadata`](BotModelMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5279](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5279)
+Defined in: [WAProto/index.d.ts:5279](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5279)
 
 Creates a new BotModelMetadata instance using the specified properties.
 
@@ -104,7 +104,7 @@ BotModelMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotModelMetadata`](BotModelMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5305](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5305)
+Defined in: [WAProto/index.d.ts:5305](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5305)
 
 Decodes a BotModelMetadata message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotModelMetadata`](BotModelMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5314](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5314)
+Defined in: [WAProto/index.d.ts:5314](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5314)
 
 Decodes a BotModelMetadata message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5287](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5287)
+Defined in: [WAProto/index.d.ts:5287](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5287)
 
 Encodes the specified BotModelMetadata message. Does not implicitly [verify](BotModelMetadata.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5295](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5295)
+Defined in: [WAProto/index.d.ts:5295](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5295)
 
 Encodes the specified BotModelMetadata message, length delimited. Does not implicitly [verify](BotModelMetadata.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotModelMetadata`](BotModelMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5328](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5328)
+Defined in: [WAProto/index.d.ts:5328](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5328)
 
 Creates a BotModelMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ BotModelMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:5349](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5349)
+Defined in: [WAProto/index.d.ts:5349](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5349)
 
 Gets the default type url for BotModelMetadata
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:5336](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5336)
+Defined in: [WAProto/index.d.ts:5336](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5336)
 
 Creates a plain object from a BotModelMetadata message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5321](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L5321)
+Defined in: [WAProto/index.d.ts:5321](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5321)
 
 Verifies a BotModelMetadata message.
 

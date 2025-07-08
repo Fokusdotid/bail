@@ -1,6 +1,6 @@
 # Class: CallLogMessage
 
-Defined in: [WAProto/index.d.ts:21023](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21023)
+Defined in: [WAProto/index.d.ts:21023](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21023)
 
 Represents a CallLogMessage.
 
@@ -14,7 +14,7 @@ Represents a CallLogMessage.
 
 > **new CallLogMessage**(`properties`?): [`CallLogMessage`](CallLogMessage.md)
 
-Defined in: [WAProto/index.d.ts:21029](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21029)
+Defined in: [WAProto/index.d.ts:21029](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21029)
 
 Constructs a new CallLogMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **callOutcome**: `null` \| [`CallOutcome`](../namespaces/CallLogMessage/enumerations/CallOutcome.md)
 
-Defined in: [WAProto/index.d.ts:21035](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21035)
+Defined in: [WAProto/index.d.ts:21035](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21035)
 
 CallLogMessage callOutcome.
 
@@ -50,7 +50,7 @@ CallLogMessage callOutcome.
 
 > `optional` **callType**: `null` \| [`CallType`](../namespaces/CallLogMessage/enumerations/CallType.md)
 
-Defined in: [WAProto/index.d.ts:21041](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21041)
+Defined in: [WAProto/index.d.ts:21041](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21041)
 
 CallLogMessage callType.
 
@@ -64,7 +64,7 @@ CallLogMessage callType.
 
 > `optional` **durationSecs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:21038](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21038)
+Defined in: [WAProto/index.d.ts:21038](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21038)
 
 CallLogMessage durationSecs.
 
@@ -78,7 +78,7 @@ CallLogMessage durationSecs.
 
 > `optional` **isVideo**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:21032](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21032)
+Defined in: [WAProto/index.d.ts:21032](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21032)
 
 CallLogMessage isVideo.
 
@@ -92,7 +92,7 @@ CallLogMessage isVideo.
 
 > **participants**: [`ICallParticipant`](../namespaces/CallLogMessage/interfaces/ICallParticipant.md)[]
 
-Defined in: [WAProto/index.d.ts:21044](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21044)
+Defined in: [WAProto/index.d.ts:21044](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21044)
 
 CallLogMessage participants.
 
@@ -106,7 +106,7 @@ CallLogMessage participants.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:21114](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21114)
+Defined in: [WAProto/index.d.ts:21114](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21114)
 
 Converts this CallLogMessage to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CallLogMessage`](CallLogMessage.md)
 
-Defined in: [WAProto/index.d.ts:21051](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21051)
+Defined in: [WAProto/index.d.ts:21051](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21051)
 
 Creates a new CallLogMessage instance using the specified properties.
 
@@ -146,7 +146,7 @@ CallLogMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`CallLogMessage`](CallLogMessage.md)
 
-Defined in: [WAProto/index.d.ts:21077](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21077)
+Defined in: [WAProto/index.d.ts:21077](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21077)
 
 Decodes a CallLogMessage message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CallLogMessage`](CallLogMessage.md)
 
-Defined in: [WAProto/index.d.ts:21086](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21086)
+Defined in: [WAProto/index.d.ts:21086](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21086)
 
 Decodes a CallLogMessage message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:21059](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21059)
+Defined in: [WAProto/index.d.ts:21059](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21059)
 
 Encodes the specified CallLogMessage message. Does not implicitly [verify](CallLogMessage.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:21067](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21067)
+Defined in: [WAProto/index.d.ts:21067](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21067)
 
 Encodes the specified CallLogMessage message, length delimited. Does not implicitly [verify](CallLogMessage.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CallLogMessage`](CallLogMessage.md)
 
-Defined in: [WAProto/index.d.ts:21100](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21100)
+Defined in: [WAProto/index.d.ts:21100](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21100)
 
 Creates a CallLogMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ CallLogMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:21121](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21121)
+Defined in: [WAProto/index.d.ts:21121](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21121)
 
 Gets the default type url for CallLogMessage
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:21108](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21108)
+Defined in: [WAProto/index.d.ts:21108](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21108)
 
 Creates a plain object from a CallLogMessage message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21093](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21093)
+Defined in: [WAProto/index.d.ts:21093](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21093)
 
 Verifies a CallLogMessage message.
 

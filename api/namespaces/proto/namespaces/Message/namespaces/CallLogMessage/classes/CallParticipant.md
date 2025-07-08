@@ -1,6 +1,6 @@
 # Class: CallParticipant
 
-Defined in: [WAProto/index.d.ts:21149](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21149)
+Defined in: [WAProto/index.d.ts:21149](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21149)
 
 Represents a CallParticipant.
 
@@ -14,7 +14,7 @@ Represents a CallParticipant.
 
 > **new CallParticipant**(`properties`?): [`CallParticipant`](CallParticipant.md)
 
-Defined in: [WAProto/index.d.ts:21155](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21155)
+Defined in: [WAProto/index.d.ts:21155](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21155)
 
 Constructs a new CallParticipant.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **callOutcome**: `null` \| [`CallOutcome`](../enumerations/CallOutcome.md)
 
-Defined in: [WAProto/index.d.ts:21161](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21161)
+Defined in: [WAProto/index.d.ts:21161](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21161)
 
 CallParticipant callOutcome.
 
@@ -50,7 +50,7 @@ CallParticipant callOutcome.
 
 > `optional` **jid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21158](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21158)
+Defined in: [WAProto/index.d.ts:21158](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21158)
 
 CallParticipant jid.
 
@@ -64,7 +64,7 @@ CallParticipant jid.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:21231](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21231)
+Defined in: [WAProto/index.d.ts:21231](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21231)
 
 Converts this CallParticipant to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CallParticipant`](CallParticipant.md)
 
-Defined in: [WAProto/index.d.ts:21168](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21168)
+Defined in: [WAProto/index.d.ts:21168](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21168)
 
 Creates a new CallParticipant instance using the specified properties.
 
@@ -104,7 +104,7 @@ CallParticipant instance
 
 > `static` **decode**(`reader`, `length`?): [`CallParticipant`](CallParticipant.md)
 
-Defined in: [WAProto/index.d.ts:21194](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21194)
+Defined in: [WAProto/index.d.ts:21194](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21194)
 
 Decodes a CallParticipant message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CallParticipant`](CallParticipant.md)
 
-Defined in: [WAProto/index.d.ts:21203](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21203)
+Defined in: [WAProto/index.d.ts:21203](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21203)
 
 Decodes a CallParticipant message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:21176](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21176)
+Defined in: [WAProto/index.d.ts:21176](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21176)
 
 Encodes the specified CallParticipant message. Does not implicitly [verify](CallParticipant.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:21184](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21184)
+Defined in: [WAProto/index.d.ts:21184](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21184)
 
 Encodes the specified CallParticipant message, length delimited. Does not implicitly [verify](CallParticipant.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CallParticipant`](CallParticipant.md)
 
-Defined in: [WAProto/index.d.ts:21217](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21217)
+Defined in: [WAProto/index.d.ts:21217](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21217)
 
 Creates a CallParticipant message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ CallParticipant
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:21238](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21238)
+Defined in: [WAProto/index.d.ts:21238](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21238)
 
 Gets the default type url for CallParticipant
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:21225](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21225)
+Defined in: [WAProto/index.d.ts:21225](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21225)
 
 Creates a plain object from a CallParticipant message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21210](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L21210)
+Defined in: [WAProto/index.d.ts:21210](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L21210)
 
 Verifies a CallParticipant message.
 

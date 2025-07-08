@@ -1,6 +1,6 @@
 # Class: AvatarUserSettings
 
-Defined in: [WAProto/index.d.ts:3133](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3133)
+Defined in: [WAProto/index.d.ts:3133](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3133)
 
 Represents an AvatarUserSettings.
 
@@ -14,7 +14,7 @@ Represents an AvatarUserSettings.
 
 > **new AvatarUserSettings**(`properties`?): [`AvatarUserSettings`](AvatarUserSettings.md)
 
-Defined in: [WAProto/index.d.ts:3139](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3139)
+Defined in: [WAProto/index.d.ts:3139](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3139)
 
 Constructs a new AvatarUserSettings.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **fbid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3142](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3142)
+Defined in: [WAProto/index.d.ts:3142](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3142)
 
 AvatarUserSettings fbid.
 
@@ -50,7 +50,7 @@ AvatarUserSettings fbid.
 
 > `optional` **password**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3145](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3145)
+Defined in: [WAProto/index.d.ts:3145](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3145)
 
 AvatarUserSettings password.
 
@@ -64,7 +64,7 @@ AvatarUserSettings password.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:3215](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3215)
+Defined in: [WAProto/index.d.ts:3215](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3215)
 
 Converts this AvatarUserSettings to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AvatarUserSettings`](AvatarUserSettings.md)
 
-Defined in: [WAProto/index.d.ts:3152](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3152)
+Defined in: [WAProto/index.d.ts:3152](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3152)
 
 Creates a new AvatarUserSettings instance using the specified properties.
 
@@ -104,7 +104,7 @@ AvatarUserSettings instance
 
 > `static` **decode**(`reader`, `length`?): [`AvatarUserSettings`](AvatarUserSettings.md)
 
-Defined in: [WAProto/index.d.ts:3178](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3178)
+Defined in: [WAProto/index.d.ts:3178](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3178)
 
 Decodes an AvatarUserSettings message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AvatarUserSettings`](AvatarUserSettings.md)
 
-Defined in: [WAProto/index.d.ts:3187](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3187)
+Defined in: [WAProto/index.d.ts:3187](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3187)
 
 Decodes an AvatarUserSettings message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3160](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3160)
+Defined in: [WAProto/index.d.ts:3160](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3160)
 
 Encodes the specified AvatarUserSettings message. Does not implicitly [verify](AvatarUserSettings.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3168](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3168)
+Defined in: [WAProto/index.d.ts:3168](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3168)
 
 Encodes the specified AvatarUserSettings message, length delimited. Does not implicitly [verify](AvatarUserSettings.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AvatarUserSettings`](AvatarUserSettings.md)
 
-Defined in: [WAProto/index.d.ts:3201](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3201)
+Defined in: [WAProto/index.d.ts:3201](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3201)
 
 Creates an AvatarUserSettings message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ AvatarUserSettings
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:3222](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3222)
+Defined in: [WAProto/index.d.ts:3222](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3222)
 
 Gets the default type url for AvatarUserSettings
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:3209](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3209)
+Defined in: [WAProto/index.d.ts:3209](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3209)
 
 Creates a plain object from an AvatarUserSettings message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3194](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L3194)
+Defined in: [WAProto/index.d.ts:3194](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3194)
 
 Verifies an AvatarUserSettings message.
 

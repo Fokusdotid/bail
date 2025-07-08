@@ -2,7 +2,7 @@
 
 > **encodeSignedDeviceIdentity**(`account`, `includeSignatureKey`): `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [src/Utils/validate-connection.ts:194](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/src/Utils/validate-connection.ts#L194)
+Defined in: [src/Utils/validate-connection.ts:194](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Utils/validate-connection.ts#L194)
 
 ## Parameters
 

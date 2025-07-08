@@ -1,6 +1,6 @@
 # Class: LocationMessage
 
-Defined in: [WAProto/index.d.ts:27893](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27893)
+Defined in: [WAProto/index.d.ts:27893](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27893)
 
 Represents a LocationMessage.
 
@@ -14,7 +14,7 @@ Represents a LocationMessage.
 
 > **new LocationMessage**(`properties`?): [`LocationMessage`](LocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:27899](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27899)
+Defined in: [WAProto/index.d.ts:27899](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27899)
 
 Constructs a new LocationMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **accuracyInMeters**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:27920](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27920)
+Defined in: [WAProto/index.d.ts:27920](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27920)
 
 LocationMessage accuracyInMeters.
 
@@ -50,7 +50,7 @@ LocationMessage accuracyInMeters.
 
 > `optional` **address**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27911](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27911)
+Defined in: [WAProto/index.d.ts:27911](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27911)
 
 LocationMessage address.
 
@@ -64,7 +64,7 @@ LocationMessage address.
 
 > `optional` **comment**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27929](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27929)
+Defined in: [WAProto/index.d.ts:27929](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27929)
 
 LocationMessage comment.
 
@@ -78,7 +78,7 @@ LocationMessage comment.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:27935](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27935)
+Defined in: [WAProto/index.d.ts:27935](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27935)
 
 LocationMessage contextInfo.
 
@@ -92,7 +92,7 @@ LocationMessage contextInfo.
 
 > `optional` **degreesClockwiseFromMagneticNorth**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:27926](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27926)
+Defined in: [WAProto/index.d.ts:27926](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27926)
 
 LocationMessage degreesClockwiseFromMagneticNorth.
 
@@ -106,7 +106,7 @@ LocationMessage degreesClockwiseFromMagneticNorth.
 
 > `optional` **degreesLatitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:27902](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27902)
+Defined in: [WAProto/index.d.ts:27902](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27902)
 
 LocationMessage degreesLatitude.
 
@@ -120,7 +120,7 @@ LocationMessage degreesLatitude.
 
 > `optional` **degreesLongitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:27905](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27905)
+Defined in: [WAProto/index.d.ts:27905](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27905)
 
 LocationMessage degreesLongitude.
 
@@ -134,7 +134,7 @@ LocationMessage degreesLongitude.
 
 > `optional` **isLive**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:27917](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27917)
+Defined in: [WAProto/index.d.ts:27917](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27917)
 
 LocationMessage isLive.
 
@@ -148,7 +148,7 @@ LocationMessage isLive.
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:27932](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27932)
+Defined in: [WAProto/index.d.ts:27932](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27932)
 
 LocationMessage jpegThumbnail.
 
@@ -162,7 +162,7 @@ LocationMessage jpegThumbnail.
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27908](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27908)
+Defined in: [WAProto/index.d.ts:27908](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27908)
 
 LocationMessage name.
 
@@ -176,7 +176,7 @@ LocationMessage name.
 
 > `optional` **speedInMps**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:27923](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27923)
+Defined in: [WAProto/index.d.ts:27923](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27923)
 
 LocationMessage speedInMps.
 
@@ -190,7 +190,7 @@ LocationMessage speedInMps.
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27914](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27914)
+Defined in: [WAProto/index.d.ts:27914](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27914)
 
 LocationMessage url.
 
@@ -204,7 +204,7 @@ LocationMessage url.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:28005](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28005)
+Defined in: [WAProto/index.d.ts:28005](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28005)
 
 Converts this LocationMessage to JSON.
 
@@ -220,7 +220,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LocationMessage`](LocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:27942](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27942)
+Defined in: [WAProto/index.d.ts:27942](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27942)
 
 Creates a new LocationMessage instance using the specified properties.
 
@@ -244,7 +244,7 @@ LocationMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`LocationMessage`](LocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:27968](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27968)
+Defined in: [WAProto/index.d.ts:27968](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27968)
 
 Decodes a LocationMessage message from the specified reader or buffer.
 
@@ -282,7 +282,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LocationMessage`](LocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:27977](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27977)
+Defined in: [WAProto/index.d.ts:27977](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27977)
 
 Decodes a LocationMessage message from the specified reader or buffer, length delimited.
 
@@ -314,7 +314,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:27950](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27950)
+Defined in: [WAProto/index.d.ts:27950](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27950)
 
 Encodes the specified LocationMessage message. Does not implicitly [verify](LocationMessage.md#verify) messages.
 
@@ -344,7 +344,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:27958](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27958)
+Defined in: [WAProto/index.d.ts:27958](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27958)
 
 Encodes the specified LocationMessage message, length delimited. Does not implicitly [verify](LocationMessage.md#verify) messages.
 
@@ -374,7 +374,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LocationMessage`](LocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:27991](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27991)
+Defined in: [WAProto/index.d.ts:27991](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27991)
 
 Creates a LocationMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -396,7 +396,7 @@ LocationMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:28012](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28012)
+Defined in: [WAProto/index.d.ts:28012](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28012)
 
 Gets the default type url for LocationMessage
 
@@ -420,7 +420,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:27999](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27999)
+Defined in: [WAProto/index.d.ts:27999](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27999)
 
 Creates a plain object from a LocationMessage message. Also converts values to other types if specified.
 
@@ -450,7 +450,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27984](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27984)
+Defined in: [WAProto/index.d.ts:27984](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27984)
 
 Verifies a LocationMessage message.
 

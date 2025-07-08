@@ -1,6 +1,6 @@
 # Enumeration: ReportKind
 
-Defined in: [WAProto/index.d.ts:20245](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20245)
+Defined in: [WAProto/index.d.ts:20245](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20245)
 
 ReportKind enum.
 
@@ -10,4 +10,4 @@ ReportKind enum.
 
 > **GENERIC**: `0`
 
-Defined in: [WAProto/index.d.ts:20246](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20246)
+Defined in: [WAProto/index.d.ts:20246](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20246)

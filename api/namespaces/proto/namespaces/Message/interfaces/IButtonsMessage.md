@@ -1,6 +1,6 @@
 # Interface: IButtonsMessage
 
-Defined in: [WAProto/index.d.ts:20251](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20251)
+Defined in: [WAProto/index.d.ts:20251](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20251)
 
 Properties of a ButtonsMessage.
 
@@ -10,7 +10,7 @@ Properties of a ButtonsMessage.
 
 > `optional` **buttons**: `null` \| [`IButton`](../namespaces/ButtonsMessage/interfaces/IButton.md)[]
 
-Defined in: [WAProto/index.d.ts:20263](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20263)
+Defined in: [WAProto/index.d.ts:20263](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20263)
 
 ButtonsMessage buttons
 
@@ -20,7 +20,7 @@ ButtonsMessage buttons
 
 > `optional` **contentText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20254](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20254)
+Defined in: [WAProto/index.d.ts:20254](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20254)
 
 ButtonsMessage contentText
 
@@ -30,7 +30,7 @@ ButtonsMessage contentText
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:20260](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20260)
+Defined in: [WAProto/index.d.ts:20260](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20260)
 
 ButtonsMessage contextInfo
 
@@ -40,7 +40,7 @@ ButtonsMessage contextInfo
 
 > `optional` **documentMessage**: `null` \| [`IDocumentMessage`](IDocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:20272](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20272)
+Defined in: [WAProto/index.d.ts:20272](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20272)
 
 ButtonsMessage documentMessage
 
@@ -50,7 +50,7 @@ ButtonsMessage documentMessage
 
 > `optional` **footerText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20257](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20257)
+Defined in: [WAProto/index.d.ts:20257](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20257)
 
 ButtonsMessage footerText
 
@@ -60,7 +60,7 @@ ButtonsMessage footerText
 
 > `optional` **headerType**: `null` \| [`HeaderType`](../namespaces/ButtonsMessage/enumerations/HeaderType.md)
 
-Defined in: [WAProto/index.d.ts:20266](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20266)
+Defined in: [WAProto/index.d.ts:20266](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20266)
 
 ButtonsMessage headerType
 
@@ -70,7 +70,7 @@ ButtonsMessage headerType
 
 > `optional` **imageMessage**: `null` \| [`IImageMessage`](IImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:20275](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20275)
+Defined in: [WAProto/index.d.ts:20275](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20275)
 
 ButtonsMessage imageMessage
 
@@ -80,7 +80,7 @@ ButtonsMessage imageMessage
 
 > `optional` **locationMessage**: `null` \| [`ILocationMessage`](ILocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:20281](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20281)
+Defined in: [WAProto/index.d.ts:20281](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20281)
 
 ButtonsMessage locationMessage
 
@@ -90,7 +90,7 @@ ButtonsMessage locationMessage
 
 > `optional` **text**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20269](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20269)
+Defined in: [WAProto/index.d.ts:20269](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20269)
 
 ButtonsMessage text
 
@@ -100,6 +100,6 @@ ButtonsMessage text
 
 > `optional` **videoMessage**: `null` \| [`IVideoMessage`](IVideoMessage.md)
 
-Defined in: [WAProto/index.d.ts:20278](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L20278)
+Defined in: [WAProto/index.d.ts:20278](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20278)
 
 ButtonsMessage videoMessage

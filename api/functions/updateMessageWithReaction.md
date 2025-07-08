@@ -2,7 +2,7 @@
 
 > **updateMessageWithReaction**(`msg`, `reaction`): `void`
 
-Defined in: [src/Utils/messages.ts:770](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/src/Utils/messages.ts#L770)
+Defined in: [src/Utils/messages.ts:770](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Utils/messages.ts#L770)
 
 Update the message with a new reaction
 

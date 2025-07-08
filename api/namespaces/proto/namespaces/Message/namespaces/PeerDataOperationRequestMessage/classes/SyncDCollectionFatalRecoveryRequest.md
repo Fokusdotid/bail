@@ -1,6 +1,6 @@
 # Class: SyncDCollectionFatalRecoveryRequest
 
-Defined in: [WAProto/index.d.ts:29918](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29918)
+Defined in: [WAProto/index.d.ts:29918](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29918)
 
 Represents a SyncDCollectionFatalRecoveryRequest.
 
@@ -14,7 +14,7 @@ Represents a SyncDCollectionFatalRecoveryRequest.
 
 > **new SyncDCollectionFatalRecoveryRequest**(`properties`?): [`SyncDCollectionFatalRecoveryRequest`](SyncDCollectionFatalRecoveryRequest.md)
 
-Defined in: [WAProto/index.d.ts:29924](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29924)
+Defined in: [WAProto/index.d.ts:29924](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29924)
 
 Constructs a new SyncDCollectionFatalRecoveryRequest.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **collectionName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29927](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29927)
+Defined in: [WAProto/index.d.ts:29927](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29927)
 
 SyncDCollectionFatalRecoveryRequest collectionName.
 
@@ -50,7 +50,7 @@ SyncDCollectionFatalRecoveryRequest collectionName.
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:29930](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29930)
+Defined in: [WAProto/index.d.ts:29930](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29930)
 
 SyncDCollectionFatalRecoveryRequest timestamp.
 
@@ -64,7 +64,7 @@ SyncDCollectionFatalRecoveryRequest timestamp.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:30000](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30000)
+Defined in: [WAProto/index.d.ts:30000](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30000)
 
 Converts this SyncDCollectionFatalRecoveryRequest to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SyncDCollectionFatalRecoveryRequest`](SyncDCollectionFatalRecoveryRequest.md)
 
-Defined in: [WAProto/index.d.ts:29937](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29937)
+Defined in: [WAProto/index.d.ts:29937](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29937)
 
 Creates a new SyncDCollectionFatalRecoveryRequest instance using the specified properties.
 
@@ -104,7 +104,7 @@ SyncDCollectionFatalRecoveryRequest instance
 
 > `static` **decode**(`reader`, `length`?): [`SyncDCollectionFatalRecoveryRequest`](SyncDCollectionFatalRecoveryRequest.md)
 
-Defined in: [WAProto/index.d.ts:29963](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29963)
+Defined in: [WAProto/index.d.ts:29963](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29963)
 
 Decodes a SyncDCollectionFatalRecoveryRequest message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SyncDCollectionFatalRecoveryRequest`](SyncDCollectionFatalRecoveryRequest.md)
 
-Defined in: [WAProto/index.d.ts:29972](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29972)
+Defined in: [WAProto/index.d.ts:29972](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29972)
 
 Decodes a SyncDCollectionFatalRecoveryRequest message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29945](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29945)
+Defined in: [WAProto/index.d.ts:29945](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29945)
 
 Encodes the specified SyncDCollectionFatalRecoveryRequest message. Does not implicitly [verify](SyncDCollectionFatalRecoveryRequest.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29953](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29953)
+Defined in: [WAProto/index.d.ts:29953](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29953)
 
 Encodes the specified SyncDCollectionFatalRecoveryRequest message, length delimited. Does not implicitly [verify](SyncDCollectionFatalRecoveryRequest.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SyncDCollectionFatalRecoveryRequest`](SyncDCollectionFatalRecoveryRequest.md)
 
-Defined in: [WAProto/index.d.ts:29986](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29986)
+Defined in: [WAProto/index.d.ts:29986](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29986)
 
 Creates a SyncDCollectionFatalRecoveryRequest message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ SyncDCollectionFatalRecoveryRequest
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:30007](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30007)
+Defined in: [WAProto/index.d.ts:30007](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30007)
 
 Gets the default type url for SyncDCollectionFatalRecoveryRequest
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:29994](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29994)
+Defined in: [WAProto/index.d.ts:29994](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29994)
 
 Creates a plain object from a SyncDCollectionFatalRecoveryRequest message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29979](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29979)
+Defined in: [WAProto/index.d.ts:29979](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29979)
 
 Verifies a SyncDCollectionFatalRecoveryRequest message.
 

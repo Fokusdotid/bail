@@ -1,6 +1,6 @@
 # Interface: Contact
 
-Defined in: [src/Types/Contact.ts:1](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/src/Types/Contact.ts#L1)
+Defined in: [src/Types/Contact.ts:1](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/Contact.ts#L1)
 
 ## Properties
 
@@ -8,7 +8,7 @@ Defined in: [src/Types/Contact.ts:1](https://github.com/Fokusdotid/bail/blob/c00
 
 > **id**: `string`
 
-Defined in: [src/Types/Contact.ts:3](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/src/Types/Contact.ts#L3)
+Defined in: [src/Types/Contact.ts:3](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/Contact.ts#L3)
 
 ID either in lid or jid format *
 
@@ -18,7 +18,7 @@ ID either in lid or jid format *
 
 > `optional` **imgUrl**: `null` \| `string`
 
-Defined in: [src/Types/Contact.ts:22](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/src/Types/Contact.ts#L22)
+Defined in: [src/Types/Contact.ts:22](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/Contact.ts#L22)
 
 Url of the profile picture of the contact
 
@@ -32,7 +32,7 @@ any other string => url of the profile picture
 
 > `optional` **jid**: `string`
 
-Defined in: [src/Types/Contact.ts:7](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/src/Types/Contact.ts#L7)
+Defined in: [src/Types/Contact.ts:7](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/Contact.ts#L7)
 
 ID in Phone Number format (@s.whatsapp.net)  *
 
@@ -42,7 +42,7 @@ ID in Phone Number format (@s.whatsapp.net)  *
 
 > `optional` **lid**: `string`
 
-Defined in: [src/Types/Contact.ts:5](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/src/Types/Contact.ts#L5)
+Defined in: [src/Types/Contact.ts:5](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/Contact.ts#L5)
 
 ID in Lid (anonymous) format (@lid) *
 
@@ -52,7 +52,7 @@ ID in Lid (anonymous) format (@lid) *
 
 > `optional` **name**: `string`
 
-Defined in: [src/Types/Contact.ts:9](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/src/Types/Contact.ts#L9)
+Defined in: [src/Types/Contact.ts:9](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/Contact.ts#L9)
 
 name of the contact, you have saved on your WA
 
@@ -62,7 +62,7 @@ name of the contact, you have saved on your WA
 
 > `optional` **notify**: `string`
 
-Defined in: [src/Types/Contact.ts:11](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/src/Types/Contact.ts#L11)
+Defined in: [src/Types/Contact.ts:11](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/Contact.ts#L11)
 
 name of the contact, the contact has set on their own on WA
 
@@ -72,7 +72,7 @@ name of the contact, the contact has set on their own on WA
 
 > `optional` **status**: `string`
 
-Defined in: [src/Types/Contact.ts:23](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/src/Types/Contact.ts#L23)
+Defined in: [src/Types/Contact.ts:23](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/Contact.ts#L23)
 
 ***
 
@@ -80,6 +80,6 @@ Defined in: [src/Types/Contact.ts:23](https://github.com/Fokusdotid/bail/blob/c0
 
 > `optional` **verifiedName**: `string`
 
-Defined in: [src/Types/Contact.ts:13](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/src/Types/Contact.ts#L13)
+Defined in: [src/Types/Contact.ts:13](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/Contact.ts#L13)
 
 I have no idea

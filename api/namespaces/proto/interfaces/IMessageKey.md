@@ -1,6 +1,6 @@
 # Interface: IMessageKey
 
-Defined in: [WAProto/index.d.ts:36133](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L36133)
+Defined in: [WAProto/index.d.ts:36133](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L36133)
 
 Properties of a MessageKey.
 
@@ -10,7 +10,7 @@ Properties of a MessageKey.
 
 > `optional` **fromMe**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:36139](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L36139)
+Defined in: [WAProto/index.d.ts:36139](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L36139)
 
 MessageKey fromMe
 
@@ -20,7 +20,7 @@ MessageKey fromMe
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36142](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L36142)
+Defined in: [WAProto/index.d.ts:36142](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L36142)
 
 MessageKey id
 
@@ -30,7 +30,7 @@ MessageKey id
 
 > `optional` **participant**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36145](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L36145)
+Defined in: [WAProto/index.d.ts:36145](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L36145)
 
 MessageKey participant
 
@@ -40,6 +40,6 @@ MessageKey participant
 
 > `optional` **remoteJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36136](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L36136)
+Defined in: [WAProto/index.d.ts:36136](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L36136)
 
 MessageKey remoteJid

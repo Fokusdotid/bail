@@ -1,6 +1,6 @@
 # Class: HydratedURLButton
 
-Defined in: [WAProto/index.d.ts:16421](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L16421)
+Defined in: [WAProto/index.d.ts:16421](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L16421)
 
 Represents a HydratedURLButton.
 
@@ -14,7 +14,7 @@ Represents a HydratedURLButton.
 
 > **new HydratedURLButton**(`properties`?): [`HydratedURLButton`](HydratedURLButton.md)
 
-Defined in: [WAProto/index.d.ts:16427](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L16427)
+Defined in: [WAProto/index.d.ts:16427](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L16427)
 
 Constructs a new HydratedURLButton.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **consentedUsersUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16436](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L16436)
+Defined in: [WAProto/index.d.ts:16436](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L16436)
 
 HydratedURLButton consentedUsersUrl.
 
@@ -50,7 +50,7 @@ HydratedURLButton consentedUsersUrl.
 
 > `optional` **displayText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16430](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L16430)
+Defined in: [WAProto/index.d.ts:16430](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L16430)
 
 HydratedURLButton displayText.
 
@@ -64,7 +64,7 @@ HydratedURLButton displayText.
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16433](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L16433)
+Defined in: [WAProto/index.d.ts:16433](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L16433)
 
 HydratedURLButton url.
 
@@ -78,7 +78,7 @@ HydratedURLButton url.
 
 > `optional` **webviewPresentation**: `null` \| [`WebviewPresentationType`](../namespaces/HydratedURLButton/enumerations/WebviewPresentationType.md)
 
-Defined in: [WAProto/index.d.ts:16439](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L16439)
+Defined in: [WAProto/index.d.ts:16439](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L16439)
 
 HydratedURLButton webviewPresentation.
 
@@ -92,7 +92,7 @@ HydratedURLButton webviewPresentation.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:16509](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L16509)
+Defined in: [WAProto/index.d.ts:16509](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L16509)
 
 Converts this HydratedURLButton to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`HydratedURLButton`](HydratedURLButton.md)
 
-Defined in: [WAProto/index.d.ts:16446](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L16446)
+Defined in: [WAProto/index.d.ts:16446](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L16446)
 
 Creates a new HydratedURLButton instance using the specified properties.
 
@@ -132,7 +132,7 @@ HydratedURLButton instance
 
 > `static` **decode**(`reader`, `length`?): [`HydratedURLButton`](HydratedURLButton.md)
 
-Defined in: [WAProto/index.d.ts:16472](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L16472)
+Defined in: [WAProto/index.d.ts:16472](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L16472)
 
 Decodes a HydratedURLButton message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`HydratedURLButton`](HydratedURLButton.md)
 
-Defined in: [WAProto/index.d.ts:16481](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L16481)
+Defined in: [WAProto/index.d.ts:16481](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L16481)
 
 Decodes a HydratedURLButton message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:16454](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L16454)
+Defined in: [WAProto/index.d.ts:16454](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L16454)
 
 Encodes the specified HydratedURLButton message. Does not implicitly [verify](HydratedURLButton.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:16462](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L16462)
+Defined in: [WAProto/index.d.ts:16462](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L16462)
 
 Encodes the specified HydratedURLButton message, length delimited. Does not implicitly [verify](HydratedURLButton.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`HydratedURLButton`](HydratedURLButton.md)
 
-Defined in: [WAProto/index.d.ts:16495](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L16495)
+Defined in: [WAProto/index.d.ts:16495](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L16495)
 
 Creates a HydratedURLButton message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ HydratedURLButton
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:16516](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L16516)
+Defined in: [WAProto/index.d.ts:16516](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L16516)
 
 Gets the default type url for HydratedURLButton
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:16503](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L16503)
+Defined in: [WAProto/index.d.ts:16503](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L16503)
 
 Creates a plain object from a HydratedURLButton message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16488](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L16488)
+Defined in: [WAProto/index.d.ts:16488](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L16488)
 
 Verifies a HydratedURLButton message.
 

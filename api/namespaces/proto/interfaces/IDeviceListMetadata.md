@@ -1,6 +1,6 @@
 # Interface: IDeviceListMetadata
 
-Defined in: [WAProto/index.d.ts:13044](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13044)
+Defined in: [WAProto/index.d.ts:13044](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L13044)
 
 Properties of a DeviceListMetadata.
 
@@ -10,7 +10,7 @@ Properties of a DeviceListMetadata.
 
 > `optional` **receiverAccountType**: `null` \| [`ADVEncryptionType`](../enumerations/ADVEncryptionType.md)
 
-Defined in: [WAProto/index.d.ts:13059](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13059)
+Defined in: [WAProto/index.d.ts:13059](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L13059)
 
 DeviceListMetadata receiverAccountType
 
@@ -20,7 +20,7 @@ DeviceListMetadata receiverAccountType
 
 > `optional` **recipientKeyHash**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:13062](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13062)
+Defined in: [WAProto/index.d.ts:13062](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L13062)
 
 DeviceListMetadata recipientKeyHash
 
@@ -30,7 +30,7 @@ DeviceListMetadata recipientKeyHash
 
 > `optional` **recipientKeyIndexes**: `null` \| `number`[]
 
-Defined in: [WAProto/index.d.ts:13068](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13068)
+Defined in: [WAProto/index.d.ts:13068](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L13068)
 
 DeviceListMetadata recipientKeyIndexes
 
@@ -40,7 +40,7 @@ DeviceListMetadata recipientKeyIndexes
 
 > `optional` **recipientTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:13065](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13065)
+Defined in: [WAProto/index.d.ts:13065](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L13065)
 
 DeviceListMetadata recipientTimestamp
 
@@ -50,7 +50,7 @@ DeviceListMetadata recipientTimestamp
 
 > `optional` **senderAccountType**: `null` \| [`ADVEncryptionType`](../enumerations/ADVEncryptionType.md)
 
-Defined in: [WAProto/index.d.ts:13056](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13056)
+Defined in: [WAProto/index.d.ts:13056](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L13056)
 
 DeviceListMetadata senderAccountType
 
@@ -60,7 +60,7 @@ DeviceListMetadata senderAccountType
 
 > `optional` **senderKeyHash**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:13047](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13047)
+Defined in: [WAProto/index.d.ts:13047](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L13047)
 
 DeviceListMetadata senderKeyHash
 
@@ -70,7 +70,7 @@ DeviceListMetadata senderKeyHash
 
 > `optional` **senderKeyIndexes**: `null` \| `number`[]
 
-Defined in: [WAProto/index.d.ts:13053](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13053)
+Defined in: [WAProto/index.d.ts:13053](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L13053)
 
 DeviceListMetadata senderKeyIndexes
 
@@ -80,6 +80,6 @@ DeviceListMetadata senderKeyIndexes
 
 > `optional` **senderTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:13050](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L13050)
+Defined in: [WAProto/index.d.ts:13050](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L13050)
 
 DeviceListMetadata senderTimestamp

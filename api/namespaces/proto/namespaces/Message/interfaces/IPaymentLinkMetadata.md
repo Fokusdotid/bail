@@ -1,6 +1,6 @@
 # Interface: IPaymentLinkMetadata
 
-Defined in: [WAProto/index.d.ts:28937](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28937)
+Defined in: [WAProto/index.d.ts:28937](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28937)
 
 Properties of a PaymentLinkMetadata.
 
@@ -10,7 +10,7 @@ Properties of a PaymentLinkMetadata.
 
 > `optional` **button**: `null` \| [`IPaymentLinkButton`](../namespaces/PaymentLinkMetadata/interfaces/IPaymentLinkButton.md)
 
-Defined in: [WAProto/index.d.ts:28940](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28940)
+Defined in: [WAProto/index.d.ts:28940](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28940)
 
 PaymentLinkMetadata button
 
@@ -20,6 +20,6 @@ PaymentLinkMetadata button
 
 > `optional` **header**: `null` \| [`IPaymentLinkHeader`](../namespaces/PaymentLinkMetadata/interfaces/IPaymentLinkHeader.md)
 
-Defined in: [WAProto/index.d.ts:28943](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28943)
+Defined in: [WAProto/index.d.ts:28943](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28943)
 
 PaymentLinkMetadata header

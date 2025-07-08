@@ -1,6 +1,6 @@
 # Class: PrimaryVersionAction
 
-Defined in: [WAProto/index.d.ts:47777](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47777)
+Defined in: [WAProto/index.d.ts:47777](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47777)
 
 Represents a PrimaryVersionAction.
 
@@ -14,7 +14,7 @@ Represents a PrimaryVersionAction.
 
 > **new PrimaryVersionAction**(`properties`?): [`PrimaryVersionAction`](PrimaryVersionAction.md)
 
-Defined in: [WAProto/index.d.ts:47783](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47783)
+Defined in: [WAProto/index.d.ts:47783](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47783)
 
 Constructs a new PrimaryVersionAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **version**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:47786](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47786)
+Defined in: [WAProto/index.d.ts:47786](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47786)
 
 PrimaryVersionAction version.
 
@@ -50,7 +50,7 @@ PrimaryVersionAction version.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:47856](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47856)
+Defined in: [WAProto/index.d.ts:47856](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47856)
 
 Converts this PrimaryVersionAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PrimaryVersionAction`](PrimaryVersionAction.md)
 
-Defined in: [WAProto/index.d.ts:47793](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47793)
+Defined in: [WAProto/index.d.ts:47793](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47793)
 
 Creates a new PrimaryVersionAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ PrimaryVersionAction instance
 
 > `static` **decode**(`reader`, `length`?): [`PrimaryVersionAction`](PrimaryVersionAction.md)
 
-Defined in: [WAProto/index.d.ts:47819](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47819)
+Defined in: [WAProto/index.d.ts:47819](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47819)
 
 Decodes a PrimaryVersionAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PrimaryVersionAction`](PrimaryVersionAction.md)
 
-Defined in: [WAProto/index.d.ts:47828](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47828)
+Defined in: [WAProto/index.d.ts:47828](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47828)
 
 Decodes a PrimaryVersionAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:47801](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47801)
+Defined in: [WAProto/index.d.ts:47801](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47801)
 
 Encodes the specified PrimaryVersionAction message. Does not implicitly [verify](PrimaryVersionAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:47809](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47809)
+Defined in: [WAProto/index.d.ts:47809](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47809)
 
 Encodes the specified PrimaryVersionAction message, length delimited. Does not implicitly [verify](PrimaryVersionAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PrimaryVersionAction`](PrimaryVersionAction.md)
 
-Defined in: [WAProto/index.d.ts:47842](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47842)
+Defined in: [WAProto/index.d.ts:47842](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47842)
 
 Creates a PrimaryVersionAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PrimaryVersionAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:47863](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47863)
+Defined in: [WAProto/index.d.ts:47863](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47863)
 
 Gets the default type url for PrimaryVersionAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:47850](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47850)
+Defined in: [WAProto/index.d.ts:47850](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47850)
 
 Creates a plain object from a PrimaryVersionAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:47835](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L47835)
+Defined in: [WAProto/index.d.ts:47835](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47835)
 
 Verifies a PrimaryVersionAction message.
 

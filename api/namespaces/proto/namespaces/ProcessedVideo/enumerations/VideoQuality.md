@@ -1,6 +1,6 @@
 # Enumeration: VideoQuality
 
-Defined in: [WAProto/index.d.ts:40180](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L40180)
+Defined in: [WAProto/index.d.ts:40180](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L40180)
 
 VideoQuality enum.
 
@@ -10,7 +10,7 @@ VideoQuality enum.
 
 > **HIGH**: `3`
 
-Defined in: [WAProto/index.d.ts:40184](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L40184)
+Defined in: [WAProto/index.d.ts:40184](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L40184)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:40184](https://github.com/Fokusdotid/bail/blob/c
 
 > **LOW**: `1`
 
-Defined in: [WAProto/index.d.ts:40182](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L40182)
+Defined in: [WAProto/index.d.ts:40182](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L40182)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:40182](https://github.com/Fokusdotid/bail/blob/c
 
 > **MID**: `2`
 
-Defined in: [WAProto/index.d.ts:40183](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L40183)
+Defined in: [WAProto/index.d.ts:40183](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L40183)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:40183](https://github.com/Fokusdotid/bail/blob/c
 
 > **UNDEFINED**: `0`
 
-Defined in: [WAProto/index.d.ts:40181](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L40181)
+Defined in: [WAProto/index.d.ts:40181](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L40181)

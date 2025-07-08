@@ -1,6 +1,6 @@
 # Class: PaymentLinkMetadata
 
-Defined in: [WAProto/index.d.ts:28947](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28947)
+Defined in: [WAProto/index.d.ts:28947](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28947)
 
 Represents a PaymentLinkMetadata.
 
@@ -14,7 +14,7 @@ Represents a PaymentLinkMetadata.
 
 > **new PaymentLinkMetadata**(`properties`?): [`PaymentLinkMetadata`](PaymentLinkMetadata.md)
 
-Defined in: [WAProto/index.d.ts:28953](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28953)
+Defined in: [WAProto/index.d.ts:28953](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28953)
 
 Constructs a new PaymentLinkMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **button**: `null` \| [`IPaymentLinkButton`](../namespaces/PaymentLinkMetadata/interfaces/IPaymentLinkButton.md)
 
-Defined in: [WAProto/index.d.ts:28956](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28956)
+Defined in: [WAProto/index.d.ts:28956](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28956)
 
 PaymentLinkMetadata button.
 
@@ -50,7 +50,7 @@ PaymentLinkMetadata button.
 
 > `optional` **header**: `null` \| [`IPaymentLinkHeader`](../namespaces/PaymentLinkMetadata/interfaces/IPaymentLinkHeader.md)
 
-Defined in: [WAProto/index.d.ts:28959](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28959)
+Defined in: [WAProto/index.d.ts:28959](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28959)
 
 PaymentLinkMetadata header.
 
@@ -64,7 +64,7 @@ PaymentLinkMetadata header.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:29029](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29029)
+Defined in: [WAProto/index.d.ts:29029](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29029)
 
 Converts this PaymentLinkMetadata to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PaymentLinkMetadata`](PaymentLinkMetadata.md)
 
-Defined in: [WAProto/index.d.ts:28966](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28966)
+Defined in: [WAProto/index.d.ts:28966](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28966)
 
 Creates a new PaymentLinkMetadata instance using the specified properties.
 
@@ -104,7 +104,7 @@ PaymentLinkMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`PaymentLinkMetadata`](PaymentLinkMetadata.md)
 
-Defined in: [WAProto/index.d.ts:28992](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28992)
+Defined in: [WAProto/index.d.ts:28992](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28992)
 
 Decodes a PaymentLinkMetadata message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PaymentLinkMetadata`](PaymentLinkMetadata.md)
 
-Defined in: [WAProto/index.d.ts:29001](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29001)
+Defined in: [WAProto/index.d.ts:29001](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29001)
 
 Decodes a PaymentLinkMetadata message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28974](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28974)
+Defined in: [WAProto/index.d.ts:28974](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28974)
 
 Encodes the specified PaymentLinkMetadata message. Does not implicitly [verify](PaymentLinkMetadata.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28982](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28982)
+Defined in: [WAProto/index.d.ts:28982](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28982)
 
 Encodes the specified PaymentLinkMetadata message, length delimited. Does not implicitly [verify](PaymentLinkMetadata.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PaymentLinkMetadata`](PaymentLinkMetadata.md)
 
-Defined in: [WAProto/index.d.ts:29015](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29015)
+Defined in: [WAProto/index.d.ts:29015](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29015)
 
 Creates a PaymentLinkMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ PaymentLinkMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:29036](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29036)
+Defined in: [WAProto/index.d.ts:29036](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29036)
 
 Gets the default type url for PaymentLinkMetadata
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:29023](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29023)
+Defined in: [WAProto/index.d.ts:29023](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29023)
 
 Creates a plain object from a PaymentLinkMetadata message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29008](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29008)
+Defined in: [WAProto/index.d.ts:29008](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29008)
 
 Verifies a PaymentLinkMetadata message.
 

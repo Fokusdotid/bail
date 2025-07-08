@@ -1,6 +1,6 @@
 # Interface: IExitCode
 
-Defined in: [WAProto/index.d.ts:14552](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14552)
+Defined in: [WAProto/index.d.ts:14552](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14552)
 
 Properties of an ExitCode.
 
@@ -10,7 +10,7 @@ Properties of an ExitCode.
 
 > `optional` **code**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:14555](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14555)
+Defined in: [WAProto/index.d.ts:14555](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14555)
 
 ExitCode code
 
@@ -20,6 +20,6 @@ ExitCode code
 
 > `optional` **text**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14558](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L14558)
+Defined in: [WAProto/index.d.ts:14558](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14558)
 
 ExitCode text

@@ -1,6 +1,6 @@
 # Class: LocaleSetting
 
-Defined in: [WAProto/index.d.ts:46175](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46175)
+Defined in: [WAProto/index.d.ts:46175](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L46175)
 
 Represents a LocaleSetting.
 
@@ -14,7 +14,7 @@ Represents a LocaleSetting.
 
 > **new LocaleSetting**(`properties`?): [`LocaleSetting`](LocaleSetting.md)
 
-Defined in: [WAProto/index.d.ts:46181](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46181)
+Defined in: [WAProto/index.d.ts:46181](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L46181)
 
 Constructs a new LocaleSetting.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **locale**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46184](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46184)
+Defined in: [WAProto/index.d.ts:46184](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L46184)
 
 LocaleSetting locale.
 
@@ -50,7 +50,7 @@ LocaleSetting locale.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:46254](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46254)
+Defined in: [WAProto/index.d.ts:46254](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L46254)
 
 Converts this LocaleSetting to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LocaleSetting`](LocaleSetting.md)
 
-Defined in: [WAProto/index.d.ts:46191](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46191)
+Defined in: [WAProto/index.d.ts:46191](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L46191)
 
 Creates a new LocaleSetting instance using the specified properties.
 
@@ -90,7 +90,7 @@ LocaleSetting instance
 
 > `static` **decode**(`reader`, `length`?): [`LocaleSetting`](LocaleSetting.md)
 
-Defined in: [WAProto/index.d.ts:46217](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46217)
+Defined in: [WAProto/index.d.ts:46217](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L46217)
 
 Decodes a LocaleSetting message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LocaleSetting`](LocaleSetting.md)
 
-Defined in: [WAProto/index.d.ts:46226](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46226)
+Defined in: [WAProto/index.d.ts:46226](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L46226)
 
 Decodes a LocaleSetting message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46199](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46199)
+Defined in: [WAProto/index.d.ts:46199](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L46199)
 
 Encodes the specified LocaleSetting message. Does not implicitly [verify](LocaleSetting.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46207](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46207)
+Defined in: [WAProto/index.d.ts:46207](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L46207)
 
 Encodes the specified LocaleSetting message, length delimited. Does not implicitly [verify](LocaleSetting.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LocaleSetting`](LocaleSetting.md)
 
-Defined in: [WAProto/index.d.ts:46240](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46240)
+Defined in: [WAProto/index.d.ts:46240](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L46240)
 
 Creates a LocaleSetting message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ LocaleSetting
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:46261](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46261)
+Defined in: [WAProto/index.d.ts:46261](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L46261)
 
 Gets the default type url for LocaleSetting
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:46248](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46248)
+Defined in: [WAProto/index.d.ts:46248](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L46248)
 
 Creates a plain object from a LocaleSetting message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46233](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46233)
+Defined in: [WAProto/index.d.ts:46233](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L46233)
 
 Verifies a LocaleSetting message.
 

@@ -1,6 +1,6 @@
 # Class: CollectionMessage
 
-Defined in: [WAProto/index.d.ts:25311](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25311)
+Defined in: [WAProto/index.d.ts:25311](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25311)
 
 Represents a CollectionMessage.
 
@@ -14,7 +14,7 @@ Represents a CollectionMessage.
 
 > **new CollectionMessage**(`properties`?): [`CollectionMessage`](CollectionMessage.md)
 
-Defined in: [WAProto/index.d.ts:25317](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25317)
+Defined in: [WAProto/index.d.ts:25317](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25317)
 
 Constructs a new CollectionMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **bizJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25320](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25320)
+Defined in: [WAProto/index.d.ts:25320](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25320)
 
 CollectionMessage bizJid.
 
@@ -50,7 +50,7 @@ CollectionMessage bizJid.
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25323](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25323)
+Defined in: [WAProto/index.d.ts:25323](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25323)
 
 CollectionMessage id.
 
@@ -64,7 +64,7 @@ CollectionMessage id.
 
 > `optional` **messageVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:25326](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25326)
+Defined in: [WAProto/index.d.ts:25326](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25326)
 
 CollectionMessage messageVersion.
 
@@ -78,7 +78,7 @@ CollectionMessage messageVersion.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:25396](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25396)
+Defined in: [WAProto/index.d.ts:25396](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25396)
 
 Converts this CollectionMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CollectionMessage`](CollectionMessage.md)
 
-Defined in: [WAProto/index.d.ts:25333](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25333)
+Defined in: [WAProto/index.d.ts:25333](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25333)
 
 Creates a new CollectionMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ CollectionMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`CollectionMessage`](CollectionMessage.md)
 
-Defined in: [WAProto/index.d.ts:25359](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25359)
+Defined in: [WAProto/index.d.ts:25359](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25359)
 
 Decodes a CollectionMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CollectionMessage`](CollectionMessage.md)
 
-Defined in: [WAProto/index.d.ts:25368](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25368)
+Defined in: [WAProto/index.d.ts:25368](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25368)
 
 Decodes a CollectionMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25341](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25341)
+Defined in: [WAProto/index.d.ts:25341](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25341)
 
 Encodes the specified CollectionMessage message. Does not implicitly [verify](CollectionMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25349](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25349)
+Defined in: [WAProto/index.d.ts:25349](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25349)
 
 Encodes the specified CollectionMessage message, length delimited. Does not implicitly [verify](CollectionMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CollectionMessage`](CollectionMessage.md)
 
-Defined in: [WAProto/index.d.ts:25382](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25382)
+Defined in: [WAProto/index.d.ts:25382](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25382)
 
 Creates a CollectionMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ CollectionMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:25403](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25403)
+Defined in: [WAProto/index.d.ts:25403](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25403)
 
 Gets the default type url for CollectionMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:25390](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25390)
+Defined in: [WAProto/index.d.ts:25390](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25390)
 
 Creates a plain object from a CollectionMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25375](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25375)
+Defined in: [WAProto/index.d.ts:25375](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25375)
 
 Verifies a CollectionMessage message.
 

@@ -1,6 +1,6 @@
 # Enumeration: Encoding
 
-Defined in: [WAProto/index.d.ts:51592](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L51592)
+Defined in: [WAProto/index.d.ts:51592](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51592)
 
 Encoding enum.
 
@@ -10,7 +10,7 @@ Encoding enum.
 
 > **UTF8**: `0`
 
-Defined in: [WAProto/index.d.ts:51593](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L51593)
+Defined in: [WAProto/index.d.ts:51593](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51593)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:51593](https://github.com/Fokusdotid/bail/blob/c
 
 > **UTF8\_BROKEN**: `1`
 
-Defined in: [WAProto/index.d.ts:51594](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L51594)
+Defined in: [WAProto/index.d.ts:51594](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51594)

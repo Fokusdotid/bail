@@ -1,6 +1,6 @@
 # Enumeration: LeaveReason
 
-Defined in: [WAProto/index.d.ts:38023](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L38023)
+Defined in: [WAProto/index.d.ts:38023](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L38023)
 
 LeaveReason enum.
 
@@ -10,7 +10,7 @@ LeaveReason enum.
 
 > **LEFT**: `0`
 
-Defined in: [WAProto/index.d.ts:38024](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L38024)
+Defined in: [WAProto/index.d.ts:38024](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L38024)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:38024](https://github.com/Fokusdotid/bail/blob/c
 
 > **REMOVED**: `1`
 
-Defined in: [WAProto/index.d.ts:38025](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L38025)
+Defined in: [WAProto/index.d.ts:38025](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L38025)

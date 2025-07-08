@@ -1,6 +1,6 @@
 # Interface: ICollectionMessage
 
-Defined in: [WAProto/index.d.ts:25298](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25298)
+Defined in: [WAProto/index.d.ts:25298](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25298)
 
 Properties of a CollectionMessage.
 
@@ -10,7 +10,7 @@ Properties of a CollectionMessage.
 
 > `optional` **bizJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25301](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25301)
+Defined in: [WAProto/index.d.ts:25301](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25301)
 
 CollectionMessage bizJid
 
@@ -20,7 +20,7 @@ CollectionMessage bizJid
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25304](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25304)
+Defined in: [WAProto/index.d.ts:25304](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25304)
 
 CollectionMessage id
 
@@ -30,6 +30,6 @@ CollectionMessage id
 
 > `optional` **messageVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:25307](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L25307)
+Defined in: [WAProto/index.d.ts:25307](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L25307)
 
 CollectionMessage messageVersion

@@ -1,6 +1,6 @@
 # Interface: IADVSignedKeyIndexList
 
-Defined in: [WAProto/index.d.ts:479](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L479)
+Defined in: [WAProto/index.d.ts:479](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L479)
 
 Properties of a ADVSignedKeyIndexList.
 
@@ -10,7 +10,7 @@ Properties of a ADVSignedKeyIndexList.
 
 > `optional` **accountSignature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:485](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L485)
+Defined in: [WAProto/index.d.ts:485](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L485)
 
 ADVSignedKeyIndexList accountSignature
 
@@ -20,7 +20,7 @@ ADVSignedKeyIndexList accountSignature
 
 > `optional` **accountSignatureKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:488](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L488)
+Defined in: [WAProto/index.d.ts:488](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L488)
 
 ADVSignedKeyIndexList accountSignatureKey
 
@@ -30,6 +30,6 @@ ADVSignedKeyIndexList accountSignatureKey
 
 > `optional` **details**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:482](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L482)
+Defined in: [WAProto/index.d.ts:482](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L482)
 
 ADVSignedKeyIndexList details

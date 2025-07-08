@@ -1,6 +1,6 @@
 # Class: EncReactionMessage
 
-Defined in: [WAProto/index.d.ts:22659](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L22659)
+Defined in: [WAProto/index.d.ts:22659](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L22659)
 
 Represents an EncReactionMessage.
 
@@ -14,7 +14,7 @@ Represents an EncReactionMessage.
 
 > **new EncReactionMessage**(`properties`?): [`EncReactionMessage`](EncReactionMessage.md)
 
-Defined in: [WAProto/index.d.ts:22665](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L22665)
+Defined in: [WAProto/index.d.ts:22665](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L22665)
 
 Constructs a new EncReactionMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **encIv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22674](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L22674)
+Defined in: [WAProto/index.d.ts:22674](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L22674)
 
 EncReactionMessage encIv.
 
@@ -50,7 +50,7 @@ EncReactionMessage encIv.
 
 > `optional` **encPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22671](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L22671)
+Defined in: [WAProto/index.d.ts:22671](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L22671)
 
 EncReactionMessage encPayload.
 
@@ -64,7 +64,7 @@ EncReactionMessage encPayload.
 
 > `optional` **targetMessageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:22668](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L22668)
+Defined in: [WAProto/index.d.ts:22668](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L22668)
 
 EncReactionMessage targetMessageKey.
 
@@ -78,7 +78,7 @@ EncReactionMessage targetMessageKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:22744](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L22744)
+Defined in: [WAProto/index.d.ts:22744](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L22744)
 
 Converts this EncReactionMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`EncReactionMessage`](EncReactionMessage.md)
 
-Defined in: [WAProto/index.d.ts:22681](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L22681)
+Defined in: [WAProto/index.d.ts:22681](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L22681)
 
 Creates a new EncReactionMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ EncReactionMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`EncReactionMessage`](EncReactionMessage.md)
 
-Defined in: [WAProto/index.d.ts:22707](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L22707)
+Defined in: [WAProto/index.d.ts:22707](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L22707)
 
 Decodes an EncReactionMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`EncReactionMessage`](EncReactionMessage.md)
 
-Defined in: [WAProto/index.d.ts:22716](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L22716)
+Defined in: [WAProto/index.d.ts:22716](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L22716)
 
 Decodes an EncReactionMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:22689](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L22689)
+Defined in: [WAProto/index.d.ts:22689](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L22689)
 
 Encodes the specified EncReactionMessage message. Does not implicitly [verify](EncReactionMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:22697](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L22697)
+Defined in: [WAProto/index.d.ts:22697](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L22697)
 
 Encodes the specified EncReactionMessage message, length delimited. Does not implicitly [verify](EncReactionMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`EncReactionMessage`](EncReactionMessage.md)
 
-Defined in: [WAProto/index.d.ts:22730](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L22730)
+Defined in: [WAProto/index.d.ts:22730](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L22730)
 
 Creates an EncReactionMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ EncReactionMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:22751](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L22751)
+Defined in: [WAProto/index.d.ts:22751](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L22751)
 
 Gets the default type url for EncReactionMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:22738](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L22738)
+Defined in: [WAProto/index.d.ts:22738](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L22738)
 
 Creates a plain object from an EncReactionMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22723](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L22723)
+Defined in: [WAProto/index.d.ts:22723](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L22723)
 
 Verifies an EncReactionMessage message.
 

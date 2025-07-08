@@ -1,6 +1,6 @@
 # Class: CompanionMetaNonceFetchResponse
 
-Defined in: [WAProto/index.d.ts:30271](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30271)
+Defined in: [WAProto/index.d.ts:30271](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30271)
 
 Represents a CompanionMetaNonceFetchResponse.
 
@@ -14,7 +14,7 @@ Represents a CompanionMetaNonceFetchResponse.
 
 > **new CompanionMetaNonceFetchResponse**(`properties`?): [`CompanionMetaNonceFetchResponse`](CompanionMetaNonceFetchResponse.md)
 
-Defined in: [WAProto/index.d.ts:30277](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30277)
+Defined in: [WAProto/index.d.ts:30277](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30277)
 
 Constructs a new CompanionMetaNonceFetchResponse.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **nonce**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30280](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30280)
+Defined in: [WAProto/index.d.ts:30280](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30280)
 
 CompanionMetaNonceFetchResponse nonce.
 
@@ -50,7 +50,7 @@ CompanionMetaNonceFetchResponse nonce.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:30350](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30350)
+Defined in: [WAProto/index.d.ts:30350](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30350)
 
 Converts this CompanionMetaNonceFetchResponse to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CompanionMetaNonceFetchResponse`](CompanionMetaNonceFetchResponse.md)
 
-Defined in: [WAProto/index.d.ts:30287](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30287)
+Defined in: [WAProto/index.d.ts:30287](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30287)
 
 Creates a new CompanionMetaNonceFetchResponse instance using the specified properties.
 
@@ -90,7 +90,7 @@ CompanionMetaNonceFetchResponse instance
 
 > `static` **decode**(`reader`, `length`?): [`CompanionMetaNonceFetchResponse`](CompanionMetaNonceFetchResponse.md)
 
-Defined in: [WAProto/index.d.ts:30313](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30313)
+Defined in: [WAProto/index.d.ts:30313](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30313)
 
 Decodes a CompanionMetaNonceFetchResponse message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CompanionMetaNonceFetchResponse`](CompanionMetaNonceFetchResponse.md)
 
-Defined in: [WAProto/index.d.ts:30322](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30322)
+Defined in: [WAProto/index.d.ts:30322](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30322)
 
 Decodes a CompanionMetaNonceFetchResponse message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30295](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30295)
+Defined in: [WAProto/index.d.ts:30295](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30295)
 
 Encodes the specified CompanionMetaNonceFetchResponse message. Does not implicitly [verify](CompanionMetaNonceFetchResponse.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30303](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30303)
+Defined in: [WAProto/index.d.ts:30303](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30303)
 
 Encodes the specified CompanionMetaNonceFetchResponse message, length delimited. Does not implicitly [verify](CompanionMetaNonceFetchResponse.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CompanionMetaNonceFetchResponse`](CompanionMetaNonceFetchResponse.md)
 
-Defined in: [WAProto/index.d.ts:30336](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30336)
+Defined in: [WAProto/index.d.ts:30336](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30336)
 
 Creates a CompanionMetaNonceFetchResponse message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ CompanionMetaNonceFetchResponse
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:30357](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30357)
+Defined in: [WAProto/index.d.ts:30357](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30357)
 
 Gets the default type url for CompanionMetaNonceFetchResponse
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:30344](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30344)
+Defined in: [WAProto/index.d.ts:30344](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30344)
 
 Creates a plain object from a CompanionMetaNonceFetchResponse message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30329](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30329)
+Defined in: [WAProto/index.d.ts:30329](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30329)
 
 Verifies a CompanionMetaNonceFetchResponse message.
 

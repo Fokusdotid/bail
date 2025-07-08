@@ -1,6 +1,6 @@
 # Interface: ICtwaContextLinkData
 
-Defined in: [WAProto/index.d.ts:8642](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8642)
+Defined in: [WAProto/index.d.ts:8642](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8642)
 
 Properties of a CtwaContextLinkData.
 
@@ -10,7 +10,7 @@ Properties of a CtwaContextLinkData.
 
 > `optional` **context**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8645](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8645)
+Defined in: [WAProto/index.d.ts:8645](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8645)
 
 CtwaContextLinkData context
 
@@ -20,7 +20,7 @@ CtwaContextLinkData context
 
 > `optional` **icebreaker**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8651](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8651)
+Defined in: [WAProto/index.d.ts:8651](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8651)
 
 CtwaContextLinkData icebreaker
 
@@ -30,7 +30,7 @@ CtwaContextLinkData icebreaker
 
 > `optional` **phone**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8654](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8654)
+Defined in: [WAProto/index.d.ts:8654](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8654)
 
 CtwaContextLinkData phone
 
@@ -40,6 +40,6 @@ CtwaContextLinkData phone
 
 > `optional` **sourceUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8648](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8648)
+Defined in: [WAProto/index.d.ts:8648](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8648)
 
 CtwaContextLinkData sourceUrl

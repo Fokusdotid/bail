@@ -1,6 +1,6 @@
 # Interface: IDraftMessage
 
-Defined in: [WAProto/index.d.ts:8346](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8346)
+Defined in: [WAProto/index.d.ts:8346](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8346)
 
 Properties of a DraftMessage.
 
@@ -10,7 +10,7 @@ Properties of a DraftMessage.
 
 > `optional` **ctwaContext**: `null` \| [`ICtwaContextData`](../namespaces/DraftMessage/interfaces/ICtwaContextData.md)
 
-Defined in: [WAProto/index.d.ts:8358](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8358)
+Defined in: [WAProto/index.d.ts:8358](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8358)
 
 DraftMessage ctwaContext
 
@@ -20,7 +20,7 @@ DraftMessage ctwaContext
 
 > `optional` **ctwaContextLinkData**: `null` \| [`ICtwaContextLinkData`](../namespaces/DraftMessage/interfaces/ICtwaContextLinkData.md)
 
-Defined in: [WAProto/index.d.ts:8355](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8355)
+Defined in: [WAProto/index.d.ts:8355](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8355)
 
 DraftMessage ctwaContextLinkData
 
@@ -30,7 +30,7 @@ DraftMessage ctwaContextLinkData
 
 > `optional` **omittedUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8352](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8352)
+Defined in: [WAProto/index.d.ts:8352](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8352)
 
 DraftMessage omittedUrl
 
@@ -40,7 +40,7 @@ DraftMessage omittedUrl
 
 > `optional` **text**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8349](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8349)
+Defined in: [WAProto/index.d.ts:8349](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8349)
 
 DraftMessage text
 
@@ -50,6 +50,6 @@ DraftMessage text
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:8361](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L8361)
+Defined in: [WAProto/index.d.ts:8361](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8361)
 
 DraftMessage timestamp

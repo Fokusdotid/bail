@@ -1,6 +1,6 @@
 # Interface: IStickerAction
 
-Defined in: [WAProto/index.d.ts:48780](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48780)
+Defined in: [WAProto/index.d.ts:48780](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48780)
 
 Properties of a StickerAction.
 
@@ -10,7 +10,7 @@ Properties of a StickerAction.
 
 > `optional` **deviceIdHint**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:48810](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48810)
+Defined in: [WAProto/index.d.ts:48810](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48810)
 
 StickerAction deviceIdHint
 
@@ -20,7 +20,7 @@ StickerAction deviceIdHint
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48801](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48801)
+Defined in: [WAProto/index.d.ts:48801](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48801)
 
 StickerAction directPath
 
@@ -30,7 +30,7 @@ StickerAction directPath
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:48786](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48786)
+Defined in: [WAProto/index.d.ts:48786](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48786)
 
 StickerAction fileEncSha256
 
@@ -40,7 +40,7 @@ StickerAction fileEncSha256
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:48804](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48804)
+Defined in: [WAProto/index.d.ts:48804](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48804)
 
 StickerAction fileLength
 
@@ -50,7 +50,7 @@ StickerAction fileLength
 
 > `optional` **height**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:48795](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48795)
+Defined in: [WAProto/index.d.ts:48795](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48795)
 
 StickerAction height
 
@@ -60,7 +60,7 @@ StickerAction height
 
 > `optional` **isFavorite**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:48807](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48807)
+Defined in: [WAProto/index.d.ts:48807](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48807)
 
 StickerAction isFavorite
 
@@ -70,7 +70,7 @@ StickerAction isFavorite
 
 > `optional` **isLottie**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:48813](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48813)
+Defined in: [WAProto/index.d.ts:48813](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48813)
 
 StickerAction isLottie
 
@@ -80,7 +80,7 @@ StickerAction isLottie
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:48789](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48789)
+Defined in: [WAProto/index.d.ts:48789](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48789)
 
 StickerAction mediaKey
 
@@ -90,7 +90,7 @@ StickerAction mediaKey
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48792](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48792)
+Defined in: [WAProto/index.d.ts:48792](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48792)
 
 StickerAction mimetype
 
@@ -100,7 +100,7 @@ StickerAction mimetype
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48783](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48783)
+Defined in: [WAProto/index.d.ts:48783](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48783)
 
 StickerAction url
 
@@ -110,6 +110,6 @@ StickerAction url
 
 > `optional` **width**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:48798](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L48798)
+Defined in: [WAProto/index.d.ts:48798](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48798)
 
 StickerAction width

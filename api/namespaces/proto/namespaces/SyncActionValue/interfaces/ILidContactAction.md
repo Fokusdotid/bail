@@ -1,6 +1,6 @@
 # Interface: ILidContactAction
 
-Defined in: [WAProto/index.d.ts:46053](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46053)
+Defined in: [WAProto/index.d.ts:46053](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L46053)
 
 Properties of a LidContactAction.
 
@@ -10,7 +10,7 @@ Properties of a LidContactAction.
 
 > `optional` **firstName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46059](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46059)
+Defined in: [WAProto/index.d.ts:46059](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L46059)
 
 LidContactAction firstName
 
@@ -20,7 +20,7 @@ LidContactAction firstName
 
 > `optional` **fullName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46056](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46056)
+Defined in: [WAProto/index.d.ts:46056](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L46056)
 
 LidContactAction fullName
 
@@ -30,7 +30,7 @@ LidContactAction fullName
 
 > `optional` **saveOnPrimaryAddressbook**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:46065](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46065)
+Defined in: [WAProto/index.d.ts:46065](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L46065)
 
 LidContactAction saveOnPrimaryAddressbook
 
@@ -40,6 +40,6 @@ LidContactAction saveOnPrimaryAddressbook
 
 > `optional` **username**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46062](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L46062)
+Defined in: [WAProto/index.d.ts:46062](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L46062)
 
 LidContactAction username

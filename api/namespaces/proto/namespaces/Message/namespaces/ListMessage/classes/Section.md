@@ -1,6 +1,6 @@
 # Class: Section
 
-Defined in: [WAProto/index.d.ts:27381](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27381)
+Defined in: [WAProto/index.d.ts:27381](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27381)
 
 Represents a Section.
 
@@ -14,7 +14,7 @@ Represents a Section.
 
 > **new Section**(`properties`?): [`Section`](Section.md)
 
-Defined in: [WAProto/index.d.ts:27387](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27387)
+Defined in: [WAProto/index.d.ts:27387](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27387)
 
 Constructs a new Section.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **rows**: [`IRow`](../interfaces/IRow.md)[]
 
-Defined in: [WAProto/index.d.ts:27393](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27393)
+Defined in: [WAProto/index.d.ts:27393](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27393)
 
 Section rows.
 
@@ -50,7 +50,7 @@ Section rows.
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27390](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27390)
+Defined in: [WAProto/index.d.ts:27390](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27390)
 
 Section title.
 
@@ -64,7 +64,7 @@ Section title.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:27463](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27463)
+Defined in: [WAProto/index.d.ts:27463](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27463)
 
 Converts this Section to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Section`](Section.md)
 
-Defined in: [WAProto/index.d.ts:27400](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27400)
+Defined in: [WAProto/index.d.ts:27400](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27400)
 
 Creates a new Section instance using the specified properties.
 
@@ -104,7 +104,7 @@ Section instance
 
 > `static` **decode**(`reader`, `length`?): [`Section`](Section.md)
 
-Defined in: [WAProto/index.d.ts:27426](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27426)
+Defined in: [WAProto/index.d.ts:27426](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27426)
 
 Decodes a Section message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Section`](Section.md)
 
-Defined in: [WAProto/index.d.ts:27435](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27435)
+Defined in: [WAProto/index.d.ts:27435](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27435)
 
 Decodes a Section message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:27408](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27408)
+Defined in: [WAProto/index.d.ts:27408](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27408)
 
 Encodes the specified Section message. Does not implicitly [verify](Section.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:27416](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27416)
+Defined in: [WAProto/index.d.ts:27416](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27416)
 
 Encodes the specified Section message, length delimited. Does not implicitly [verify](Section.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Section`](Section.md)
 
-Defined in: [WAProto/index.d.ts:27449](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27449)
+Defined in: [WAProto/index.d.ts:27449](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27449)
 
 Creates a Section message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ Section
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:27470](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27470)
+Defined in: [WAProto/index.d.ts:27470](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27470)
 
 Gets the default type url for Section
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:27457](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27457)
+Defined in: [WAProto/index.d.ts:27457](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27457)
 
 Creates a plain object from a Section message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27442](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L27442)
+Defined in: [WAProto/index.d.ts:27442](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L27442)
 
 Verifies a Section message.
 

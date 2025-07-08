@@ -1,6 +1,6 @@
 # Interface: IStickerPackMessage
 
-Defined in: [WAProto/index.d.ts:34184](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34184)
+Defined in: [WAProto/index.d.ts:34184](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34184)
 
 Properties of a StickerPackMessage.
 
@@ -10,7 +10,7 @@ Properties of a StickerPackMessage.
 
 > `optional` **caption**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34214](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34214)
+Defined in: [WAProto/index.d.ts:34214](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34214)
 
 StickerPackMessage caption
 
@@ -20,7 +20,7 @@ StickerPackMessage caption
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:34217](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34217)
+Defined in: [WAProto/index.d.ts:34217](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34217)
 
 StickerPackMessage contextInfo
 
@@ -30,7 +30,7 @@ StickerPackMessage contextInfo
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34211](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34211)
+Defined in: [WAProto/index.d.ts:34211](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34211)
 
 StickerPackMessage directPath
 
@@ -40,7 +40,7 @@ StickerPackMessage directPath
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:34205](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34205)
+Defined in: [WAProto/index.d.ts:34205](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34205)
 
 StickerPackMessage fileEncSha256
 
@@ -50,7 +50,7 @@ StickerPackMessage fileEncSha256
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:34199](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34199)
+Defined in: [WAProto/index.d.ts:34199](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34199)
 
 StickerPackMessage fileLength
 
@@ -60,7 +60,7 @@ StickerPackMessage fileLength
 
 > `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:34202](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34202)
+Defined in: [WAProto/index.d.ts:34202](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34202)
 
 StickerPackMessage fileSha256
 
@@ -70,7 +70,7 @@ StickerPackMessage fileSha256
 
 > `optional` **imageDataHash**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34244](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34244)
+Defined in: [WAProto/index.d.ts:34244](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34244)
 
 StickerPackMessage imageDataHash
 
@@ -80,7 +80,7 @@ StickerPackMessage imageDataHash
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:34208](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34208)
+Defined in: [WAProto/index.d.ts:34208](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34208)
 
 StickerPackMessage mediaKey
 
@@ -90,7 +90,7 @@ StickerPackMessage mediaKey
 
 > `optional` **mediaKeyTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:34223](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34223)
+Defined in: [WAProto/index.d.ts:34223](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34223)
 
 StickerPackMessage mediaKeyTimestamp
 
@@ -100,7 +100,7 @@ StickerPackMessage mediaKeyTimestamp
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34190](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34190)
+Defined in: [WAProto/index.d.ts:34190](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34190)
 
 StickerPackMessage name
 
@@ -110,7 +110,7 @@ StickerPackMessage name
 
 > `optional` **packDescription**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34220](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34220)
+Defined in: [WAProto/index.d.ts:34220](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34220)
 
 StickerPackMessage packDescription
 
@@ -120,7 +120,7 @@ StickerPackMessage packDescription
 
 > `optional` **publisher**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34193](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34193)
+Defined in: [WAProto/index.d.ts:34193](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34193)
 
 StickerPackMessage publisher
 
@@ -130,7 +130,7 @@ StickerPackMessage publisher
 
 > `optional` **stickerPackId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34187](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34187)
+Defined in: [WAProto/index.d.ts:34187](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34187)
 
 StickerPackMessage stickerPackId
 
@@ -140,7 +140,7 @@ StickerPackMessage stickerPackId
 
 > `optional` **stickerPackOrigin**: `null` \| [`StickerPackOrigin`](../namespaces/StickerPackMessage/enumerations/StickerPackOrigin.md)
 
-Defined in: [WAProto/index.d.ts:34250](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34250)
+Defined in: [WAProto/index.d.ts:34250](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34250)
 
 StickerPackMessage stickerPackOrigin
 
@@ -150,7 +150,7 @@ StickerPackMessage stickerPackOrigin
 
 > `optional` **stickerPackSize**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:34247](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34247)
+Defined in: [WAProto/index.d.ts:34247](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34247)
 
 StickerPackMessage stickerPackSize
 
@@ -160,7 +160,7 @@ StickerPackMessage stickerPackSize
 
 > `optional` **stickers**: `null` \| [`ISticker`](../namespaces/StickerPackMessage/interfaces/ISticker.md)[]
 
-Defined in: [WAProto/index.d.ts:34196](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34196)
+Defined in: [WAProto/index.d.ts:34196](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34196)
 
 StickerPackMessage stickers
 
@@ -170,7 +170,7 @@ StickerPackMessage stickers
 
 > `optional` **thumbnailDirectPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34229](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34229)
+Defined in: [WAProto/index.d.ts:34229](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34229)
 
 StickerPackMessage thumbnailDirectPath
 
@@ -180,7 +180,7 @@ StickerPackMessage thumbnailDirectPath
 
 > `optional` **thumbnailEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:34235](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34235)
+Defined in: [WAProto/index.d.ts:34235](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34235)
 
 StickerPackMessage thumbnailEncSha256
 
@@ -190,7 +190,7 @@ StickerPackMessage thumbnailEncSha256
 
 > `optional` **thumbnailHeight**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:34238](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34238)
+Defined in: [WAProto/index.d.ts:34238](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34238)
 
 StickerPackMessage thumbnailHeight
 
@@ -200,7 +200,7 @@ StickerPackMessage thumbnailHeight
 
 > `optional` **thumbnailSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:34232](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34232)
+Defined in: [WAProto/index.d.ts:34232](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34232)
 
 StickerPackMessage thumbnailSha256
 
@@ -210,7 +210,7 @@ StickerPackMessage thumbnailSha256
 
 > `optional` **thumbnailWidth**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:34241](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34241)
+Defined in: [WAProto/index.d.ts:34241](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34241)
 
 StickerPackMessage thumbnailWidth
 
@@ -220,6 +220,6 @@ StickerPackMessage thumbnailWidth
 
 > `optional` **trayIconFileName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34226](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L34226)
+Defined in: [WAProto/index.d.ts:34226](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L34226)
 
 StickerPackMessage trayIconFileName

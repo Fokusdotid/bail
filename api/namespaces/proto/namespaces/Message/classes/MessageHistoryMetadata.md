@@ -1,6 +1,6 @@
 # Class: MessageHistoryMetadata
 
-Defined in: [WAProto/index.d.ts:28301](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28301)
+Defined in: [WAProto/index.d.ts:28301](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28301)
 
 Represents a MessageHistoryMetadata.
 
@@ -14,7 +14,7 @@ Represents a MessageHistoryMetadata.
 
 > **new MessageHistoryMetadata**(`properties`?): [`MessageHistoryMetadata`](MessageHistoryMetadata.md)
 
-Defined in: [WAProto/index.d.ts:28307](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28307)
+Defined in: [WAProto/index.d.ts:28307](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28307)
 
 Constructs a new MessageHistoryMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **firstMessageTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:28313](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28313)
+Defined in: [WAProto/index.d.ts:28313](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28313)
 
 MessageHistoryMetadata firstMessageTimestamp.
 
@@ -50,7 +50,7 @@ MessageHistoryMetadata firstMessageTimestamp.
 
 > **historyReceivers**: `string`[]
 
-Defined in: [WAProto/index.d.ts:28310](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28310)
+Defined in: [WAProto/index.d.ts:28310](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28310)
 
 MessageHistoryMetadata historyReceivers.
 
@@ -64,7 +64,7 @@ MessageHistoryMetadata historyReceivers.
 
 > `optional` **messageCount**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:28316](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28316)
+Defined in: [WAProto/index.d.ts:28316](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28316)
 
 MessageHistoryMetadata messageCount.
 
@@ -78,7 +78,7 @@ MessageHistoryMetadata messageCount.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:28386](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28386)
+Defined in: [WAProto/index.d.ts:28386](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28386)
 
 Converts this MessageHistoryMetadata to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`MessageHistoryMetadata`](MessageHistoryMetadata.md)
 
-Defined in: [WAProto/index.d.ts:28323](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28323)
+Defined in: [WAProto/index.d.ts:28323](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28323)
 
 Creates a new MessageHistoryMetadata instance using the specified properties.
 
@@ -118,7 +118,7 @@ MessageHistoryMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`MessageHistoryMetadata`](MessageHistoryMetadata.md)
 
-Defined in: [WAProto/index.d.ts:28349](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28349)
+Defined in: [WAProto/index.d.ts:28349](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28349)
 
 Decodes a MessageHistoryMetadata message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`MessageHistoryMetadata`](MessageHistoryMetadata.md)
 
-Defined in: [WAProto/index.d.ts:28358](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28358)
+Defined in: [WAProto/index.d.ts:28358](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28358)
 
 Decodes a MessageHistoryMetadata message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28331](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28331)
+Defined in: [WAProto/index.d.ts:28331](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28331)
 
 Encodes the specified MessageHistoryMetadata message. Does not implicitly [verify](MessageHistoryMetadata.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28339](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28339)
+Defined in: [WAProto/index.d.ts:28339](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28339)
 
 Encodes the specified MessageHistoryMetadata message, length delimited. Does not implicitly [verify](MessageHistoryMetadata.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`MessageHistoryMetadata`](MessageHistoryMetadata.md)
 
-Defined in: [WAProto/index.d.ts:28372](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28372)
+Defined in: [WAProto/index.d.ts:28372](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28372)
 
 Creates a MessageHistoryMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ MessageHistoryMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:28393](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28393)
+Defined in: [WAProto/index.d.ts:28393](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28393)
 
 Gets the default type url for MessageHistoryMetadata
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:28380](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28380)
+Defined in: [WAProto/index.d.ts:28380](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28380)
 
 Creates a plain object from a MessageHistoryMetadata message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28365](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L28365)
+Defined in: [WAProto/index.d.ts:28365](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L28365)
 
 Verifies a MessageHistoryMetadata message.
 

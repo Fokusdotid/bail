@@ -1,6 +1,6 @@
 # Class: CompanionEphemeralIdentity
 
-Defined in: [WAProto/index.d.ts:10539](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10539)
+Defined in: [WAProto/index.d.ts:10539](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L10539)
 
 Represents a CompanionEphemeralIdentity.
 
@@ -14,7 +14,7 @@ Represents a CompanionEphemeralIdentity.
 
 > **new CompanionEphemeralIdentity**(`properties`?): [`CompanionEphemeralIdentity`](CompanionEphemeralIdentity.md)
 
-Defined in: [WAProto/index.d.ts:10545](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10545)
+Defined in: [WAProto/index.d.ts:10545](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L10545)
 
 Constructs a new CompanionEphemeralIdentity.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **deviceType**: `null` \| [`PlatformType`](../namespaces/DeviceProps/enumerations/PlatformType.md)
 
-Defined in: [WAProto/index.d.ts:10551](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10551)
+Defined in: [WAProto/index.d.ts:10551](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L10551)
 
 CompanionEphemeralIdentity deviceType.
 
@@ -50,7 +50,7 @@ CompanionEphemeralIdentity deviceType.
 
 > `optional` **publicKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:10548](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10548)
+Defined in: [WAProto/index.d.ts:10548](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L10548)
 
 CompanionEphemeralIdentity publicKey.
 
@@ -64,7 +64,7 @@ CompanionEphemeralIdentity publicKey.
 
 > `optional` **ref**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10554](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10554)
+Defined in: [WAProto/index.d.ts:10554](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L10554)
 
 CompanionEphemeralIdentity ref.
 
@@ -78,7 +78,7 @@ CompanionEphemeralIdentity ref.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:10624](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10624)
+Defined in: [WAProto/index.d.ts:10624](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L10624)
 
 Converts this CompanionEphemeralIdentity to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CompanionEphemeralIdentity`](CompanionEphemeralIdentity.md)
 
-Defined in: [WAProto/index.d.ts:10561](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10561)
+Defined in: [WAProto/index.d.ts:10561](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L10561)
 
 Creates a new CompanionEphemeralIdentity instance using the specified properties.
 
@@ -118,7 +118,7 @@ CompanionEphemeralIdentity instance
 
 > `static` **decode**(`reader`, `length`?): [`CompanionEphemeralIdentity`](CompanionEphemeralIdentity.md)
 
-Defined in: [WAProto/index.d.ts:10587](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10587)
+Defined in: [WAProto/index.d.ts:10587](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L10587)
 
 Decodes a CompanionEphemeralIdentity message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CompanionEphemeralIdentity`](CompanionEphemeralIdentity.md)
 
-Defined in: [WAProto/index.d.ts:10596](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10596)
+Defined in: [WAProto/index.d.ts:10596](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L10596)
 
 Decodes a CompanionEphemeralIdentity message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:10569](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10569)
+Defined in: [WAProto/index.d.ts:10569](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L10569)
 
 Encodes the specified CompanionEphemeralIdentity message. Does not implicitly [verify](CompanionEphemeralIdentity.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:10577](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10577)
+Defined in: [WAProto/index.d.ts:10577](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L10577)
 
 Encodes the specified CompanionEphemeralIdentity message, length delimited. Does not implicitly [verify](CompanionEphemeralIdentity.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CompanionEphemeralIdentity`](CompanionEphemeralIdentity.md)
 
-Defined in: [WAProto/index.d.ts:10610](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10610)
+Defined in: [WAProto/index.d.ts:10610](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L10610)
 
 Creates a CompanionEphemeralIdentity message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ CompanionEphemeralIdentity
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:10631](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10631)
+Defined in: [WAProto/index.d.ts:10631](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L10631)
 
 Gets the default type url for CompanionEphemeralIdentity
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:10618](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10618)
+Defined in: [WAProto/index.d.ts:10618](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L10618)
 
 Creates a plain object from a CompanionEphemeralIdentity message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10603](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L10603)
+Defined in: [WAProto/index.d.ts:10603](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L10603)
 
 Verifies a CompanionEphemeralIdentity message.
 

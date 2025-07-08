@@ -2,7 +2,7 @@
 
 > **fetchLatestWaWebVersion**(`options`): `Promise`\<\{ `error`: `undefined`; `isLatest`: `boolean`; `version`: [`WAVersion`](../type-aliases/WAVersion.md); \} \| \{ `error`: `any`; `isLatest`: `boolean`; `version`: [`WAVersion`](../type-aliases/WAVersion.md); \}\>
 
-Defined in: [src/Utils/generics.ts:270](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/src/Utils/generics.ts#L270)
+Defined in: [src/Utils/generics.ts:270](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Utils/generics.ts#L270)
 
 A utility that fetches the latest web version of whatsapp.
 Use to ensure your WA connection is always on the latest version

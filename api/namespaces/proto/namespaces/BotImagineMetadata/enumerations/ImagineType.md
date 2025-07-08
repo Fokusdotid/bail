@@ -1,6 +1,6 @@
 # Enumeration: ImagineType
 
-Defined in: [WAProto/index.d.ts:4088](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L4088)
+Defined in: [WAProto/index.d.ts:4088](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L4088)
 
 ImagineType enum.
 
@@ -10,7 +10,7 @@ ImagineType enum.
 
 > **EDIT**: `4`
 
-Defined in: [WAProto/index.d.ts:4093](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L4093)
+Defined in: [WAProto/index.d.ts:4093](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L4093)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:4093](https://github.com/Fokusdotid/bail/blob/c0
 
 > **FLASH**: `3`
 
-Defined in: [WAProto/index.d.ts:4092](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L4092)
+Defined in: [WAProto/index.d.ts:4092](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L4092)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:4092](https://github.com/Fokusdotid/bail/blob/c0
 
 > **IMAGINE**: `1`
 
-Defined in: [WAProto/index.d.ts:4090](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L4090)
+Defined in: [WAProto/index.d.ts:4090](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L4090)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:4090](https://github.com/Fokusdotid/bail/blob/c0
 
 > **MEMU**: `2`
 
-Defined in: [WAProto/index.d.ts:4091](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L4091)
+Defined in: [WAProto/index.d.ts:4091](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L4091)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [WAProto/index.d.ts:4091](https://github.com/Fokusdotid/bail/blob/c0
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:4089](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L4089)
+Defined in: [WAProto/index.d.ts:4089](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L4089)

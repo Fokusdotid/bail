@@ -1,6 +1,6 @@
 # Class: SyncDSnapshotFatalRecoveryResponse
 
-Defined in: [WAProto/index.d.ts:30851](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30851)
+Defined in: [WAProto/index.d.ts:30851](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30851)
 
 Represents a SyncDSnapshotFatalRecoveryResponse.
 
@@ -14,7 +14,7 @@ Represents a SyncDSnapshotFatalRecoveryResponse.
 
 > **new SyncDSnapshotFatalRecoveryResponse**(`properties`?): [`SyncDSnapshotFatalRecoveryResponse`](SyncDSnapshotFatalRecoveryResponse.md)
 
-Defined in: [WAProto/index.d.ts:30857](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30857)
+Defined in: [WAProto/index.d.ts:30857](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30857)
 
 Constructs a new SyncDSnapshotFatalRecoveryResponse.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **collectionSnapshot**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:30860](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30860)
+Defined in: [WAProto/index.d.ts:30860](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30860)
 
 SyncDSnapshotFatalRecoveryResponse collectionSnapshot.
 
@@ -50,7 +50,7 @@ SyncDSnapshotFatalRecoveryResponse collectionSnapshot.
 
 > `optional` **isCompressed**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:30863](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30863)
+Defined in: [WAProto/index.d.ts:30863](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30863)
 
 SyncDSnapshotFatalRecoveryResponse isCompressed.
 
@@ -64,7 +64,7 @@ SyncDSnapshotFatalRecoveryResponse isCompressed.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:30933](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30933)
+Defined in: [WAProto/index.d.ts:30933](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30933)
 
 Converts this SyncDSnapshotFatalRecoveryResponse to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SyncDSnapshotFatalRecoveryResponse`](SyncDSnapshotFatalRecoveryResponse.md)
 
-Defined in: [WAProto/index.d.ts:30870](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30870)
+Defined in: [WAProto/index.d.ts:30870](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30870)
 
 Creates a new SyncDSnapshotFatalRecoveryResponse instance using the specified properties.
 
@@ -104,7 +104,7 @@ SyncDSnapshotFatalRecoveryResponse instance
 
 > `static` **decode**(`reader`, `length`?): [`SyncDSnapshotFatalRecoveryResponse`](SyncDSnapshotFatalRecoveryResponse.md)
 
-Defined in: [WAProto/index.d.ts:30896](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30896)
+Defined in: [WAProto/index.d.ts:30896](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30896)
 
 Decodes a SyncDSnapshotFatalRecoveryResponse message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SyncDSnapshotFatalRecoveryResponse`](SyncDSnapshotFatalRecoveryResponse.md)
 
-Defined in: [WAProto/index.d.ts:30905](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30905)
+Defined in: [WAProto/index.d.ts:30905](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30905)
 
 Decodes a SyncDSnapshotFatalRecoveryResponse message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30878](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30878)
+Defined in: [WAProto/index.d.ts:30878](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30878)
 
 Encodes the specified SyncDSnapshotFatalRecoveryResponse message. Does not implicitly [verify](SyncDSnapshotFatalRecoveryResponse.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:30886](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30886)
+Defined in: [WAProto/index.d.ts:30886](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30886)
 
 Encodes the specified SyncDSnapshotFatalRecoveryResponse message, length delimited. Does not implicitly [verify](SyncDSnapshotFatalRecoveryResponse.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SyncDSnapshotFatalRecoveryResponse`](SyncDSnapshotFatalRecoveryResponse.md)
 
-Defined in: [WAProto/index.d.ts:30919](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30919)
+Defined in: [WAProto/index.d.ts:30919](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30919)
 
 Creates a SyncDSnapshotFatalRecoveryResponse message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ SyncDSnapshotFatalRecoveryResponse
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:30940](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30940)
+Defined in: [WAProto/index.d.ts:30940](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30940)
 
 Gets the default type url for SyncDSnapshotFatalRecoveryResponse
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:30927](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30927)
+Defined in: [WAProto/index.d.ts:30927](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30927)
 
 Creates a plain object from a SyncDSnapshotFatalRecoveryResponse message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:30912](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L30912)
+Defined in: [WAProto/index.d.ts:30912](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L30912)
 
 Verifies a SyncDSnapshotFatalRecoveryResponse message.
 

@@ -1,6 +1,6 @@
 # Interface: IPeerDataOperationRequestMessage
 
-Defined in: [WAProto/index.d.ts:29246](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29246)
+Defined in: [WAProto/index.d.ts:29246](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29246)
 
 Properties of a PeerDataOperationRequestMessage.
 
@@ -10,7 +10,7 @@ Properties of a PeerDataOperationRequestMessage.
 
 > `optional` **fullHistorySyncOnDemandRequest**: `null` \| [`IFullHistorySyncOnDemandRequest`](../namespaces/PeerDataOperationRequestMessage/interfaces/IFullHistorySyncOnDemandRequest.md)
 
-Defined in: [WAProto/index.d.ts:29264](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29264)
+Defined in: [WAProto/index.d.ts:29264](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29264)
 
 PeerDataOperationRequestMessage fullHistorySyncOnDemandRequest
 
@@ -20,7 +20,7 @@ PeerDataOperationRequestMessage fullHistorySyncOnDemandRequest
 
 > `optional` **historySyncOnDemandRequest**: `null` \| [`IHistorySyncOnDemandRequest`](../namespaces/PeerDataOperationRequestMessage/interfaces/IHistorySyncOnDemandRequest.md)
 
-Defined in: [WAProto/index.d.ts:29258](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29258)
+Defined in: [WAProto/index.d.ts:29258](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29258)
 
 PeerDataOperationRequestMessage historySyncOnDemandRequest
 
@@ -30,7 +30,7 @@ PeerDataOperationRequestMessage historySyncOnDemandRequest
 
 > `optional` **peerDataOperationRequestType**: `null` \| [`PeerDataOperationRequestType`](../enumerations/PeerDataOperationRequestType.md)
 
-Defined in: [WAProto/index.d.ts:29249](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29249)
+Defined in: [WAProto/index.d.ts:29249](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29249)
 
 PeerDataOperationRequestMessage peerDataOperationRequestType
 
@@ -40,7 +40,7 @@ PeerDataOperationRequestMessage peerDataOperationRequestType
 
 > `optional` **placeholderMessageResendRequest**: `null` \| [`IPlaceholderMessageResendRequest`](../namespaces/PeerDataOperationRequestMessage/interfaces/IPlaceholderMessageResendRequest.md)[]
 
-Defined in: [WAProto/index.d.ts:29261](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29261)
+Defined in: [WAProto/index.d.ts:29261](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29261)
 
 PeerDataOperationRequestMessage placeholderMessageResendRequest
 
@@ -50,7 +50,7 @@ PeerDataOperationRequestMessage placeholderMessageResendRequest
 
 > `optional` **requestStickerReupload**: `null` \| [`IRequestStickerReupload`](../namespaces/PeerDataOperationRequestMessage/interfaces/IRequestStickerReupload.md)[]
 
-Defined in: [WAProto/index.d.ts:29252](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29252)
+Defined in: [WAProto/index.d.ts:29252](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29252)
 
 PeerDataOperationRequestMessage requestStickerReupload
 
@@ -60,7 +60,7 @@ PeerDataOperationRequestMessage requestStickerReupload
 
 > `optional` **requestUrlPreview**: `null` \| [`IRequestUrlPreview`](../namespaces/PeerDataOperationRequestMessage/interfaces/IRequestUrlPreview.md)[]
 
-Defined in: [WAProto/index.d.ts:29255](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29255)
+Defined in: [WAProto/index.d.ts:29255](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29255)
 
 PeerDataOperationRequestMessage requestUrlPreview
 
@@ -70,6 +70,6 @@ PeerDataOperationRequestMessage requestUrlPreview
 
 > `optional` **syncdCollectionFatalRecoveryRequest**: `null` \| [`ISyncDCollectionFatalRecoveryRequest`](../namespaces/PeerDataOperationRequestMessage/interfaces/ISyncDCollectionFatalRecoveryRequest.md)
 
-Defined in: [WAProto/index.d.ts:29267](https://github.com/Fokusdotid/bail/blob/c004679536d41fcf32da31cecf70d3991dfa31b5/WAProto/index.d.ts#L29267)
+Defined in: [WAProto/index.d.ts:29267](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L29267)
 
 PeerDataOperationRequestMessage syncdCollectionFatalRecoveryRequest
