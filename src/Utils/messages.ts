@@ -539,11 +539,11 @@ export const generateWAMessageContent = async (
 				m.pollCreationMessage = pollCreationMessage
 			}
 		}
-	} else if ('sharePhoneNumber' in message && message.sharePhoneNumber) {
+	} else if ('sharePhoneNumber' in message) {
 		m.protocolMessage = {
 			type: proto.Message.ProtocolMessage.Type.SHARE_PHONE_NUMBER
 		}
-	} else if ('requestPhoneNumber' in message && message.requestPhoneNumber) {
+	} else if ('requestPhoneNumber' in message) {
 		m.requestPhoneNumberMessage = {}
 	} else {
 		m = await prepareWAMessageMedia(message, options)
