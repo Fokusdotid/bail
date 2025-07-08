@@ -4,7 +4,6 @@ import { exec } from 'child_process'
 import * as Crypto from 'crypto'
 import { once } from 'events'
 import { createReadStream, createWriteStream, promises as fs, WriteStream } from 'fs'
-import { ResizeStrategy } from 'jimp'
 import type { IAudioMetadata } from 'music-metadata'
 import { tmpdir } from 'os'
 import { join } from 'path'
@@ -30,17 +29,17 @@ import { aesDecryptGCM, aesEncryptGCM, hkdf } from './crypto'
 import { generateMessageIDV2 } from './generics'
 import { ILogger } from './logger'
 
-const getTmpFilesDirectory = () => tmpdir()
+const getTmpFilesDirectory = () => process.env.TMP || tmpdir()
 
-const getImageProcessingLibrary = async () => {
+export const getImageProcessingLibrary = async () => {
 	const [jimp, sharp] = await Promise.all([import('jimp').catch(() => {}), import('sharp').catch(() => {})])
-
-	if (sharp) {
-		return { sharp }
-	}
 
 	if (jimp) {
 		return { jimp }
+	}
+
+	if (sharp) {
+		return { sharp }
 	}
 
 	throw new Boom('No image processing library available')
@@ -150,14 +149,14 @@ export const extractImageThumb = async (bufferOrFilePath: Readable | Buffer | st
 				height: dimensions.height
 			}
 		}
-	} else if ('jimp' in lib && typeof lib.jimp?.Jimp === 'object') {
-		const jimp = await lib.jimp.default.Jimp.read(bufferOrFilePath)
+	} else if ('jimp' in lib && typeof lib.jimp === 'object') {
+		const jimp = await lib.jimp.Jimp.read(bufferOrFilePath)
 		const dimensions = {
 			width: jimp.width,
 			height: jimp.height
 		}
 		const buffer = await jimp
-			.resize({ w: width, mode: ResizeStrategy.BILINEAR })
+			.resize({ w: width, mode: lib.jimp.ResizeStrategy.BILINEAR })
 			.getBuffer('image/jpeg', { quality: 50 })
 		return {
 			buffer,
@@ -198,12 +197,12 @@ export const generateProfilePicture = async (
 				quality: 50
 			})
 			.toBuffer()
-	} else if ('jimp' in lib && typeof lib.jimp?.Jimp === 'object') {
-		const jimp = await lib.jimp.default.Jimp.read(buffer)
+	} else if ('jimp' in lib && typeof lib.jimp === 'object') {
+		const jimp = await lib.jimp.Jimp.read(buffer)
 		const min = Math.min(jimp.width, jimp.height)
 		const cropped = jimp.crop({ x: 0, y: 0, w: min, h: min })
 
-		img = cropped.resize({ w, h, mode: ResizeStrategy.BILINEAR }).getBuffer('image/jpeg', { quality: 50 })
+		img = cropped.resize({ w, h, mode: lib.jimp.ResizeStrategy.BILINEAR }).getBuffer('image/jpeg', { quality: 50 })
 	} else {
 		throw new Boom('No image processing library available')
 	}
