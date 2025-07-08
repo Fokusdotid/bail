@@ -149,7 +149,7 @@ export const extractImageThumb = async (bufferOrFilePath: Readable | Buffer | st
 				height: dimensions.height
 			}
 		}
-	} else if ('jimp' in lib && typeof lib.jimp === 'object') {
+	} else if ('jimp' in lib && typeof lib.jimp === 'object' && typeof lib.jimp.Jimp === 'function') {
 		const jimp = await lib.jimp.Jimp.read(bufferOrFilePath)
 		const dimensions = {
 			width: jimp.width,
