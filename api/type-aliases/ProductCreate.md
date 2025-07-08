@@ -2,7 +2,7 @@
 
 > **ProductCreate**: [`ProductBase`](ProductBase.md) & `object`
 
-Defined in: [src/Types/Product.ts:40](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/Product.ts#L40)
+Defined in: [src/Types/Product.ts:40](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/Product.ts#L40)
 
 ## Type declaration
 

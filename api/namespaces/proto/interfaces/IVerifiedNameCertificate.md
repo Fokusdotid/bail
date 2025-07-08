@@ -1,6 +1,6 @@
 # Interface: IVerifiedNameCertificate
 
-Defined in: [WAProto/index.d.ts:51945](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51945)
+Defined in: [WAProto/index.d.ts:51945](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51945)
 
 Properties of a VerifiedNameCertificate.
 
@@ -10,7 +10,7 @@ Properties of a VerifiedNameCertificate.
 
 > `optional` **details**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:51948](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51948)
+Defined in: [WAProto/index.d.ts:51948](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51948)
 
 VerifiedNameCertificate details
 
@@ -20,7 +20,7 @@ VerifiedNameCertificate details
 
 > `optional` **serverSignature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:51954](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51954)
+Defined in: [WAProto/index.d.ts:51954](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51954)
 
 VerifiedNameCertificate serverSignature
 
@@ -30,6 +30,6 @@ VerifiedNameCertificate serverSignature
 
 > `optional` **signature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:51951](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51951)
+Defined in: [WAProto/index.d.ts:51951](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51951)
 
 VerifiedNameCertificate signature

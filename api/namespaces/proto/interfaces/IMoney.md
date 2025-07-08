@@ -1,6 +1,6 @@
 # Interface: IMoney
 
-Defined in: [WAProto/index.d.ts:36357](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L36357)
+Defined in: [WAProto/index.d.ts:36357](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L36357)
 
 Properties of a Money.
 
@@ -10,7 +10,7 @@ Properties of a Money.
 
 > `optional` **currencyCode**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36366](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L36366)
+Defined in: [WAProto/index.d.ts:36366](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L36366)
 
 Money currencyCode
 
@@ -20,7 +20,7 @@ Money currencyCode
 
 > `optional` **offset**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36363](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L36363)
+Defined in: [WAProto/index.d.ts:36363](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L36363)
 
 Money offset
 
@@ -30,6 +30,6 @@ Money offset
 
 > `optional` **value**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:36360](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L36360)
+Defined in: [WAProto/index.d.ts:36360](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L36360)
 
 Money value

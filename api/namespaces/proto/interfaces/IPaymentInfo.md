@@ -1,6 +1,6 @@
 # Interface: IPaymentInfo
 
-Defined in: [WAProto/index.d.ts:38587](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L38587)
+Defined in: [WAProto/index.d.ts:38587](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L38587)
 
 Properties of a PaymentInfo.
 
@@ -10,7 +10,7 @@ Properties of a PaymentInfo.
 
 > `optional` **amount1000**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:38593](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L38593)
+Defined in: [WAProto/index.d.ts:38593](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L38593)
 
 PaymentInfo amount1000
 
@@ -20,7 +20,7 @@ PaymentInfo amount1000
 
 > `optional` **currency**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:38614](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L38614)
+Defined in: [WAProto/index.d.ts:38614](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L38614)
 
 PaymentInfo currency
 
@@ -30,7 +30,7 @@ PaymentInfo currency
 
 > `optional` **currencyDeprecated**: `null` \| [`Currency`](../namespaces/PaymentInfo/enumerations/Currency.md)
 
-Defined in: [WAProto/index.d.ts:38590](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L38590)
+Defined in: [WAProto/index.d.ts:38590](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L38590)
 
 PaymentInfo currencyDeprecated
 
@@ -40,7 +40,7 @@ PaymentInfo currencyDeprecated
 
 > `optional` **exchangeAmount**: `null` \| [`IMoney`](IMoney.md)
 
-Defined in: [WAProto/index.d.ts:38626](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L38626)
+Defined in: [WAProto/index.d.ts:38626](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L38626)
 
 PaymentInfo exchangeAmount
 
@@ -50,7 +50,7 @@ PaymentInfo exchangeAmount
 
 > `optional` **expiryTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:38608](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L38608)
+Defined in: [WAProto/index.d.ts:38608](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L38608)
 
 PaymentInfo expiryTimestamp
 
@@ -60,7 +60,7 @@ PaymentInfo expiryTimestamp
 
 > `optional` **futureproofed**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:38611](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L38611)
+Defined in: [WAProto/index.d.ts:38611](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L38611)
 
 PaymentInfo futureproofed
 
@@ -70,7 +70,7 @@ PaymentInfo futureproofed
 
 > `optional` **primaryAmount**: `null` \| [`IMoney`](IMoney.md)
 
-Defined in: [WAProto/index.d.ts:38623](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L38623)
+Defined in: [WAProto/index.d.ts:38623](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L38623)
 
 PaymentInfo primaryAmount
 
@@ -80,7 +80,7 @@ PaymentInfo primaryAmount
 
 > `optional` **receiverJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:38596](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L38596)
+Defined in: [WAProto/index.d.ts:38596](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L38596)
 
 PaymentInfo receiverJid
 
@@ -90,7 +90,7 @@ PaymentInfo receiverJid
 
 > `optional` **requestMessageKey**: `null` \| [`IMessageKey`](IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:38605](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L38605)
+Defined in: [WAProto/index.d.ts:38605](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L38605)
 
 PaymentInfo requestMessageKey
 
@@ -100,7 +100,7 @@ PaymentInfo requestMessageKey
 
 > `optional` **status**: `null` \| [`Status`](../namespaces/PaymentInfo/enumerations/Status.md)
 
-Defined in: [WAProto/index.d.ts:38599](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L38599)
+Defined in: [WAProto/index.d.ts:38599](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L38599)
 
 PaymentInfo status
 
@@ -110,7 +110,7 @@ PaymentInfo status
 
 > `optional` **transactionTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:38602](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L38602)
+Defined in: [WAProto/index.d.ts:38602](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L38602)
 
 PaymentInfo transactionTimestamp
 
@@ -120,7 +120,7 @@ PaymentInfo transactionTimestamp
 
 > `optional` **txnStatus**: `null` \| [`TxnStatus`](../namespaces/PaymentInfo/enumerations/TxnStatus.md)
 
-Defined in: [WAProto/index.d.ts:38617](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L38617)
+Defined in: [WAProto/index.d.ts:38617](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L38617)
 
 PaymentInfo txnStatus
 
@@ -130,6 +130,6 @@ PaymentInfo txnStatus
 
 > `optional` **useNoviFiatFormat**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:38620](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L38620)
+Defined in: [WAProto/index.d.ts:38620](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L38620)
 
 PaymentInfo useNoviFiatFormat

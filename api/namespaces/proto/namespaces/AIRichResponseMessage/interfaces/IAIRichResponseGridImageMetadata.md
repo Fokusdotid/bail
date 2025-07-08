@@ -1,6 +1,6 @@
 # Interface: IAIRichResponseGridImageMetadata
 
-Defined in: [WAProto/index.d.ts:1479](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L1479)
+Defined in: [WAProto/index.d.ts:1479](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L1479)
 
 Properties of a AIRichResponseGridImageMetadata.
 
@@ -10,7 +10,7 @@ Properties of a AIRichResponseGridImageMetadata.
 
 > `optional` **gridImageUrl**: `null` \| [`IAIRichResponseImageURL`](IAIRichResponseImageURL.md)
 
-Defined in: [WAProto/index.d.ts:1482](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L1482)
+Defined in: [WAProto/index.d.ts:1482](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L1482)
 
 AIRichResponseGridImageMetadata gridImageUrl
 
@@ -20,6 +20,6 @@ AIRichResponseGridImageMetadata gridImageUrl
 
 > `optional` **imageUrls**: `null` \| [`IAIRichResponseImageURL`](IAIRichResponseImageURL.md)[]
 
-Defined in: [WAProto/index.d.ts:1485](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L1485)
+Defined in: [WAProto/index.d.ts:1485](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L1485)
 
 AIRichResponseGridImageMetadata imageUrls

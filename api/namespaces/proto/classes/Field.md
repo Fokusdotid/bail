@@ -1,6 +1,6 @@
 # Class: Field
 
-Defined in: [WAProto/index.d.ts:14801](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14801)
+Defined in: [WAProto/index.d.ts:14801](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14801)
 
 Represents a Field.
 
@@ -14,7 +14,7 @@ Represents a Field.
 
 > **new Field**(`properties`?): [`Field`](Field.md)
 
-Defined in: [WAProto/index.d.ts:14807](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14807)
+Defined in: [WAProto/index.d.ts:14807](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14807)
 
 Constructs a new Field.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **isMessage**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:14819](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14819)
+Defined in: [WAProto/index.d.ts:14819](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14819)
 
 Field isMessage.
 
@@ -50,7 +50,7 @@ Field isMessage.
 
 > `optional` **maxVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:14813](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14813)
+Defined in: [WAProto/index.d.ts:14813](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14813)
 
 Field maxVersion.
 
@@ -64,7 +64,7 @@ Field maxVersion.
 
 > `optional` **minVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:14810](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14810)
+Defined in: [WAProto/index.d.ts:14810](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14810)
 
 Field minVersion.
 
@@ -78,7 +78,7 @@ Field minVersion.
 
 > `optional` **notReportableMinVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:14816](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14816)
+Defined in: [WAProto/index.d.ts:14816](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14816)
 
 Field notReportableMinVersion.
 
@@ -92,7 +92,7 @@ Field notReportableMinVersion.
 
 > **subfield**: `object`
 
-Defined in: [WAProto/index.d.ts:14822](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14822)
+Defined in: [WAProto/index.d.ts:14822](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14822)
 
 Field subfield.
 
@@ -110,7 +110,7 @@ Field subfield.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:14892](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14892)
+Defined in: [WAProto/index.d.ts:14892](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14892)
 
 Converts this Field to JSON.
 
@@ -126,7 +126,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Field`](Field.md)
 
-Defined in: [WAProto/index.d.ts:14829](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14829)
+Defined in: [WAProto/index.d.ts:14829](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14829)
 
 Creates a new Field instance using the specified properties.
 
@@ -150,7 +150,7 @@ Field instance
 
 > `static` **decode**(`reader`, `length`?): [`Field`](Field.md)
 
-Defined in: [WAProto/index.d.ts:14855](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14855)
+Defined in: [WAProto/index.d.ts:14855](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14855)
 
 Decodes a Field message from the specified reader or buffer.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Field`](Field.md)
 
-Defined in: [WAProto/index.d.ts:14864](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14864)
+Defined in: [WAProto/index.d.ts:14864](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14864)
 
 Decodes a Field message from the specified reader or buffer, length delimited.
 
@@ -220,7 +220,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:14837](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14837)
+Defined in: [WAProto/index.d.ts:14837](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14837)
 
 Encodes the specified Field message. Does not implicitly [verify](Field.md#verify) messages.
 
@@ -250,7 +250,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:14845](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14845)
+Defined in: [WAProto/index.d.ts:14845](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14845)
 
 Encodes the specified Field message, length delimited. Does not implicitly [verify](Field.md#verify) messages.
 
@@ -280,7 +280,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Field`](Field.md)
 
-Defined in: [WAProto/index.d.ts:14878](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14878)
+Defined in: [WAProto/index.d.ts:14878](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14878)
 
 Creates a Field message from a plain object. Also converts values to their respective internal types.
 
@@ -302,7 +302,7 @@ Field
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:14899](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14899)
+Defined in: [WAProto/index.d.ts:14899](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14899)
 
 Gets the default type url for Field
 
@@ -326,7 +326,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:14886](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14886)
+Defined in: [WAProto/index.d.ts:14886](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14886)
 
 Creates a plain object from a Field message. Also converts values to other types if specified.
 
@@ -356,7 +356,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14871](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14871)
+Defined in: [WAProto/index.d.ts:14871](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14871)
 
 Verifies a Field message.
 

@@ -1,6 +1,6 @@
 # Class: PollVoteMessage
 
-Defined in: [WAProto/index.d.ts:32075](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L32075)
+Defined in: [WAProto/index.d.ts:32075](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L32075)
 
 Represents a PollVoteMessage.
 
@@ -14,7 +14,7 @@ Represents a PollVoteMessage.
 
 > **new PollVoteMessage**(`properties`?): [`PollVoteMessage`](PollVoteMessage.md)
 
-Defined in: [WAProto/index.d.ts:32081](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L32081)
+Defined in: [WAProto/index.d.ts:32081](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L32081)
 
 Constructs a new PollVoteMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **selectedOptions**: `Uint8Array`\<`ArrayBufferLike`\>[]
 
-Defined in: [WAProto/index.d.ts:32084](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L32084)
+Defined in: [WAProto/index.d.ts:32084](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L32084)
 
 PollVoteMessage selectedOptions.
 
@@ -50,7 +50,7 @@ PollVoteMessage selectedOptions.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:32154](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L32154)
+Defined in: [WAProto/index.d.ts:32154](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L32154)
 
 Converts this PollVoteMessage to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PollVoteMessage`](PollVoteMessage.md)
 
-Defined in: [WAProto/index.d.ts:32091](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L32091)
+Defined in: [WAProto/index.d.ts:32091](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L32091)
 
 Creates a new PollVoteMessage instance using the specified properties.
 
@@ -90,7 +90,7 @@ PollVoteMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`PollVoteMessage`](PollVoteMessage.md)
 
-Defined in: [WAProto/index.d.ts:32117](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L32117)
+Defined in: [WAProto/index.d.ts:32117](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L32117)
 
 Decodes a PollVoteMessage message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PollVoteMessage`](PollVoteMessage.md)
 
-Defined in: [WAProto/index.d.ts:32126](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L32126)
+Defined in: [WAProto/index.d.ts:32126](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L32126)
 
 Decodes a PollVoteMessage message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:32099](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L32099)
+Defined in: [WAProto/index.d.ts:32099](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L32099)
 
 Encodes the specified PollVoteMessage message. Does not implicitly [verify](PollVoteMessage.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:32107](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L32107)
+Defined in: [WAProto/index.d.ts:32107](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L32107)
 
 Encodes the specified PollVoteMessage message, length delimited. Does not implicitly [verify](PollVoteMessage.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PollVoteMessage`](PollVoteMessage.md)
 
-Defined in: [WAProto/index.d.ts:32140](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L32140)
+Defined in: [WAProto/index.d.ts:32140](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L32140)
 
 Creates a PollVoteMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PollVoteMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:32161](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L32161)
+Defined in: [WAProto/index.d.ts:32161](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L32161)
 
 Gets the default type url for PollVoteMessage
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:32148](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L32148)
+Defined in: [WAProto/index.d.ts:32148](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L32148)
 
 Creates a plain object from a PollVoteMessage message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32133](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L32133)
+Defined in: [WAProto/index.d.ts:32133](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L32133)
 
 Verifies a PollVoteMessage message.
 

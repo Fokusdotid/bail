@@ -1,6 +1,6 @@
 # Interface: INoiseCertificate
 
-Defined in: [WAProto/index.d.ts:7916](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L7916)
+Defined in: [WAProto/index.d.ts:7916](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L7916)
 
 Properties of a NoiseCertificate.
 
@@ -10,7 +10,7 @@ Properties of a NoiseCertificate.
 
 > `optional` **details**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:7919](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L7919)
+Defined in: [WAProto/index.d.ts:7919](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L7919)
 
 NoiseCertificate details
 
@@ -20,6 +20,6 @@ NoiseCertificate details
 
 > `optional` **signature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:7922](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L7922)
+Defined in: [WAProto/index.d.ts:7922](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L7922)
 
 NoiseCertificate signature

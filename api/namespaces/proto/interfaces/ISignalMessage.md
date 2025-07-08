@@ -1,6 +1,6 @@
 # Interface: ISignalMessage
 
-Defined in: [WAProto/index.d.ts:42529](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L42529)
+Defined in: [WAProto/index.d.ts:42529](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L42529)
 
 Properties of a SignalMessage.
 
@@ -10,7 +10,7 @@ Properties of a SignalMessage.
 
 > `optional` **ciphertext**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:42541](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L42541)
+Defined in: [WAProto/index.d.ts:42541](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L42541)
 
 SignalMessage ciphertext
 
@@ -20,7 +20,7 @@ SignalMessage ciphertext
 
 > `optional` **counter**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:42535](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L42535)
+Defined in: [WAProto/index.d.ts:42535](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L42535)
 
 SignalMessage counter
 
@@ -30,7 +30,7 @@ SignalMessage counter
 
 > `optional` **previousCounter**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:42538](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L42538)
+Defined in: [WAProto/index.d.ts:42538](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L42538)
 
 SignalMessage previousCounter
 
@@ -40,6 +40,6 @@ SignalMessage previousCounter
 
 > `optional` **ratchetKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:42532](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L42532)
+Defined in: [WAProto/index.d.ts:42532](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L42532)
 
 SignalMessage ratchetKey

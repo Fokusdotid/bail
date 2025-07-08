@@ -1,6 +1,6 @@
 # Class: BotCapabilityMetadata
 
-Defined in: [WAProto/index.d.ts:3856](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3856)
+Defined in: [WAProto/index.d.ts:3856](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3856)
 
 Represents a BotCapabilityMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotCapabilityMetadata.
 
 > **new BotCapabilityMetadata**(`properties`?): [`BotCapabilityMetadata`](BotCapabilityMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3862](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3862)
+Defined in: [WAProto/index.d.ts:3862](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3862)
 
 Constructs a new BotCapabilityMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **capabilities**: [`BotCapabilityType`](../namespaces/BotCapabilityMetadata/enumerations/BotCapabilityType.md)[]
 
-Defined in: [WAProto/index.d.ts:3865](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3865)
+Defined in: [WAProto/index.d.ts:3865](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3865)
 
 BotCapabilityMetadata capabilities.
 
@@ -50,7 +50,7 @@ BotCapabilityMetadata capabilities.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:3935](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3935)
+Defined in: [WAProto/index.d.ts:3935](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3935)
 
 Converts this BotCapabilityMetadata to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotCapabilityMetadata`](BotCapabilityMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3872](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3872)
+Defined in: [WAProto/index.d.ts:3872](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3872)
 
 Creates a new BotCapabilityMetadata instance using the specified properties.
 
@@ -90,7 +90,7 @@ BotCapabilityMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotCapabilityMetadata`](BotCapabilityMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3898](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3898)
+Defined in: [WAProto/index.d.ts:3898](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3898)
 
 Decodes a BotCapabilityMetadata message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotCapabilityMetadata`](BotCapabilityMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3907](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3907)
+Defined in: [WAProto/index.d.ts:3907](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3907)
 
 Decodes a BotCapabilityMetadata message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3880](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3880)
+Defined in: [WAProto/index.d.ts:3880](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3880)
 
 Encodes the specified BotCapabilityMetadata message. Does not implicitly [verify](BotCapabilityMetadata.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3888](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3888)
+Defined in: [WAProto/index.d.ts:3888](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3888)
 
 Encodes the specified BotCapabilityMetadata message, length delimited. Does not implicitly [verify](BotCapabilityMetadata.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotCapabilityMetadata`](BotCapabilityMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3921](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3921)
+Defined in: [WAProto/index.d.ts:3921](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3921)
 
 Creates a BotCapabilityMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ BotCapabilityMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:3942](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3942)
+Defined in: [WAProto/index.d.ts:3942](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3942)
 
 Gets the default type url for BotCapabilityMetadata
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:3929](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3929)
+Defined in: [WAProto/index.d.ts:3929](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3929)
 
 Creates a plain object from a BotCapabilityMetadata message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3914](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3914)
+Defined in: [WAProto/index.d.ts:3914](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3914)
 
 Verifies a BotCapabilityMetadata message.
 

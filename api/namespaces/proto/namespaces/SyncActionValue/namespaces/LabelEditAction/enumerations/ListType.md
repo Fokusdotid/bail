@@ -1,6 +1,6 @@
 # Enumeration: ListType
 
-Defined in: [WAProto/index.d.ts:45943](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L45943)
+Defined in: [WAProto/index.d.ts:45943](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L45943)
 
 ListType enum.
 
@@ -10,7 +10,7 @@ ListType enum.
 
 > **COMMUNITY**: `6`
 
-Defined in: [WAProto/index.d.ts:45950](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L45950)
+Defined in: [WAProto/index.d.ts:45950](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L45950)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:45950](https://github.com/Fokusdotid/bail/blob/8
 
 > **CUSTOM**: `5`
 
-Defined in: [WAProto/index.d.ts:45949](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L45949)
+Defined in: [WAProto/index.d.ts:45949](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L45949)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:45949](https://github.com/Fokusdotid/bail/blob/8
 
 > **FAVORITES**: `3`
 
-Defined in: [WAProto/index.d.ts:45947](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L45947)
+Defined in: [WAProto/index.d.ts:45947](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L45947)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:45947](https://github.com/Fokusdotid/bail/blob/8
 
 > **GROUPS**: `2`
 
-Defined in: [WAProto/index.d.ts:45946](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L45946)
+Defined in: [WAProto/index.d.ts:45946](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L45946)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [WAProto/index.d.ts:45946](https://github.com/Fokusdotid/bail/blob/8
 
 > **NONE**: `0`
 
-Defined in: [WAProto/index.d.ts:45944](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L45944)
+Defined in: [WAProto/index.d.ts:45944](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L45944)
 
 ***
 
@@ -50,7 +50,7 @@ Defined in: [WAProto/index.d.ts:45944](https://github.com/Fokusdotid/bail/blob/8
 
 > **PREDEFINED**: `4`
 
-Defined in: [WAProto/index.d.ts:45948](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L45948)
+Defined in: [WAProto/index.d.ts:45948](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L45948)
 
 ***
 
@@ -58,7 +58,7 @@ Defined in: [WAProto/index.d.ts:45948](https://github.com/Fokusdotid/bail/blob/8
 
 > **SERVER\_ASSIGNED**: `7`
 
-Defined in: [WAProto/index.d.ts:45951](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L45951)
+Defined in: [WAProto/index.d.ts:45951](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L45951)
 
 ***
 
@@ -66,4 +66,4 @@ Defined in: [WAProto/index.d.ts:45951](https://github.com/Fokusdotid/bail/blob/8
 
 > **UNREAD**: `1`
 
-Defined in: [WAProto/index.d.ts:45945](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L45945)
+Defined in: [WAProto/index.d.ts:45945](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L45945)

@@ -1,6 +1,6 @@
 # Interface: IReactionMessage
 
-Defined in: [WAProto/index.d.ts:32835](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L32835)
+Defined in: [WAProto/index.d.ts:32835](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L32835)
 
 Properties of a ReactionMessage.
 
@@ -10,7 +10,7 @@ Properties of a ReactionMessage.
 
 > `optional` **groupingKey**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32844](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L32844)
+Defined in: [WAProto/index.d.ts:32844](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L32844)
 
 ReactionMessage groupingKey
 
@@ -20,7 +20,7 @@ ReactionMessage groupingKey
 
 > `optional` **key**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:32838](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L32838)
+Defined in: [WAProto/index.d.ts:32838](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L32838)
 
 ReactionMessage key
 
@@ -30,7 +30,7 @@ ReactionMessage key
 
 > `optional` **senderTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:32847](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L32847)
+Defined in: [WAProto/index.d.ts:32847](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L32847)
 
 ReactionMessage senderTimestampMs
 
@@ -40,6 +40,6 @@ ReactionMessage senderTimestampMs
 
 > `optional` **text**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32841](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L32841)
+Defined in: [WAProto/index.d.ts:32841](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L32841)
 
 ReactionMessage text

@@ -1,6 +1,6 @@
 # Class: StatusNotificationMessage
 
-Defined in: [WAProto/index.d.ts:33867](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L33867)
+Defined in: [WAProto/index.d.ts:33867](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L33867)
 
 Represents a StatusNotificationMessage.
 
@@ -14,7 +14,7 @@ Represents a StatusNotificationMessage.
 
 > **new StatusNotificationMessage**(`properties`?): [`StatusNotificationMessage`](StatusNotificationMessage.md)
 
-Defined in: [WAProto/index.d.ts:33873](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L33873)
+Defined in: [WAProto/index.d.ts:33873](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L33873)
 
 Constructs a new StatusNotificationMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **originalMessageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:33879](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L33879)
+Defined in: [WAProto/index.d.ts:33879](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L33879)
 
 StatusNotificationMessage originalMessageKey.
 
@@ -50,7 +50,7 @@ StatusNotificationMessage originalMessageKey.
 
 > `optional` **responseMessageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:33876](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L33876)
+Defined in: [WAProto/index.d.ts:33876](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L33876)
 
 StatusNotificationMessage responseMessageKey.
 
@@ -64,7 +64,7 @@ StatusNotificationMessage responseMessageKey.
 
 > `optional` **type**: `null` \| [`StatusNotificationType`](../namespaces/StatusNotificationMessage/enumerations/StatusNotificationType.md)
 
-Defined in: [WAProto/index.d.ts:33882](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L33882)
+Defined in: [WAProto/index.d.ts:33882](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L33882)
 
 StatusNotificationMessage type.
 
@@ -78,7 +78,7 @@ StatusNotificationMessage type.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:33952](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L33952)
+Defined in: [WAProto/index.d.ts:33952](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L33952)
 
 Converts this StatusNotificationMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`StatusNotificationMessage`](StatusNotificationMessage.md)
 
-Defined in: [WAProto/index.d.ts:33889](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L33889)
+Defined in: [WAProto/index.d.ts:33889](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L33889)
 
 Creates a new StatusNotificationMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ StatusNotificationMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`StatusNotificationMessage`](StatusNotificationMessage.md)
 
-Defined in: [WAProto/index.d.ts:33915](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L33915)
+Defined in: [WAProto/index.d.ts:33915](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L33915)
 
 Decodes a StatusNotificationMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`StatusNotificationMessage`](StatusNotificationMessage.md)
 
-Defined in: [WAProto/index.d.ts:33924](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L33924)
+Defined in: [WAProto/index.d.ts:33924](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L33924)
 
 Decodes a StatusNotificationMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:33897](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L33897)
+Defined in: [WAProto/index.d.ts:33897](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L33897)
 
 Encodes the specified StatusNotificationMessage message. Does not implicitly [verify](StatusNotificationMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:33905](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L33905)
+Defined in: [WAProto/index.d.ts:33905](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L33905)
 
 Encodes the specified StatusNotificationMessage message, length delimited. Does not implicitly [verify](StatusNotificationMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`StatusNotificationMessage`](StatusNotificationMessage.md)
 
-Defined in: [WAProto/index.d.ts:33938](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L33938)
+Defined in: [WAProto/index.d.ts:33938](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L33938)
 
 Creates a StatusNotificationMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ StatusNotificationMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:33959](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L33959)
+Defined in: [WAProto/index.d.ts:33959](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L33959)
 
 Gets the default type url for StatusNotificationMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:33946](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L33946)
+Defined in: [WAProto/index.d.ts:33946](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L33946)
 
 Creates a plain object from a StatusNotificationMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:33931](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L33931)
+Defined in: [WAProto/index.d.ts:33931](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L33931)
 
 Verifies a StatusNotificationMessage message.
 

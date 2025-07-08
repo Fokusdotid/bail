@@ -1,6 +1,6 @@
 # Interface: ISubscriptionAction
 
-Defined in: [WAProto/index.d.ts:48937](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48937)
+Defined in: [WAProto/index.d.ts:48937](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48937)
 
 Properties of a SubscriptionAction.
 
@@ -10,7 +10,7 @@ Properties of a SubscriptionAction.
 
 > `optional` **expirationDate**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:48946](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48946)
+Defined in: [WAProto/index.d.ts:48946](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48946)
 
 SubscriptionAction expirationDate
 
@@ -20,7 +20,7 @@ SubscriptionAction expirationDate
 
 > `optional` **isAutoRenewing**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:48943](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48943)
+Defined in: [WAProto/index.d.ts:48943](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48943)
 
 SubscriptionAction isAutoRenewing
 
@@ -30,6 +30,6 @@ SubscriptionAction isAutoRenewing
 
 > `optional` **isDeactivated**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:48940](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48940)
+Defined in: [WAProto/index.d.ts:48940](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48940)
 
 SubscriptionAction isDeactivated

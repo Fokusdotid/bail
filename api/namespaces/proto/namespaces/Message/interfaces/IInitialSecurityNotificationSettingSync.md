@@ -1,6 +1,6 @@
 # Interface: IInitialSecurityNotificationSettingSync
 
-Defined in: [WAProto/index.d.ts:24851](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L24851)
+Defined in: [WAProto/index.d.ts:24851](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L24851)
 
 Properties of an InitialSecurityNotificationSettingSync.
 
@@ -10,6 +10,6 @@ Properties of an InitialSecurityNotificationSettingSync.
 
 > `optional` **securityNotificationEnabled**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:24854](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L24854)
+Defined in: [WAProto/index.d.ts:24854](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L24854)
 
 InitialSecurityNotificationSettingSync securityNotificationEnabled

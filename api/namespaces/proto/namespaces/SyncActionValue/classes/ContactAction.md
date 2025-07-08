@@ -1,6 +1,6 @@
 # Class: ContactAction
 
-Defined in: [WAProto/index.d.ts:44494](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L44494)
+Defined in: [WAProto/index.d.ts:44494](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L44494)
 
 Represents a ContactAction.
 
@@ -14,7 +14,7 @@ Represents a ContactAction.
 
 > **new ContactAction**(`properties`?): [`ContactAction`](ContactAction.md)
 
-Defined in: [WAProto/index.d.ts:44500](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L44500)
+Defined in: [WAProto/index.d.ts:44500](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L44500)
 
 Constructs a new ContactAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **firstName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44506](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L44506)
+Defined in: [WAProto/index.d.ts:44506](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L44506)
 
 ContactAction firstName.
 
@@ -50,7 +50,7 @@ ContactAction firstName.
 
 > `optional` **fullName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44503](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L44503)
+Defined in: [WAProto/index.d.ts:44503](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L44503)
 
 ContactAction fullName.
 
@@ -64,7 +64,7 @@ ContactAction fullName.
 
 > `optional` **lidJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44509](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L44509)
+Defined in: [WAProto/index.d.ts:44509](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L44509)
 
 ContactAction lidJid.
 
@@ -78,7 +78,7 @@ ContactAction lidJid.
 
 > `optional` **pnJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44515](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L44515)
+Defined in: [WAProto/index.d.ts:44515](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L44515)
 
 ContactAction pnJid.
 
@@ -92,7 +92,7 @@ ContactAction pnJid.
 
 > `optional` **saveOnPrimaryAddressbook**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:44512](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L44512)
+Defined in: [WAProto/index.d.ts:44512](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L44512)
 
 ContactAction saveOnPrimaryAddressbook.
 
@@ -106,7 +106,7 @@ ContactAction saveOnPrimaryAddressbook.
 
 > `optional` **username**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44518](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L44518)
+Defined in: [WAProto/index.d.ts:44518](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L44518)
 
 ContactAction username.
 
@@ -120,7 +120,7 @@ ContactAction username.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:44588](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L44588)
+Defined in: [WAProto/index.d.ts:44588](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L44588)
 
 Converts this ContactAction to JSON.
 
@@ -136,7 +136,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ContactAction`](ContactAction.md)
 
-Defined in: [WAProto/index.d.ts:44525](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L44525)
+Defined in: [WAProto/index.d.ts:44525](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L44525)
 
 Creates a new ContactAction instance using the specified properties.
 
@@ -160,7 +160,7 @@ ContactAction instance
 
 > `static` **decode**(`reader`, `length`?): [`ContactAction`](ContactAction.md)
 
-Defined in: [WAProto/index.d.ts:44551](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L44551)
+Defined in: [WAProto/index.d.ts:44551](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L44551)
 
 Decodes a ContactAction message from the specified reader or buffer.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ContactAction`](ContactAction.md)
 
-Defined in: [WAProto/index.d.ts:44560](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L44560)
+Defined in: [WAProto/index.d.ts:44560](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L44560)
 
 Decodes a ContactAction message from the specified reader or buffer, length delimited.
 
@@ -230,7 +230,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44533](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L44533)
+Defined in: [WAProto/index.d.ts:44533](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L44533)
 
 Encodes the specified ContactAction message. Does not implicitly [verify](ContactAction.md#verify) messages.
 
@@ -260,7 +260,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44541](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L44541)
+Defined in: [WAProto/index.d.ts:44541](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L44541)
 
 Encodes the specified ContactAction message, length delimited. Does not implicitly [verify](ContactAction.md#verify) messages.
 
@@ -290,7 +290,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ContactAction`](ContactAction.md)
 
-Defined in: [WAProto/index.d.ts:44574](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L44574)
+Defined in: [WAProto/index.d.ts:44574](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L44574)
 
 Creates a ContactAction message from a plain object. Also converts values to their respective internal types.
 
@@ -312,7 +312,7 @@ ContactAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:44595](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L44595)
+Defined in: [WAProto/index.d.ts:44595](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L44595)
 
 Gets the default type url for ContactAction
 
@@ -336,7 +336,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:44582](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L44582)
+Defined in: [WAProto/index.d.ts:44582](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L44582)
 
 Creates a plain object from a ContactAction message. Also converts values to other types if specified.
 
@@ -366,7 +366,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44567](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L44567)
+Defined in: [WAProto/index.d.ts:44567](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L44567)
 
 Verifies a ContactAction message.
 

@@ -1,6 +1,6 @@
 # Class: UrlTrackingMapElement
 
-Defined in: [WAProto/index.d.ts:51375](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51375)
+Defined in: [WAProto/index.d.ts:51375](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51375)
 
 Represents an UrlTrackingMapElement.
 
@@ -14,7 +14,7 @@ Represents an UrlTrackingMapElement.
 
 > **new UrlTrackingMapElement**(`properties`?): [`UrlTrackingMapElement`](UrlTrackingMapElement.md)
 
-Defined in: [WAProto/index.d.ts:51381](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51381)
+Defined in: [WAProto/index.d.ts:51381](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51381)
 
 Constructs a new UrlTrackingMapElement.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **cardIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:51393](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51393)
+Defined in: [WAProto/index.d.ts:51393](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51393)
 
 UrlTrackingMapElement cardIndex.
 
@@ -50,7 +50,7 @@ UrlTrackingMapElement cardIndex.
 
 > `optional` **consentedUsersUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:51390](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51390)
+Defined in: [WAProto/index.d.ts:51390](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51390)
 
 UrlTrackingMapElement consentedUsersUrl.
 
@@ -64,7 +64,7 @@ UrlTrackingMapElement consentedUsersUrl.
 
 > `optional` **originalUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:51384](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51384)
+Defined in: [WAProto/index.d.ts:51384](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51384)
 
 UrlTrackingMapElement originalUrl.
 
@@ -78,7 +78,7 @@ UrlTrackingMapElement originalUrl.
 
 > `optional` **unconsentedUsersUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:51387](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51387)
+Defined in: [WAProto/index.d.ts:51387](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51387)
 
 UrlTrackingMapElement unconsentedUsersUrl.
 
@@ -92,7 +92,7 @@ UrlTrackingMapElement unconsentedUsersUrl.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:51463](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51463)
+Defined in: [WAProto/index.d.ts:51463](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51463)
 
 Converts this UrlTrackingMapElement to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`UrlTrackingMapElement`](UrlTrackingMapElement.md)
 
-Defined in: [WAProto/index.d.ts:51400](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51400)
+Defined in: [WAProto/index.d.ts:51400](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51400)
 
 Creates a new UrlTrackingMapElement instance using the specified properties.
 
@@ -132,7 +132,7 @@ UrlTrackingMapElement instance
 
 > `static` **decode**(`reader`, `length`?): [`UrlTrackingMapElement`](UrlTrackingMapElement.md)
 
-Defined in: [WAProto/index.d.ts:51426](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51426)
+Defined in: [WAProto/index.d.ts:51426](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51426)
 
 Decodes an UrlTrackingMapElement message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`UrlTrackingMapElement`](UrlTrackingMapElement.md)
 
-Defined in: [WAProto/index.d.ts:51435](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51435)
+Defined in: [WAProto/index.d.ts:51435](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51435)
 
 Decodes an UrlTrackingMapElement message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:51408](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51408)
+Defined in: [WAProto/index.d.ts:51408](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51408)
 
 Encodes the specified UrlTrackingMapElement message. Does not implicitly [verify](UrlTrackingMapElement.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:51416](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51416)
+Defined in: [WAProto/index.d.ts:51416](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51416)
 
 Encodes the specified UrlTrackingMapElement message, length delimited. Does not implicitly [verify](UrlTrackingMapElement.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`UrlTrackingMapElement`](UrlTrackingMapElement.md)
 
-Defined in: [WAProto/index.d.ts:51449](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51449)
+Defined in: [WAProto/index.d.ts:51449](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51449)
 
 Creates an UrlTrackingMapElement message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ UrlTrackingMapElement
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:51470](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51470)
+Defined in: [WAProto/index.d.ts:51470](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51470)
 
 Gets the default type url for UrlTrackingMapElement
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:51457](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51457)
+Defined in: [WAProto/index.d.ts:51457](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51457)
 
 Creates a plain object from an UrlTrackingMapElement message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:51442](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51442)
+Defined in: [WAProto/index.d.ts:51442](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51442)
 
 Verifies an UrlTrackingMapElement message.
 

@@ -1,6 +1,6 @@
 # Class: ServerErrorReceipt
 
-Defined in: [WAProto/index.d.ts:41689](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L41689)
+Defined in: [WAProto/index.d.ts:41689](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L41689)
 
 Represents a ServerErrorReceipt.
 
@@ -14,7 +14,7 @@ Represents a ServerErrorReceipt.
 
 > **new ServerErrorReceipt**(`properties`?): [`ServerErrorReceipt`](ServerErrorReceipt.md)
 
-Defined in: [WAProto/index.d.ts:41695](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L41695)
+Defined in: [WAProto/index.d.ts:41695](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L41695)
 
 Constructs a new ServerErrorReceipt.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **stanzaId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:41698](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L41698)
+Defined in: [WAProto/index.d.ts:41698](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L41698)
 
 ServerErrorReceipt stanzaId.
 
@@ -50,7 +50,7 @@ ServerErrorReceipt stanzaId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:41768](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L41768)
+Defined in: [WAProto/index.d.ts:41768](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L41768)
 
 Converts this ServerErrorReceipt to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ServerErrorReceipt`](ServerErrorReceipt.md)
 
-Defined in: [WAProto/index.d.ts:41705](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L41705)
+Defined in: [WAProto/index.d.ts:41705](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L41705)
 
 Creates a new ServerErrorReceipt instance using the specified properties.
 
@@ -90,7 +90,7 @@ ServerErrorReceipt instance
 
 > `static` **decode**(`reader`, `length`?): [`ServerErrorReceipt`](ServerErrorReceipt.md)
 
-Defined in: [WAProto/index.d.ts:41731](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L41731)
+Defined in: [WAProto/index.d.ts:41731](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L41731)
 
 Decodes a ServerErrorReceipt message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ServerErrorReceipt`](ServerErrorReceipt.md)
 
-Defined in: [WAProto/index.d.ts:41740](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L41740)
+Defined in: [WAProto/index.d.ts:41740](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L41740)
 
 Decodes a ServerErrorReceipt message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41713](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L41713)
+Defined in: [WAProto/index.d.ts:41713](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L41713)
 
 Encodes the specified ServerErrorReceipt message. Does not implicitly [verify](ServerErrorReceipt.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41721](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L41721)
+Defined in: [WAProto/index.d.ts:41721](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L41721)
 
 Encodes the specified ServerErrorReceipt message, length delimited. Does not implicitly [verify](ServerErrorReceipt.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ServerErrorReceipt`](ServerErrorReceipt.md)
 
-Defined in: [WAProto/index.d.ts:41754](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L41754)
+Defined in: [WAProto/index.d.ts:41754](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L41754)
 
 Creates a ServerErrorReceipt message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ ServerErrorReceipt
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:41775](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L41775)
+Defined in: [WAProto/index.d.ts:41775](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L41775)
 
 Gets the default type url for ServerErrorReceipt
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:41762](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L41762)
+Defined in: [WAProto/index.d.ts:41762](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L41762)
 
 Creates a plain object from a ServerErrorReceipt message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:41747](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L41747)
+Defined in: [WAProto/index.d.ts:41747](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L41747)
 
 Verifies a ServerErrorReceipt message.
 

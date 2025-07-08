@@ -1,6 +1,6 @@
 # Enumeration: BotAIWaitListState
 
-Defined in: [WAProto/index.d.ts:15958](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L15958)
+Defined in: [WAProto/index.d.ts:15958](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L15958)
 
 BotAIWaitListState enum.
 
@@ -10,7 +10,7 @@ BotAIWaitListState enum.
 
 > **AI\_AVAILABLE**: `1`
 
-Defined in: [WAProto/index.d.ts:15960](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L15960)
+Defined in: [WAProto/index.d.ts:15960](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L15960)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:15960](https://github.com/Fokusdotid/bail/blob/8
 
 > **IN\_WAITLIST**: `0`
 
-Defined in: [WAProto/index.d.ts:15959](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L15959)
+Defined in: [WAProto/index.d.ts:15959](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L15959)

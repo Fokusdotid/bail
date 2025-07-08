@@ -1,6 +1,6 @@
 # Interface: IClientPayload
 
-Defined in: [WAProto/index.d.ts:8977](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8977)
+Defined in: [WAProto/index.d.ts:8977](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8977)
 
 Properties of a ClientPayload.
 
@@ -10,7 +10,7 @@ Properties of a ClientPayload.
 
 > `optional` **accountType**: `null` \| [`AccountType`](../namespaces/ClientPayload/enumerations/AccountType.md)
 
-Defined in: [WAProto/index.d.ts:9067](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9067)
+Defined in: [WAProto/index.d.ts:9067](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9067)
 
 ClientPayload accountType
 
@@ -20,7 +20,7 @@ ClientPayload accountType
 
 > `optional` **connectAttemptCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:9013](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9013)
+Defined in: [WAProto/index.d.ts:9013](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9013)
 
 ClientPayload connectAttemptCount
 
@@ -30,7 +30,7 @@ ClientPayload connectAttemptCount
 
 > `optional` **connectReason**: `null` \| [`ConnectReason`](../namespaces/ClientPayload/enumerations/ConnectReason.md)
 
-Defined in: [WAProto/index.d.ts:9004](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9004)
+Defined in: [WAProto/index.d.ts:9004](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9004)
 
 ClientPayload connectReason
 
@@ -40,7 +40,7 @@ ClientPayload connectReason
 
 > `optional` **connectType**: `null` \| [`ConnectType`](../namespaces/ClientPayload/enumerations/ConnectType.md)
 
-Defined in: [WAProto/index.d.ts:9001](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9001)
+Defined in: [WAProto/index.d.ts:9001](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9001)
 
 ClientPayload connectType
 
@@ -50,7 +50,7 @@ ClientPayload connectType
 
 > `optional` **device**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:9016](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9016)
+Defined in: [WAProto/index.d.ts:9016](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9016)
 
 ClientPayload device
 
@@ -60,7 +60,7 @@ ClientPayload device
 
 > `optional` **devicePairingData**: `null` \| [`IDevicePairingRegistrationData`](../namespaces/ClientPayload/interfaces/IDevicePairingRegistrationData.md)
 
-Defined in: [WAProto/index.d.ts:9019](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9019)
+Defined in: [WAProto/index.d.ts:9019](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9019)
 
 ClientPayload devicePairingData
 
@@ -70,7 +70,7 @@ ClientPayload devicePairingData
 
 > `optional` **dnsSource**: `null` \| [`IDNSSource`](../namespaces/ClientPayload/interfaces/IDNSSource.md)
 
-Defined in: [WAProto/index.d.ts:9010](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9010)
+Defined in: [WAProto/index.d.ts:9010](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9010)
 
 ClientPayload dnsSource
 
@@ -80,7 +80,7 @@ ClientPayload dnsSource
 
 > `optional` **fbAppId**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:9040](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9040)
+Defined in: [WAProto/index.d.ts:9040](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9040)
 
 ClientPayload fbAppId
 
@@ -90,7 +90,7 @@ ClientPayload fbAppId
 
 > `optional` **fbCat**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9025](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9025)
+Defined in: [WAProto/index.d.ts:9025](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9025)
 
 ClientPayload fbCat
 
@@ -100,7 +100,7 @@ ClientPayload fbCat
 
 > `optional` **fbDeviceId**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9043](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9043)
+Defined in: [WAProto/index.d.ts:9043](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9043)
 
 ClientPayload fbDeviceId
 
@@ -110,7 +110,7 @@ ClientPayload fbDeviceId
 
 > `optional` **fbUserAgent**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9028](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9028)
+Defined in: [WAProto/index.d.ts:9028](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9028)
 
 ClientPayload fbUserAgent
 
@@ -120,7 +120,7 @@ ClientPayload fbUserAgent
 
 > `optional` **interopData**: `null` \| [`IInteropData`](../namespaces/ClientPayload/interfaces/IInteropData.md)
 
-Defined in: [WAProto/index.d.ts:9058](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9058)
+Defined in: [WAProto/index.d.ts:9058](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9058)
 
 ClientPayload interopData
 
@@ -130,7 +130,7 @@ ClientPayload interopData
 
 > `optional` **iosAppExtension**: `null` \| [`IOSAppExtension`](../namespaces/ClientPayload/enumerations/IOSAppExtension.md)
 
-Defined in: [WAProto/index.d.ts:9037](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9037)
+Defined in: [WAProto/index.d.ts:9037](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9037)
 
 ClientPayload iosAppExtension
 
@@ -140,7 +140,7 @@ ClientPayload iosAppExtension
 
 > `optional` **lc**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:9034](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9034)
+Defined in: [WAProto/index.d.ts:9034](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9034)
 
 ClientPayload lc
 
@@ -150,7 +150,7 @@ ClientPayload lc
 
 > `optional` **lidDbMigrated**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:9064](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9064)
+Defined in: [WAProto/index.d.ts:9064](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9064)
 
 ClientPayload lidDbMigrated
 
@@ -160,7 +160,7 @@ ClientPayload lidDbMigrated
 
 > `optional` **memClass**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:9055](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9055)
+Defined in: [WAProto/index.d.ts:9055](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9055)
 
 ClientPayload memClass
 
@@ -170,7 +170,7 @@ ClientPayload memClass
 
 > `optional` **oc**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:9031](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9031)
+Defined in: [WAProto/index.d.ts:9031](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9031)
 
 ClientPayload oc
 
@@ -180,7 +180,7 @@ ClientPayload oc
 
 > `optional` **paddingBytes**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9049](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9049)
+Defined in: [WAProto/index.d.ts:9049](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9049)
 
 ClientPayload paddingBytes
 
@@ -190,7 +190,7 @@ ClientPayload paddingBytes
 
 > `optional` **passive**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8983](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8983)
+Defined in: [WAProto/index.d.ts:8983](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8983)
 
 ClientPayload passive
 
@@ -200,7 +200,7 @@ ClientPayload passive
 
 > `optional` **product**: `null` \| [`Product`](../namespaces/ClientPayload/enumerations/Product.md)
 
-Defined in: [WAProto/index.d.ts:9022](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9022)
+Defined in: [WAProto/index.d.ts:9022](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9022)
 
 ClientPayload product
 
@@ -210,7 +210,7 @@ ClientPayload product
 
 > `optional` **pull**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:9046](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9046)
+Defined in: [WAProto/index.d.ts:9046](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9046)
 
 ClientPayload pull
 
@@ -220,7 +220,7 @@ ClientPayload pull
 
 > `optional` **pushName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8992](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8992)
+Defined in: [WAProto/index.d.ts:8992](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8992)
 
 ClientPayload pushName
 
@@ -230,7 +230,7 @@ ClientPayload pushName
 
 > `optional` **sessionId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:8995](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8995)
+Defined in: [WAProto/index.d.ts:8995](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8995)
 
 ClientPayload sessionId
 
@@ -240,7 +240,7 @@ ClientPayload sessionId
 
 > `optional` **shards**: `null` \| `number`[]
 
-Defined in: [WAProto/index.d.ts:9007](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9007)
+Defined in: [WAProto/index.d.ts:9007](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9007)
 
 ClientPayload shards
 
@@ -250,7 +250,7 @@ ClientPayload shards
 
 > `optional` **shortConnect**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8998](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8998)
+Defined in: [WAProto/index.d.ts:8998](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8998)
 
 ClientPayload shortConnect
 
@@ -260,7 +260,7 @@ ClientPayload shortConnect
 
 > `optional` **trafficAnonymization**: `null` \| [`TrafficAnonymization`](../namespaces/ClientPayload/enumerations/TrafficAnonymization.md)
 
-Defined in: [WAProto/index.d.ts:9061](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9061)
+Defined in: [WAProto/index.d.ts:9061](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9061)
 
 ClientPayload trafficAnonymization
 
@@ -270,7 +270,7 @@ ClientPayload trafficAnonymization
 
 > `optional` **userAgent**: `null` \| [`IUserAgent`](../namespaces/ClientPayload/interfaces/IUserAgent.md)
 
-Defined in: [WAProto/index.d.ts:8986](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8986)
+Defined in: [WAProto/index.d.ts:8986](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8986)
 
 ClientPayload userAgent
 
@@ -280,7 +280,7 @@ ClientPayload userAgent
 
 > `optional` **username**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:8980](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8980)
+Defined in: [WAProto/index.d.ts:8980](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8980)
 
 ClientPayload username
 
@@ -290,7 +290,7 @@ ClientPayload username
 
 > `optional` **webInfo**: `null` \| [`IWebInfo`](../namespaces/ClientPayload/interfaces/IWebInfo.md)
 
-Defined in: [WAProto/index.d.ts:8989](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8989)
+Defined in: [WAProto/index.d.ts:8989](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8989)
 
 ClientPayload webInfo
 
@@ -300,6 +300,6 @@ ClientPayload webInfo
 
 > `optional` **yearClass**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:9052](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L9052)
+Defined in: [WAProto/index.d.ts:9052](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L9052)
 
 ClientPayload yearClass

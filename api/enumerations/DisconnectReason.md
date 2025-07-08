@@ -1,6 +1,6 @@
 # Enumeration: DisconnectReason
 
-Defined in: [src/Types/index.ts:27](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/index.ts#L27)
+Defined in: [src/Types/index.ts:27](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/index.ts#L27)
 
 ## Enumeration Members
 
@@ -8,7 +8,7 @@ Defined in: [src/Types/index.ts:27](https://github.com/Fokusdotid/bail/blob/8a30
 
 > **badSession**: `500`
 
-Defined in: [src/Types/index.ts:33](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/index.ts#L33)
+Defined in: [src/Types/index.ts:33](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/index.ts#L33)
 
 ***
 
@@ -16,7 +16,7 @@ Defined in: [src/Types/index.ts:33](https://github.com/Fokusdotid/bail/blob/8a30
 
 > **connectionClosed**: `428`
 
-Defined in: [src/Types/index.ts:28](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/index.ts#L28)
+Defined in: [src/Types/index.ts:28](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/index.ts#L28)
 
 ***
 
@@ -24,7 +24,7 @@ Defined in: [src/Types/index.ts:28](https://github.com/Fokusdotid/bail/blob/8a30
 
 > **connectionLost**: `408`
 
-Defined in: [src/Types/index.ts:29](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/index.ts#L29)
+Defined in: [src/Types/index.ts:29](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/index.ts#L29)
 
 ***
 
@@ -32,7 +32,7 @@ Defined in: [src/Types/index.ts:29](https://github.com/Fokusdotid/bail/blob/8a30
 
 > **connectionReplaced**: `440`
 
-Defined in: [src/Types/index.ts:30](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/index.ts#L30)
+Defined in: [src/Types/index.ts:30](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/index.ts#L30)
 
 ***
 
@@ -40,7 +40,7 @@ Defined in: [src/Types/index.ts:30](https://github.com/Fokusdotid/bail/blob/8a30
 
 > **forbidden**: `403`
 
-Defined in: [src/Types/index.ts:36](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/index.ts#L36)
+Defined in: [src/Types/index.ts:36](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/index.ts#L36)
 
 ***
 
@@ -48,7 +48,7 @@ Defined in: [src/Types/index.ts:36](https://github.com/Fokusdotid/bail/blob/8a30
 
 > **loggedOut**: `401`
 
-Defined in: [src/Types/index.ts:32](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/index.ts#L32)
+Defined in: [src/Types/index.ts:32](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/index.ts#L32)
 
 ***
 
@@ -56,7 +56,7 @@ Defined in: [src/Types/index.ts:32](https://github.com/Fokusdotid/bail/blob/8a30
 
 > **multideviceMismatch**: `411`
 
-Defined in: [src/Types/index.ts:35](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/index.ts#L35)
+Defined in: [src/Types/index.ts:35](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/index.ts#L35)
 
 ***
 
@@ -64,7 +64,7 @@ Defined in: [src/Types/index.ts:35](https://github.com/Fokusdotid/bail/blob/8a30
 
 > **restartRequired**: `515`
 
-Defined in: [src/Types/index.ts:34](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/index.ts#L34)
+Defined in: [src/Types/index.ts:34](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/index.ts#L34)
 
 ***
 
@@ -72,7 +72,7 @@ Defined in: [src/Types/index.ts:34](https://github.com/Fokusdotid/bail/blob/8a30
 
 > **timedOut**: `408`
 
-Defined in: [src/Types/index.ts:31](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/index.ts#L31)
+Defined in: [src/Types/index.ts:31](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/index.ts#L31)
 
 ***
 
@@ -80,4 +80,4 @@ Defined in: [src/Types/index.ts:31](https://github.com/Fokusdotid/bail/blob/8a30
 
 > **unavailableService**: `503`
 
-Defined in: [src/Types/index.ts:37](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/index.ts#L37)
+Defined in: [src/Types/index.ts:37](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/index.ts#L37)

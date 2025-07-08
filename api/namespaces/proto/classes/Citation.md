@@ -1,6 +1,6 @@
 # Class: Citation
 
-Defined in: [WAProto/index.d.ts:8775](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8775)
+Defined in: [WAProto/index.d.ts:8775](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8775)
 
 Represents a Citation.
 
@@ -14,7 +14,7 @@ Represents a Citation.
 
 > **new Citation**(`properties`?): [`Citation`](Citation.md)
 
-Defined in: [WAProto/index.d.ts:8781](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8781)
+Defined in: [WAProto/index.d.ts:8781](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8781)
 
 Constructs a new Citation.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **cmsId**: `string`
 
-Defined in: [WAProto/index.d.ts:8790](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8790)
+Defined in: [WAProto/index.d.ts:8790](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8790)
 
 Citation cmsId.
 
@@ -50,7 +50,7 @@ Citation cmsId.
 
 > **imageUrl**: `string`
 
-Defined in: [WAProto/index.d.ts:8793](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8793)
+Defined in: [WAProto/index.d.ts:8793](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8793)
 
 Citation imageUrl.
 
@@ -64,7 +64,7 @@ Citation imageUrl.
 
 > **subtitle**: `string`
 
-Defined in: [WAProto/index.d.ts:8787](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8787)
+Defined in: [WAProto/index.d.ts:8787](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8787)
 
 Citation subtitle.
 
@@ -78,7 +78,7 @@ Citation subtitle.
 
 > **title**: `string`
 
-Defined in: [WAProto/index.d.ts:8784](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8784)
+Defined in: [WAProto/index.d.ts:8784](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8784)
 
 Citation title.
 
@@ -92,7 +92,7 @@ Citation title.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:8863](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8863)
+Defined in: [WAProto/index.d.ts:8863](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8863)
 
 Converts this Citation to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Citation`](Citation.md)
 
-Defined in: [WAProto/index.d.ts:8800](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8800)
+Defined in: [WAProto/index.d.ts:8800](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8800)
 
 Creates a new Citation instance using the specified properties.
 
@@ -132,7 +132,7 @@ Citation instance
 
 > `static` **decode**(`reader`, `length`?): [`Citation`](Citation.md)
 
-Defined in: [WAProto/index.d.ts:8826](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8826)
+Defined in: [WAProto/index.d.ts:8826](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8826)
 
 Decodes a Citation message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Citation`](Citation.md)
 
-Defined in: [WAProto/index.d.ts:8835](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8835)
+Defined in: [WAProto/index.d.ts:8835](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8835)
 
 Decodes a Citation message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:8808](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8808)
+Defined in: [WAProto/index.d.ts:8808](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8808)
 
 Encodes the specified Citation message. Does not implicitly [verify](Citation.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:8816](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8816)
+Defined in: [WAProto/index.d.ts:8816](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8816)
 
 Encodes the specified Citation message, length delimited. Does not implicitly [verify](Citation.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Citation`](Citation.md)
 
-Defined in: [WAProto/index.d.ts:8849](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8849)
+Defined in: [WAProto/index.d.ts:8849](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8849)
 
 Creates a Citation message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ Citation
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:8870](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8870)
+Defined in: [WAProto/index.d.ts:8870](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8870)
 
 Gets the default type url for Citation
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:8857](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8857)
+Defined in: [WAProto/index.d.ts:8857](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8857)
 
 Creates a plain object from a Citation message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8842](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L8842)
+Defined in: [WAProto/index.d.ts:8842](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L8842)
 
 Verifies a Citation message.
 

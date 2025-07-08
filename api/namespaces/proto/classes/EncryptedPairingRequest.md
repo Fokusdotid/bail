@@ -1,6 +1,6 @@
 # Class: EncryptedPairingRequest
 
-Defined in: [WAProto/index.d.ts:14144](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14144)
+Defined in: [WAProto/index.d.ts:14144](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14144)
 
 Represents an EncryptedPairingRequest.
 
@@ -14,7 +14,7 @@ Represents an EncryptedPairingRequest.
 
 > **new EncryptedPairingRequest**(`properties`?): [`EncryptedPairingRequest`](EncryptedPairingRequest.md)
 
-Defined in: [WAProto/index.d.ts:14150](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14150)
+Defined in: [WAProto/index.d.ts:14150](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14150)
 
 Constructs a new EncryptedPairingRequest.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **encryptedPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:14153](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14153)
+Defined in: [WAProto/index.d.ts:14153](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14153)
 
 EncryptedPairingRequest encryptedPayload.
 
@@ -50,7 +50,7 @@ EncryptedPairingRequest encryptedPayload.
 
 > `optional` **iv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:14156](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14156)
+Defined in: [WAProto/index.d.ts:14156](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14156)
 
 EncryptedPairingRequest iv.
 
@@ -64,7 +64,7 @@ EncryptedPairingRequest iv.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:14226](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14226)
+Defined in: [WAProto/index.d.ts:14226](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14226)
 
 Converts this EncryptedPairingRequest to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`EncryptedPairingRequest`](EncryptedPairingRequest.md)
 
-Defined in: [WAProto/index.d.ts:14163](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14163)
+Defined in: [WAProto/index.d.ts:14163](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14163)
 
 Creates a new EncryptedPairingRequest instance using the specified properties.
 
@@ -104,7 +104,7 @@ EncryptedPairingRequest instance
 
 > `static` **decode**(`reader`, `length`?): [`EncryptedPairingRequest`](EncryptedPairingRequest.md)
 
-Defined in: [WAProto/index.d.ts:14189](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14189)
+Defined in: [WAProto/index.d.ts:14189](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14189)
 
 Decodes an EncryptedPairingRequest message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`EncryptedPairingRequest`](EncryptedPairingRequest.md)
 
-Defined in: [WAProto/index.d.ts:14198](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14198)
+Defined in: [WAProto/index.d.ts:14198](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14198)
 
 Decodes an EncryptedPairingRequest message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:14171](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14171)
+Defined in: [WAProto/index.d.ts:14171](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14171)
 
 Encodes the specified EncryptedPairingRequest message. Does not implicitly [verify](EncryptedPairingRequest.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:14179](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14179)
+Defined in: [WAProto/index.d.ts:14179](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14179)
 
 Encodes the specified EncryptedPairingRequest message, length delimited. Does not implicitly [verify](EncryptedPairingRequest.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`EncryptedPairingRequest`](EncryptedPairingRequest.md)
 
-Defined in: [WAProto/index.d.ts:14212](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14212)
+Defined in: [WAProto/index.d.ts:14212](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14212)
 
 Creates an EncryptedPairingRequest message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ EncryptedPairingRequest
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:14233](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14233)
+Defined in: [WAProto/index.d.ts:14233](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14233)
 
 Gets the default type url for EncryptedPairingRequest
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:14220](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14220)
+Defined in: [WAProto/index.d.ts:14220](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14220)
 
 Creates a plain object from an EncryptedPairingRequest message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14205](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L14205)
+Defined in: [WAProto/index.d.ts:14205](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L14205)
 
 Verifies an EncryptedPairingRequest message.
 

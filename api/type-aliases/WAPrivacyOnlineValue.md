@@ -2,4 +2,4 @@
 
 > **WAPrivacyOnlineValue**: `"all"` \| `"match_last_seen"`
 
-Defined in: [src/Types/Chat.ts:12](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/src/Types/Chat.ts#L12)
+Defined in: [src/Types/Chat.ts:12](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/src/Types/Chat.ts#L12)

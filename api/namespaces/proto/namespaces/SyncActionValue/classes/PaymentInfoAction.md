@@ -1,6 +1,6 @@
 # Class: PaymentInfoAction
 
-Defined in: [WAProto/index.d.ts:47278](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47278)
+Defined in: [WAProto/index.d.ts:47278](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L47278)
 
 Represents a PaymentInfoAction.
 
@@ -14,7 +14,7 @@ Represents a PaymentInfoAction.
 
 > **new PaymentInfoAction**(`properties`?): [`PaymentInfoAction`](PaymentInfoAction.md)
 
-Defined in: [WAProto/index.d.ts:47284](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47284)
+Defined in: [WAProto/index.d.ts:47284](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L47284)
 
 Constructs a new PaymentInfoAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **cpi**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:47287](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47287)
+Defined in: [WAProto/index.d.ts:47287](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L47287)
 
 PaymentInfoAction cpi.
 
@@ -50,7 +50,7 @@ PaymentInfoAction cpi.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:47357](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47357)
+Defined in: [WAProto/index.d.ts:47357](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L47357)
 
 Converts this PaymentInfoAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PaymentInfoAction`](PaymentInfoAction.md)
 
-Defined in: [WAProto/index.d.ts:47294](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47294)
+Defined in: [WAProto/index.d.ts:47294](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L47294)
 
 Creates a new PaymentInfoAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ PaymentInfoAction instance
 
 > `static` **decode**(`reader`, `length`?): [`PaymentInfoAction`](PaymentInfoAction.md)
 
-Defined in: [WAProto/index.d.ts:47320](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47320)
+Defined in: [WAProto/index.d.ts:47320](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L47320)
 
 Decodes a PaymentInfoAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PaymentInfoAction`](PaymentInfoAction.md)
 
-Defined in: [WAProto/index.d.ts:47329](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47329)
+Defined in: [WAProto/index.d.ts:47329](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L47329)
 
 Decodes a PaymentInfoAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:47302](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47302)
+Defined in: [WAProto/index.d.ts:47302](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L47302)
 
 Encodes the specified PaymentInfoAction message. Does not implicitly [verify](PaymentInfoAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:47310](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47310)
+Defined in: [WAProto/index.d.ts:47310](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L47310)
 
 Encodes the specified PaymentInfoAction message, length delimited. Does not implicitly [verify](PaymentInfoAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PaymentInfoAction`](PaymentInfoAction.md)
 
-Defined in: [WAProto/index.d.ts:47343](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47343)
+Defined in: [WAProto/index.d.ts:47343](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L47343)
 
 Creates a PaymentInfoAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PaymentInfoAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:47364](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47364)
+Defined in: [WAProto/index.d.ts:47364](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L47364)
 
 Gets the default type url for PaymentInfoAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:47351](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47351)
+Defined in: [WAProto/index.d.ts:47351](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L47351)
 
 Creates a plain object from a PaymentInfoAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:47336](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L47336)
+Defined in: [WAProto/index.d.ts:47336](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L47336)
 
 Verifies a PaymentInfoAction message.
 

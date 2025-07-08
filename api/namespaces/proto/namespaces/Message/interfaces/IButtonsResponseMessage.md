@@ -1,6 +1,6 @@
 # Interface: IButtonsResponseMessage
 
-Defined in: [WAProto/index.d.ts:20744](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20744)
+Defined in: [WAProto/index.d.ts:20744](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L20744)
 
 Properties of a ButtonsResponseMessage.
 
@@ -10,7 +10,7 @@ Properties of a ButtonsResponseMessage.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:20750](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20750)
+Defined in: [WAProto/index.d.ts:20750](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L20750)
 
 ButtonsResponseMessage contextInfo
 
@@ -20,7 +20,7 @@ ButtonsResponseMessage contextInfo
 
 > `optional` **selectedButtonId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20747](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20747)
+Defined in: [WAProto/index.d.ts:20747](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L20747)
 
 ButtonsResponseMessage selectedButtonId
 
@@ -30,7 +30,7 @@ ButtonsResponseMessage selectedButtonId
 
 > `optional` **selectedDisplayText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20756](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20756)
+Defined in: [WAProto/index.d.ts:20756](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L20756)
 
 ButtonsResponseMessage selectedDisplayText
 
@@ -40,6 +40,6 @@ ButtonsResponseMessage selectedDisplayText
 
 > `optional` **type**: `null` \| [`Type`](../namespaces/ButtonsResponseMessage/enumerations/Type.md)
 
-Defined in: [WAProto/index.d.ts:20753](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L20753)
+Defined in: [WAProto/index.d.ts:20753](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L20753)
 
 ButtonsResponseMessage type

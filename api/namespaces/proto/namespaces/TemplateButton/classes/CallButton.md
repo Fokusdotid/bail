@@ -1,6 +1,6 @@
 # Class: CallButton
 
-Defined in: [WAProto/index.d.ts:50960](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L50960)
+Defined in: [WAProto/index.d.ts:50960](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L50960)
 
 Represents a CallButton.
 
@@ -14,7 +14,7 @@ Represents a CallButton.
 
 > **new CallButton**(`properties`?): [`CallButton`](CallButton.md)
 
-Defined in: [WAProto/index.d.ts:50966](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L50966)
+Defined in: [WAProto/index.d.ts:50966](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L50966)
 
 Constructs a new CallButton.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **displayText**: `null` \| [`IHighlyStructuredMessage`](../../Message/interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:50969](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L50969)
+Defined in: [WAProto/index.d.ts:50969](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L50969)
 
 CallButton displayText.
 
@@ -50,7 +50,7 @@ CallButton displayText.
 
 > `optional` **phoneNumber**: `null` \| [`IHighlyStructuredMessage`](../../Message/interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:50972](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L50972)
+Defined in: [WAProto/index.d.ts:50972](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L50972)
 
 CallButton phoneNumber.
 
@@ -64,7 +64,7 @@ CallButton phoneNumber.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:51042](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51042)
+Defined in: [WAProto/index.d.ts:51042](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51042)
 
 Converts this CallButton to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CallButton`](CallButton.md)
 
-Defined in: [WAProto/index.d.ts:50979](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L50979)
+Defined in: [WAProto/index.d.ts:50979](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L50979)
 
 Creates a new CallButton instance using the specified properties.
 
@@ -104,7 +104,7 @@ CallButton instance
 
 > `static` **decode**(`reader`, `length`?): [`CallButton`](CallButton.md)
 
-Defined in: [WAProto/index.d.ts:51005](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51005)
+Defined in: [WAProto/index.d.ts:51005](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51005)
 
 Decodes a CallButton message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CallButton`](CallButton.md)
 
-Defined in: [WAProto/index.d.ts:51014](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51014)
+Defined in: [WAProto/index.d.ts:51014](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51014)
 
 Decodes a CallButton message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:50987](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L50987)
+Defined in: [WAProto/index.d.ts:50987](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L50987)
 
 Encodes the specified CallButton message. Does not implicitly [verify](CallButton.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:50995](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L50995)
+Defined in: [WAProto/index.d.ts:50995](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L50995)
 
 Encodes the specified CallButton message, length delimited. Does not implicitly [verify](CallButton.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CallButton`](CallButton.md)
 
-Defined in: [WAProto/index.d.ts:51028](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51028)
+Defined in: [WAProto/index.d.ts:51028](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51028)
 
 Creates a CallButton message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ CallButton
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:51049](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51049)
+Defined in: [WAProto/index.d.ts:51049](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51049)
 
 Gets the default type url for CallButton
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:51036](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51036)
+Defined in: [WAProto/index.d.ts:51036](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51036)
 
 Creates a plain object from a CallButton message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:51021](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L51021)
+Defined in: [WAProto/index.d.ts:51021](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L51021)
 
 Verifies a CallButton message.
 

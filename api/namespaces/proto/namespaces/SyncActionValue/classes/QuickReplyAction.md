@@ -1,6 +1,6 @@
 # Class: QuickReplyAction
 
-Defined in: [WAProto/index.d.ts:48177](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48177)
+Defined in: [WAProto/index.d.ts:48177](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48177)
 
 Represents a QuickReplyAction.
 
@@ -14,7 +14,7 @@ Represents a QuickReplyAction.
 
 > **new QuickReplyAction**(`properties`?): [`QuickReplyAction`](QuickReplyAction.md)
 
-Defined in: [WAProto/index.d.ts:48183](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48183)
+Defined in: [WAProto/index.d.ts:48183](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48183)
 
 Constructs a new QuickReplyAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **count**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:48195](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48195)
+Defined in: [WAProto/index.d.ts:48195](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48195)
 
 QuickReplyAction count.
 
@@ -50,7 +50,7 @@ QuickReplyAction count.
 
 > `optional` **deleted**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:48198](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48198)
+Defined in: [WAProto/index.d.ts:48198](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48198)
 
 QuickReplyAction deleted.
 
@@ -64,7 +64,7 @@ QuickReplyAction deleted.
 
 > **keywords**: `string`[]
 
-Defined in: [WAProto/index.d.ts:48192](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48192)
+Defined in: [WAProto/index.d.ts:48192](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48192)
 
 QuickReplyAction keywords.
 
@@ -78,7 +78,7 @@ QuickReplyAction keywords.
 
 > `optional` **message**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48189](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48189)
+Defined in: [WAProto/index.d.ts:48189](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48189)
 
 QuickReplyAction message.
 
@@ -92,7 +92,7 @@ QuickReplyAction message.
 
 > `optional` **shortcut**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48186](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48186)
+Defined in: [WAProto/index.d.ts:48186](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48186)
 
 QuickReplyAction shortcut.
 
@@ -106,7 +106,7 @@ QuickReplyAction shortcut.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:48268](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48268)
+Defined in: [WAProto/index.d.ts:48268](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48268)
 
 Converts this QuickReplyAction to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`QuickReplyAction`](QuickReplyAction.md)
 
-Defined in: [WAProto/index.d.ts:48205](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48205)
+Defined in: [WAProto/index.d.ts:48205](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48205)
 
 Creates a new QuickReplyAction instance using the specified properties.
 
@@ -146,7 +146,7 @@ QuickReplyAction instance
 
 > `static` **decode**(`reader`, `length`?): [`QuickReplyAction`](QuickReplyAction.md)
 
-Defined in: [WAProto/index.d.ts:48231](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48231)
+Defined in: [WAProto/index.d.ts:48231](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48231)
 
 Decodes a QuickReplyAction message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`QuickReplyAction`](QuickReplyAction.md)
 
-Defined in: [WAProto/index.d.ts:48240](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48240)
+Defined in: [WAProto/index.d.ts:48240](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48240)
 
 Decodes a QuickReplyAction message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:48213](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48213)
+Defined in: [WAProto/index.d.ts:48213](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48213)
 
 Encodes the specified QuickReplyAction message. Does not implicitly [verify](QuickReplyAction.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:48221](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48221)
+Defined in: [WAProto/index.d.ts:48221](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48221)
 
 Encodes the specified QuickReplyAction message, length delimited. Does not implicitly [verify](QuickReplyAction.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`QuickReplyAction`](QuickReplyAction.md)
 
-Defined in: [WAProto/index.d.ts:48254](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48254)
+Defined in: [WAProto/index.d.ts:48254](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48254)
 
 Creates a QuickReplyAction message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ QuickReplyAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:48275](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48275)
+Defined in: [WAProto/index.d.ts:48275](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48275)
 
 Gets the default type url for QuickReplyAction
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:48262](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48262)
+Defined in: [WAProto/index.d.ts:48262](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48262)
 
 Creates a plain object from a QuickReplyAction message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48247](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48247)
+Defined in: [WAProto/index.d.ts:48247](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48247)
 
 Verifies a QuickReplyAction message.
 

@@ -1,6 +1,6 @@
 # Class: BizAccountPayload
 
-Defined in: [WAProto/index.d.ts:3371](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3371)
+Defined in: [WAProto/index.d.ts:3371](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3371)
 
 Represents a BizAccountPayload.
 
@@ -14,7 +14,7 @@ Represents a BizAccountPayload.
 
 > **new BizAccountPayload**(`properties`?): [`BizAccountPayload`](BizAccountPayload.md)
 
-Defined in: [WAProto/index.d.ts:3377](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3377)
+Defined in: [WAProto/index.d.ts:3377](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3377)
 
 Constructs a new BizAccountPayload.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **bizAcctLinkInfo**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:3383](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3383)
+Defined in: [WAProto/index.d.ts:3383](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3383)
 
 BizAccountPayload bizAcctLinkInfo.
 
@@ -50,7 +50,7 @@ BizAccountPayload bizAcctLinkInfo.
 
 > `optional` **vnameCert**: `null` \| [`IVerifiedNameCertificate`](../interfaces/IVerifiedNameCertificate.md)
 
-Defined in: [WAProto/index.d.ts:3380](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3380)
+Defined in: [WAProto/index.d.ts:3380](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3380)
 
 BizAccountPayload vnameCert.
 
@@ -64,7 +64,7 @@ BizAccountPayload vnameCert.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:3453](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3453)
+Defined in: [WAProto/index.d.ts:3453](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3453)
 
 Converts this BizAccountPayload to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BizAccountPayload`](BizAccountPayload.md)
 
-Defined in: [WAProto/index.d.ts:3390](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3390)
+Defined in: [WAProto/index.d.ts:3390](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3390)
 
 Creates a new BizAccountPayload instance using the specified properties.
 
@@ -104,7 +104,7 @@ BizAccountPayload instance
 
 > `static` **decode**(`reader`, `length`?): [`BizAccountPayload`](BizAccountPayload.md)
 
-Defined in: [WAProto/index.d.ts:3416](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3416)
+Defined in: [WAProto/index.d.ts:3416](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3416)
 
 Decodes a BizAccountPayload message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BizAccountPayload`](BizAccountPayload.md)
 
-Defined in: [WAProto/index.d.ts:3425](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3425)
+Defined in: [WAProto/index.d.ts:3425](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3425)
 
 Decodes a BizAccountPayload message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3398](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3398)
+Defined in: [WAProto/index.d.ts:3398](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3398)
 
 Encodes the specified BizAccountPayload message. Does not implicitly [verify](BizAccountPayload.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3406](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3406)
+Defined in: [WAProto/index.d.ts:3406](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3406)
 
 Encodes the specified BizAccountPayload message, length delimited. Does not implicitly [verify](BizAccountPayload.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BizAccountPayload`](BizAccountPayload.md)
 
-Defined in: [WAProto/index.d.ts:3439](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3439)
+Defined in: [WAProto/index.d.ts:3439](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3439)
 
 Creates a BizAccountPayload message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ BizAccountPayload
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:3460](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3460)
+Defined in: [WAProto/index.d.ts:3460](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3460)
 
 Gets the default type url for BizAccountPayload
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:3447](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3447)
+Defined in: [WAProto/index.d.ts:3447](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3447)
 
 Creates a plain object from a BizAccountPayload message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3432](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L3432)
+Defined in: [WAProto/index.d.ts:3432](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L3432)
 
 Verifies a BizAccountPayload message.
 

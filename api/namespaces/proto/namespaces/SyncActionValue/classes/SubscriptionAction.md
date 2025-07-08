@@ -1,6 +1,6 @@
 # Class: SubscriptionAction
 
-Defined in: [WAProto/index.d.ts:48950](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48950)
+Defined in: [WAProto/index.d.ts:48950](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48950)
 
 Represents a SubscriptionAction.
 
@@ -14,7 +14,7 @@ Represents a SubscriptionAction.
 
 > **new SubscriptionAction**(`properties`?): [`SubscriptionAction`](SubscriptionAction.md)
 
-Defined in: [WAProto/index.d.ts:48956](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48956)
+Defined in: [WAProto/index.d.ts:48956](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48956)
 
 Constructs a new SubscriptionAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **expirationDate**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:48965](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48965)
+Defined in: [WAProto/index.d.ts:48965](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48965)
 
 SubscriptionAction expirationDate.
 
@@ -50,7 +50,7 @@ SubscriptionAction expirationDate.
 
 > `optional` **isAutoRenewing**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:48962](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48962)
+Defined in: [WAProto/index.d.ts:48962](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48962)
 
 SubscriptionAction isAutoRenewing.
 
@@ -64,7 +64,7 @@ SubscriptionAction isAutoRenewing.
 
 > `optional` **isDeactivated**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:48959](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48959)
+Defined in: [WAProto/index.d.ts:48959](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48959)
 
 SubscriptionAction isDeactivated.
 
@@ -78,7 +78,7 @@ SubscriptionAction isDeactivated.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:49035](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L49035)
+Defined in: [WAProto/index.d.ts:49035](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L49035)
 
 Converts this SubscriptionAction to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SubscriptionAction`](SubscriptionAction.md)
 
-Defined in: [WAProto/index.d.ts:48972](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48972)
+Defined in: [WAProto/index.d.ts:48972](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48972)
 
 Creates a new SubscriptionAction instance using the specified properties.
 
@@ -118,7 +118,7 @@ SubscriptionAction instance
 
 > `static` **decode**(`reader`, `length`?): [`SubscriptionAction`](SubscriptionAction.md)
 
-Defined in: [WAProto/index.d.ts:48998](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48998)
+Defined in: [WAProto/index.d.ts:48998](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48998)
 
 Decodes a SubscriptionAction message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SubscriptionAction`](SubscriptionAction.md)
 
-Defined in: [WAProto/index.d.ts:49007](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L49007)
+Defined in: [WAProto/index.d.ts:49007](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L49007)
 
 Decodes a SubscriptionAction message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:48980](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48980)
+Defined in: [WAProto/index.d.ts:48980](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48980)
 
 Encodes the specified SubscriptionAction message. Does not implicitly [verify](SubscriptionAction.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:48988](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L48988)
+Defined in: [WAProto/index.d.ts:48988](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L48988)
 
 Encodes the specified SubscriptionAction message, length delimited. Does not implicitly [verify](SubscriptionAction.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SubscriptionAction`](SubscriptionAction.md)
 
-Defined in: [WAProto/index.d.ts:49021](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L49021)
+Defined in: [WAProto/index.d.ts:49021](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L49021)
 
 Creates a SubscriptionAction message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ SubscriptionAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:49042](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L49042)
+Defined in: [WAProto/index.d.ts:49042](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L49042)
 
 Gets the default type url for SubscriptionAction
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:49029](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L49029)
+Defined in: [WAProto/index.d.ts:49029](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L49029)
 
 Creates a plain object from a SubscriptionAction message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:49014](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L49014)
+Defined in: [WAProto/index.d.ts:49014](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L49014)
 
 Verifies a SubscriptionAction message.
 

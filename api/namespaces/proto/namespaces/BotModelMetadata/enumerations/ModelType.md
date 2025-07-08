@@ -1,6 +1,6 @@
 # Enumeration: ModelType
 
-Defined in: [WAProto/index.d.ts:5355](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5355)
+Defined in: [WAProto/index.d.ts:5355](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L5355)
 
 ModelType enum.
 
@@ -10,7 +10,7 @@ ModelType enum.
 
 > **LLAMA\_PROD**: `1`
 
-Defined in: [WAProto/index.d.ts:5357](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5357)
+Defined in: [WAProto/index.d.ts:5357](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L5357)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:5357](https://github.com/Fokusdotid/bail/blob/8a
 
 > **LLAMA\_PROD\_PREMIUM**: `2`
 
-Defined in: [WAProto/index.d.ts:5358](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5358)
+Defined in: [WAProto/index.d.ts:5358](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L5358)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:5358](https://github.com/Fokusdotid/bail/blob/8a
 
 > **UNKNOWN\_TYPE**: `0`
 
-Defined in: [WAProto/index.d.ts:5356](https://github.com/Fokusdotid/bail/blob/8a30cf93a8ac726f06d1ad6578695812a8253e53/WAProto/index.d.ts#L5356)
+Defined in: [WAProto/index.d.ts:5356](https://github.com/Fokusdotid/bail/blob/c270ba4454f95d50cec87a9d90b03360fac7058e/WAProto/index.d.ts#L5356)
