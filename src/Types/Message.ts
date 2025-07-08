@@ -189,7 +189,7 @@ export type ButtonReplyInfo = {
 	id: string
 	index: number
 	text: string
-    nativeFlow: proto.Message.InteractiveResponseMessage.NativeFlowResponseMessage
+	nativeFlow: proto.Message.InteractiveResponseMessage.NativeFlowResponseMessage
 }
 
 export type GroupInviteInfo = {
