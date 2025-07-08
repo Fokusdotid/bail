@@ -1,0 +1,313 @@
+# Class: FullHistorySyncOnDemandRequestMetadata
+
+Defined in: [WAProto/index.d.ts:23325](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23325)
+
+Represents a FullHistorySyncOnDemandRequestMetadata.
+
+## Implements
+
+- [`IFullHistorySyncOnDemandRequestMetadata`](../interfaces/IFullHistorySyncOnDemandRequestMetadata.md)
+
+## Constructors
+
+### new FullHistorySyncOnDemandRequestMetadata()
+
+> **new FullHistorySyncOnDemandRequestMetadata**(`properties`?): [`FullHistorySyncOnDemandRequestMetadata`](FullHistorySyncOnDemandRequestMetadata.md)
+
+Defined in: [WAProto/index.d.ts:23331](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23331)
+
+Constructs a new FullHistorySyncOnDemandRequestMetadata.
+
+#### Parameters
+
+##### properties?
+
+[`IFullHistorySyncOnDemandRequestMetadata`](../interfaces/IFullHistorySyncOnDemandRequestMetadata.md)
+
+Properties to set
+
+#### Returns
+
+[`FullHistorySyncOnDemandRequestMetadata`](FullHistorySyncOnDemandRequestMetadata.md)
+
+## Properties
+
+### requestId?
+
+> `optional` **requestId**: `null` \| `string`
+
+Defined in: [WAProto/index.d.ts:23334](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23334)
+
+FullHistorySyncOnDemandRequestMetadata requestId.
+
+#### Implementation of
+
+[`IFullHistorySyncOnDemandRequestMetadata`](../interfaces/IFullHistorySyncOnDemandRequestMetadata.md).[`requestId`](../interfaces/IFullHistorySyncOnDemandRequestMetadata.md#requestid)
+
+## Methods
+
+### toJSON()
+
+> **toJSON**(): `object`
+
+Defined in: [WAProto/index.d.ts:23404](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23404)
+
+Converts this FullHistorySyncOnDemandRequestMetadata to JSON.
+
+#### Returns
+
+`object`
+
+JSON object
+
+***
+
+### create()
+
+> `static` **create**(`properties`?): [`FullHistorySyncOnDemandRequestMetadata`](FullHistorySyncOnDemandRequestMetadata.md)
+
+Defined in: [WAProto/index.d.ts:23341](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23341)
+
+Creates a new FullHistorySyncOnDemandRequestMetadata instance using the specified properties.
+
+#### Parameters
+
+##### properties?
+
+[`IFullHistorySyncOnDemandRequestMetadata`](../interfaces/IFullHistorySyncOnDemandRequestMetadata.md)
+
+Properties to set
+
+#### Returns
+
+[`FullHistorySyncOnDemandRequestMetadata`](FullHistorySyncOnDemandRequestMetadata.md)
+
+FullHistorySyncOnDemandRequestMetadata instance
+
+***
+
+### decode()
+
+> `static` **decode**(`reader`, `length`?): [`FullHistorySyncOnDemandRequestMetadata`](FullHistorySyncOnDemandRequestMetadata.md)
+
+Defined in: [WAProto/index.d.ts:23367](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23367)
+
+Decodes a FullHistorySyncOnDemandRequestMetadata message from the specified reader or buffer.
+
+#### Parameters
+
+##### reader
+
+Reader or buffer to decode from
+
+`Uint8Array`\<`ArrayBufferLike`\> | `Reader`
+
+##### length?
+
+`number`
+
+Message length if known beforehand
+
+#### Returns
+
+[`FullHistorySyncOnDemandRequestMetadata`](FullHistorySyncOnDemandRequestMetadata.md)
+
+FullHistorySyncOnDemandRequestMetadata
+
+#### Throws
+
+If the payload is not a reader or valid buffer
+
+#### Throws
+
+If required fields are missing
+
+***
+
+### decodeDelimited()
+
+> `static` **decodeDelimited**(`reader`): [`FullHistorySyncOnDemandRequestMetadata`](FullHistorySyncOnDemandRequestMetadata.md)
+
+Defined in: [WAProto/index.d.ts:23376](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23376)
+
+Decodes a FullHistorySyncOnDemandRequestMetadata message from the specified reader or buffer, length delimited.
+
+#### Parameters
+
+##### reader
+
+Reader or buffer to decode from
+
+`Uint8Array`\<`ArrayBufferLike`\> | `Reader`
+
+#### Returns
+
+[`FullHistorySyncOnDemandRequestMetadata`](FullHistorySyncOnDemandRequestMetadata.md)
+
+FullHistorySyncOnDemandRequestMetadata
+
+#### Throws
+
+If the payload is not a reader or valid buffer
+
+#### Throws
+
+If required fields are missing
+
+***
+
+### encode()
+
+> `static` **encode**(`message`, `writer`?): `Writer`
+
+Defined in: [WAProto/index.d.ts:23349](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23349)
+
+Encodes the specified FullHistorySyncOnDemandRequestMetadata message. Does not implicitly [verify](FullHistorySyncOnDemandRequestMetadata.md#verify) messages.
+
+#### Parameters
+
+##### message
+
+[`IFullHistorySyncOnDemandRequestMetadata`](../interfaces/IFullHistorySyncOnDemandRequestMetadata.md)
+
+FullHistorySyncOnDemandRequestMetadata message or plain object to encode
+
+##### writer?
+
+`Writer`
+
+Writer to encode to
+
+#### Returns
+
+`Writer`
+
+Writer
+
+***
+
+### encodeDelimited()
+
+> `static` **encodeDelimited**(`message`, `writer`?): `Writer`
+
+Defined in: [WAProto/index.d.ts:23357](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23357)
+
+Encodes the specified FullHistorySyncOnDemandRequestMetadata message, length delimited. Does not implicitly [verify](FullHistorySyncOnDemandRequestMetadata.md#verify) messages.
+
+#### Parameters
+
+##### message
+
+[`IFullHistorySyncOnDemandRequestMetadata`](../interfaces/IFullHistorySyncOnDemandRequestMetadata.md)
+
+FullHistorySyncOnDemandRequestMetadata message or plain object to encode
+
+##### writer?
+
+`Writer`
+
+Writer to encode to
+
+#### Returns
+
+`Writer`
+
+Writer
+
+***
+
+### fromObject()
+
+> `static` **fromObject**(`object`): [`FullHistorySyncOnDemandRequestMetadata`](FullHistorySyncOnDemandRequestMetadata.md)
+
+Defined in: [WAProto/index.d.ts:23390](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23390)
+
+Creates a FullHistorySyncOnDemandRequestMetadata message from a plain object. Also converts values to their respective internal types.
+
+#### Parameters
+
+##### object
+
+Plain object
+
+#### Returns
+
+[`FullHistorySyncOnDemandRequestMetadata`](FullHistorySyncOnDemandRequestMetadata.md)
+
+FullHistorySyncOnDemandRequestMetadata
+
+***
+
+### getTypeUrl()
+
+> `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
+
+Defined in: [WAProto/index.d.ts:23411](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23411)
+
+Gets the default type url for FullHistorySyncOnDemandRequestMetadata
+
+#### Parameters
+
+##### typeUrlPrefix?
+
+`string`
+
+your custom typeUrlPrefix(default "type.googleapis.com")
+
+#### Returns
+
+`string`
+
+The default type url
+
+***
+
+### toObject()
+
+> `static` **toObject**(`message`, `options`?): `object`
+
+Defined in: [WAProto/index.d.ts:23398](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23398)
+
+Creates a plain object from a FullHistorySyncOnDemandRequestMetadata message. Also converts values to other types if specified.
+
+#### Parameters
+
+##### message
+
+[`FullHistorySyncOnDemandRequestMetadata`](FullHistorySyncOnDemandRequestMetadata.md)
+
+FullHistorySyncOnDemandRequestMetadata
+
+##### options?
+
+`IConversionOptions`
+
+Conversion options
+
+#### Returns
+
+`object`
+
+Plain object
+
+***
+
+### verify()
+
+> `static` **verify**(`message`): `null` \| `string`
+
+Defined in: [WAProto/index.d.ts:23383](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L23383)
+
+Verifies a FullHistorySyncOnDemandRequestMetadata message.
+
+#### Parameters
+
+##### message
+
+Plain object to verify
+
+#### Returns
+
+`null` \| `string`
+
+`null` if valid, otherwise the reason why it is not

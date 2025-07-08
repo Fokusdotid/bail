@@ -1,0 +1,85 @@
+# Interface: IBizIdentityInfo
+
+Defined in: [WAProto/index.d.ts:3464](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L3464)
+
+Properties of a BizIdentityInfo.
+
+## Properties
+
+### actualActors?
+
+> `optional` **actualActors**: `null` \| [`ActualActorsType`](../namespaces/BizIdentityInfo/enumerations/ActualActorsType.md)
+
+Defined in: [WAProto/index.d.ts:3482](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L3482)
+
+BizIdentityInfo actualActors
+
+***
+
+### featureControls?
+
+> `optional` **featureControls**: `null` \| `number` \| `Long`
+
+Defined in: [WAProto/index.d.ts:3488](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L3488)
+
+BizIdentityInfo featureControls
+
+***
+
+### hostStorage?
+
+> `optional` **hostStorage**: `null` \| [`HostStorageType`](../namespaces/BizIdentityInfo/enumerations/HostStorageType.md)
+
+Defined in: [WAProto/index.d.ts:3479](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L3479)
+
+BizIdentityInfo hostStorage
+
+***
+
+### privacyModeTs?
+
+> `optional` **privacyModeTs**: `null` \| `number` \| `Long`
+
+Defined in: [WAProto/index.d.ts:3485](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L3485)
+
+BizIdentityInfo privacyModeTs
+
+***
+
+### revoked?
+
+> `optional` **revoked**: `null` \| `boolean`
+
+Defined in: [WAProto/index.d.ts:3476](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L3476)
+
+BizIdentityInfo revoked
+
+***
+
+### signed?
+
+> `optional` **signed**: `null` \| `boolean`
+
+Defined in: [WAProto/index.d.ts:3473](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L3473)
+
+BizIdentityInfo signed
+
+***
+
+### vlevel?
+
+> `optional` **vlevel**: `null` \| [`VerifiedLevelValue`](../namespaces/BizIdentityInfo/enumerations/VerifiedLevelValue.md)
+
+Defined in: [WAProto/index.d.ts:3467](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L3467)
+
+BizIdentityInfo vlevel
+
+***
+
+### vnameCert?
+
+> `optional` **vnameCert**: `null` \| [`IVerifiedNameCertificate`](IVerifiedNameCertificate.md)
+
+Defined in: [WAProto/index.d.ts:3470](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L3470)
+
+BizIdentityInfo vnameCert

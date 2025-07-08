@@ -1,0 +1,17 @@
+# Function: isJidBroadcast()
+
+> **isJidBroadcast**(`jid`): `undefined` \| `boolean`
+
+Defined in: [src/WABinary/jid-utils.ts:54](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/WABinary/jid-utils.ts#L54)
+
+is the jid a broadcast
+
+## Parameters
+
+### jid
+
+`undefined` | `string`
+
+## Returns
+
+`undefined` \| `boolean`

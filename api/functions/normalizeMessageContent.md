@@ -1,0 +1,18 @@
+# Function: normalizeMessageContent()
+
+> **normalizeMessageContent**(`content`): `undefined` \| [`IMessage`](../namespaces/proto/interfaces/IMessage.md)
+
+Defined in: [src/Utils/messages.ts:670](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/src/Utils/messages.ts#L670)
+
+Normalizes ephemeral, view once messages to regular message content
+Eg. image messages in ephemeral messages, in view once messages etc.
+
+## Parameters
+
+### content
+
+`undefined` | `null` | [`IMessage`](../namespaces/proto/interfaces/IMessage.md)
+
+## Returns
+
+`undefined` \| [`IMessage`](../namespaces/proto/interfaces/IMessage.md)

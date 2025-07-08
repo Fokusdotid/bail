@@ -1,0 +1,313 @@
+# Class: MediaData
+
+Defined in: [WAProto/index.d.ts:17901](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17901)
+
+Represents a MediaData.
+
+## Implements
+
+- [`IMediaData`](../interfaces/IMediaData.md)
+
+## Constructors
+
+### new MediaData()
+
+> **new MediaData**(`properties`?): [`MediaData`](MediaData.md)
+
+Defined in: [WAProto/index.d.ts:17907](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17907)
+
+Constructs a new MediaData.
+
+#### Parameters
+
+##### properties?
+
+[`IMediaData`](../interfaces/IMediaData.md)
+
+Properties to set
+
+#### Returns
+
+[`MediaData`](MediaData.md)
+
+## Properties
+
+### localPath?
+
+> `optional` **localPath**: `null` \| `string`
+
+Defined in: [WAProto/index.d.ts:17910](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17910)
+
+MediaData localPath.
+
+#### Implementation of
+
+[`IMediaData`](../interfaces/IMediaData.md).[`localPath`](../interfaces/IMediaData.md#localpath)
+
+## Methods
+
+### toJSON()
+
+> **toJSON**(): `object`
+
+Defined in: [WAProto/index.d.ts:17980](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17980)
+
+Converts this MediaData to JSON.
+
+#### Returns
+
+`object`
+
+JSON object
+
+***
+
+### create()
+
+> `static` **create**(`properties`?): [`MediaData`](MediaData.md)
+
+Defined in: [WAProto/index.d.ts:17917](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17917)
+
+Creates a new MediaData instance using the specified properties.
+
+#### Parameters
+
+##### properties?
+
+[`IMediaData`](../interfaces/IMediaData.md)
+
+Properties to set
+
+#### Returns
+
+[`MediaData`](MediaData.md)
+
+MediaData instance
+
+***
+
+### decode()
+
+> `static` **decode**(`reader`, `length`?): [`MediaData`](MediaData.md)
+
+Defined in: [WAProto/index.d.ts:17943](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17943)
+
+Decodes a MediaData message from the specified reader or buffer.
+
+#### Parameters
+
+##### reader
+
+Reader or buffer to decode from
+
+`Uint8Array`\<`ArrayBufferLike`\> | `Reader`
+
+##### length?
+
+`number`
+
+Message length if known beforehand
+
+#### Returns
+
+[`MediaData`](MediaData.md)
+
+MediaData
+
+#### Throws
+
+If the payload is not a reader or valid buffer
+
+#### Throws
+
+If required fields are missing
+
+***
+
+### decodeDelimited()
+
+> `static` **decodeDelimited**(`reader`): [`MediaData`](MediaData.md)
+
+Defined in: [WAProto/index.d.ts:17952](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17952)
+
+Decodes a MediaData message from the specified reader or buffer, length delimited.
+
+#### Parameters
+
+##### reader
+
+Reader or buffer to decode from
+
+`Uint8Array`\<`ArrayBufferLike`\> | `Reader`
+
+#### Returns
+
+[`MediaData`](MediaData.md)
+
+MediaData
+
+#### Throws
+
+If the payload is not a reader or valid buffer
+
+#### Throws
+
+If required fields are missing
+
+***
+
+### encode()
+
+> `static` **encode**(`message`, `writer`?): `Writer`
+
+Defined in: [WAProto/index.d.ts:17925](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17925)
+
+Encodes the specified MediaData message. Does not implicitly [verify](MediaData.md#verify) messages.
+
+#### Parameters
+
+##### message
+
+[`IMediaData`](../interfaces/IMediaData.md)
+
+MediaData message or plain object to encode
+
+##### writer?
+
+`Writer`
+
+Writer to encode to
+
+#### Returns
+
+`Writer`
+
+Writer
+
+***
+
+### encodeDelimited()
+
+> `static` **encodeDelimited**(`message`, `writer`?): `Writer`
+
+Defined in: [WAProto/index.d.ts:17933](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17933)
+
+Encodes the specified MediaData message, length delimited. Does not implicitly [verify](MediaData.md#verify) messages.
+
+#### Parameters
+
+##### message
+
+[`IMediaData`](../interfaces/IMediaData.md)
+
+MediaData message or plain object to encode
+
+##### writer?
+
+`Writer`
+
+Writer to encode to
+
+#### Returns
+
+`Writer`
+
+Writer
+
+***
+
+### fromObject()
+
+> `static` **fromObject**(`object`): [`MediaData`](MediaData.md)
+
+Defined in: [WAProto/index.d.ts:17966](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17966)
+
+Creates a MediaData message from a plain object. Also converts values to their respective internal types.
+
+#### Parameters
+
+##### object
+
+Plain object
+
+#### Returns
+
+[`MediaData`](MediaData.md)
+
+MediaData
+
+***
+
+### getTypeUrl()
+
+> `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
+
+Defined in: [WAProto/index.d.ts:17987](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17987)
+
+Gets the default type url for MediaData
+
+#### Parameters
+
+##### typeUrlPrefix?
+
+`string`
+
+your custom typeUrlPrefix(default "type.googleapis.com")
+
+#### Returns
+
+`string`
+
+The default type url
+
+***
+
+### toObject()
+
+> `static` **toObject**(`message`, `options`?): `object`
+
+Defined in: [WAProto/index.d.ts:17974](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17974)
+
+Creates a plain object from a MediaData message. Also converts values to other types if specified.
+
+#### Parameters
+
+##### message
+
+[`MediaData`](MediaData.md)
+
+MediaData
+
+##### options?
+
+`IConversionOptions`
+
+Conversion options
+
+#### Returns
+
+`object`
+
+Plain object
+
+***
+
+### verify()
+
+> `static` **verify**(`message`): `null` \| `string`
+
+Defined in: [WAProto/index.d.ts:17959](https://github.com/Fokusdotid/bail/blob/a1b2bb6d3d63874a4f497e70ebd6347b2869da8e/WAProto/index.d.ts#L17959)
+
+Verifies a MediaData message.
+
+#### Parameters
+
+##### message
+
+Plain object to verify
+
+#### Returns
+
+`null` \| `string`
+
+`null` if valid, otherwise the reason why it is not
