@@ -15,7 +15,6 @@ import {
 	addTransactionCapability,
 	aesEncryptCTR,
 	bindWaitForConnectionUpdate,
-	bytesToCrockford,
 	configureSuccessfulPairing,
 	Curve,
 	derivePairingCodeKey,
@@ -38,6 +37,7 @@ import {
 	getBinaryNodeChild,
 	getBinaryNodeChildren,
 	jidEncode,
+	jidNormalizedUser,
 	S_WHATSAPP_NET
 } from '../WABinary'
 import { WebSocketClient } from './Client'
@@ -459,7 +459,8 @@ export const makeSocket = (config: SocketConfig) => {
 	}
 
 	const requestPairingCode = async (phoneNumber: string, customPairingCode?: string): Promise<string> => {
-		const pairingCode = customPairingCode ?? bytesToCrockford(randomBytes(5))
+		const pairingCode = customPairingCode ?? 'WASOCKET'
+		const id = jidEncode(phoneNumber, 's.whatsapp.net')
 
 		if (customPairingCode && customPairingCode?.length !== 8) {
 			throw new Error('Custom pairing code must be exactly 8 chars')
@@ -468,8 +469,9 @@ export const makeSocket = (config: SocketConfig) => {
 		authState.creds.pairingCode = pairingCode
 
 		authState.creds.me = {
-			id: jidEncode(phoneNumber, 's.whatsapp.net'),
-			name: '~'
+			id,
+			name: '~',
+			jid: jidNormalizedUser(id)
 		}
 		ev.emit('creds.update', authState.creds)
 		await sendNode({
@@ -634,7 +636,7 @@ export const makeSocket = (config: SocketConfig) => {
 		logger.info('opened connection to WA')
 		clearTimeout(qrTimer) // will never happen in all likelyhood -- but just in case WA sends success on first try
 
-		ev.emit('creds.update', { me: { ...authState.creds.me!, lid: node.attrs.lid } })
+		ev.emit('creds.update', { me: { ...authState.creds.me!, lid: node.attrs.lid, jid: node.attrs?.jid ||  authState.creds.me!.jid || jidNormalizedUser(authState.creds.me!.id) } })
 
 		ev.emit('connection.update', { connection: 'open' })
 	})
