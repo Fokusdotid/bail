@@ -1,6 +1,6 @@
 # Class: DeviceListMetadata
 
-Defined in: [WAProto/index.d.ts:13072](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13072)
+Defined in: [WAProto/index.d.ts:13072](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13072)
 
 Represents a DeviceListMetadata.
 
@@ -14,7 +14,7 @@ Represents a DeviceListMetadata.
 
 > **new DeviceListMetadata**(`properties`?): [`DeviceListMetadata`](DeviceListMetadata.md)
 
-Defined in: [WAProto/index.d.ts:13078](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13078)
+Defined in: [WAProto/index.d.ts:13078](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13078)
 
 Constructs a new DeviceListMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **receiverAccountType**: `null` \| [`ADVEncryptionType`](../enumerations/ADVEncryptionType.md)
 
-Defined in: [WAProto/index.d.ts:13093](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13093)
+Defined in: [WAProto/index.d.ts:13093](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13093)
 
 DeviceListMetadata receiverAccountType.
 
@@ -50,7 +50,7 @@ DeviceListMetadata receiverAccountType.
 
 > `optional` **recipientKeyHash**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:13096](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13096)
+Defined in: [WAProto/index.d.ts:13096](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13096)
 
 DeviceListMetadata recipientKeyHash.
 
@@ -64,7 +64,7 @@ DeviceListMetadata recipientKeyHash.
 
 > **recipientKeyIndexes**: `number`[]
 
-Defined in: [WAProto/index.d.ts:13102](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13102)
+Defined in: [WAProto/index.d.ts:13102](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13102)
 
 DeviceListMetadata recipientKeyIndexes.
 
@@ -78,7 +78,7 @@ DeviceListMetadata recipientKeyIndexes.
 
 > `optional` **recipientTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:13099](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13099)
+Defined in: [WAProto/index.d.ts:13099](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13099)
 
 DeviceListMetadata recipientTimestamp.
 
@@ -92,7 +92,7 @@ DeviceListMetadata recipientTimestamp.
 
 > `optional` **senderAccountType**: `null` \| [`ADVEncryptionType`](../enumerations/ADVEncryptionType.md)
 
-Defined in: [WAProto/index.d.ts:13090](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13090)
+Defined in: [WAProto/index.d.ts:13090](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13090)
 
 DeviceListMetadata senderAccountType.
 
@@ -106,7 +106,7 @@ DeviceListMetadata senderAccountType.
 
 > `optional` **senderKeyHash**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:13081](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13081)
+Defined in: [WAProto/index.d.ts:13081](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13081)
 
 DeviceListMetadata senderKeyHash.
 
@@ -120,7 +120,7 @@ DeviceListMetadata senderKeyHash.
 
 > **senderKeyIndexes**: `number`[]
 
-Defined in: [WAProto/index.d.ts:13087](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13087)
+Defined in: [WAProto/index.d.ts:13087](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13087)
 
 DeviceListMetadata senderKeyIndexes.
 
@@ -134,7 +134,7 @@ DeviceListMetadata senderKeyIndexes.
 
 > `optional` **senderTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:13084](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13084)
+Defined in: [WAProto/index.d.ts:13084](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13084)
 
 DeviceListMetadata senderTimestamp.
 
@@ -148,7 +148,7 @@ DeviceListMetadata senderTimestamp.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:13172](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13172)
+Defined in: [WAProto/index.d.ts:13172](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13172)
 
 Converts this DeviceListMetadata to JSON.
 
@@ -164,7 +164,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`DeviceListMetadata`](DeviceListMetadata.md)
 
-Defined in: [WAProto/index.d.ts:13109](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13109)
+Defined in: [WAProto/index.d.ts:13109](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13109)
 
 Creates a new DeviceListMetadata instance using the specified properties.
 
@@ -188,7 +188,7 @@ DeviceListMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`DeviceListMetadata`](DeviceListMetadata.md)
 
-Defined in: [WAProto/index.d.ts:13135](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13135)
+Defined in: [WAProto/index.d.ts:13135](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13135)
 
 Decodes a DeviceListMetadata message from the specified reader or buffer.
 
@@ -226,7 +226,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`DeviceListMetadata`](DeviceListMetadata.md)
 
-Defined in: [WAProto/index.d.ts:13144](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13144)
+Defined in: [WAProto/index.d.ts:13144](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13144)
 
 Decodes a DeviceListMetadata message from the specified reader or buffer, length delimited.
 
@@ -258,7 +258,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:13117](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13117)
+Defined in: [WAProto/index.d.ts:13117](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13117)
 
 Encodes the specified DeviceListMetadata message. Does not implicitly [verify](DeviceListMetadata.md#verify) messages.
 
@@ -288,7 +288,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:13125](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13125)
+Defined in: [WAProto/index.d.ts:13125](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13125)
 
 Encodes the specified DeviceListMetadata message, length delimited. Does not implicitly [verify](DeviceListMetadata.md#verify) messages.
 
@@ -318,7 +318,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`DeviceListMetadata`](DeviceListMetadata.md)
 
-Defined in: [WAProto/index.d.ts:13158](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13158)
+Defined in: [WAProto/index.d.ts:13158](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13158)
 
 Creates a DeviceListMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -340,7 +340,7 @@ DeviceListMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:13179](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13179)
+Defined in: [WAProto/index.d.ts:13179](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13179)
 
 Gets the default type url for DeviceListMetadata
 
@@ -364,7 +364,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:13166](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13166)
+Defined in: [WAProto/index.d.ts:13166](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13166)
 
 Creates a plain object from a DeviceListMetadata message. Also converts values to other types if specified.
 
@@ -394,7 +394,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13151](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13151)
+Defined in: [WAProto/index.d.ts:13151](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13151)
 
 Verifies a DeviceListMetadata message.
 

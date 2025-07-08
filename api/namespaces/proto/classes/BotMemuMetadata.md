@@ -1,6 +1,6 @@
 # Class: BotMemuMetadata
 
-Defined in: [WAProto/index.d.ts:4674](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L4674)
+Defined in: [WAProto/index.d.ts:4674](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L4674)
 
 Represents a BotMemuMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotMemuMetadata.
 
 > **new BotMemuMetadata**(`properties`?): [`BotMemuMetadata`](BotMemuMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4680](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L4680)
+Defined in: [WAProto/index.d.ts:4680](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L4680)
 
 Constructs a new BotMemuMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **faceImages**: [`IBotMediaMetadata`](../interfaces/IBotMediaMetadata.md)[]
 
-Defined in: [WAProto/index.d.ts:4683](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L4683)
+Defined in: [WAProto/index.d.ts:4683](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L4683)
 
 BotMemuMetadata faceImages.
 
@@ -50,7 +50,7 @@ BotMemuMetadata faceImages.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:4753](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L4753)
+Defined in: [WAProto/index.d.ts:4753](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L4753)
 
 Converts this BotMemuMetadata to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotMemuMetadata`](BotMemuMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4690](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L4690)
+Defined in: [WAProto/index.d.ts:4690](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L4690)
 
 Creates a new BotMemuMetadata instance using the specified properties.
 
@@ -90,7 +90,7 @@ BotMemuMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotMemuMetadata`](BotMemuMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4716](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L4716)
+Defined in: [WAProto/index.d.ts:4716](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L4716)
 
 Decodes a BotMemuMetadata message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotMemuMetadata`](BotMemuMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4725](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L4725)
+Defined in: [WAProto/index.d.ts:4725](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L4725)
 
 Decodes a BotMemuMetadata message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:4698](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L4698)
+Defined in: [WAProto/index.d.ts:4698](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L4698)
 
 Encodes the specified BotMemuMetadata message. Does not implicitly [verify](BotMemuMetadata.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:4706](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L4706)
+Defined in: [WAProto/index.d.ts:4706](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L4706)
 
 Encodes the specified BotMemuMetadata message, length delimited. Does not implicitly [verify](BotMemuMetadata.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotMemuMetadata`](BotMemuMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4739](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L4739)
+Defined in: [WAProto/index.d.ts:4739](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L4739)
 
 Creates a BotMemuMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ BotMemuMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:4760](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L4760)
+Defined in: [WAProto/index.d.ts:4760](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L4760)
 
 Gets the default type url for BotMemuMetadata
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:4747](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L4747)
+Defined in: [WAProto/index.d.ts:4747](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L4747)
 
 Creates a plain object from a BotMemuMetadata message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4732](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L4732)
+Defined in: [WAProto/index.d.ts:4732](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L4732)
 
 Verifies a BotMemuMetadata message.
 

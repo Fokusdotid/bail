@@ -1,6 +1,6 @@
 # Class: MessageContextInfo
 
-Defined in: [WAProto/index.d.ts:35995](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L35995)
+Defined in: [WAProto/index.d.ts:35995](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L35995)
 
 Represents a MessageContextInfo.
 
@@ -14,7 +14,7 @@ Represents a MessageContextInfo.
 
 > **new MessageContextInfo**(`properties`?): [`MessageContextInfo`](MessageContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:36001](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36001)
+Defined in: [WAProto/index.d.ts:36001](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36001)
 
 Constructs a new MessageContextInfo.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **botMessageSecret**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:36019](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36019)
+Defined in: [WAProto/index.d.ts:36019](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36019)
 
 MessageContextInfo botMessageSecret.
 
@@ -50,7 +50,7 @@ MessageContextInfo botMessageSecret.
 
 > `optional` **botMetadata**: `null` \| [`IBotMetadata`](../interfaces/IBotMetadata.md)
 
-Defined in: [WAProto/index.d.ts:36022](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36022)
+Defined in: [WAProto/index.d.ts:36022](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36022)
 
 MessageContextInfo botMetadata.
 
@@ -64,7 +64,7 @@ MessageContextInfo botMetadata.
 
 > `optional` **capiCreatedGroup**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:36034](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36034)
+Defined in: [WAProto/index.d.ts:36034](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36034)
 
 MessageContextInfo capiCreatedGroup.
 
@@ -78,7 +78,7 @@ MessageContextInfo capiCreatedGroup.
 
 > `optional` **deviceListMetadata**: `null` \| [`IDeviceListMetadata`](../interfaces/IDeviceListMetadata.md)
 
-Defined in: [WAProto/index.d.ts:36004](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36004)
+Defined in: [WAProto/index.d.ts:36004](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36004)
 
 MessageContextInfo deviceListMetadata.
 
@@ -92,7 +92,7 @@ MessageContextInfo deviceListMetadata.
 
 > `optional` **deviceListMetadataVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36007](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36007)
+Defined in: [WAProto/index.d.ts:36007](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36007)
 
 MessageContextInfo deviceListMetadataVersion.
 
@@ -106,7 +106,7 @@ MessageContextInfo deviceListMetadataVersion.
 
 > `optional` **limitSharing**: `null` \| [`ILimitSharing`](../interfaces/ILimitSharing.md)
 
-Defined in: [WAProto/index.d.ts:36040](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36040)
+Defined in: [WAProto/index.d.ts:36040](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36040)
 
 MessageContextInfo limitSharing.
 
@@ -120,7 +120,7 @@ MessageContextInfo limitSharing.
 
 > `optional` **limitSharingV2**: `null` \| [`ILimitSharing`](../interfaces/ILimitSharing.md)
 
-Defined in: [WAProto/index.d.ts:36043](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36043)
+Defined in: [WAProto/index.d.ts:36043](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36043)
 
 MessageContextInfo limitSharingV2.
 
@@ -134,7 +134,7 @@ MessageContextInfo limitSharingV2.
 
 > `optional` **messageAddOnDurationInSecs**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36016](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36016)
+Defined in: [WAProto/index.d.ts:36016](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36016)
 
 MessageContextInfo messageAddOnDurationInSecs.
 
@@ -148,7 +148,7 @@ MessageContextInfo messageAddOnDurationInSecs.
 
 > `optional` **messageAddOnExpiryType**: `null` \| [`MessageAddonExpiryType`](../namespaces/MessageContextInfo/enumerations/MessageAddonExpiryType.md)
 
-Defined in: [WAProto/index.d.ts:36028](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36028)
+Defined in: [WAProto/index.d.ts:36028](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36028)
 
 MessageContextInfo messageAddOnExpiryType.
 
@@ -162,7 +162,7 @@ MessageContextInfo messageAddOnExpiryType.
 
 > `optional` **messageAssociation**: `null` \| [`IMessageAssociation`](../interfaces/IMessageAssociation.md)
 
-Defined in: [WAProto/index.d.ts:36031](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36031)
+Defined in: [WAProto/index.d.ts:36031](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36031)
 
 MessageContextInfo messageAssociation.
 
@@ -176,7 +176,7 @@ MessageContextInfo messageAssociation.
 
 > `optional` **messageSecret**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:36010](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36010)
+Defined in: [WAProto/index.d.ts:36010](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36010)
 
 MessageContextInfo messageSecret.
 
@@ -190,7 +190,7 @@ MessageContextInfo messageSecret.
 
 > `optional` **paddingBytes**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:36013](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36013)
+Defined in: [WAProto/index.d.ts:36013](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36013)
 
 MessageContextInfo paddingBytes.
 
@@ -204,7 +204,7 @@ MessageContextInfo paddingBytes.
 
 > `optional` **reportingTokenVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36025](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36025)
+Defined in: [WAProto/index.d.ts:36025](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36025)
 
 MessageContextInfo reportingTokenVersion.
 
@@ -218,7 +218,7 @@ MessageContextInfo reportingTokenVersion.
 
 > `optional` **supportPayload**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36037](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36037)
+Defined in: [WAProto/index.d.ts:36037](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36037)
 
 MessageContextInfo supportPayload.
 
@@ -232,7 +232,7 @@ MessageContextInfo supportPayload.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:36113](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36113)
+Defined in: [WAProto/index.d.ts:36113](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36113)
 
 Converts this MessageContextInfo to JSON.
 
@@ -248,7 +248,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`MessageContextInfo`](MessageContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:36050](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36050)
+Defined in: [WAProto/index.d.ts:36050](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36050)
 
 Creates a new MessageContextInfo instance using the specified properties.
 
@@ -272,7 +272,7 @@ MessageContextInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`MessageContextInfo`](MessageContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:36076](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36076)
+Defined in: [WAProto/index.d.ts:36076](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36076)
 
 Decodes a MessageContextInfo message from the specified reader or buffer.
 
@@ -310,7 +310,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`MessageContextInfo`](MessageContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:36085](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36085)
+Defined in: [WAProto/index.d.ts:36085](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36085)
 
 Decodes a MessageContextInfo message from the specified reader or buffer, length delimited.
 
@@ -342,7 +342,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:36058](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36058)
+Defined in: [WAProto/index.d.ts:36058](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36058)
 
 Encodes the specified MessageContextInfo message. Does not implicitly [verify](MessageContextInfo.md#verify) messages.
 
@@ -372,7 +372,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:36066](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36066)
+Defined in: [WAProto/index.d.ts:36066](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36066)
 
 Encodes the specified MessageContextInfo message, length delimited. Does not implicitly [verify](MessageContextInfo.md#verify) messages.
 
@@ -402,7 +402,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`MessageContextInfo`](MessageContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:36099](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36099)
+Defined in: [WAProto/index.d.ts:36099](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36099)
 
 Creates a MessageContextInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -424,7 +424,7 @@ MessageContextInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:36120](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36120)
+Defined in: [WAProto/index.d.ts:36120](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36120)
 
 Gets the default type url for MessageContextInfo
 
@@ -448,7 +448,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:36107](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36107)
+Defined in: [WAProto/index.d.ts:36107](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36107)
 
 Creates a plain object from a MessageContextInfo message. Also converts values to other types if specified.
 
@@ -478,7 +478,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36092](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L36092)
+Defined in: [WAProto/index.d.ts:36092](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L36092)
 
 Verifies a MessageContextInfo message.
 

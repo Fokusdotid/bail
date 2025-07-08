@@ -1,6 +1,6 @@
 # Class: BotProgressIndicatorMetadata
 
-Defined in: [WAProto/index.d.ts:5561](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L5561)
+Defined in: [WAProto/index.d.ts:5561](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L5561)
 
 Represents a BotProgressIndicatorMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotProgressIndicatorMetadata.
 
 > **new BotProgressIndicatorMetadata**(`properties`?): [`BotProgressIndicatorMetadata`](BotProgressIndicatorMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5567](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L5567)
+Defined in: [WAProto/index.d.ts:5567](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L5567)
 
 Constructs a new BotProgressIndicatorMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **progressDescription**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5570](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L5570)
+Defined in: [WAProto/index.d.ts:5570](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L5570)
 
 BotProgressIndicatorMetadata progressDescription.
 
@@ -50,7 +50,7 @@ BotProgressIndicatorMetadata progressDescription.
 
 > **stepsMetadata**: [`IBotPlanningStepMetadata`](../namespaces/BotProgressIndicatorMetadata/interfaces/IBotPlanningStepMetadata.md)[]
 
-Defined in: [WAProto/index.d.ts:5573](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L5573)
+Defined in: [WAProto/index.d.ts:5573](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L5573)
 
 BotProgressIndicatorMetadata stepsMetadata.
 
@@ -64,7 +64,7 @@ BotProgressIndicatorMetadata stepsMetadata.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:5643](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L5643)
+Defined in: [WAProto/index.d.ts:5643](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L5643)
 
 Converts this BotProgressIndicatorMetadata to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotProgressIndicatorMetadata`](BotProgressIndicatorMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5580](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L5580)
+Defined in: [WAProto/index.d.ts:5580](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L5580)
 
 Creates a new BotProgressIndicatorMetadata instance using the specified properties.
 
@@ -104,7 +104,7 @@ BotProgressIndicatorMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotProgressIndicatorMetadata`](BotProgressIndicatorMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5606](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L5606)
+Defined in: [WAProto/index.d.ts:5606](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L5606)
 
 Decodes a BotProgressIndicatorMetadata message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotProgressIndicatorMetadata`](BotProgressIndicatorMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5615](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L5615)
+Defined in: [WAProto/index.d.ts:5615](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L5615)
 
 Decodes a BotProgressIndicatorMetadata message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5588](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L5588)
+Defined in: [WAProto/index.d.ts:5588](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L5588)
 
 Encodes the specified BotProgressIndicatorMetadata message. Does not implicitly [verify](BotProgressIndicatorMetadata.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5596](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L5596)
+Defined in: [WAProto/index.d.ts:5596](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L5596)
 
 Encodes the specified BotProgressIndicatorMetadata message, length delimited. Does not implicitly [verify](BotProgressIndicatorMetadata.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotProgressIndicatorMetadata`](BotProgressIndicatorMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5629](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L5629)
+Defined in: [WAProto/index.d.ts:5629](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L5629)
 
 Creates a BotProgressIndicatorMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ BotProgressIndicatorMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:5650](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L5650)
+Defined in: [WAProto/index.d.ts:5650](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L5650)
 
 Gets the default type url for BotProgressIndicatorMetadata
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:5637](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L5637)
+Defined in: [WAProto/index.d.ts:5637](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L5637)
 
 Creates a plain object from a BotProgressIndicatorMetadata message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5622](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L5622)
+Defined in: [WAProto/index.d.ts:5622](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L5622)
 
 Verifies a BotProgressIndicatorMetadata message.
 

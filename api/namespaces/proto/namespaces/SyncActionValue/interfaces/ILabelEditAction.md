@@ -1,6 +1,6 @@
 # Interface: ILabelEditAction
 
-Defined in: [WAProto/index.d.ts:45802](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L45802)
+Defined in: [WAProto/index.d.ts:45802](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45802)
 
 Properties of a LabelEditAction.
 
@@ -10,7 +10,7 @@ Properties of a LabelEditAction.
 
 > `optional` **color**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:45808](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L45808)
+Defined in: [WAProto/index.d.ts:45808](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45808)
 
 LabelEditAction color
 
@@ -20,7 +20,7 @@ LabelEditAction color
 
 > `optional` **deleted**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:45814](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L45814)
+Defined in: [WAProto/index.d.ts:45814](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45814)
 
 LabelEditAction deleted
 
@@ -30,7 +30,7 @@ LabelEditAction deleted
 
 > `optional` **isActive**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:45820](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L45820)
+Defined in: [WAProto/index.d.ts:45820](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45820)
 
 LabelEditAction isActive
 
@@ -40,7 +40,7 @@ LabelEditAction isActive
 
 > `optional` **isImmutable**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:45826](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L45826)
+Defined in: [WAProto/index.d.ts:45826](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45826)
 
 LabelEditAction isImmutable
 
@@ -50,7 +50,7 @@ LabelEditAction isImmutable
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:45805](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L45805)
+Defined in: [WAProto/index.d.ts:45805](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45805)
 
 LabelEditAction name
 
@@ -60,7 +60,7 @@ LabelEditAction name
 
 > `optional` **orderIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:45817](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L45817)
+Defined in: [WAProto/index.d.ts:45817](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45817)
 
 LabelEditAction orderIndex
 
@@ -70,7 +70,7 @@ LabelEditAction orderIndex
 
 > `optional` **predefinedId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:45811](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L45811)
+Defined in: [WAProto/index.d.ts:45811](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45811)
 
 LabelEditAction predefinedId
 
@@ -80,6 +80,6 @@ LabelEditAction predefinedId
 
 > `optional` **type**: `null` \| [`ListType`](../namespaces/LabelEditAction/enumerations/ListType.md)
 
-Defined in: [WAProto/index.d.ts:45823](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L45823)
+Defined in: [WAProto/index.d.ts:45823](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45823)
 
 LabelEditAction type

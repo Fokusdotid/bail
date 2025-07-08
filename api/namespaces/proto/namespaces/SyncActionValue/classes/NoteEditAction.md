@@ -1,6 +1,6 @@
 # Class: NoteEditAction
 
-Defined in: [WAProto/index.d.ts:46955](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L46955)
+Defined in: [WAProto/index.d.ts:46955](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L46955)
 
 Represents a NoteEditAction.
 
@@ -14,7 +14,7 @@ Represents a NoteEditAction.
 
 > **new NoteEditAction**(`properties`?): [`NoteEditAction`](NoteEditAction.md)
 
-Defined in: [WAProto/index.d.ts:46961](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L46961)
+Defined in: [WAProto/index.d.ts:46961](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L46961)
 
 Constructs a new NoteEditAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **chatJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46967](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L46967)
+Defined in: [WAProto/index.d.ts:46967](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L46967)
 
 NoteEditAction chatJid.
 
@@ -50,7 +50,7 @@ NoteEditAction chatJid.
 
 > `optional` **createdAt**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:46970](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L46970)
+Defined in: [WAProto/index.d.ts:46970](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L46970)
 
 NoteEditAction createdAt.
 
@@ -64,7 +64,7 @@ NoteEditAction createdAt.
 
 > `optional` **deleted**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:46973](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L46973)
+Defined in: [WAProto/index.d.ts:46973](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L46973)
 
 NoteEditAction deleted.
 
@@ -78,7 +78,7 @@ NoteEditAction deleted.
 
 > `optional` **type**: `null` \| [`NoteType`](../namespaces/NoteEditAction/enumerations/NoteType.md)
 
-Defined in: [WAProto/index.d.ts:46964](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L46964)
+Defined in: [WAProto/index.d.ts:46964](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L46964)
 
 NoteEditAction type.
 
@@ -92,7 +92,7 @@ NoteEditAction type.
 
 > `optional` **unstructuredContent**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46976](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L46976)
+Defined in: [WAProto/index.d.ts:46976](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L46976)
 
 NoteEditAction unstructuredContent.
 
@@ -106,7 +106,7 @@ NoteEditAction unstructuredContent.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:47046](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L47046)
+Defined in: [WAProto/index.d.ts:47046](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L47046)
 
 Converts this NoteEditAction to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`NoteEditAction`](NoteEditAction.md)
 
-Defined in: [WAProto/index.d.ts:46983](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L46983)
+Defined in: [WAProto/index.d.ts:46983](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L46983)
 
 Creates a new NoteEditAction instance using the specified properties.
 
@@ -146,7 +146,7 @@ NoteEditAction instance
 
 > `static` **decode**(`reader`, `length`?): [`NoteEditAction`](NoteEditAction.md)
 
-Defined in: [WAProto/index.d.ts:47009](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L47009)
+Defined in: [WAProto/index.d.ts:47009](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L47009)
 
 Decodes a NoteEditAction message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`NoteEditAction`](NoteEditAction.md)
 
-Defined in: [WAProto/index.d.ts:47018](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L47018)
+Defined in: [WAProto/index.d.ts:47018](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L47018)
 
 Decodes a NoteEditAction message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46991](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L46991)
+Defined in: [WAProto/index.d.ts:46991](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L46991)
 
 Encodes the specified NoteEditAction message. Does not implicitly [verify](NoteEditAction.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46999](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L46999)
+Defined in: [WAProto/index.d.ts:46999](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L46999)
 
 Encodes the specified NoteEditAction message, length delimited. Does not implicitly [verify](NoteEditAction.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`NoteEditAction`](NoteEditAction.md)
 
-Defined in: [WAProto/index.d.ts:47032](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L47032)
+Defined in: [WAProto/index.d.ts:47032](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L47032)
 
 Creates a NoteEditAction message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ NoteEditAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:47053](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L47053)
+Defined in: [WAProto/index.d.ts:47053](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L47053)
 
 Gets the default type url for NoteEditAction
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:47040](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L47040)
+Defined in: [WAProto/index.d.ts:47040](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L47040)
 
 Creates a plain object from a NoteEditAction message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:47025](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L47025)
+Defined in: [WAProto/index.d.ts:47025](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L47025)
 
 Verifies a NoteEditAction message.
 

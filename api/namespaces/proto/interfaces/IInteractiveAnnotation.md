@@ -1,6 +1,6 @@
 # Interface: IInteractiveAnnotation
 
-Defined in: [WAProto/index.d.ts:16634](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16634)
+Defined in: [WAProto/index.d.ts:16634](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L16634)
 
 Properties of an InteractiveAnnotation.
 
@@ -10,7 +10,7 @@ Properties of an InteractiveAnnotation.
 
 > `optional` **embeddedAction**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:16655](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16655)
+Defined in: [WAProto/index.d.ts:16655](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L16655)
 
 InteractiveAnnotation embeddedAction
 
@@ -20,7 +20,7 @@ InteractiveAnnotation embeddedAction
 
 > `optional` **embeddedContent**: `null` \| [`IEmbeddedContent`](IEmbeddedContent.md)
 
-Defined in: [WAProto/index.d.ts:16643](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16643)
+Defined in: [WAProto/index.d.ts:16643](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L16643)
 
 InteractiveAnnotation embeddedContent
 
@@ -30,7 +30,7 @@ InteractiveAnnotation embeddedContent
 
 > `optional` **location**: `null` \| [`ILocation`](ILocation.md)
 
-Defined in: [WAProto/index.d.ts:16649](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16649)
+Defined in: [WAProto/index.d.ts:16649](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L16649)
 
 InteractiveAnnotation location
 
@@ -40,7 +40,7 @@ InteractiveAnnotation location
 
 > `optional` **newsletter**: `null` \| [`IForwardedNewsletterMessageInfo`](../namespaces/ContextInfo/interfaces/IForwardedNewsletterMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:16652](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16652)
+Defined in: [WAProto/index.d.ts:16652](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L16652)
 
 InteractiveAnnotation newsletter
 
@@ -50,7 +50,7 @@ InteractiveAnnotation newsletter
 
 > `optional` **polygonVertices**: `null` \| [`IPoint`](IPoint.md)[]
 
-Defined in: [WAProto/index.d.ts:16637](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16637)
+Defined in: [WAProto/index.d.ts:16637](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L16637)
 
 InteractiveAnnotation polygonVertices
 
@@ -60,7 +60,7 @@ InteractiveAnnotation polygonVertices
 
 > `optional` **shouldSkipConfirmation**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:16640](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16640)
+Defined in: [WAProto/index.d.ts:16640](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L16640)
 
 InteractiveAnnotation shouldSkipConfirmation
 
@@ -70,7 +70,7 @@ InteractiveAnnotation shouldSkipConfirmation
 
 > `optional` **statusLinkType**: `null` \| [`StatusLinkType`](../namespaces/InteractiveAnnotation/enumerations/StatusLinkType.md)
 
-Defined in: [WAProto/index.d.ts:16646](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16646)
+Defined in: [WAProto/index.d.ts:16646](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L16646)
 
 InteractiveAnnotation statusLinkType
 
@@ -80,6 +80,6 @@ InteractiveAnnotation statusLinkType
 
 > `optional` **tapAction**: `null` \| [`ITapLinkAction`](ITapLinkAction.md)
 
-Defined in: [WAProto/index.d.ts:16658](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16658)
+Defined in: [WAProto/index.d.ts:16658](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L16658)
 
 InteractiveAnnotation tapAction

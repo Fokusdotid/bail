@@ -1,6 +1,6 @@
 # Interface: IMessageHistoryNotice
 
-Defined in: [WAProto/index.d.ts:28397](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28397)
+Defined in: [WAProto/index.d.ts:28397](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28397)
 
 Properties of a MessageHistoryNotice.
 
@@ -10,7 +10,7 @@ Properties of a MessageHistoryNotice.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:28400](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28400)
+Defined in: [WAProto/index.d.ts:28400](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28400)
 
 MessageHistoryNotice contextInfo
 
@@ -20,6 +20,6 @@ MessageHistoryNotice contextInfo
 
 > `optional` **messageHistoryMetadata**: `null` \| [`IMessageHistoryMetadata`](IMessageHistoryMetadata.md)
 
-Defined in: [WAProto/index.d.ts:28403](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28403)
+Defined in: [WAProto/index.d.ts:28403](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28403)
 
 MessageHistoryNotice messageHistoryMetadata

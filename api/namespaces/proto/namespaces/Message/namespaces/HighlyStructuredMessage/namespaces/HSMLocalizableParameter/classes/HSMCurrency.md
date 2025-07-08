@@ -1,6 +1,6 @@
 # Class: HSMCurrency
 
-Defined in: [WAProto/index.d.ts:23931](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23931)
+Defined in: [WAProto/index.d.ts:23931](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L23931)
 
 Represents a HSMCurrency.
 
@@ -14,7 +14,7 @@ Represents a HSMCurrency.
 
 > **new HSMCurrency**(`properties`?): [`HSMCurrency`](HSMCurrency.md)
 
-Defined in: [WAProto/index.d.ts:23937](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23937)
+Defined in: [WAProto/index.d.ts:23937](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L23937)
 
 Constructs a new HSMCurrency.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **amount1000**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:23943](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23943)
+Defined in: [WAProto/index.d.ts:23943](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L23943)
 
 HSMCurrency amount1000.
 
@@ -50,7 +50,7 @@ HSMCurrency amount1000.
 
 > `optional` **currencyCode**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23940](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23940)
+Defined in: [WAProto/index.d.ts:23940](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L23940)
 
 HSMCurrency currencyCode.
 
@@ -64,7 +64,7 @@ HSMCurrency currencyCode.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:24013](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24013)
+Defined in: [WAProto/index.d.ts:24013](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L24013)
 
 Converts this HSMCurrency to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`HSMCurrency`](HSMCurrency.md)
 
-Defined in: [WAProto/index.d.ts:23950](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23950)
+Defined in: [WAProto/index.d.ts:23950](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L23950)
 
 Creates a new HSMCurrency instance using the specified properties.
 
@@ -104,7 +104,7 @@ HSMCurrency instance
 
 > `static` **decode**(`reader`, `length`?): [`HSMCurrency`](HSMCurrency.md)
 
-Defined in: [WAProto/index.d.ts:23976](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23976)
+Defined in: [WAProto/index.d.ts:23976](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L23976)
 
 Decodes a HSMCurrency message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`HSMCurrency`](HSMCurrency.md)
 
-Defined in: [WAProto/index.d.ts:23985](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23985)
+Defined in: [WAProto/index.d.ts:23985](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L23985)
 
 Decodes a HSMCurrency message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23958](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23958)
+Defined in: [WAProto/index.d.ts:23958](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L23958)
 
 Encodes the specified HSMCurrency message. Does not implicitly [verify](HSMCurrency.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23966](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23966)
+Defined in: [WAProto/index.d.ts:23966](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L23966)
 
 Encodes the specified HSMCurrency message, length delimited. Does not implicitly [verify](HSMCurrency.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`HSMCurrency`](HSMCurrency.md)
 
-Defined in: [WAProto/index.d.ts:23999](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23999)
+Defined in: [WAProto/index.d.ts:23999](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L23999)
 
 Creates a HSMCurrency message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ HSMCurrency
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:24020](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24020)
+Defined in: [WAProto/index.d.ts:24020](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L24020)
 
 Gets the default type url for HSMCurrency
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:24007](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L24007)
+Defined in: [WAProto/index.d.ts:24007](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L24007)
 
 Creates a plain object from a HSMCurrency message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23992](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L23992)
+Defined in: [WAProto/index.d.ts:23992](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L23992)
 
 Verifies a HSMCurrency message.
 

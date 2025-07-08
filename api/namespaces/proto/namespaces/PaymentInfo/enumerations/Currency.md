@@ -1,6 +1,6 @@
 # Enumeration: Currency
 
-Defined in: [WAProto/index.d.ts:38758](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38758)
+Defined in: [WAProto/index.d.ts:38758](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38758)
 
 Currency enum.
 
@@ -10,7 +10,7 @@ Currency enum.
 
 > **INR**: `1`
 
-Defined in: [WAProto/index.d.ts:38760](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38760)
+Defined in: [WAProto/index.d.ts:38760](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38760)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:38760](https://github.com/Fokusdotid/bail/blob/0
 
 > **UNKNOWN\_CURRENCY**: `0`
 
-Defined in: [WAProto/index.d.ts:38759](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38759)
+Defined in: [WAProto/index.d.ts:38759](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38759)

@@ -1,6 +1,6 @@
 # Class: CustomPaymentMethod
 
-Defined in: [WAProto/index.d.ts:44712](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L44712)
+Defined in: [WAProto/index.d.ts:44712](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L44712)
 
 Represents a CustomPaymentMethod.
 
@@ -14,7 +14,7 @@ Represents a CustomPaymentMethod.
 
 > **new CustomPaymentMethod**(`properties`?): [`CustomPaymentMethod`](CustomPaymentMethod.md)
 
-Defined in: [WAProto/index.d.ts:44718](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L44718)
+Defined in: [WAProto/index.d.ts:44718](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L44718)
 
 Constructs a new CustomPaymentMethod.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **country**: `string`
 
-Defined in: [WAProto/index.d.ts:44724](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L44724)
+Defined in: [WAProto/index.d.ts:44724](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L44724)
 
 CustomPaymentMethod country.
 
@@ -50,7 +50,7 @@ CustomPaymentMethod country.
 
 > **credentialId**: `string`
 
-Defined in: [WAProto/index.d.ts:44721](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L44721)
+Defined in: [WAProto/index.d.ts:44721](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L44721)
 
 CustomPaymentMethod credentialId.
 
@@ -64,7 +64,7 @@ CustomPaymentMethod credentialId.
 
 > **metadata**: [`ICustomPaymentMethodMetadata`](../interfaces/ICustomPaymentMethodMetadata.md)[]
 
-Defined in: [WAProto/index.d.ts:44730](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L44730)
+Defined in: [WAProto/index.d.ts:44730](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L44730)
 
 CustomPaymentMethod metadata.
 
@@ -78,7 +78,7 @@ CustomPaymentMethod metadata.
 
 > **type**: `string`
 
-Defined in: [WAProto/index.d.ts:44727](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L44727)
+Defined in: [WAProto/index.d.ts:44727](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L44727)
 
 CustomPaymentMethod type.
 
@@ -92,7 +92,7 @@ CustomPaymentMethod type.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:44800](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L44800)
+Defined in: [WAProto/index.d.ts:44800](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L44800)
 
 Converts this CustomPaymentMethod to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CustomPaymentMethod`](CustomPaymentMethod.md)
 
-Defined in: [WAProto/index.d.ts:44737](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L44737)
+Defined in: [WAProto/index.d.ts:44737](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L44737)
 
 Creates a new CustomPaymentMethod instance using the specified properties.
 
@@ -132,7 +132,7 @@ CustomPaymentMethod instance
 
 > `static` **decode**(`reader`, `length`?): [`CustomPaymentMethod`](CustomPaymentMethod.md)
 
-Defined in: [WAProto/index.d.ts:44763](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L44763)
+Defined in: [WAProto/index.d.ts:44763](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L44763)
 
 Decodes a CustomPaymentMethod message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CustomPaymentMethod`](CustomPaymentMethod.md)
 
-Defined in: [WAProto/index.d.ts:44772](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L44772)
+Defined in: [WAProto/index.d.ts:44772](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L44772)
 
 Decodes a CustomPaymentMethod message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44745](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L44745)
+Defined in: [WAProto/index.d.ts:44745](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L44745)
 
 Encodes the specified CustomPaymentMethod message. Does not implicitly [verify](CustomPaymentMethod.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44753](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L44753)
+Defined in: [WAProto/index.d.ts:44753](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L44753)
 
 Encodes the specified CustomPaymentMethod message, length delimited. Does not implicitly [verify](CustomPaymentMethod.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CustomPaymentMethod`](CustomPaymentMethod.md)
 
-Defined in: [WAProto/index.d.ts:44786](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L44786)
+Defined in: [WAProto/index.d.ts:44786](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L44786)
 
 Creates a CustomPaymentMethod message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ CustomPaymentMethod
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:44807](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L44807)
+Defined in: [WAProto/index.d.ts:44807](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L44807)
 
 Gets the default type url for CustomPaymentMethod
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:44794](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L44794)
+Defined in: [WAProto/index.d.ts:44794](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L44794)
 
 Creates a plain object from a CustomPaymentMethod message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44779](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L44779)
+Defined in: [WAProto/index.d.ts:44779](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L44779)
 
 Verifies a CustomPaymentMethod message.
 

@@ -1,6 +1,6 @@
 # Interface: IHeader
 
-Defined in: [WAProto/index.d.ts:25504](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L25504)
+Defined in: [WAProto/index.d.ts:25504](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25504)
 
 Properties of a Header.
 
@@ -10,7 +10,7 @@ Properties of a Header.
 
 > `optional` **documentMessage**: `null` \| [`IDocumentMessage`](../../../interfaces/IDocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:25516](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L25516)
+Defined in: [WAProto/index.d.ts:25516](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25516)
 
 Header documentMessage
 
@@ -20,7 +20,7 @@ Header documentMessage
 
 > `optional` **hasMediaAttachment**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:25513](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L25513)
+Defined in: [WAProto/index.d.ts:25513](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25513)
 
 Header hasMediaAttachment
 
@@ -30,7 +30,7 @@ Header hasMediaAttachment
 
 > `optional` **imageMessage**: `null` \| [`IImageMessage`](../../../interfaces/IImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:25519](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L25519)
+Defined in: [WAProto/index.d.ts:25519](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25519)
 
 Header imageMessage
 
@@ -40,7 +40,7 @@ Header imageMessage
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:25522](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L25522)
+Defined in: [WAProto/index.d.ts:25522](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25522)
 
 Header jpegThumbnail
 
@@ -50,7 +50,7 @@ Header jpegThumbnail
 
 > `optional` **locationMessage**: `null` \| [`ILocationMessage`](../../../interfaces/ILocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:25528](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L25528)
+Defined in: [WAProto/index.d.ts:25528](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25528)
 
 Header locationMessage
 
@@ -60,7 +60,7 @@ Header locationMessage
 
 > `optional` **productMessage**: `null` \| [`IProductMessage`](../../../interfaces/IProductMessage.md)
 
-Defined in: [WAProto/index.d.ts:25531](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L25531)
+Defined in: [WAProto/index.d.ts:25531](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25531)
 
 Header productMessage
 
@@ -70,7 +70,7 @@ Header productMessage
 
 > `optional` **subtitle**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25510](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L25510)
+Defined in: [WAProto/index.d.ts:25510](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25510)
 
 Header subtitle
 
@@ -80,7 +80,7 @@ Header subtitle
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25507](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L25507)
+Defined in: [WAProto/index.d.ts:25507](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25507)
 
 Header title
 
@@ -90,6 +90,6 @@ Header title
 
 > `optional` **videoMessage**: `null` \| [`IVideoMessage`](../../../interfaces/IVideoMessage.md)
 
-Defined in: [WAProto/index.d.ts:25525](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L25525)
+Defined in: [WAProto/index.d.ts:25525](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L25525)
 
 Header videoMessage

@@ -2,7 +2,7 @@
 
 > **DeviceListData**: `object`
 
-Defined in: [src/WAUSync/Protocols/USyncDeviceProtocol.ts:11](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/WAUSync/Protocols/USyncDeviceProtocol.ts#L11)
+Defined in: [src/WAUSync/Protocols/USyncDeviceProtocol.ts:11](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/WAUSync/Protocols/USyncDeviceProtocol.ts#L11)
 
 ## Type declaration
 

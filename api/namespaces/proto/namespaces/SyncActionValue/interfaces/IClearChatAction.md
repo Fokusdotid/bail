@@ -1,6 +1,6 @@
 # Interface: IClearChatAction
 
-Defined in: [WAProto/index.d.ts:44375](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L44375)
+Defined in: [WAProto/index.d.ts:44375](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L44375)
 
 Properties of a ClearChatAction.
 
@@ -10,6 +10,6 @@ Properties of a ClearChatAction.
 
 > `optional` **messageRange**: `null` \| [`ISyncActionMessageRange`](ISyncActionMessageRange.md)
 
-Defined in: [WAProto/index.d.ts:44378](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L44378)
+Defined in: [WAProto/index.d.ts:44378](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L44378)
 
 ClearChatAction messageRange

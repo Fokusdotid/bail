@@ -1,6 +1,6 @@
 # Interface: ILIDMigrationMappingSyncPayload
 
-Defined in: [WAProto/index.d.ts:17344](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17344)
+Defined in: [WAProto/index.d.ts:17344](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L17344)
 
 Properties of a LIDMigrationMappingSyncPayload.
 
@@ -10,7 +10,7 @@ Properties of a LIDMigrationMappingSyncPayload.
 
 > `optional` **chatDbMigrationTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:17350](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17350)
+Defined in: [WAProto/index.d.ts:17350](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L17350)
 
 LIDMigrationMappingSyncPayload chatDbMigrationTimestamp
 
@@ -20,6 +20,6 @@ LIDMigrationMappingSyncPayload chatDbMigrationTimestamp
 
 > `optional` **pnToLidMappings**: `null` \| [`ILIDMigrationMapping`](ILIDMigrationMapping.md)[]
 
-Defined in: [WAProto/index.d.ts:17347](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L17347)
+Defined in: [WAProto/index.d.ts:17347](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L17347)
 
 LIDMigrationMappingSyncPayload pnToLidMappings

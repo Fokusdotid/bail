@@ -1,6 +1,6 @@
 # Class: SenderKeyStateStructure
 
-Defined in: [WAProto/index.d.ts:41271](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41271)
+Defined in: [WAProto/index.d.ts:41271](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41271)
 
 Represents a SenderKeyStateStructure.
 
@@ -14,7 +14,7 @@ Represents a SenderKeyStateStructure.
 
 > **new SenderKeyStateStructure**(`properties`?): [`SenderKeyStateStructure`](SenderKeyStateStructure.md)
 
-Defined in: [WAProto/index.d.ts:41277](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41277)
+Defined in: [WAProto/index.d.ts:41277](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41277)
 
 Constructs a new SenderKeyStateStructure.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **senderChainKey**: `null` \| [`ISenderChainKey`](../namespaces/SenderKeyStateStructure/interfaces/ISenderChainKey.md)
 
-Defined in: [WAProto/index.d.ts:41283](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41283)
+Defined in: [WAProto/index.d.ts:41283](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41283)
 
 SenderKeyStateStructure senderChainKey.
 
@@ -50,7 +50,7 @@ SenderKeyStateStructure senderChainKey.
 
 > `optional` **senderKeyId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:41280](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41280)
+Defined in: [WAProto/index.d.ts:41280](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41280)
 
 SenderKeyStateStructure senderKeyId.
 
@@ -64,7 +64,7 @@ SenderKeyStateStructure senderKeyId.
 
 > **senderMessageKeys**: [`ISenderMessageKey`](../namespaces/SenderKeyStateStructure/interfaces/ISenderMessageKey.md)[]
 
-Defined in: [WAProto/index.d.ts:41289](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41289)
+Defined in: [WAProto/index.d.ts:41289](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41289)
 
 SenderKeyStateStructure senderMessageKeys.
 
@@ -78,7 +78,7 @@ SenderKeyStateStructure senderMessageKeys.
 
 > `optional` **senderSigningKey**: `null` \| [`ISenderSigningKey`](../namespaces/SenderKeyStateStructure/interfaces/ISenderSigningKey.md)
 
-Defined in: [WAProto/index.d.ts:41286](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41286)
+Defined in: [WAProto/index.d.ts:41286](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41286)
 
 SenderKeyStateStructure senderSigningKey.
 
@@ -92,7 +92,7 @@ SenderKeyStateStructure senderSigningKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:41359](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41359)
+Defined in: [WAProto/index.d.ts:41359](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41359)
 
 Converts this SenderKeyStateStructure to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SenderKeyStateStructure`](SenderKeyStateStructure.md)
 
-Defined in: [WAProto/index.d.ts:41296](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41296)
+Defined in: [WAProto/index.d.ts:41296](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41296)
 
 Creates a new SenderKeyStateStructure instance using the specified properties.
 
@@ -132,7 +132,7 @@ SenderKeyStateStructure instance
 
 > `static` **decode**(`reader`, `length`?): [`SenderKeyStateStructure`](SenderKeyStateStructure.md)
 
-Defined in: [WAProto/index.d.ts:41322](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41322)
+Defined in: [WAProto/index.d.ts:41322](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41322)
 
 Decodes a SenderKeyStateStructure message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SenderKeyStateStructure`](SenderKeyStateStructure.md)
 
-Defined in: [WAProto/index.d.ts:41331](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41331)
+Defined in: [WAProto/index.d.ts:41331](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41331)
 
 Decodes a SenderKeyStateStructure message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41304](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41304)
+Defined in: [WAProto/index.d.ts:41304](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41304)
 
 Encodes the specified SenderKeyStateStructure message. Does not implicitly [verify](SenderKeyStateStructure.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41312](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41312)
+Defined in: [WAProto/index.d.ts:41312](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41312)
 
 Encodes the specified SenderKeyStateStructure message, length delimited. Does not implicitly [verify](SenderKeyStateStructure.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SenderKeyStateStructure`](SenderKeyStateStructure.md)
 
-Defined in: [WAProto/index.d.ts:41345](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41345)
+Defined in: [WAProto/index.d.ts:41345](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41345)
 
 Creates a SenderKeyStateStructure message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ SenderKeyStateStructure
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:41366](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41366)
+Defined in: [WAProto/index.d.ts:41366](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41366)
 
 Gets the default type url for SenderKeyStateStructure
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:41353](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41353)
+Defined in: [WAProto/index.d.ts:41353](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41353)
 
 Creates a plain object from a SenderKeyStateStructure message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:41338](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41338)
+Defined in: [WAProto/index.d.ts:41338](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41338)
 
 Verifies a SenderKeyStateStructure message.
 

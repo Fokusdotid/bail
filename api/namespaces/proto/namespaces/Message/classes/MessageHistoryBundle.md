@@ -1,6 +1,6 @@
 # Class: MessageHistoryBundle
 
-Defined in: [WAProto/index.d.ts:28177](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28177)
+Defined in: [WAProto/index.d.ts:28177](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28177)
 
 Represents a MessageHistoryBundle.
 
@@ -14,7 +14,7 @@ Represents a MessageHistoryBundle.
 
 > **new MessageHistoryBundle**(`properties`?): [`MessageHistoryBundle`](MessageHistoryBundle.md)
 
-Defined in: [WAProto/index.d.ts:28183](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28183)
+Defined in: [WAProto/index.d.ts:28183](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28183)
 
 Constructs a new MessageHistoryBundle.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:28204](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28204)
+Defined in: [WAProto/index.d.ts:28204](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28204)
 
 MessageHistoryBundle contextInfo.
 
@@ -50,7 +50,7 @@ MessageHistoryBundle contextInfo.
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28198](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28198)
+Defined in: [WAProto/index.d.ts:28198](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28198)
 
 MessageHistoryBundle directPath.
 
@@ -64,7 +64,7 @@ MessageHistoryBundle directPath.
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:28195](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28195)
+Defined in: [WAProto/index.d.ts:28195](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28195)
 
 MessageHistoryBundle fileEncSha256.
 
@@ -78,7 +78,7 @@ MessageHistoryBundle fileEncSha256.
 
 > `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:28189](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28189)
+Defined in: [WAProto/index.d.ts:28189](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28189)
 
 MessageHistoryBundle fileSha256.
 
@@ -92,7 +92,7 @@ MessageHistoryBundle fileSha256.
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:28192](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28192)
+Defined in: [WAProto/index.d.ts:28192](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28192)
 
 MessageHistoryBundle mediaKey.
 
@@ -106,7 +106,7 @@ MessageHistoryBundle mediaKey.
 
 > `optional` **mediaKeyTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:28201](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28201)
+Defined in: [WAProto/index.d.ts:28201](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28201)
 
 MessageHistoryBundle mediaKeyTimestamp.
 
@@ -120,7 +120,7 @@ MessageHistoryBundle mediaKeyTimestamp.
 
 > `optional` **messageHistoryMetadata**: `null` \| [`IMessageHistoryMetadata`](../interfaces/IMessageHistoryMetadata.md)
 
-Defined in: [WAProto/index.d.ts:28207](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28207)
+Defined in: [WAProto/index.d.ts:28207](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28207)
 
 MessageHistoryBundle messageHistoryMetadata.
 
@@ -134,7 +134,7 @@ MessageHistoryBundle messageHistoryMetadata.
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28186](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28186)
+Defined in: [WAProto/index.d.ts:28186](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28186)
 
 MessageHistoryBundle mimetype.
 
@@ -148,7 +148,7 @@ MessageHistoryBundle mimetype.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:28277](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28277)
+Defined in: [WAProto/index.d.ts:28277](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28277)
 
 Converts this MessageHistoryBundle to JSON.
 
@@ -164,7 +164,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`MessageHistoryBundle`](MessageHistoryBundle.md)
 
-Defined in: [WAProto/index.d.ts:28214](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28214)
+Defined in: [WAProto/index.d.ts:28214](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28214)
 
 Creates a new MessageHistoryBundle instance using the specified properties.
 
@@ -188,7 +188,7 @@ MessageHistoryBundle instance
 
 > `static` **decode**(`reader`, `length`?): [`MessageHistoryBundle`](MessageHistoryBundle.md)
 
-Defined in: [WAProto/index.d.ts:28240](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28240)
+Defined in: [WAProto/index.d.ts:28240](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28240)
 
 Decodes a MessageHistoryBundle message from the specified reader or buffer.
 
@@ -226,7 +226,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`MessageHistoryBundle`](MessageHistoryBundle.md)
 
-Defined in: [WAProto/index.d.ts:28249](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28249)
+Defined in: [WAProto/index.d.ts:28249](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28249)
 
 Decodes a MessageHistoryBundle message from the specified reader or buffer, length delimited.
 
@@ -258,7 +258,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28222](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28222)
+Defined in: [WAProto/index.d.ts:28222](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28222)
 
 Encodes the specified MessageHistoryBundle message. Does not implicitly [verify](MessageHistoryBundle.md#verify) messages.
 
@@ -288,7 +288,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28230](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28230)
+Defined in: [WAProto/index.d.ts:28230](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28230)
 
 Encodes the specified MessageHistoryBundle message, length delimited. Does not implicitly [verify](MessageHistoryBundle.md#verify) messages.
 
@@ -318,7 +318,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`MessageHistoryBundle`](MessageHistoryBundle.md)
 
-Defined in: [WAProto/index.d.ts:28263](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28263)
+Defined in: [WAProto/index.d.ts:28263](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28263)
 
 Creates a MessageHistoryBundle message from a plain object. Also converts values to their respective internal types.
 
@@ -340,7 +340,7 @@ MessageHistoryBundle
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:28284](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28284)
+Defined in: [WAProto/index.d.ts:28284](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28284)
 
 Gets the default type url for MessageHistoryBundle
 
@@ -364,7 +364,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:28271](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28271)
+Defined in: [WAProto/index.d.ts:28271](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28271)
 
 Creates a plain object from a MessageHistoryBundle message. Also converts values to other types if specified.
 
@@ -394,7 +394,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28256](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L28256)
+Defined in: [WAProto/index.d.ts:28256](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L28256)
 
 Verifies a MessageHistoryBundle message.
 

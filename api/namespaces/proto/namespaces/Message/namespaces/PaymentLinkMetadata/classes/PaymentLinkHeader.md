@@ -1,6 +1,6 @@
 # Class: PaymentLinkHeader
 
-Defined in: [WAProto/index.d.ts:29146](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L29146)
+Defined in: [WAProto/index.d.ts:29146](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L29146)
 
 Represents a PaymentLinkHeader.
 
@@ -14,7 +14,7 @@ Represents a PaymentLinkHeader.
 
 > **new PaymentLinkHeader**(`properties`?): [`PaymentLinkHeader`](PaymentLinkHeader.md)
 
-Defined in: [WAProto/index.d.ts:29152](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L29152)
+Defined in: [WAProto/index.d.ts:29152](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L29152)
 
 Constructs a new PaymentLinkHeader.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **headerType**: `null` \| [`PaymentLinkHeaderType`](../namespaces/PaymentLinkHeader/enumerations/PaymentLinkHeaderType.md)
 
-Defined in: [WAProto/index.d.ts:29155](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L29155)
+Defined in: [WAProto/index.d.ts:29155](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L29155)
 
 PaymentLinkHeader headerType.
 
@@ -50,7 +50,7 @@ PaymentLinkHeader headerType.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:29225](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L29225)
+Defined in: [WAProto/index.d.ts:29225](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L29225)
 
 Converts this PaymentLinkHeader to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PaymentLinkHeader`](PaymentLinkHeader.md)
 
-Defined in: [WAProto/index.d.ts:29162](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L29162)
+Defined in: [WAProto/index.d.ts:29162](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L29162)
 
 Creates a new PaymentLinkHeader instance using the specified properties.
 
@@ -90,7 +90,7 @@ PaymentLinkHeader instance
 
 > `static` **decode**(`reader`, `length`?): [`PaymentLinkHeader`](PaymentLinkHeader.md)
 
-Defined in: [WAProto/index.d.ts:29188](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L29188)
+Defined in: [WAProto/index.d.ts:29188](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L29188)
 
 Decodes a PaymentLinkHeader message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PaymentLinkHeader`](PaymentLinkHeader.md)
 
-Defined in: [WAProto/index.d.ts:29197](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L29197)
+Defined in: [WAProto/index.d.ts:29197](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L29197)
 
 Decodes a PaymentLinkHeader message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29170](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L29170)
+Defined in: [WAProto/index.d.ts:29170](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L29170)
 
 Encodes the specified PaymentLinkHeader message. Does not implicitly [verify](PaymentLinkHeader.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29178](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L29178)
+Defined in: [WAProto/index.d.ts:29178](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L29178)
 
 Encodes the specified PaymentLinkHeader message, length delimited. Does not implicitly [verify](PaymentLinkHeader.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PaymentLinkHeader`](PaymentLinkHeader.md)
 
-Defined in: [WAProto/index.d.ts:29211](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L29211)
+Defined in: [WAProto/index.d.ts:29211](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L29211)
 
 Creates a PaymentLinkHeader message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PaymentLinkHeader
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:29232](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L29232)
+Defined in: [WAProto/index.d.ts:29232](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L29232)
 
 Gets the default type url for PaymentLinkHeader
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:29219](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L29219)
+Defined in: [WAProto/index.d.ts:29219](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L29219)
 
 Creates a plain object from a PaymentLinkHeader message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29204](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L29204)
+Defined in: [WAProto/index.d.ts:29204](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L29204)
 
 Verifies a PaymentLinkHeader message.
 

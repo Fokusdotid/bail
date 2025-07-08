@@ -1,6 +1,6 @@
 # Class: AndroidUnsupportedActions
 
-Defined in: [WAProto/index.d.ts:43794](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43794)
+Defined in: [WAProto/index.d.ts:43794](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43794)
 
 Represents an AndroidUnsupportedActions.
 
@@ -14,7 +14,7 @@ Represents an AndroidUnsupportedActions.
 
 > **new AndroidUnsupportedActions**(`properties`?): [`AndroidUnsupportedActions`](AndroidUnsupportedActions.md)
 
-Defined in: [WAProto/index.d.ts:43800](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43800)
+Defined in: [WAProto/index.d.ts:43800](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43800)
 
 Constructs a new AndroidUnsupportedActions.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **allowed**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:43803](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43803)
+Defined in: [WAProto/index.d.ts:43803](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43803)
 
 AndroidUnsupportedActions allowed.
 
@@ -50,7 +50,7 @@ AndroidUnsupportedActions allowed.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:43873](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43873)
+Defined in: [WAProto/index.d.ts:43873](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43873)
 
 Converts this AndroidUnsupportedActions to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AndroidUnsupportedActions`](AndroidUnsupportedActions.md)
 
-Defined in: [WAProto/index.d.ts:43810](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43810)
+Defined in: [WAProto/index.d.ts:43810](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43810)
 
 Creates a new AndroidUnsupportedActions instance using the specified properties.
 
@@ -90,7 +90,7 @@ AndroidUnsupportedActions instance
 
 > `static` **decode**(`reader`, `length`?): [`AndroidUnsupportedActions`](AndroidUnsupportedActions.md)
 
-Defined in: [WAProto/index.d.ts:43836](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43836)
+Defined in: [WAProto/index.d.ts:43836](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43836)
 
 Decodes an AndroidUnsupportedActions message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AndroidUnsupportedActions`](AndroidUnsupportedActions.md)
 
-Defined in: [WAProto/index.d.ts:43845](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43845)
+Defined in: [WAProto/index.d.ts:43845](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43845)
 
 Decodes an AndroidUnsupportedActions message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:43818](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43818)
+Defined in: [WAProto/index.d.ts:43818](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43818)
 
 Encodes the specified AndroidUnsupportedActions message. Does not implicitly [verify](AndroidUnsupportedActions.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:43826](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43826)
+Defined in: [WAProto/index.d.ts:43826](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43826)
 
 Encodes the specified AndroidUnsupportedActions message, length delimited. Does not implicitly [verify](AndroidUnsupportedActions.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AndroidUnsupportedActions`](AndroidUnsupportedActions.md)
 
-Defined in: [WAProto/index.d.ts:43859](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43859)
+Defined in: [WAProto/index.d.ts:43859](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43859)
 
 Creates an AndroidUnsupportedActions message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ AndroidUnsupportedActions
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:43880](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43880)
+Defined in: [WAProto/index.d.ts:43880](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43880)
 
 Gets the default type url for AndroidUnsupportedActions
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:43867](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43867)
+Defined in: [WAProto/index.d.ts:43867](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43867)
 
 Creates a plain object from an AndroidUnsupportedActions message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:43852](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L43852)
+Defined in: [WAProto/index.d.ts:43852](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L43852)
 
 Verifies an AndroidUnsupportedActions message.
 

@@ -1,6 +1,6 @@
 # Interface: ILabelAssociationAction
 
-Defined in: [WAProto/index.d.ts:45705](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L45705)
+Defined in: [WAProto/index.d.ts:45705](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45705)
 
 Properties of a LabelAssociationAction.
 
@@ -10,6 +10,6 @@ Properties of a LabelAssociationAction.
 
 > `optional` **labeled**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:45708](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L45708)
+Defined in: [WAProto/index.d.ts:45708](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L45708)
 
 LabelAssociationAction labeled

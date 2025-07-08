@@ -1,6 +1,6 @@
 # Enumeration: Transformer
 
-Defined in: [WAProto/index.d.ts:51598](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L51598)
+Defined in: [WAProto/index.d.ts:51598](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L51598)
 
 Transformer enum.
 
@@ -10,7 +10,7 @@ Transformer enum.
 
 > **NONE**: `0`
 
-Defined in: [WAProto/index.d.ts:51599](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L51599)
+Defined in: [WAProto/index.d.ts:51599](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L51599)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:51599](https://github.com/Fokusdotid/bail/blob/0
 
 > **PBKDF2\_HMAC\_SHA384**: `2`
 
-Defined in: [WAProto/index.d.ts:51601](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L51601)
+Defined in: [WAProto/index.d.ts:51601](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L51601)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:51601](https://github.com/Fokusdotid/bail/blob/0
 
 > **PBKDF2\_HMAC\_SHA512**: `1`
 
-Defined in: [WAProto/index.d.ts:51600](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L51600)
+Defined in: [WAProto/index.d.ts:51600](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L51600)

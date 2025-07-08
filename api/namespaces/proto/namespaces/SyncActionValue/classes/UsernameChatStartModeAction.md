@@ -1,6 +1,6 @@
 # Class: UsernameChatStartModeAction
 
-Defined in: [WAProto/index.d.ts:49556](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L49556)
+Defined in: [WAProto/index.d.ts:49556](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L49556)
 
 Represents a UsernameChatStartModeAction.
 
@@ -14,7 +14,7 @@ Represents a UsernameChatStartModeAction.
 
 > **new UsernameChatStartModeAction**(`properties`?): [`UsernameChatStartModeAction`](UsernameChatStartModeAction.md)
 
-Defined in: [WAProto/index.d.ts:49562](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L49562)
+Defined in: [WAProto/index.d.ts:49562](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L49562)
 
 Constructs a new UsernameChatStartModeAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **chatStartMode**: `null` \| [`ChatStartMode`](../namespaces/UsernameChatStartModeAction/enumerations/ChatStartMode.md)
 
-Defined in: [WAProto/index.d.ts:49565](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L49565)
+Defined in: [WAProto/index.d.ts:49565](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L49565)
 
 UsernameChatStartModeAction chatStartMode.
 
@@ -50,7 +50,7 @@ UsernameChatStartModeAction chatStartMode.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:49635](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L49635)
+Defined in: [WAProto/index.d.ts:49635](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L49635)
 
 Converts this UsernameChatStartModeAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`UsernameChatStartModeAction`](UsernameChatStartModeAction.md)
 
-Defined in: [WAProto/index.d.ts:49572](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L49572)
+Defined in: [WAProto/index.d.ts:49572](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L49572)
 
 Creates a new UsernameChatStartModeAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ UsernameChatStartModeAction instance
 
 > `static` **decode**(`reader`, `length`?): [`UsernameChatStartModeAction`](UsernameChatStartModeAction.md)
 
-Defined in: [WAProto/index.d.ts:49598](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L49598)
+Defined in: [WAProto/index.d.ts:49598](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L49598)
 
 Decodes a UsernameChatStartModeAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`UsernameChatStartModeAction`](UsernameChatStartModeAction.md)
 
-Defined in: [WAProto/index.d.ts:49607](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L49607)
+Defined in: [WAProto/index.d.ts:49607](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L49607)
 
 Decodes a UsernameChatStartModeAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:49580](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L49580)
+Defined in: [WAProto/index.d.ts:49580](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L49580)
 
 Encodes the specified UsernameChatStartModeAction message. Does not implicitly [verify](UsernameChatStartModeAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:49588](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L49588)
+Defined in: [WAProto/index.d.ts:49588](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L49588)
 
 Encodes the specified UsernameChatStartModeAction message, length delimited. Does not implicitly [verify](UsernameChatStartModeAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`UsernameChatStartModeAction`](UsernameChatStartModeAction.md)
 
-Defined in: [WAProto/index.d.ts:49621](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L49621)
+Defined in: [WAProto/index.d.ts:49621](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L49621)
 
 Creates a UsernameChatStartModeAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ UsernameChatStartModeAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:49642](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L49642)
+Defined in: [WAProto/index.d.ts:49642](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L49642)
 
 Gets the default type url for UsernameChatStartModeAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:49629](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L49629)
+Defined in: [WAProto/index.d.ts:49629](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L49629)
 
 Creates a plain object from a UsernameChatStartModeAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:49614](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L49614)
+Defined in: [WAProto/index.d.ts:49614](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L49614)
 
 Verifies a UsernameChatStartModeAction message.
 

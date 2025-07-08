@@ -2,7 +2,7 @@
 
 > **aggregateMessageKeysNotFromMe**(`keys`): `object`[]
 
-Defined in: [src/Utils/messages.ts:848](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/Utils/messages.ts#L848)
+Defined in: [src/Utils/messages.ts:848](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/Utils/messages.ts#L848)
 
 Given a list of message keys, aggregates them by chat & sender. Useful for sending read receipts in bulk
 

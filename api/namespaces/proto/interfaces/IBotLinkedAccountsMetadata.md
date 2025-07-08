@@ -1,6 +1,6 @@
 # Interface: IBotLinkedAccountsMetadata
 
-Defined in: [WAProto/index.d.ts:4203](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L4203)
+Defined in: [WAProto/index.d.ts:4203](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L4203)
 
 Properties of a BotLinkedAccountsMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotLinkedAccountsMetadata.
 
 > `optional` **acAuthTokens**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:4209](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L4209)
+Defined in: [WAProto/index.d.ts:4209](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L4209)
 
 BotLinkedAccountsMetadata acAuthTokens
 
@@ -20,7 +20,7 @@ BotLinkedAccountsMetadata acAuthTokens
 
 > `optional` **accounts**: `null` \| [`IBotLinkedAccount`](IBotLinkedAccount.md)[]
 
-Defined in: [WAProto/index.d.ts:4206](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L4206)
+Defined in: [WAProto/index.d.ts:4206](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L4206)
 
 BotLinkedAccountsMetadata accounts
 
@@ -30,6 +30,6 @@ BotLinkedAccountsMetadata accounts
 
 > `optional` **acErrorCode**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:4212](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L4212)
+Defined in: [WAProto/index.d.ts:4212](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L4212)
 
 BotLinkedAccountsMetadata acErrorCode

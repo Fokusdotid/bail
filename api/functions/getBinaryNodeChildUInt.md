@@ -2,7 +2,7 @@
 
 > **getBinaryNodeChildUInt**(`node`, `childTag`, `length`): `undefined` \| `number`
 
-Defined in: [src/WABinary/generic-utils.ts:45](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/WABinary/generic-utils.ts#L45)
+Defined in: [src/WABinary/generic-utils.ts:45](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/WABinary/generic-utils.ts#L45)
 
 ## Parameters
 

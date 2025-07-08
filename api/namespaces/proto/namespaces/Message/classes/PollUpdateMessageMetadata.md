@@ -1,6 +1,6 @@
 # Class: PollUpdateMessageMetadata
 
-Defined in: [WAProto/index.d.ts:31981](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L31981)
+Defined in: [WAProto/index.d.ts:31981](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L31981)
 
 Represents a PollUpdateMessageMetadata.
 
@@ -14,7 +14,7 @@ Represents a PollUpdateMessageMetadata.
 
 > **new PollUpdateMessageMetadata**(`properties`?): [`PollUpdateMessageMetadata`](PollUpdateMessageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:31987](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L31987)
+Defined in: [WAProto/index.d.ts:31987](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L31987)
 
 Constructs a new PollUpdateMessageMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:32057](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L32057)
+Defined in: [WAProto/index.d.ts:32057](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L32057)
 
 Converts this PollUpdateMessageMetadata to JSON.
 
@@ -52,7 +52,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PollUpdateMessageMetadata`](PollUpdateMessageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:31994](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L31994)
+Defined in: [WAProto/index.d.ts:31994](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L31994)
 
 Creates a new PollUpdateMessageMetadata instance using the specified properties.
 
@@ -76,7 +76,7 @@ PollUpdateMessageMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`PollUpdateMessageMetadata`](PollUpdateMessageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:32020](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L32020)
+Defined in: [WAProto/index.d.ts:32020](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L32020)
 
 Decodes a PollUpdateMessageMetadata message from the specified reader or buffer.
 
@@ -114,7 +114,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PollUpdateMessageMetadata`](PollUpdateMessageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:32029](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L32029)
+Defined in: [WAProto/index.d.ts:32029](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L32029)
 
 Decodes a PollUpdateMessageMetadata message from the specified reader or buffer, length delimited.
 
@@ -146,7 +146,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:32002](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L32002)
+Defined in: [WAProto/index.d.ts:32002](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L32002)
 
 Encodes the specified PollUpdateMessageMetadata message. Does not implicitly [verify](PollUpdateMessageMetadata.md#verify) messages.
 
@@ -176,7 +176,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:32010](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L32010)
+Defined in: [WAProto/index.d.ts:32010](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L32010)
 
 Encodes the specified PollUpdateMessageMetadata message, length delimited. Does not implicitly [verify](PollUpdateMessageMetadata.md#verify) messages.
 
@@ -206,7 +206,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PollUpdateMessageMetadata`](PollUpdateMessageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:32043](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L32043)
+Defined in: [WAProto/index.d.ts:32043](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L32043)
 
 Creates a PollUpdateMessageMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -228,7 +228,7 @@ PollUpdateMessageMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:32064](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L32064)
+Defined in: [WAProto/index.d.ts:32064](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L32064)
 
 Gets the default type url for PollUpdateMessageMetadata
 
@@ -252,7 +252,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:32051](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L32051)
+Defined in: [WAProto/index.d.ts:32051](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L32051)
 
 Creates a plain object from a PollUpdateMessageMetadata message. Also converts values to other types if specified.
 
@@ -282,7 +282,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32036](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L32036)
+Defined in: [WAProto/index.d.ts:32036](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L32036)
 
 Verifies a PollUpdateMessageMetadata message.
 

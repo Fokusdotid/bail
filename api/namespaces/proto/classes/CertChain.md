@@ -1,6 +1,6 @@
 # Class: CertChain
 
-Defined in: [WAProto/index.d.ts:7821](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L7821)
+Defined in: [WAProto/index.d.ts:7821](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L7821)
 
 Represents a CertChain.
 
@@ -14,7 +14,7 @@ Represents a CertChain.
 
 > **new CertChain**(`properties`?): [`CertChain`](CertChain.md)
 
-Defined in: [WAProto/index.d.ts:7827](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L7827)
+Defined in: [WAProto/index.d.ts:7827](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L7827)
 
 Constructs a new CertChain.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **intermediate**: `null` \| [`INoiseCertificate`](../namespaces/CertChain/interfaces/INoiseCertificate.md)
 
-Defined in: [WAProto/index.d.ts:7833](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L7833)
+Defined in: [WAProto/index.d.ts:7833](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L7833)
 
 CertChain intermediate.
 
@@ -50,7 +50,7 @@ CertChain intermediate.
 
 > `optional` **leaf**: `null` \| [`INoiseCertificate`](../namespaces/CertChain/interfaces/INoiseCertificate.md)
 
-Defined in: [WAProto/index.d.ts:7830](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L7830)
+Defined in: [WAProto/index.d.ts:7830](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L7830)
 
 CertChain leaf.
 
@@ -64,7 +64,7 @@ CertChain leaf.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:7903](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L7903)
+Defined in: [WAProto/index.d.ts:7903](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L7903)
 
 Converts this CertChain to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CertChain`](CertChain.md)
 
-Defined in: [WAProto/index.d.ts:7840](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L7840)
+Defined in: [WAProto/index.d.ts:7840](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L7840)
 
 Creates a new CertChain instance using the specified properties.
 
@@ -104,7 +104,7 @@ CertChain instance
 
 > `static` **decode**(`reader`, `length`?): [`CertChain`](CertChain.md)
 
-Defined in: [WAProto/index.d.ts:7866](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L7866)
+Defined in: [WAProto/index.d.ts:7866](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L7866)
 
 Decodes a CertChain message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CertChain`](CertChain.md)
 
-Defined in: [WAProto/index.d.ts:7875](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L7875)
+Defined in: [WAProto/index.d.ts:7875](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L7875)
 
 Decodes a CertChain message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:7848](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L7848)
+Defined in: [WAProto/index.d.ts:7848](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L7848)
 
 Encodes the specified CertChain message. Does not implicitly [verify](CertChain.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:7856](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L7856)
+Defined in: [WAProto/index.d.ts:7856](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L7856)
 
 Encodes the specified CertChain message, length delimited. Does not implicitly [verify](CertChain.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CertChain`](CertChain.md)
 
-Defined in: [WAProto/index.d.ts:7889](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L7889)
+Defined in: [WAProto/index.d.ts:7889](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L7889)
 
 Creates a CertChain message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ CertChain
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:7910](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L7910)
+Defined in: [WAProto/index.d.ts:7910](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L7910)
 
 Gets the default type url for CertChain
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:7897](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L7897)
+Defined in: [WAProto/index.d.ts:7897](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L7897)
 
 Creates a plain object from a CertChain message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7882](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L7882)
+Defined in: [WAProto/index.d.ts:7882](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L7882)
 
 Verifies a CertChain message.
 

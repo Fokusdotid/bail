@@ -1,6 +1,6 @@
 # Enumeration: Platform
 
-Defined in: [WAProto/index.d.ts:38292](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38292)
+Defined in: [WAProto/index.d.ts:38292](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38292)
 
 Platform enum.
 
@@ -10,7 +10,7 @@ Platform enum.
 
 > **ANDROID**: `0`
 
-Defined in: [WAProto/index.d.ts:38293](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38293)
+Defined in: [WAProto/index.d.ts:38293](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38293)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:38293](https://github.com/Fokusdotid/bail/blob/0
 
 > **DARWIN**: `6`
 
-Defined in: [WAProto/index.d.ts:38299](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38299)
+Defined in: [WAProto/index.d.ts:38299](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38299)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:38299](https://github.com/Fokusdotid/bail/blob/0
 
 > **IPAD**: `7`
 
-Defined in: [WAProto/index.d.ts:38300](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38300)
+Defined in: [WAProto/index.d.ts:38300](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38300)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:38300](https://github.com/Fokusdotid/bail/blob/0
 
 > **IPHONE**: `2`
 
-Defined in: [WAProto/index.d.ts:38295](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38295)
+Defined in: [WAProto/index.d.ts:38295](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38295)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [WAProto/index.d.ts:38295](https://github.com/Fokusdotid/bail/blob/0
 
 > **SMBA**: `1`
 
-Defined in: [WAProto/index.d.ts:38294](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38294)
+Defined in: [WAProto/index.d.ts:38294](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38294)
 
 ***
 
@@ -50,7 +50,7 @@ Defined in: [WAProto/index.d.ts:38294](https://github.com/Fokusdotid/bail/blob/0
 
 > **SMBI**: `3`
 
-Defined in: [WAProto/index.d.ts:38296](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38296)
+Defined in: [WAProto/index.d.ts:38296](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38296)
 
 ***
 
@@ -58,7 +58,7 @@ Defined in: [WAProto/index.d.ts:38296](https://github.com/Fokusdotid/bail/blob/0
 
 > **UWP**: `5`
 
-Defined in: [WAProto/index.d.ts:38298](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38298)
+Defined in: [WAProto/index.d.ts:38298](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38298)
 
 ***
 
@@ -66,7 +66,7 @@ Defined in: [WAProto/index.d.ts:38298](https://github.com/Fokusdotid/bail/blob/0
 
 > **WEAROS**: `8`
 
-Defined in: [WAProto/index.d.ts:38301](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38301)
+Defined in: [WAProto/index.d.ts:38301](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38301)
 
 ***
 
@@ -74,4 +74,4 @@ Defined in: [WAProto/index.d.ts:38301](https://github.com/Fokusdotid/bail/blob/0
 
 > **WEB**: `4`
 
-Defined in: [WAProto/index.d.ts:38297](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38297)
+Defined in: [WAProto/index.d.ts:38297](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38297)

@@ -1,6 +1,6 @@
 # Interface: IEncryptedPairingRequest
 
-Defined in: [WAProto/index.d.ts:14134](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L14134)
+Defined in: [WAProto/index.d.ts:14134](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L14134)
 
 Properties of an EncryptedPairingRequest.
 
@@ -10,7 +10,7 @@ Properties of an EncryptedPairingRequest.
 
 > `optional` **encryptedPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:14137](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L14137)
+Defined in: [WAProto/index.d.ts:14137](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L14137)
 
 EncryptedPairingRequest encryptedPayload
 
@@ -20,6 +20,6 @@ EncryptedPairingRequest encryptedPayload
 
 > `optional` **iv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:14140](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L14140)
+Defined in: [WAProto/index.d.ts:14140](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L14140)
 
 EncryptedPairingRequest iv

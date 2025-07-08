@@ -1,6 +1,6 @@
 # Class: Reportable
 
-Defined in: [WAProto/index.d.ts:40738](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L40738)
+Defined in: [WAProto/index.d.ts:40738](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40738)
 
 Represents a Reportable.
 
@@ -14,7 +14,7 @@ Represents a Reportable.
 
 > **new Reportable**(`properties`?): [`Reportable`](Reportable.md)
 
-Defined in: [WAProto/index.d.ts:40744](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L40744)
+Defined in: [WAProto/index.d.ts:40744](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40744)
 
 Constructs a new Reportable.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **maxVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:40750](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L40750)
+Defined in: [WAProto/index.d.ts:40750](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40750)
 
 Reportable maxVersion.
 
@@ -50,7 +50,7 @@ Reportable maxVersion.
 
 > `optional` **minVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:40747](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L40747)
+Defined in: [WAProto/index.d.ts:40747](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40747)
 
 Reportable minVersion.
 
@@ -64,7 +64,7 @@ Reportable minVersion.
 
 > `optional` **never**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:40756](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L40756)
+Defined in: [WAProto/index.d.ts:40756](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40756)
 
 Reportable never.
 
@@ -78,7 +78,7 @@ Reportable never.
 
 > `optional` **notReportableMinVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:40753](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L40753)
+Defined in: [WAProto/index.d.ts:40753](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40753)
 
 Reportable notReportableMinVersion.
 
@@ -92,7 +92,7 @@ Reportable notReportableMinVersion.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:40826](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L40826)
+Defined in: [WAProto/index.d.ts:40826](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40826)
 
 Converts this Reportable to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Reportable`](Reportable.md)
 
-Defined in: [WAProto/index.d.ts:40763](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L40763)
+Defined in: [WAProto/index.d.ts:40763](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40763)
 
 Creates a new Reportable instance using the specified properties.
 
@@ -132,7 +132,7 @@ Reportable instance
 
 > `static` **decode**(`reader`, `length`?): [`Reportable`](Reportable.md)
 
-Defined in: [WAProto/index.d.ts:40789](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L40789)
+Defined in: [WAProto/index.d.ts:40789](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40789)
 
 Decodes a Reportable message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Reportable`](Reportable.md)
 
-Defined in: [WAProto/index.d.ts:40798](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L40798)
+Defined in: [WAProto/index.d.ts:40798](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40798)
 
 Decodes a Reportable message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:40771](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L40771)
+Defined in: [WAProto/index.d.ts:40771](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40771)
 
 Encodes the specified Reportable message. Does not implicitly [verify](Reportable.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:40779](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L40779)
+Defined in: [WAProto/index.d.ts:40779](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40779)
 
 Encodes the specified Reportable message, length delimited. Does not implicitly [verify](Reportable.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Reportable`](Reportable.md)
 
-Defined in: [WAProto/index.d.ts:40812](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L40812)
+Defined in: [WAProto/index.d.ts:40812](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40812)
 
 Creates a Reportable message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ Reportable
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:40833](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L40833)
+Defined in: [WAProto/index.d.ts:40833](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40833)
 
 Gets the default type url for Reportable
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:40820](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L40820)
+Defined in: [WAProto/index.d.ts:40820](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40820)
 
 Creates a plain object from a Reportable message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:40805](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L40805)
+Defined in: [WAProto/index.d.ts:40805](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L40805)
 
 Verifies a Reportable message.
 

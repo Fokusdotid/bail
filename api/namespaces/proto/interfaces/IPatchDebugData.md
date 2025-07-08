@@ -1,6 +1,6 @@
 # Interface: IPatchDebugData
 
-Defined in: [WAProto/index.d.ts:38133](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38133)
+Defined in: [WAProto/index.d.ts:38133](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38133)
 
 Properties of a PatchDebugData.
 
@@ -10,7 +10,7 @@ Properties of a PatchDebugData.
 
 > `optional` **collectionName**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38145](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38145)
+Defined in: [WAProto/index.d.ts:38145](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38145)
 
 PatchDebugData collectionName
 
@@ -20,7 +20,7 @@ PatchDebugData collectionName
 
 > `optional` **currentLthash**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38136](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38136)
+Defined in: [WAProto/index.d.ts:38136](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38136)
 
 PatchDebugData currentLthash
 
@@ -30,7 +30,7 @@ PatchDebugData currentLthash
 
 > `optional` **firstFourBytesFromAHashOfSnapshotMacKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38148](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38148)
+Defined in: [WAProto/index.d.ts:38148](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38148)
 
 PatchDebugData firstFourBytesFromAHashOfSnapshotMacKey
 
@@ -40,7 +40,7 @@ PatchDebugData firstFourBytesFromAHashOfSnapshotMacKey
 
 > `optional` **isSenderPrimary**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:38166](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38166)
+Defined in: [WAProto/index.d.ts:38166](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38166)
 
 PatchDebugData isSenderPrimary
 
@@ -50,7 +50,7 @@ PatchDebugData isSenderPrimary
 
 > `optional` **newLthash**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38139](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38139)
+Defined in: [WAProto/index.d.ts:38139](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38139)
 
 PatchDebugData newLthash
 
@@ -60,7 +60,7 @@ PatchDebugData newLthash
 
 > `optional` **newLthashSubtract**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38151](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38151)
+Defined in: [WAProto/index.d.ts:38151](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38151)
 
 PatchDebugData newLthashSubtract
 
@@ -70,7 +70,7 @@ PatchDebugData newLthashSubtract
 
 > `optional` **numberAdd**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38154](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38154)
+Defined in: [WAProto/index.d.ts:38154](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38154)
 
 PatchDebugData numberAdd
 
@@ -80,7 +80,7 @@ PatchDebugData numberAdd
 
 > `optional` **numberOverride**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38160](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38160)
+Defined in: [WAProto/index.d.ts:38160](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38160)
 
 PatchDebugData numberOverride
 
@@ -90,7 +90,7 @@ PatchDebugData numberOverride
 
 > `optional` **numberRemove**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38157](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38157)
+Defined in: [WAProto/index.d.ts:38157](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38157)
 
 PatchDebugData numberRemove
 
@@ -100,7 +100,7 @@ PatchDebugData numberRemove
 
 > `optional` **patchVersion**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38142](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38142)
+Defined in: [WAProto/index.d.ts:38142](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38142)
 
 PatchDebugData patchVersion
 
@@ -110,6 +110,6 @@ PatchDebugData patchVersion
 
 > `optional` **senderPlatform**: `null` \| [`Platform`](../namespaces/PatchDebugData/enumerations/Platform.md)
 
-Defined in: [WAProto/index.d.ts:38163](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L38163)
+Defined in: [WAProto/index.d.ts:38163](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L38163)
 
 PatchDebugData senderPlatform

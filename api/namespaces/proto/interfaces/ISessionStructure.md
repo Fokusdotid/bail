@@ -1,6 +1,6 @@
 # Interface: ISessionStructure
 
-Defined in: [WAProto/index.d.ts:41779](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41779)
+Defined in: [WAProto/index.d.ts:41779](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41779)
 
 Properties of a SessionStructure.
 
@@ -10,7 +10,7 @@ Properties of a SessionStructure.
 
 > `optional` **aliceBaseKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:41818](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41818)
+Defined in: [WAProto/index.d.ts:41818](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41818)
 
 SessionStructure aliceBaseKey
 
@@ -20,7 +20,7 @@ SessionStructure aliceBaseKey
 
 > `optional` **localIdentityPublic**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:41785](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41785)
+Defined in: [WAProto/index.d.ts:41785](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41785)
 
 SessionStructure localIdentityPublic
 
@@ -30,7 +30,7 @@ SessionStructure localIdentityPublic
 
 > `optional` **localRegistrationId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:41812](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41812)
+Defined in: [WAProto/index.d.ts:41812](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41812)
 
 SessionStructure localRegistrationId
 
@@ -40,7 +40,7 @@ SessionStructure localRegistrationId
 
 > `optional` **needsRefresh**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:41815](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41815)
+Defined in: [WAProto/index.d.ts:41815](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41815)
 
 SessionStructure needsRefresh
 
@@ -50,7 +50,7 @@ SessionStructure needsRefresh
 
 > `optional` **pendingKeyExchange**: `null` \| [`IPendingKeyExchange`](../namespaces/SessionStructure/interfaces/IPendingKeyExchange.md)
 
-Defined in: [WAProto/index.d.ts:41803](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41803)
+Defined in: [WAProto/index.d.ts:41803](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41803)
 
 SessionStructure pendingKeyExchange
 
@@ -60,7 +60,7 @@ SessionStructure pendingKeyExchange
 
 > `optional` **pendingPreKey**: `null` \| [`IPendingPreKey`](../namespaces/SessionStructure/interfaces/IPendingPreKey.md)
 
-Defined in: [WAProto/index.d.ts:41806](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41806)
+Defined in: [WAProto/index.d.ts:41806](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41806)
 
 SessionStructure pendingPreKey
 
@@ -70,7 +70,7 @@ SessionStructure pendingPreKey
 
 > `optional` **previousCounter**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:41794](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41794)
+Defined in: [WAProto/index.d.ts:41794](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41794)
 
 SessionStructure previousCounter
 
@@ -80,7 +80,7 @@ SessionStructure previousCounter
 
 > `optional` **receiverChains**: `null` \| [`IChain`](../namespaces/SessionStructure/interfaces/IChain.md)[]
 
-Defined in: [WAProto/index.d.ts:41800](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41800)
+Defined in: [WAProto/index.d.ts:41800](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41800)
 
 SessionStructure receiverChains
 
@@ -90,7 +90,7 @@ SessionStructure receiverChains
 
 > `optional` **remoteIdentityPublic**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:41788](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41788)
+Defined in: [WAProto/index.d.ts:41788](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41788)
 
 SessionStructure remoteIdentityPublic
 
@@ -100,7 +100,7 @@ SessionStructure remoteIdentityPublic
 
 > `optional` **remoteRegistrationId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:41809](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41809)
+Defined in: [WAProto/index.d.ts:41809](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41809)
 
 SessionStructure remoteRegistrationId
 
@@ -110,7 +110,7 @@ SessionStructure remoteRegistrationId
 
 > `optional` **rootKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:41791](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41791)
+Defined in: [WAProto/index.d.ts:41791](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41791)
 
 SessionStructure rootKey
 
@@ -120,7 +120,7 @@ SessionStructure rootKey
 
 > `optional` **senderChain**: `null` \| [`IChain`](../namespaces/SessionStructure/interfaces/IChain.md)
 
-Defined in: [WAProto/index.d.ts:41797](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41797)
+Defined in: [WAProto/index.d.ts:41797](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41797)
 
 SessionStructure senderChain
 
@@ -130,6 +130,6 @@ SessionStructure senderChain
 
 > `optional` **sessionVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:41782](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L41782)
+Defined in: [WAProto/index.d.ts:41782](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L41782)
 
 SessionStructure sessionVersion

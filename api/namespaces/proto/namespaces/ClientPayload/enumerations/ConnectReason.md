@@ -1,6 +1,6 @@
 # Enumeration: ConnectReason
 
-Defined in: [WAProto/index.d.ts:9256](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L9256)
+Defined in: [WAProto/index.d.ts:9256](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9256)
 
 ConnectReason enum.
 
@@ -10,7 +10,7 @@ ConnectReason enum.
 
 > **ERROR\_RECONNECT**: `3`
 
-Defined in: [WAProto/index.d.ts:9260](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L9260)
+Defined in: [WAProto/index.d.ts:9260](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9260)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:9260](https://github.com/Fokusdotid/bail/blob/04
 
 > **NETWORK\_SWITCH**: `4`
 
-Defined in: [WAProto/index.d.ts:9261](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L9261)
+Defined in: [WAProto/index.d.ts:9261](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9261)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:9261](https://github.com/Fokusdotid/bail/blob/04
 
 > **PING\_RECONNECT**: `5`
 
-Defined in: [WAProto/index.d.ts:9262](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L9262)
+Defined in: [WAProto/index.d.ts:9262](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9262)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:9262](https://github.com/Fokusdotid/bail/blob/04
 
 > **PUSH**: `0`
 
-Defined in: [WAProto/index.d.ts:9257](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L9257)
+Defined in: [WAProto/index.d.ts:9257](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9257)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [WAProto/index.d.ts:9257](https://github.com/Fokusdotid/bail/blob/04
 
 > **SCHEDULED**: `2`
 
-Defined in: [WAProto/index.d.ts:9259](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L9259)
+Defined in: [WAProto/index.d.ts:9259](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9259)
 
 ***
 
@@ -50,7 +50,7 @@ Defined in: [WAProto/index.d.ts:9259](https://github.com/Fokusdotid/bail/blob/04
 
 > **UNKNOWN**: `6`
 
-Defined in: [WAProto/index.d.ts:9263](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L9263)
+Defined in: [WAProto/index.d.ts:9263](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9263)
 
 ***
 
@@ -58,4 +58,4 @@ Defined in: [WAProto/index.d.ts:9263](https://github.com/Fokusdotid/bail/blob/04
 
 > **USER\_ACTIVATED**: `1`
 
-Defined in: [WAProto/index.d.ts:9258](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L9258)
+Defined in: [WAProto/index.d.ts:9258](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L9258)

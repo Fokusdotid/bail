@@ -1,6 +1,6 @@
 # Interface: IEmbeddedMusic
 
-Defined in: [WAProto/index.d.ts:13977](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13977)
+Defined in: [WAProto/index.d.ts:13977](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13977)
 
 Properties of an EmbeddedMusic.
 
@@ -10,7 +10,7 @@ Properties of an EmbeddedMusic.
 
 > `optional` **artistAttribution**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14004](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L14004)
+Defined in: [WAProto/index.d.ts:14004](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L14004)
 
 EmbeddedMusic artistAttribution
 
@@ -20,7 +20,7 @@ EmbeddedMusic artistAttribution
 
 > `optional` **artworkDirectPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13992](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13992)
+Defined in: [WAProto/index.d.ts:13992](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13992)
 
 EmbeddedMusic artworkDirectPath
 
@@ -30,7 +30,7 @@ EmbeddedMusic artworkDirectPath
 
 > `optional` **artworkEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:13998](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13998)
+Defined in: [WAProto/index.d.ts:13998](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13998)
 
 EmbeddedMusic artworkEncSha256
 
@@ -40,7 +40,7 @@ EmbeddedMusic artworkEncSha256
 
 > `optional` **artworkMediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:14001](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L14001)
+Defined in: [WAProto/index.d.ts:14001](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L14001)
 
 EmbeddedMusic artworkMediaKey
 
@@ -50,7 +50,7 @@ EmbeddedMusic artworkMediaKey
 
 > `optional` **artworkSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:13995](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13995)
+Defined in: [WAProto/index.d.ts:13995](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13995)
 
 EmbeddedMusic artworkSha256
 
@@ -60,7 +60,7 @@ EmbeddedMusic artworkSha256
 
 > `optional` **author**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13986](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13986)
+Defined in: [WAProto/index.d.ts:13986](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13986)
 
 EmbeddedMusic author
 
@@ -70,7 +70,7 @@ EmbeddedMusic author
 
 > `optional` **countryBlocklist**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:14007](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L14007)
+Defined in: [WAProto/index.d.ts:14007](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L14007)
 
 EmbeddedMusic countryBlocklist
 
@@ -80,7 +80,7 @@ EmbeddedMusic countryBlocklist
 
 > `optional` **isExplicit**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:14010](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L14010)
+Defined in: [WAProto/index.d.ts:14010](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L14010)
 
 EmbeddedMusic isExplicit
 
@@ -90,7 +90,7 @@ EmbeddedMusic isExplicit
 
 > `optional` **musicContentMediaId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13980](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13980)
+Defined in: [WAProto/index.d.ts:13980](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13980)
 
 EmbeddedMusic musicContentMediaId
 
@@ -100,7 +100,7 @@ EmbeddedMusic musicContentMediaId
 
 > `optional` **songId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13983](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13983)
+Defined in: [WAProto/index.d.ts:13983](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13983)
 
 EmbeddedMusic songId
 
@@ -110,6 +110,6 @@ EmbeddedMusic songId
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13989](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L13989)
+Defined in: [WAProto/index.d.ts:13989](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L13989)
 
 EmbeddedMusic title

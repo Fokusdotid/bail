@@ -1,6 +1,6 @@
 # Interface: IButtonText
 
-Defined in: [WAProto/index.d.ts:20524](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L20524)
+Defined in: [WAProto/index.d.ts:20524](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L20524)
 
 Properties of a ButtonText.
 
@@ -10,6 +10,6 @@ Properties of a ButtonText.
 
 > `optional` **displayText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20527](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L20527)
+Defined in: [WAProto/index.d.ts:20527](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L20527)
 
 ButtonText displayText

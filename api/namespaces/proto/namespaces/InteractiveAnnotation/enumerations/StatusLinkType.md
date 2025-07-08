@@ -1,6 +1,6 @@
 # Enumeration: StatusLinkType
 
-Defined in: [WAProto/index.d.ts:16778](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16778)
+Defined in: [WAProto/index.d.ts:16778](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L16778)
 
 StatusLinkType enum.
 
@@ -10,7 +10,7 @@ StatusLinkType enum.
 
 > **RASTERIZED\_LINK\_FULL\_URL**: `3`
 
-Defined in: [WAProto/index.d.ts:16781](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16781)
+Defined in: [WAProto/index.d.ts:16781](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L16781)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:16781](https://github.com/Fokusdotid/bail/blob/0
 
 > **RASTERIZED\_LINK\_PREVIEW**: `1`
 
-Defined in: [WAProto/index.d.ts:16779](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16779)
+Defined in: [WAProto/index.d.ts:16779](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L16779)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:16779](https://github.com/Fokusdotid/bail/blob/0
 
 > **RASTERIZED\_LINK\_TRUNCATED**: `2`
 
-Defined in: [WAProto/index.d.ts:16780](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L16780)
+Defined in: [WAProto/index.d.ts:16780](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L16780)

@@ -2,4 +2,4 @@
 
 > `const` **FLAG\_EVENT**: `1` = `1`
 
-Defined in: [src/WAM/constants.ts:15244](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/src/WAM/constants.ts#L15244)
+Defined in: [src/WAM/constants.ts:15244](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/src/WAM/constants.ts#L15244)

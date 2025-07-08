@@ -1,6 +1,6 @@
 # Interface: IPollCreationMessage
 
-Defined in: [WAProto/index.d.ts:31293](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L31293)
+Defined in: [WAProto/index.d.ts:31293](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L31293)
 
 Properties of a PollCreationMessage.
 
@@ -10,7 +10,7 @@ Properties of a PollCreationMessage.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:31308](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L31308)
+Defined in: [WAProto/index.d.ts:31308](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L31308)
 
 PollCreationMessage contextInfo
 
@@ -20,7 +20,7 @@ PollCreationMessage contextInfo
 
 > `optional` **correctAnswer**: `null` \| [`IOption`](../namespaces/PollCreationMessage/interfaces/IOption.md)
 
-Defined in: [WAProto/index.d.ts:31317](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L31317)
+Defined in: [WAProto/index.d.ts:31317](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L31317)
 
 PollCreationMessage correctAnswer
 
@@ -30,7 +30,7 @@ PollCreationMessage correctAnswer
 
 > `optional` **encKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:31296](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L31296)
+Defined in: [WAProto/index.d.ts:31296](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L31296)
 
 PollCreationMessage encKey
 
@@ -40,7 +40,7 @@ PollCreationMessage encKey
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:31299](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L31299)
+Defined in: [WAProto/index.d.ts:31299](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L31299)
 
 PollCreationMessage name
 
@@ -50,7 +50,7 @@ PollCreationMessage name
 
 > `optional` **options**: `null` \| [`IOption`](../namespaces/PollCreationMessage/interfaces/IOption.md)[]
 
-Defined in: [WAProto/index.d.ts:31302](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L31302)
+Defined in: [WAProto/index.d.ts:31302](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L31302)
 
 PollCreationMessage options
 
@@ -60,7 +60,7 @@ PollCreationMessage options
 
 > `optional` **pollContentType**: `null` \| [`PollContentType`](../enumerations/PollContentType.md)
 
-Defined in: [WAProto/index.d.ts:31311](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L31311)
+Defined in: [WAProto/index.d.ts:31311](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L31311)
 
 PollCreationMessage pollContentType
 
@@ -70,7 +70,7 @@ PollCreationMessage pollContentType
 
 > `optional` **pollType**: `null` \| [`PollType`](../namespaces/PollCreationMessage/enumerations/PollType.md)
 
-Defined in: [WAProto/index.d.ts:31314](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L31314)
+Defined in: [WAProto/index.d.ts:31314](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L31314)
 
 PollCreationMessage pollType
 
@@ -80,6 +80,6 @@ PollCreationMessage pollType
 
 > `optional` **selectableOptionsCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:31305](https://github.com/Fokusdotid/bail/blob/043003e0dc220c8f52aef36f90c7026f3a192427/WAProto/index.d.ts#L31305)
+Defined in: [WAProto/index.d.ts:31305](https://github.com/Fokusdotid/bail/blob/fcd0cec6f26de1fb545eb2e03fa5c63fbad99d3d/WAProto/index.d.ts#L31305)
 
 PollCreationMessage selectableOptionsCount
