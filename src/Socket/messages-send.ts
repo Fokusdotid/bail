@@ -637,6 +637,14 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 			if (additionalNodes && additionalNodes.length > 0) {
 				;(stanza.content as BinaryNode[]).push(...additionalNodes)
 			}
+			
+			const msg = normalizeMessageContent(message)!
+			const buttonType = getButtonType(msg)
+			const messageType = getMessageType(msg)
+			if(buttonType && messageType !== 'poll') {
+				const buttonArgs = getButtonArgs(msg)
+				if (buttonArgs) (stanza.content as BinaryNode[]).push(buttonArgs)
+			}
 
 			logger.debug({ msgId }, `sending message to ${participants.length} devices`)
 
@@ -685,6 +693,78 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 			return 'native_flow_response'
 		} else if (message.groupInviteMessage) {
 			return 'url'
+		}
+	}
+	
+	const getButtonType = (message: proto.IMessage) => {
+		if(message.listMessage) {
+			return 'list'
+		} else if(message.buttonsMessage) {
+			return 'buttons'
+		} else if(message.templateMessage) {
+			return 'template'
+		} else if(message.interactiveMessage) {
+			return 'native_flow'
+		}
+	}
+	
+	const getButtonArgs = (message: proto.IMessage): BinaryNode => {
+		if(message?.interactiveMessage?.nativeFlowMessage?.buttons?.length && message.interactiveMessage.nativeFlowMessage.buttons.some((item) => item?.name === 'review_and_play')) {
+			return {
+				tag: 'biz',
+				attrs: {
+					'native_flow_name': 'order_details'
+				}
+			}
+		} else if(message?.interactiveMessage || message?.buttonsMessage) {
+			return {
+				tag: 'biz',
+				attrs: {},
+				content: [{
+					tag: 'interactive',
+					attrs: {
+						type: 'native_flow',
+						v: '1'
+					},
+					content: [{
+						tag: 'native_flow',
+						attrs: {
+							v: '9',
+							name: 'mixed'
+						}
+					}]
+				}]
+
+			}
+		} else if(message?.listMessage) {
+			return {
+				tag: 'biz',
+				attrs: {},
+				content: [{
+					tag: 'list',
+					attrs: {
+						type: 'product_list',
+						v: '2'
+					}
+				}]
+			}
+		} else if(message?.templateMessage) {
+			return {
+				tag: 'biz',
+				attrs: {},
+				content: [{
+					tag: 'hsm',
+					attrs: {
+						tag: 'AUTHENTICATION',
+						category: ''
+					}
+				}]
+			}
+		} else {
+			return {
+				tag: 'biz',
+				attrs: {}
+			}
 		}
 	}
 
