@@ -137,7 +137,11 @@ export const extractImageThumb = async (bufferOrFilePath: Readable | Buffer | st
 	}
 
 	const lib = await getImageProcessingLibrary()
-	console.log('jimp' in lib ? lib.jimp : 'sharp' in lib ? lib.sharp : null)
+	if ('jimp' in lib && typeof lib.jimp === 'object' && typeof lib.jimp?.Jimp === 'function') {
+		const jimp = lib.jimp.Jimp.read;
+		console.log("Jimp Read:", jimp)
+	}
+	
 	if ('sharp' in lib && typeof lib.sharp?.default === 'function') {
 		const img = lib.sharp.default(bufferOrFilePath)
 		const dimensions = await img.metadata()
