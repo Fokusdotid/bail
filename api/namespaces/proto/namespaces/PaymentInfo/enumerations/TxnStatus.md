@@ -1,6 +1,6 @@
 # Enumeration: TxnStatus
 
-Defined in: [WAProto/index.d.ts:38780](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38780)
+Defined in: [WAProto/index.d.ts:38780](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38780)
 
 TxnStatus enum.
 
@@ -10,7 +10,7 @@ TxnStatus enum.
 
 > **AUTH\_CANCEL\_FAILED**: `19`
 
-Defined in: [WAProto/index.d.ts:38800](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38800)
+Defined in: [WAProto/index.d.ts:38800](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38800)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:38800](https://github.com/Fokusdotid/bail/blob/3
 
 > **AUTH\_CANCEL\_FAILED\_PROCESSING**: `18`
 
-Defined in: [WAProto/index.d.ts:38799](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38799)
+Defined in: [WAProto/index.d.ts:38799](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38799)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:38799](https://github.com/Fokusdotid/bail/blob/3
 
 > **AUTH\_CANCELED**: `17`
 
-Defined in: [WAProto/index.d.ts:38798](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38798)
+Defined in: [WAProto/index.d.ts:38798](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38798)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:38798](https://github.com/Fokusdotid/bail/blob/3
 
 > **COLLECT\_CANCELED**: `26`
 
-Defined in: [WAProto/index.d.ts:38807](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38807)
+Defined in: [WAProto/index.d.ts:38807](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38807)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [WAProto/index.d.ts:38807](https://github.com/Fokusdotid/bail/blob/3
 
 > **COLLECT\_CANCELLING**: `27`
 
-Defined in: [WAProto/index.d.ts:38808](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38808)
+Defined in: [WAProto/index.d.ts:38808](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38808)
 
 ***
 
@@ -50,7 +50,7 @@ Defined in: [WAProto/index.d.ts:38808](https://github.com/Fokusdotid/bail/blob/3
 
 > **COLLECT\_EXPIRED**: `25`
 
-Defined in: [WAProto/index.d.ts:38806](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38806)
+Defined in: [WAProto/index.d.ts:38806](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38806)
 
 ***
 
@@ -58,7 +58,7 @@ Defined in: [WAProto/index.d.ts:38806](https://github.com/Fokusdotid/bail/blob/3
 
 > **COLLECT\_FAILED**: `22`
 
-Defined in: [WAProto/index.d.ts:38803](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38803)
+Defined in: [WAProto/index.d.ts:38803](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38803)
 
 ***
 
@@ -66,7 +66,7 @@ Defined in: [WAProto/index.d.ts:38803](https://github.com/Fokusdotid/bail/blob/3
 
 > **COLLECT\_FAILED\_RISK**: `23`
 
-Defined in: [WAProto/index.d.ts:38804](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38804)
+Defined in: [WAProto/index.d.ts:38804](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38804)
 
 ***
 
@@ -74,7 +74,7 @@ Defined in: [WAProto/index.d.ts:38804](https://github.com/Fokusdotid/bail/blob/3
 
 > **COLLECT\_INIT**: `20`
 
-Defined in: [WAProto/index.d.ts:38801](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38801)
+Defined in: [WAProto/index.d.ts:38801](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38801)
 
 ***
 
@@ -82,7 +82,7 @@ Defined in: [WAProto/index.d.ts:38801](https://github.com/Fokusdotid/bail/blob/3
 
 > **COLLECT\_REJECTED**: `24`
 
-Defined in: [WAProto/index.d.ts:38805](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38805)
+Defined in: [WAProto/index.d.ts:38805](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38805)
 
 ***
 
@@ -90,7 +90,7 @@ Defined in: [WAProto/index.d.ts:38805](https://github.com/Fokusdotid/bail/blob/3
 
 > **COLLECT\_SUCCESS**: `21`
 
-Defined in: [WAProto/index.d.ts:38802](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38802)
+Defined in: [WAProto/index.d.ts:38802](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38802)
 
 ***
 
@@ -98,7 +98,7 @@ Defined in: [WAProto/index.d.ts:38802](https://github.com/Fokusdotid/bail/blob/3
 
 > **COMPLETED**: `5`
 
-Defined in: [WAProto/index.d.ts:38786](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38786)
+Defined in: [WAProto/index.d.ts:38786](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38786)
 
 ***
 
@@ -106,7 +106,7 @@ Defined in: [WAProto/index.d.ts:38786](https://github.com/Fokusdotid/bail/blob/3
 
 > **EXPIRED\_TXN**: `16`
 
-Defined in: [WAProto/index.d.ts:38797](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38797)
+Defined in: [WAProto/index.d.ts:38797](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38797)
 
 ***
 
@@ -114,7 +114,7 @@ Defined in: [WAProto/index.d.ts:38797](https://github.com/Fokusdotid/bail/blob/3
 
 > **FAILED**: `6`
 
-Defined in: [WAProto/index.d.ts:38787](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38787)
+Defined in: [WAProto/index.d.ts:38787](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38787)
 
 ***
 
@@ -122,7 +122,7 @@ Defined in: [WAProto/index.d.ts:38787](https://github.com/Fokusdotid/bail/blob/3
 
 > **FAILED\_DA**: `10`
 
-Defined in: [WAProto/index.d.ts:38791](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38791)
+Defined in: [WAProto/index.d.ts:38791](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38791)
 
 ***
 
@@ -130,7 +130,7 @@ Defined in: [WAProto/index.d.ts:38791](https://github.com/Fokusdotid/bail/blob/3
 
 > **FAILED\_DA\_FINAL**: `11`
 
-Defined in: [WAProto/index.d.ts:38792](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38792)
+Defined in: [WAProto/index.d.ts:38792](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38792)
 
 ***
 
@@ -138,7 +138,7 @@ Defined in: [WAProto/index.d.ts:38792](https://github.com/Fokusdotid/bail/blob/3
 
 > **FAILED\_PROCESSING**: `8`
 
-Defined in: [WAProto/index.d.ts:38789](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38789)
+Defined in: [WAProto/index.d.ts:38789](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38789)
 
 ***
 
@@ -146,7 +146,7 @@ Defined in: [WAProto/index.d.ts:38789](https://github.com/Fokusdotid/bail/blob/3
 
 > **FAILED\_RECEIVER\_PROCESSING**: `9`
 
-Defined in: [WAProto/index.d.ts:38790](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38790)
+Defined in: [WAProto/index.d.ts:38790](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38790)
 
 ***
 
@@ -154,7 +154,7 @@ Defined in: [WAProto/index.d.ts:38790](https://github.com/Fokusdotid/bail/blob/3
 
 > **FAILED\_RISK**: `7`
 
-Defined in: [WAProto/index.d.ts:38788](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38788)
+Defined in: [WAProto/index.d.ts:38788](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38788)
 
 ***
 
@@ -162,7 +162,7 @@ Defined in: [WAProto/index.d.ts:38788](https://github.com/Fokusdotid/bail/blob/3
 
 > **IN\_REVIEW**: `28`
 
-Defined in: [WAProto/index.d.ts:38809](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38809)
+Defined in: [WAProto/index.d.ts:38809](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38809)
 
 ***
 
@@ -170,7 +170,7 @@ Defined in: [WAProto/index.d.ts:38809](https://github.com/Fokusdotid/bail/blob/3
 
 > **INIT**: `3`
 
-Defined in: [WAProto/index.d.ts:38784](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38784)
+Defined in: [WAProto/index.d.ts:38784](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38784)
 
 ***
 
@@ -178,7 +178,7 @@ Defined in: [WAProto/index.d.ts:38784](https://github.com/Fokusdotid/bail/blob/3
 
 > **PENDING\_RECEIVER\_SETUP**: `2`
 
-Defined in: [WAProto/index.d.ts:38783](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38783)
+Defined in: [WAProto/index.d.ts:38783](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38783)
 
 ***
 
@@ -186,7 +186,7 @@ Defined in: [WAProto/index.d.ts:38783](https://github.com/Fokusdotid/bail/blob/3
 
 > **PENDING\_SETUP**: `1`
 
-Defined in: [WAProto/index.d.ts:38782](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38782)
+Defined in: [WAProto/index.d.ts:38782](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38782)
 
 ***
 
@@ -194,7 +194,7 @@ Defined in: [WAProto/index.d.ts:38782](https://github.com/Fokusdotid/bail/blob/3
 
 > **REFUND\_FAILED**: `13`
 
-Defined in: [WAProto/index.d.ts:38794](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38794)
+Defined in: [WAProto/index.d.ts:38794](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38794)
 
 ***
 
@@ -202,7 +202,7 @@ Defined in: [WAProto/index.d.ts:38794](https://github.com/Fokusdotid/bail/blob/3
 
 > **REFUND\_FAILED\_DA**: `15`
 
-Defined in: [WAProto/index.d.ts:38796](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38796)
+Defined in: [WAProto/index.d.ts:38796](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38796)
 
 ***
 
@@ -210,7 +210,7 @@ Defined in: [WAProto/index.d.ts:38796](https://github.com/Fokusdotid/bail/blob/3
 
 > **REFUND\_FAILED\_PROCESSING**: `14`
 
-Defined in: [WAProto/index.d.ts:38795](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38795)
+Defined in: [WAProto/index.d.ts:38795](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38795)
 
 ***
 
@@ -218,7 +218,7 @@ Defined in: [WAProto/index.d.ts:38795](https://github.com/Fokusdotid/bail/blob/3
 
 > **REFUND\_PENDING**: `31`
 
-Defined in: [WAProto/index.d.ts:38812](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38812)
+Defined in: [WAProto/index.d.ts:38812](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38812)
 
 ***
 
@@ -226,7 +226,7 @@ Defined in: [WAProto/index.d.ts:38812](https://github.com/Fokusdotid/bail/blob/3
 
 > **REFUNDED\_TXN**: `12`
 
-Defined in: [WAProto/index.d.ts:38793](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38793)
+Defined in: [WAProto/index.d.ts:38793](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38793)
 
 ***
 
@@ -234,7 +234,7 @@ Defined in: [WAProto/index.d.ts:38793](https://github.com/Fokusdotid/bail/blob/3
 
 > **REVERSAL\_PENDING**: `30`
 
-Defined in: [WAProto/index.d.ts:38811](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38811)
+Defined in: [WAProto/index.d.ts:38811](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38811)
 
 ***
 
@@ -242,7 +242,7 @@ Defined in: [WAProto/index.d.ts:38811](https://github.com/Fokusdotid/bail/blob/3
 
 > **REVERSAL\_SUCCESS**: `29`
 
-Defined in: [WAProto/index.d.ts:38810](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38810)
+Defined in: [WAProto/index.d.ts:38810](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38810)
 
 ***
 
@@ -250,7 +250,7 @@ Defined in: [WAProto/index.d.ts:38810](https://github.com/Fokusdotid/bail/blob/3
 
 > **SUCCESS**: `4`
 
-Defined in: [WAProto/index.d.ts:38785](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38785)
+Defined in: [WAProto/index.d.ts:38785](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38785)
 
 ***
 
@@ -258,4 +258,4 @@ Defined in: [WAProto/index.d.ts:38785](https://github.com/Fokusdotid/bail/blob/3
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:38781](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38781)
+Defined in: [WAProto/index.d.ts:38781](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38781)

@@ -1,6 +1,6 @@
 # Interface: IRemoveRecentStickerAction
 
-Defined in: [WAProto/index.d.ts:48376](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L48376)
+Defined in: [WAProto/index.d.ts:48376](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L48376)
 
 Properties of a RemoveRecentStickerAction.
 
@@ -10,6 +10,6 @@ Properties of a RemoveRecentStickerAction.
 
 > `optional` **lastStickerSentTs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:48379](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L48379)
+Defined in: [WAProto/index.d.ts:48379](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L48379)
 
 RemoveRecentStickerAction lastStickerSentTs

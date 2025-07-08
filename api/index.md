@@ -312,6 +312,7 @@
 - [getErrorCodeFromStreamError](functions/getErrorCodeFromStreamError.md)
 - [getHistoryMsg](functions/getHistoryMsg.md)
 - [getHttpStream](functions/getHttpStream.md)
+- [getImageProcessingLibrary](functions/getImageProcessingLibrary.md)
 - [getKeyAuthor](functions/getKeyAuthor.md)
 - [getMediaKeys](functions/getMediaKeys.md)
 - [getNextPreKeys](functions/getNextPreKeys.md)

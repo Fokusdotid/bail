@@ -1,6 +1,6 @@
 # Interface: IProductMessage
 
-Defined in: [WAProto/index.d.ts:32165](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32165)
+Defined in: [WAProto/index.d.ts:32165](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32165)
 
 Properties of a ProductMessage.
 
@@ -10,7 +10,7 @@ Properties of a ProductMessage.
 
 > `optional` **body**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32177](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32177)
+Defined in: [WAProto/index.d.ts:32177](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32177)
 
 ProductMessage body
 
@@ -20,7 +20,7 @@ ProductMessage body
 
 > `optional` **businessOwnerJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32171](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32171)
+Defined in: [WAProto/index.d.ts:32171](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32171)
 
 ProductMessage businessOwnerJid
 
@@ -30,7 +30,7 @@ ProductMessage businessOwnerJid
 
 > `optional` **catalog**: `null` \| [`ICatalogSnapshot`](../namespaces/ProductMessage/interfaces/ICatalogSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:32174](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32174)
+Defined in: [WAProto/index.d.ts:32174](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32174)
 
 ProductMessage catalog
 
@@ -40,7 +40,7 @@ ProductMessage catalog
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:32183](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32183)
+Defined in: [WAProto/index.d.ts:32183](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32183)
 
 ProductMessage contextInfo
 
@@ -50,7 +50,7 @@ ProductMessage contextInfo
 
 > `optional` **footer**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32180](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32180)
+Defined in: [WAProto/index.d.ts:32180](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32180)
 
 ProductMessage footer
 
@@ -60,6 +60,6 @@ ProductMessage footer
 
 > `optional` **product**: `null` \| [`IProductSnapshot`](../namespaces/ProductMessage/interfaces/IProductSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:32168](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L32168)
+Defined in: [WAProto/index.d.ts:32168](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L32168)
 
 ProductMessage product

@@ -1,6 +1,6 @@
 # Interface: ISyncDCollectionFatalRecoveryRequest
 
-Defined in: [WAProto/index.d.ts:29908](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L29908)
+Defined in: [WAProto/index.d.ts:29908](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29908)
 
 Properties of a SyncDCollectionFatalRecoveryRequest.
 
@@ -10,7 +10,7 @@ Properties of a SyncDCollectionFatalRecoveryRequest.
 
 > `optional` **collectionName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29911](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L29911)
+Defined in: [WAProto/index.d.ts:29911](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29911)
 
 SyncDCollectionFatalRecoveryRequest collectionName
 
@@ -20,6 +20,6 @@ SyncDCollectionFatalRecoveryRequest collectionName
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:29914](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L29914)
+Defined in: [WAProto/index.d.ts:29914](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29914)
 
 SyncDCollectionFatalRecoveryRequest timestamp

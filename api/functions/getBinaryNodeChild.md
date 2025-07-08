@@ -2,7 +2,7 @@
 
 > **getBinaryNodeChild**(`node`, `childTag`): `undefined` \| [`BinaryNode`](../type-aliases/BinaryNode.md)
 
-Defined in: [src/WABinary/generic-utils.ts:23](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/src/WABinary/generic-utils.ts#L23)
+Defined in: [src/WABinary/generic-utils.ts:23](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/src/WABinary/generic-utils.ts#L23)
 
 ## Parameters
 

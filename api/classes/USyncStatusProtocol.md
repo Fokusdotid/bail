@@ -1,6 +1,6 @@
 # Class: USyncStatusProtocol
 
-Defined in: [src/WAUSync/Protocols/USyncStatusProtocol.ts:9](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/src/WAUSync/Protocols/USyncStatusProtocol.ts#L9)
+Defined in: [src/WAUSync/Protocols/USyncStatusProtocol.ts:9](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/src/WAUSync/Protocols/USyncStatusProtocol.ts#L9)
 
 ## Implements
 
@@ -22,7 +22,7 @@ Defined in: [src/WAUSync/Protocols/USyncStatusProtocol.ts:9](https://github.com/
 
 > **name**: `string` = `'status'`
 
-Defined in: [src/WAUSync/Protocols/USyncStatusProtocol.ts:10](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/src/WAUSync/Protocols/USyncStatusProtocol.ts#L10)
+Defined in: [src/WAUSync/Protocols/USyncStatusProtocol.ts:10](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/src/WAUSync/Protocols/USyncStatusProtocol.ts#L10)
 
 The name of the protocol
 
@@ -36,7 +36,7 @@ The name of the protocol
 
 > **getQueryElement**(): [`BinaryNode`](../type-aliases/BinaryNode.md)
 
-Defined in: [src/WAUSync/Protocols/USyncStatusProtocol.ts:12](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/src/WAUSync/Protocols/USyncStatusProtocol.ts#L12)
+Defined in: [src/WAUSync/Protocols/USyncStatusProtocol.ts:12](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/src/WAUSync/Protocols/USyncStatusProtocol.ts#L12)
 
 Defines what goes inside the query part of a USyncQuery
 
@@ -54,7 +54,7 @@ Defines what goes inside the query part of a USyncQuery
 
 > **getUserElement**(): `null`
 
-Defined in: [src/WAUSync/Protocols/USyncStatusProtocol.ts:19](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/src/WAUSync/Protocols/USyncStatusProtocol.ts#L19)
+Defined in: [src/WAUSync/Protocols/USyncStatusProtocol.ts:19](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/src/WAUSync/Protocols/USyncStatusProtocol.ts#L19)
 
 Defines what goes inside the user part of a USyncQuery
 
@@ -72,7 +72,7 @@ Defines what goes inside the user part of a USyncQuery
 
 > **parser**(`node`): `undefined` \| [`StatusData`](../type-aliases/StatusData.md)
 
-Defined in: [src/WAUSync/Protocols/USyncStatusProtocol.ts:23](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/src/WAUSync/Protocols/USyncStatusProtocol.ts#L23)
+Defined in: [src/WAUSync/Protocols/USyncStatusProtocol.ts:23](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/src/WAUSync/Protocols/USyncStatusProtocol.ts#L23)
 
 Parse the result of the query
 

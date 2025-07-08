@@ -1,6 +1,6 @@
 # Class: UTMInfo
 
-Defined in: [WAProto/index.d.ts:12218](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L12218)
+Defined in: [WAProto/index.d.ts:12218](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L12218)
 
 Represents a UTMInfo.
 
@@ -14,7 +14,7 @@ Represents a UTMInfo.
 
 > **new UTMInfo**(`properties`?): [`UTMInfo`](UTMInfo.md)
 
-Defined in: [WAProto/index.d.ts:12224](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L12224)
+Defined in: [WAProto/index.d.ts:12224](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L12224)
 
 Constructs a new UTMInfo.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **utmCampaign**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12230](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L12230)
+Defined in: [WAProto/index.d.ts:12230](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L12230)
 
 UTMInfo utmCampaign.
 
@@ -50,7 +50,7 @@ UTMInfo utmCampaign.
 
 > `optional` **utmSource**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12227](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L12227)
+Defined in: [WAProto/index.d.ts:12227](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L12227)
 
 UTMInfo utmSource.
 
@@ -64,7 +64,7 @@ UTMInfo utmSource.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:12300](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L12300)
+Defined in: [WAProto/index.d.ts:12300](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L12300)
 
 Converts this UTMInfo to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`UTMInfo`](UTMInfo.md)
 
-Defined in: [WAProto/index.d.ts:12237](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L12237)
+Defined in: [WAProto/index.d.ts:12237](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L12237)
 
 Creates a new UTMInfo instance using the specified properties.
 
@@ -104,7 +104,7 @@ UTMInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`UTMInfo`](UTMInfo.md)
 
-Defined in: [WAProto/index.d.ts:12263](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L12263)
+Defined in: [WAProto/index.d.ts:12263](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L12263)
 
 Decodes a UTMInfo message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`UTMInfo`](UTMInfo.md)
 
-Defined in: [WAProto/index.d.ts:12272](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L12272)
+Defined in: [WAProto/index.d.ts:12272](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L12272)
 
 Decodes a UTMInfo message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:12245](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L12245)
+Defined in: [WAProto/index.d.ts:12245](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L12245)
 
 Encodes the specified UTMInfo message. Does not implicitly [verify](UTMInfo.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:12253](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L12253)
+Defined in: [WAProto/index.d.ts:12253](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L12253)
 
 Encodes the specified UTMInfo message, length delimited. Does not implicitly [verify](UTMInfo.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`UTMInfo`](UTMInfo.md)
 
-Defined in: [WAProto/index.d.ts:12286](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L12286)
+Defined in: [WAProto/index.d.ts:12286](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L12286)
 
 Creates a UTMInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ UTMInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:12307](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L12307)
+Defined in: [WAProto/index.d.ts:12307](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L12307)
 
 Gets the default type url for UTMInfo
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:12294](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L12294)
+Defined in: [WAProto/index.d.ts:12294](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L12294)
 
 Creates a plain object from a UTMInfo message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12279](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L12279)
+Defined in: [WAProto/index.d.ts:12279](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L12279)
 
 Verifies a UTMInfo message.
 

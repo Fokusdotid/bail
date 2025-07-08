@@ -1,6 +1,6 @@
 # Enumeration: ActualActorsType
 
-Defined in: [WAProto/index.d.ts:3605](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L3605)
+Defined in: [WAProto/index.d.ts:3605](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L3605)
 
 ActualActorsType enum.
 
@@ -10,7 +10,7 @@ ActualActorsType enum.
 
 > **BSP**: `1`
 
-Defined in: [WAProto/index.d.ts:3607](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L3607)
+Defined in: [WAProto/index.d.ts:3607](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L3607)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:3607](https://github.com/Fokusdotid/bail/blob/38
 
 > **SELF**: `0`
 
-Defined in: [WAProto/index.d.ts:3606](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L3606)
+Defined in: [WAProto/index.d.ts:3606](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L3606)

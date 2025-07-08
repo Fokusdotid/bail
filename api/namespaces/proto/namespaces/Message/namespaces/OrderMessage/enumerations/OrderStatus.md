@@ -1,6 +1,6 @@
 # Enumeration: OrderStatus
 
-Defined in: [WAProto/index.d.ts:28810](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L28810)
+Defined in: [WAProto/index.d.ts:28810](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L28810)
 
 OrderStatus enum.
 
@@ -10,7 +10,7 @@ OrderStatus enum.
 
 > **ACCEPTED**: `2`
 
-Defined in: [WAProto/index.d.ts:28812](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L28812)
+Defined in: [WAProto/index.d.ts:28812](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L28812)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:28812](https://github.com/Fokusdotid/bail/blob/3
 
 > **DECLINED**: `3`
 
-Defined in: [WAProto/index.d.ts:28813](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L28813)
+Defined in: [WAProto/index.d.ts:28813](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L28813)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:28813](https://github.com/Fokusdotid/bail/blob/3
 
 > **INQUIRY**: `1`
 
-Defined in: [WAProto/index.d.ts:28811](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L28811)
+Defined in: [WAProto/index.d.ts:28811](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L28811)

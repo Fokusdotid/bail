@@ -1,6 +1,6 @@
 # Class: CtwaContextData
 
-Defined in: [WAProto/index.d.ts:8509](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8509)
+Defined in: [WAProto/index.d.ts:8509](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8509)
 
 Represents a CtwaContextData.
 
@@ -14,7 +14,7 @@ Represents a CtwaContextData.
 
 > **new CtwaContextData**(`properties`?): [`CtwaContextData`](CtwaContextData.md)
 
-Defined in: [WAProto/index.d.ts:8515](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8515)
+Defined in: [WAProto/index.d.ts:8515](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8515)
 
 Constructs a new CtwaContextData.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **conversionData**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:8521](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8521)
+Defined in: [WAProto/index.d.ts:8521](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8521)
 
 CtwaContextData conversionData.
 
@@ -50,7 +50,7 @@ CtwaContextData conversionData.
 
 > `optional` **conversionSource**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8518](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8518)
+Defined in: [WAProto/index.d.ts:8518](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8518)
 
 CtwaContextData conversionSource.
 
@@ -64,7 +64,7 @@ CtwaContextData conversionSource.
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8536](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8536)
+Defined in: [WAProto/index.d.ts:8536](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8536)
 
 CtwaContextData description.
 
@@ -78,7 +78,7 @@ CtwaContextData description.
 
 > `optional` **isSuspiciousLink**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8551](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8551)
+Defined in: [WAProto/index.d.ts:8551](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8551)
 
 CtwaContextData isSuspiciousLink.
 
@@ -92,7 +92,7 @@ CtwaContextData isSuspiciousLink.
 
 > `optional` **mediaType**: `null` \| [`ContextInfoExternalAdReplyInfoMediaType`](../namespaces/CtwaContextData/enumerations/ContextInfoExternalAdReplyInfoMediaType.md)
 
-Defined in: [WAProto/index.d.ts:8545](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8545)
+Defined in: [WAProto/index.d.ts:8545](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8545)
 
 CtwaContextData mediaType.
 
@@ -106,7 +106,7 @@ CtwaContextData mediaType.
 
 > `optional` **mediaUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8548](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8548)
+Defined in: [WAProto/index.d.ts:8548](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8548)
 
 CtwaContextData mediaUrl.
 
@@ -120,7 +120,7 @@ CtwaContextData mediaUrl.
 
 > `optional` **sourceId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8527](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8527)
+Defined in: [WAProto/index.d.ts:8527](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8527)
 
 CtwaContextData sourceId.
 
@@ -134,7 +134,7 @@ CtwaContextData sourceId.
 
 > `optional` **sourceType**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8530](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8530)
+Defined in: [WAProto/index.d.ts:8530](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8530)
 
 CtwaContextData sourceType.
 
@@ -148,7 +148,7 @@ CtwaContextData sourceType.
 
 > `optional` **sourceUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8524](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8524)
+Defined in: [WAProto/index.d.ts:8524](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8524)
 
 CtwaContextData sourceUrl.
 
@@ -162,7 +162,7 @@ CtwaContextData sourceUrl.
 
 > `optional` **thumbnail**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8539](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8539)
+Defined in: [WAProto/index.d.ts:8539](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8539)
 
 CtwaContextData thumbnail.
 
@@ -176,7 +176,7 @@ CtwaContextData thumbnail.
 
 > `optional` **thumbnailUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8542](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8542)
+Defined in: [WAProto/index.d.ts:8542](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8542)
 
 CtwaContextData thumbnailUrl.
 
@@ -190,7 +190,7 @@ CtwaContextData thumbnailUrl.
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8533](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8533)
+Defined in: [WAProto/index.d.ts:8533](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8533)
 
 CtwaContextData title.
 
@@ -204,7 +204,7 @@ CtwaContextData title.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:8621](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8621)
+Defined in: [WAProto/index.d.ts:8621](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8621)
 
 Converts this CtwaContextData to JSON.
 
@@ -220,7 +220,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CtwaContextData`](CtwaContextData.md)
 
-Defined in: [WAProto/index.d.ts:8558](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8558)
+Defined in: [WAProto/index.d.ts:8558](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8558)
 
 Creates a new CtwaContextData instance using the specified properties.
 
@@ -244,7 +244,7 @@ CtwaContextData instance
 
 > `static` **decode**(`reader`, `length`?): [`CtwaContextData`](CtwaContextData.md)
 
-Defined in: [WAProto/index.d.ts:8584](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8584)
+Defined in: [WAProto/index.d.ts:8584](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8584)
 
 Decodes a CtwaContextData message from the specified reader or buffer.
 
@@ -282,7 +282,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CtwaContextData`](CtwaContextData.md)
 
-Defined in: [WAProto/index.d.ts:8593](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8593)
+Defined in: [WAProto/index.d.ts:8593](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8593)
 
 Decodes a CtwaContextData message from the specified reader or buffer, length delimited.
 
@@ -314,7 +314,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:8566](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8566)
+Defined in: [WAProto/index.d.ts:8566](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8566)
 
 Encodes the specified CtwaContextData message. Does not implicitly [verify](CtwaContextData.md#verify) messages.
 
@@ -344,7 +344,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:8574](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8574)
+Defined in: [WAProto/index.d.ts:8574](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8574)
 
 Encodes the specified CtwaContextData message, length delimited. Does not implicitly [verify](CtwaContextData.md#verify) messages.
 
@@ -374,7 +374,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CtwaContextData`](CtwaContextData.md)
 
-Defined in: [WAProto/index.d.ts:8607](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8607)
+Defined in: [WAProto/index.d.ts:8607](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8607)
 
 Creates a CtwaContextData message from a plain object. Also converts values to their respective internal types.
 
@@ -396,7 +396,7 @@ CtwaContextData
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:8628](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8628)
+Defined in: [WAProto/index.d.ts:8628](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8628)
 
 Gets the default type url for CtwaContextData
 
@@ -420,7 +420,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:8615](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8615)
+Defined in: [WAProto/index.d.ts:8615](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8615)
 
 Creates a plain object from a CtwaContextData message. Also converts values to other types if specified.
 
@@ -450,7 +450,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8600](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L8600)
+Defined in: [WAProto/index.d.ts:8600](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L8600)
 
 Verifies a CtwaContextData message.
 

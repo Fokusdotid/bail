@@ -1,6 +1,6 @@
 # Interface: IQuickReplyAction
 
-Defined in: [WAProto/index.d.ts:48158](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L48158)
+Defined in: [WAProto/index.d.ts:48158](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L48158)
 
 Properties of a QuickReplyAction.
 
@@ -10,7 +10,7 @@ Properties of a QuickReplyAction.
 
 > `optional` **count**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:48170](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L48170)
+Defined in: [WAProto/index.d.ts:48170](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L48170)
 
 QuickReplyAction count
 
@@ -20,7 +20,7 @@ QuickReplyAction count
 
 > `optional` **deleted**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:48173](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L48173)
+Defined in: [WAProto/index.d.ts:48173](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L48173)
 
 QuickReplyAction deleted
 
@@ -30,7 +30,7 @@ QuickReplyAction deleted
 
 > `optional` **keywords**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:48167](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L48167)
+Defined in: [WAProto/index.d.ts:48167](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L48167)
 
 QuickReplyAction keywords
 
@@ -40,7 +40,7 @@ QuickReplyAction keywords
 
 > `optional` **message**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48164](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L48164)
+Defined in: [WAProto/index.d.ts:48164](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L48164)
 
 QuickReplyAction message
 
@@ -50,6 +50,6 @@ QuickReplyAction message
 
 > `optional` **shortcut**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48161](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L48161)
+Defined in: [WAProto/index.d.ts:48161](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L48161)
 
 QuickReplyAction shortcut

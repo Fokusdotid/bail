@@ -1,6 +1,6 @@
 # Interface: ISyncdRecord
 
-Defined in: [WAProto/index.d.ts:50309](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50309)
+Defined in: [WAProto/index.d.ts:50309](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L50309)
 
 Properties of a SyncdRecord.
 
@@ -10,7 +10,7 @@ Properties of a SyncdRecord.
 
 > `optional` **index**: `null` \| [`ISyncdIndex`](ISyncdIndex.md)
 
-Defined in: [WAProto/index.d.ts:50312](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50312)
+Defined in: [WAProto/index.d.ts:50312](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L50312)
 
 SyncdRecord index
 
@@ -20,7 +20,7 @@ SyncdRecord index
 
 > `optional` **keyId**: `null` \| [`IKeyId`](IKeyId.md)
 
-Defined in: [WAProto/index.d.ts:50318](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50318)
+Defined in: [WAProto/index.d.ts:50318](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L50318)
 
 SyncdRecord keyId
 
@@ -30,6 +30,6 @@ SyncdRecord keyId
 
 > `optional` **value**: `null` \| [`ISyncdValue`](ISyncdValue.md)
 
-Defined in: [WAProto/index.d.ts:50315](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L50315)
+Defined in: [WAProto/index.d.ts:50315](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L50315)
 
 SyncdRecord value

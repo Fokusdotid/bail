@@ -2,7 +2,7 @@
 
 > **getChatId**(`__namedParameters`): `string`
 
-Defined in: [src/Utils/process-message.ts:97](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/src/Utils/process-message.ts#L97)
+Defined in: [src/Utils/process-message.ts:97](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/src/Utils/process-message.ts#L97)
 
 Get the ID of the chat from the given key.
 Typically -- that'll be the remoteJid, but for broadcasts, it'll be the participant

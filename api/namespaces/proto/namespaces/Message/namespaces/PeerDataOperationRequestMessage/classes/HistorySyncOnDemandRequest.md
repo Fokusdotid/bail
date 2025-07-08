@@ -1,6 +1,6 @@
 # Class: HistorySyncOnDemandRequest
 
-Defined in: [WAProto/index.d.ts:29506](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L29506)
+Defined in: [WAProto/index.d.ts:29506](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29506)
 
 Represents a HistorySyncOnDemandRequest.
 
@@ -14,7 +14,7 @@ Represents a HistorySyncOnDemandRequest.
 
 > **new HistorySyncOnDemandRequest**(`properties`?): [`HistorySyncOnDemandRequest`](HistorySyncOnDemandRequest.md)
 
-Defined in: [WAProto/index.d.ts:29512](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L29512)
+Defined in: [WAProto/index.d.ts:29512](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29512)
 
 Constructs a new HistorySyncOnDemandRequest.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **accountLid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29530](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L29530)
+Defined in: [WAProto/index.d.ts:29530](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29530)
 
 HistorySyncOnDemandRequest accountLid.
 
@@ -50,7 +50,7 @@ HistorySyncOnDemandRequest accountLid.
 
 > `optional` **chatJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29515](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L29515)
+Defined in: [WAProto/index.d.ts:29515](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29515)
 
 HistorySyncOnDemandRequest chatJid.
 
@@ -64,7 +64,7 @@ HistorySyncOnDemandRequest chatJid.
 
 > `optional` **oldestMsgFromMe**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:29521](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L29521)
+Defined in: [WAProto/index.d.ts:29521](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29521)
 
 HistorySyncOnDemandRequest oldestMsgFromMe.
 
@@ -78,7 +78,7 @@ HistorySyncOnDemandRequest oldestMsgFromMe.
 
 > `optional` **oldestMsgId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29518](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L29518)
+Defined in: [WAProto/index.d.ts:29518](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29518)
 
 HistorySyncOnDemandRequest oldestMsgId.
 
@@ -92,7 +92,7 @@ HistorySyncOnDemandRequest oldestMsgId.
 
 > `optional` **oldestMsgTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:29527](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L29527)
+Defined in: [WAProto/index.d.ts:29527](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29527)
 
 HistorySyncOnDemandRequest oldestMsgTimestampMs.
 
@@ -106,7 +106,7 @@ HistorySyncOnDemandRequest oldestMsgTimestampMs.
 
 > `optional` **onDemandMsgCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:29524](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L29524)
+Defined in: [WAProto/index.d.ts:29524](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29524)
 
 HistorySyncOnDemandRequest onDemandMsgCount.
 
@@ -120,7 +120,7 @@ HistorySyncOnDemandRequest onDemandMsgCount.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:29600](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L29600)
+Defined in: [WAProto/index.d.ts:29600](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29600)
 
 Converts this HistorySyncOnDemandRequest to JSON.
 
@@ -136,7 +136,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`HistorySyncOnDemandRequest`](HistorySyncOnDemandRequest.md)
 
-Defined in: [WAProto/index.d.ts:29537](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L29537)
+Defined in: [WAProto/index.d.ts:29537](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29537)
 
 Creates a new HistorySyncOnDemandRequest instance using the specified properties.
 
@@ -160,7 +160,7 @@ HistorySyncOnDemandRequest instance
 
 > `static` **decode**(`reader`, `length`?): [`HistorySyncOnDemandRequest`](HistorySyncOnDemandRequest.md)
 
-Defined in: [WAProto/index.d.ts:29563](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L29563)
+Defined in: [WAProto/index.d.ts:29563](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29563)
 
 Decodes a HistorySyncOnDemandRequest message from the specified reader or buffer.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`HistorySyncOnDemandRequest`](HistorySyncOnDemandRequest.md)
 
-Defined in: [WAProto/index.d.ts:29572](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L29572)
+Defined in: [WAProto/index.d.ts:29572](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29572)
 
 Decodes a HistorySyncOnDemandRequest message from the specified reader or buffer, length delimited.
 
@@ -230,7 +230,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29545](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L29545)
+Defined in: [WAProto/index.d.ts:29545](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29545)
 
 Encodes the specified HistorySyncOnDemandRequest message. Does not implicitly [verify](HistorySyncOnDemandRequest.md#verify) messages.
 
@@ -260,7 +260,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29553](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L29553)
+Defined in: [WAProto/index.d.ts:29553](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29553)
 
 Encodes the specified HistorySyncOnDemandRequest message, length delimited. Does not implicitly [verify](HistorySyncOnDemandRequest.md#verify) messages.
 
@@ -290,7 +290,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`HistorySyncOnDemandRequest`](HistorySyncOnDemandRequest.md)
 
-Defined in: [WAProto/index.d.ts:29586](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L29586)
+Defined in: [WAProto/index.d.ts:29586](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29586)
 
 Creates a HistorySyncOnDemandRequest message from a plain object. Also converts values to their respective internal types.
 
@@ -312,7 +312,7 @@ HistorySyncOnDemandRequest
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:29607](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L29607)
+Defined in: [WAProto/index.d.ts:29607](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29607)
 
 Gets the default type url for HistorySyncOnDemandRequest
 
@@ -336,7 +336,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:29594](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L29594)
+Defined in: [WAProto/index.d.ts:29594](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29594)
 
 Creates a plain object from a HistorySyncOnDemandRequest message. Also converts values to other types if specified.
 
@@ -366,7 +366,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29579](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L29579)
+Defined in: [WAProto/index.d.ts:29579](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L29579)
 
 Verifies a HistorySyncOnDemandRequest message.
 

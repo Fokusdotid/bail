@@ -1,6 +1,6 @@
 # Enumeration: ContentType
 
-Defined in: [WAProto/index.d.ts:1347](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1347)
+Defined in: [WAProto/index.d.ts:1347](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L1347)
 
 ContentType enum.
 
@@ -10,7 +10,7 @@ ContentType enum.
 
 > **CAROUSEL**: `1`
 
-Defined in: [WAProto/index.d.ts:1349](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1349)
+Defined in: [WAProto/index.d.ts:1349](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L1349)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:1349](https://github.com/Fokusdotid/bail/blob/38
 
 > **DEFAULT**: `0`
 
-Defined in: [WAProto/index.d.ts:1348](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L1348)
+Defined in: [WAProto/index.d.ts:1348](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L1348)

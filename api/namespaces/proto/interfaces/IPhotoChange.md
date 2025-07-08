@@ -1,6 +1,6 @@
 # Interface: IPhotoChange
 
-Defined in: [WAProto/index.d.ts:38920](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38920)
+Defined in: [WAProto/index.d.ts:38920](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38920)
 
 Properties of a PhotoChange.
 
@@ -10,7 +10,7 @@ Properties of a PhotoChange.
 
 > `optional` **newPhoto**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38926](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38926)
+Defined in: [WAProto/index.d.ts:38926](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38926)
 
 PhotoChange newPhoto
 
@@ -20,7 +20,7 @@ PhotoChange newPhoto
 
 > `optional` **newPhotoId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38929](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38929)
+Defined in: [WAProto/index.d.ts:38929](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38929)
 
 PhotoChange newPhotoId
 
@@ -30,6 +30,6 @@ PhotoChange newPhotoId
 
 > `optional` **oldPhoto**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38923](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38923)
+Defined in: [WAProto/index.d.ts:38923](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38923)
 
 PhotoChange oldPhoto

@@ -1,6 +1,6 @@
 # Interface: ITemplateButtonReplyMessage
 
-Defined in: [WAProto/index.d.ts:34653](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L34653)
+Defined in: [WAProto/index.d.ts:34653](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L34653)
 
 Properties of a TemplateButtonReplyMessage.
 
@@ -10,7 +10,7 @@ Properties of a TemplateButtonReplyMessage.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:34662](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L34662)
+Defined in: [WAProto/index.d.ts:34662](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L34662)
 
 TemplateButtonReplyMessage contextInfo
 
@@ -20,7 +20,7 @@ TemplateButtonReplyMessage contextInfo
 
 > `optional` **selectedCarouselCardIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:34668](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L34668)
+Defined in: [WAProto/index.d.ts:34668](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L34668)
 
 TemplateButtonReplyMessage selectedCarouselCardIndex
 
@@ -30,7 +30,7 @@ TemplateButtonReplyMessage selectedCarouselCardIndex
 
 > `optional` **selectedDisplayText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34659](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L34659)
+Defined in: [WAProto/index.d.ts:34659](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L34659)
 
 TemplateButtonReplyMessage selectedDisplayText
 
@@ -40,7 +40,7 @@ TemplateButtonReplyMessage selectedDisplayText
 
 > `optional` **selectedId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34656](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L34656)
+Defined in: [WAProto/index.d.ts:34656](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L34656)
 
 TemplateButtonReplyMessage selectedId
 
@@ -50,6 +50,6 @@ TemplateButtonReplyMessage selectedId
 
 > `optional` **selectedIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:34665](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L34665)
+Defined in: [WAProto/index.d.ts:34665](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L34665)
 
 TemplateButtonReplyMessage selectedIndex

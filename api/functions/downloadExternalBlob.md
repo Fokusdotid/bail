@@ -2,7 +2,7 @@
 
 > **downloadExternalBlob**(`blob`, `options`): `Promise`\<`Buffer`\<`ArrayBuffer`\>\>
 
-Defined in: [src/Utils/chat-utils.ts:360](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/src/Utils/chat-utils.ts#L360)
+Defined in: [src/Utils/chat-utils.ts:360](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/src/Utils/chat-utils.ts#L360)
 
 ## Parameters
 

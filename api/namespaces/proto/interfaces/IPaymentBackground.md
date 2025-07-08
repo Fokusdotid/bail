@@ -1,6 +1,6 @@
 # Interface: IPaymentBackground
 
-Defined in: [WAProto/index.d.ts:38306](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38306)
+Defined in: [WAProto/index.d.ts:38306](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38306)
 
 Properties of a PaymentBackground.
 
@@ -10,7 +10,7 @@ Properties of a PaymentBackground.
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:38312](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38312)
+Defined in: [WAProto/index.d.ts:38312](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38312)
 
 PaymentBackground fileLength
 
@@ -20,7 +20,7 @@ PaymentBackground fileLength
 
 > `optional` **height**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38318](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38318)
+Defined in: [WAProto/index.d.ts:38318](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38318)
 
 PaymentBackground height
 
@@ -30,7 +30,7 @@ PaymentBackground height
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:38309](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38309)
+Defined in: [WAProto/index.d.ts:38309](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38309)
 
 PaymentBackground id
 
@@ -40,7 +40,7 @@ PaymentBackground id
 
 > `optional` **mediaData**: `null` \| [`IMediaData`](../namespaces/PaymentBackground/interfaces/IMediaData.md)
 
-Defined in: [WAProto/index.d.ts:38333](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38333)
+Defined in: [WAProto/index.d.ts:38333](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38333)
 
 PaymentBackground mediaData
 
@@ -50,7 +50,7 @@ PaymentBackground mediaData
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:38321](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38321)
+Defined in: [WAProto/index.d.ts:38321](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38321)
 
 PaymentBackground mimetype
 
@@ -60,7 +60,7 @@ PaymentBackground mimetype
 
 > `optional` **placeholderArgb**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38324](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38324)
+Defined in: [WAProto/index.d.ts:38324](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38324)
 
 PaymentBackground placeholderArgb
 
@@ -70,7 +70,7 @@ PaymentBackground placeholderArgb
 
 > `optional` **subtextArgb**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38330](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38330)
+Defined in: [WAProto/index.d.ts:38330](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38330)
 
 PaymentBackground subtextArgb
 
@@ -80,7 +80,7 @@ PaymentBackground subtextArgb
 
 > `optional` **textArgb**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38327](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38327)
+Defined in: [WAProto/index.d.ts:38327](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38327)
 
 PaymentBackground textArgb
 
@@ -90,7 +90,7 @@ PaymentBackground textArgb
 
 > `optional` **type**: `null` \| [`Type`](../namespaces/PaymentBackground/enumerations/Type.md)
 
-Defined in: [WAProto/index.d.ts:38336](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38336)
+Defined in: [WAProto/index.d.ts:38336](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38336)
 
 PaymentBackground type
 
@@ -100,6 +100,6 @@ PaymentBackground type
 
 > `optional` **width**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38315](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38315)
+Defined in: [WAProto/index.d.ts:38315](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38315)
 
 PaymentBackground width

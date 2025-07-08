@@ -1,6 +1,6 @@
 # Class: PatchDebugData
 
-Defined in: [WAProto/index.d.ts:38170](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38170)
+Defined in: [WAProto/index.d.ts:38170](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38170)
 
 Represents a PatchDebugData.
 
@@ -14,7 +14,7 @@ Represents a PatchDebugData.
 
 > **new PatchDebugData**(`properties`?): [`PatchDebugData`](PatchDebugData.md)
 
-Defined in: [WAProto/index.d.ts:38176](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38176)
+Defined in: [WAProto/index.d.ts:38176](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38176)
 
 Constructs a new PatchDebugData.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **collectionName**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38188](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38188)
+Defined in: [WAProto/index.d.ts:38188](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38188)
 
 PatchDebugData collectionName.
 
@@ -50,7 +50,7 @@ PatchDebugData collectionName.
 
 > `optional` **currentLthash**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38179](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38179)
+Defined in: [WAProto/index.d.ts:38179](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38179)
 
 PatchDebugData currentLthash.
 
@@ -64,7 +64,7 @@ PatchDebugData currentLthash.
 
 > `optional` **firstFourBytesFromAHashOfSnapshotMacKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38191](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38191)
+Defined in: [WAProto/index.d.ts:38191](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38191)
 
 PatchDebugData firstFourBytesFromAHashOfSnapshotMacKey.
 
@@ -78,7 +78,7 @@ PatchDebugData firstFourBytesFromAHashOfSnapshotMacKey.
 
 > `optional` **isSenderPrimary**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:38209](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38209)
+Defined in: [WAProto/index.d.ts:38209](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38209)
 
 PatchDebugData isSenderPrimary.
 
@@ -92,7 +92,7 @@ PatchDebugData isSenderPrimary.
 
 > `optional` **newLthash**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38182](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38182)
+Defined in: [WAProto/index.d.ts:38182](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38182)
 
 PatchDebugData newLthash.
 
@@ -106,7 +106,7 @@ PatchDebugData newLthash.
 
 > `optional` **newLthashSubtract**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38194](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38194)
+Defined in: [WAProto/index.d.ts:38194](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38194)
 
 PatchDebugData newLthashSubtract.
 
@@ -120,7 +120,7 @@ PatchDebugData newLthashSubtract.
 
 > `optional` **numberAdd**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38197](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38197)
+Defined in: [WAProto/index.d.ts:38197](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38197)
 
 PatchDebugData numberAdd.
 
@@ -134,7 +134,7 @@ PatchDebugData numberAdd.
 
 > `optional` **numberOverride**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38203](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38203)
+Defined in: [WAProto/index.d.ts:38203](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38203)
 
 PatchDebugData numberOverride.
 
@@ -148,7 +148,7 @@ PatchDebugData numberOverride.
 
 > `optional` **numberRemove**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38200](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38200)
+Defined in: [WAProto/index.d.ts:38200](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38200)
 
 PatchDebugData numberRemove.
 
@@ -162,7 +162,7 @@ PatchDebugData numberRemove.
 
 > `optional` **patchVersion**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:38185](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38185)
+Defined in: [WAProto/index.d.ts:38185](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38185)
 
 PatchDebugData patchVersion.
 
@@ -176,7 +176,7 @@ PatchDebugData patchVersion.
 
 > `optional` **senderPlatform**: `null` \| [`Platform`](../namespaces/PatchDebugData/enumerations/Platform.md)
 
-Defined in: [WAProto/index.d.ts:38206](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38206)
+Defined in: [WAProto/index.d.ts:38206](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38206)
 
 PatchDebugData senderPlatform.
 
@@ -190,7 +190,7 @@ PatchDebugData senderPlatform.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:38279](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38279)
+Defined in: [WAProto/index.d.ts:38279](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38279)
 
 Converts this PatchDebugData to JSON.
 
@@ -206,7 +206,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PatchDebugData`](PatchDebugData.md)
 
-Defined in: [WAProto/index.d.ts:38216](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38216)
+Defined in: [WAProto/index.d.ts:38216](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38216)
 
 Creates a new PatchDebugData instance using the specified properties.
 
@@ -230,7 +230,7 @@ PatchDebugData instance
 
 > `static` **decode**(`reader`, `length`?): [`PatchDebugData`](PatchDebugData.md)
 
-Defined in: [WAProto/index.d.ts:38242](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38242)
+Defined in: [WAProto/index.d.ts:38242](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38242)
 
 Decodes a PatchDebugData message from the specified reader or buffer.
 
@@ -268,7 +268,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PatchDebugData`](PatchDebugData.md)
 
-Defined in: [WAProto/index.d.ts:38251](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38251)
+Defined in: [WAProto/index.d.ts:38251](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38251)
 
 Decodes a PatchDebugData message from the specified reader or buffer, length delimited.
 
@@ -300,7 +300,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:38224](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38224)
+Defined in: [WAProto/index.d.ts:38224](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38224)
 
 Encodes the specified PatchDebugData message. Does not implicitly [verify](PatchDebugData.md#verify) messages.
 
@@ -330,7 +330,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:38232](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38232)
+Defined in: [WAProto/index.d.ts:38232](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38232)
 
 Encodes the specified PatchDebugData message, length delimited. Does not implicitly [verify](PatchDebugData.md#verify) messages.
 
@@ -360,7 +360,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PatchDebugData`](PatchDebugData.md)
 
-Defined in: [WAProto/index.d.ts:38265](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38265)
+Defined in: [WAProto/index.d.ts:38265](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38265)
 
 Creates a PatchDebugData message from a plain object. Also converts values to their respective internal types.
 
@@ -382,7 +382,7 @@ PatchDebugData
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:38286](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38286)
+Defined in: [WAProto/index.d.ts:38286](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38286)
 
 Gets the default type url for PatchDebugData
 
@@ -406,7 +406,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:38273](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38273)
+Defined in: [WAProto/index.d.ts:38273](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38273)
 
 Creates a plain object from a PatchDebugData message. Also converts values to other types if specified.
 
@@ -436,7 +436,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:38258](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L38258)
+Defined in: [WAProto/index.d.ts:38258](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L38258)
 
 Verifies a PatchDebugData message.
 

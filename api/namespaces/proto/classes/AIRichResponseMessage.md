@@ -1,6 +1,6 @@
 # Class: AIRichResponseMessage
 
-Defined in: [WAProto/index.d.ts:710](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L710)
+Defined in: [WAProto/index.d.ts:710](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L710)
 
 Represents a AIRichResponseMessage.
 
@@ -14,7 +14,7 @@ Represents a AIRichResponseMessage.
 
 > **new AIRichResponseMessage**(`properties`?): [`AIRichResponseMessage`](AIRichResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:716](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L716)
+Defined in: [WAProto/index.d.ts:716](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L716)
 
 Constructs a new AIRichResponseMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **messageType**: `null` \| [`AIRichResponseMessageType`](../namespaces/AIRichResponseMessage/enumerations/AIRichResponseMessageType.md)
 
-Defined in: [WAProto/index.d.ts:719](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L719)
+Defined in: [WAProto/index.d.ts:719](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L719)
 
 AIRichResponseMessage messageType.
 
@@ -50,7 +50,7 @@ AIRichResponseMessage messageType.
 
 > **submessages**: [`IAIRichResponseSubMessage`](../namespaces/AIRichResponseMessage/interfaces/IAIRichResponseSubMessage.md)[]
 
-Defined in: [WAProto/index.d.ts:722](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L722)
+Defined in: [WAProto/index.d.ts:722](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L722)
 
 AIRichResponseMessage submessages.
 
@@ -64,7 +64,7 @@ AIRichResponseMessage submessages.
 
 > `optional` **unifiedResponse**: `null` \| [`IAIRichResponseUnifiedResponse`](../namespaces/AIRichResponseMessage/interfaces/IAIRichResponseUnifiedResponse.md)
 
-Defined in: [WAProto/index.d.ts:725](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L725)
+Defined in: [WAProto/index.d.ts:725](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L725)
 
 AIRichResponseMessage unifiedResponse.
 
@@ -78,7 +78,7 @@ AIRichResponseMessage unifiedResponse.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:795](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L795)
+Defined in: [WAProto/index.d.ts:795](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L795)
 
 Converts this AIRichResponseMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIRichResponseMessage`](AIRichResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:732](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L732)
+Defined in: [WAProto/index.d.ts:732](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L732)
 
 Creates a new AIRichResponseMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ AIRichResponseMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`AIRichResponseMessage`](AIRichResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:758](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L758)
+Defined in: [WAProto/index.d.ts:758](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L758)
 
 Decodes a AIRichResponseMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIRichResponseMessage`](AIRichResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:767](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L767)
+Defined in: [WAProto/index.d.ts:767](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L767)
 
 Decodes a AIRichResponseMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:740](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L740)
+Defined in: [WAProto/index.d.ts:740](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L740)
 
 Encodes the specified AIRichResponseMessage message. Does not implicitly [verify](AIRichResponseMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:748](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L748)
+Defined in: [WAProto/index.d.ts:748](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L748)
 
 Encodes the specified AIRichResponseMessage message, length delimited. Does not implicitly [verify](AIRichResponseMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIRichResponseMessage`](AIRichResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:781](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L781)
+Defined in: [WAProto/index.d.ts:781](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L781)
 
 Creates a AIRichResponseMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ AIRichResponseMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:802](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L802)
+Defined in: [WAProto/index.d.ts:802](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L802)
 
 Gets the default type url for AIRichResponseMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:789](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L789)
+Defined in: [WAProto/index.d.ts:789](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L789)
 
 Creates a plain object from a AIRichResponseMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:774](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L774)
+Defined in: [WAProto/index.d.ts:774](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L774)
 
 Verifies a AIRichResponseMessage message.
 

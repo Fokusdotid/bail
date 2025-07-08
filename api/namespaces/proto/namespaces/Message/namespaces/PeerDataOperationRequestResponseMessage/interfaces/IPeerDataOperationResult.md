@@ -1,6 +1,6 @@
 # Interface: IPeerDataOperationResult
 
-Defined in: [WAProto/index.d.ts:30123](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L30123)
+Defined in: [WAProto/index.d.ts:30123](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L30123)
 
 Properties of a PeerDataOperationResult.
 
@@ -10,7 +10,7 @@ Properties of a PeerDataOperationResult.
 
 > `optional` **companionMetaNonceFetchRequestResponse**: `null` \| [`ICompanionMetaNonceFetchResponse`](../namespaces/PeerDataOperationResult/interfaces/ICompanionMetaNonceFetchResponse.md)
 
-Defined in: [WAProto/index.d.ts:30144](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L30144)
+Defined in: [WAProto/index.d.ts:30144](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L30144)
 
 PeerDataOperationResult companionMetaNonceFetchRequestResponse
 
@@ -20,7 +20,7 @@ PeerDataOperationResult companionMetaNonceFetchRequestResponse
 
 > `optional` **fullHistorySyncOnDemandRequestResponse**: `null` \| [`IFullHistorySyncOnDemandRequestResponse`](../namespaces/PeerDataOperationResult/interfaces/IFullHistorySyncOnDemandRequestResponse.md)
 
-Defined in: [WAProto/index.d.ts:30141](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L30141)
+Defined in: [WAProto/index.d.ts:30141](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L30141)
 
 PeerDataOperationResult fullHistorySyncOnDemandRequestResponse
 
@@ -30,7 +30,7 @@ PeerDataOperationResult fullHistorySyncOnDemandRequestResponse
 
 > `optional` **linkPreviewResponse**: `null` \| [`ILinkPreviewResponse`](../namespaces/PeerDataOperationResult/interfaces/ILinkPreviewResponse.md)
 
-Defined in: [WAProto/index.d.ts:30132](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L30132)
+Defined in: [WAProto/index.d.ts:30132](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L30132)
 
 PeerDataOperationResult linkPreviewResponse
 
@@ -40,7 +40,7 @@ PeerDataOperationResult linkPreviewResponse
 
 > `optional` **mediaUploadResult**: `null` \| [`ResultType`](../../../../MediaRetryNotification/enumerations/ResultType.md)
 
-Defined in: [WAProto/index.d.ts:30126](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L30126)
+Defined in: [WAProto/index.d.ts:30126](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L30126)
 
 PeerDataOperationResult mediaUploadResult
 
@@ -50,7 +50,7 @@ PeerDataOperationResult mediaUploadResult
 
 > `optional` **placeholderMessageResendResponse**: `null` \| [`IPlaceholderMessageResendResponse`](../namespaces/PeerDataOperationResult/interfaces/IPlaceholderMessageResendResponse.md)
 
-Defined in: [WAProto/index.d.ts:30135](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L30135)
+Defined in: [WAProto/index.d.ts:30135](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L30135)
 
 PeerDataOperationResult placeholderMessageResendResponse
 
@@ -60,7 +60,7 @@ PeerDataOperationResult placeholderMessageResendResponse
 
 > `optional` **stickerMessage**: `null` \| [`IStickerMessage`](../../../interfaces/IStickerMessage.md)
 
-Defined in: [WAProto/index.d.ts:30129](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L30129)
+Defined in: [WAProto/index.d.ts:30129](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L30129)
 
 PeerDataOperationResult stickerMessage
 
@@ -70,7 +70,7 @@ PeerDataOperationResult stickerMessage
 
 > `optional` **syncdSnapshotFatalRecoveryResponse**: `null` \| [`ISyncDSnapshotFatalRecoveryResponse`](../namespaces/PeerDataOperationResult/interfaces/ISyncDSnapshotFatalRecoveryResponse.md)
 
-Defined in: [WAProto/index.d.ts:30147](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L30147)
+Defined in: [WAProto/index.d.ts:30147](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L30147)
 
 PeerDataOperationResult syncdSnapshotFatalRecoveryResponse
 
@@ -80,6 +80,6 @@ PeerDataOperationResult syncdSnapshotFatalRecoveryResponse
 
 > `optional` **waffleNonceFetchRequestResponse**: `null` \| [`IWaffleNonceFetchResponse`](../namespaces/PeerDataOperationResult/interfaces/IWaffleNonceFetchResponse.md)
 
-Defined in: [WAProto/index.d.ts:30138](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L30138)
+Defined in: [WAProto/index.d.ts:30138](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L30138)
 
 PeerDataOperationResult waffleNonceFetchRequestResponse

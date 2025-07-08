@@ -1,6 +1,6 @@
 # Class: EventResponseMessage
 
-Defined in: [WAProto/index.d.ts:22919](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L22919)
+Defined in: [WAProto/index.d.ts:22919](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L22919)
 
 Represents an EventResponseMessage.
 
@@ -14,7 +14,7 @@ Represents an EventResponseMessage.
 
 > **new EventResponseMessage**(`properties`?): [`EventResponseMessage`](EventResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:22925](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L22925)
+Defined in: [WAProto/index.d.ts:22925](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L22925)
 
 Constructs a new EventResponseMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **extraGuestCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:22934](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L22934)
+Defined in: [WAProto/index.d.ts:22934](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L22934)
 
 EventResponseMessage extraGuestCount.
 
@@ -50,7 +50,7 @@ EventResponseMessage extraGuestCount.
 
 > `optional` **response**: `null` \| [`EventResponseType`](../namespaces/EventResponseMessage/enumerations/EventResponseType.md)
 
-Defined in: [WAProto/index.d.ts:22928](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L22928)
+Defined in: [WAProto/index.d.ts:22928](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L22928)
 
 EventResponseMessage response.
 
@@ -64,7 +64,7 @@ EventResponseMessage response.
 
 > `optional` **timestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:22931](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L22931)
+Defined in: [WAProto/index.d.ts:22931](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L22931)
 
 EventResponseMessage timestampMs.
 
@@ -78,7 +78,7 @@ EventResponseMessage timestampMs.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:23004](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L23004)
+Defined in: [WAProto/index.d.ts:23004](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L23004)
 
 Converts this EventResponseMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`EventResponseMessage`](EventResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:22941](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L22941)
+Defined in: [WAProto/index.d.ts:22941](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L22941)
 
 Creates a new EventResponseMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ EventResponseMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`EventResponseMessage`](EventResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:22967](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L22967)
+Defined in: [WAProto/index.d.ts:22967](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L22967)
 
 Decodes an EventResponseMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`EventResponseMessage`](EventResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:22976](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L22976)
+Defined in: [WAProto/index.d.ts:22976](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L22976)
 
 Decodes an EventResponseMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:22949](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L22949)
+Defined in: [WAProto/index.d.ts:22949](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L22949)
 
 Encodes the specified EventResponseMessage message. Does not implicitly [verify](EventResponseMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:22957](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L22957)
+Defined in: [WAProto/index.d.ts:22957](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L22957)
 
 Encodes the specified EventResponseMessage message, length delimited. Does not implicitly [verify](EventResponseMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`EventResponseMessage`](EventResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:22990](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L22990)
+Defined in: [WAProto/index.d.ts:22990](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L22990)
 
 Creates an EventResponseMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ EventResponseMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:23011](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L23011)
+Defined in: [WAProto/index.d.ts:23011](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L23011)
 
 Gets the default type url for EventResponseMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:22998](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L22998)
+Defined in: [WAProto/index.d.ts:22998](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L22998)
 
 Creates a plain object from an EventResponseMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22983](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L22983)
+Defined in: [WAProto/index.d.ts:22983](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L22983)
 
 Verifies an EventResponseMessage message.
 

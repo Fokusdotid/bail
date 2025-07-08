@@ -1,6 +1,6 @@
 # Interface: INativeFlowButton
 
-Defined in: [WAProto/index.d.ts:25763](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L25763)
+Defined in: [WAProto/index.d.ts:25763](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L25763)
 
 Properties of a NativeFlowButton.
 
@@ -10,7 +10,7 @@ Properties of a NativeFlowButton.
 
 > `optional` **buttonParamsJson**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25769](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L25769)
+Defined in: [WAProto/index.d.ts:25769](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L25769)
 
 NativeFlowButton buttonParamsJson
 
@@ -20,6 +20,6 @@ NativeFlowButton buttonParamsJson
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25766](https://github.com/Fokusdotid/bail/blob/3856b89f13bbe82f2e10396a28cd4ef2089de845/WAProto/index.d.ts#L25766)
+Defined in: [WAProto/index.d.ts:25766](https://github.com/Fokusdotid/bail/blob/a029a4f9908cd3806112e8438f5a31dda1376b84/WAProto/index.d.ts#L25766)
 
 NativeFlowButton name
