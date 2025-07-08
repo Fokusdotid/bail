@@ -67,6 +67,7 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 		upsertMessage,
 		query,
 		fetchPrivacySettings,
+		fetchDisappearingDuration,
 		sendNode,
 		groupMetadata,
 		groupToggleEphemeral
@@ -797,6 +798,20 @@ export const makeMessagesSocket = (config: SocketConfig) => {
 						: disappearingMessagesInChat
 				await groupToggleEphemeral(jid, value)
 			} else {
+				if(!options.ephemeralExpiration) {
+					if(isJidGroup(jid)) {
+						const groups = cachedGroupMetadata ? await cachedGroupMetadata(jid) : await groupMetadata(jid)
+						options.ephemeralExpiration = groups && groups?.ephemeralDuration
+					} else if(isJidUser(jid)) {
+						const disappearing = await fetchDisappearingDuration(jid)
+						if(disappearing) {
+							// eslint-disable-next-line @typescript-eslint/no-explicit-any
+							const expiration = (disappearing[0]?.disappearing_mode as any)?.duration
+							options.ephemeralExpiration = expiration
+						}
+					}
+				}
+				
 				const fullMsg = await generateWAMessage(jid, content, {
 					logger,
 					userJid,
