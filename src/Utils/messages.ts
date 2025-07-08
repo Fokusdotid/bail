@@ -539,13 +539,19 @@ export const generateWAMessageContent = async (
 				m.pollCreationMessage = pollCreationMessage
 			}
 		}
-	} else if ('sharePhoneNumber' in message) {
+	} else if ('sharePhoneNumber' in message && message.sharePhoneNumber) {
 		m.protocolMessage = {
 			type: proto.Message.ProtocolMessage.Type.SHARE_PHONE_NUMBER
 		}
-	} else if ('requestPhoneNumber' in message) {
+	} else if ('requestPhoneNumber' in message && message.requestPhoneNumber) {
 		m.requestPhoneNumberMessage = {}
-	} else {
+	} else if (
+		'image' in message ||
+		'video' in message ||
+		'audio' in message ||
+		'sticker' in message ||
+		'document' in message
+	) {
 		m = await prepareWAMessageMedia(message, options)
 	}
 	
