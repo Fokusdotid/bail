@@ -474,6 +474,19 @@ export const generateWAMessageContent = async (
 					type: proto.Message.ButtonsResponseMessage.Type.DISPLAY_TEXT
 				}
 				break
+			case 'interactive':
+				m.interactiveResponseMessage = {
+					body: {
+						text: message.buttonReply.text,
+						format: proto.Message.InteractiveResponseMessage.Body.Format.EXTENSIONS_1
+					},
+					nativeFlowResponseMessage: {
+						name: message.buttonReply.nativeFlow.name,
+						paramsJson: message.buttonReply.nativeFlow.paramsJson,
+						version: message.buttonReply.nativeFlow.version
+					}
+				}
+				break
 		}
 	} else if ('ptv' in message && message.ptv) {
 		const { videoMessage } = await prepareWAMessageMedia({ video: message.video }, options)
@@ -534,6 +547,99 @@ export const generateWAMessageContent = async (
 		m.requestPhoneNumberMessage = {}
 	} else {
 		m = await prepareWAMessageMedia(message, options)
+	}
+	
+	if('buttons' in message && !!message.buttons) {
+		const buttonsMessage: proto.Message.IButtonsMessage = {
+			buttons: message.buttons.map(b => ({ ...b, type: proto.Message.ButtonsMessage.Button.Type.RESPONSE }))
+		}
+		
+		if('text' in message) {
+			buttonsMessage.contentText = message.text
+			buttonsMessage.headerType = proto.Message.ButtonsMessage.HeaderType.EMPTY
+		} else {
+			if('caption' in message && !!message.caption) {
+				buttonsMessage.contentText = message.caption
+			}
+			
+			const type = Object.keys(m)[0].replace('Message', '').toUpperCase()
+			buttonsMessage.headerType = proto.Message.ButtonsMessage.HeaderType[type]
+		}
+		
+		if('footer' in message && !!message.footer) {
+			buttonsMessage.footerText = message.footer
+		}
+		
+		Object.assign(buttonsMessage, m)
+		m = { buttonsMessage }
+	} else if('templateButtons' in message && !!message.templateButtons) {
+		const msg: proto.Message.TemplateMessage.IHydratedFourRowTemplate = {
+			hydratedButtons: message.templateButtons
+		}
+		
+		if('text' in message && !!message.text) {
+			msg.hydratedContentText = message.text
+		} else {
+			if('caption' in message && !!message.caption) {
+				msg.hydratedContentText = message.caption
+			}
+			
+			Object.assign(msg, m)
+		}
+		
+		if('footer' in message && !!message.footer) {
+			msg.hydratedFooterText = message.footer
+		}
+		
+		m = {
+			templateMessage: {
+				fourRowTemplate: msg,
+				hydratedTemplate: msg
+			}
+		}
+	}
+	
+	if('interactiveButtons' in message && !!message.interactiveButtons) {
+		const interactiveMessage: proto.Message.IInteractiveMessage = {
+			nativeFlowMessage: WAProto.Message.InteractiveMessage.NativeFlowMessage.fromObject({
+				buttons: message.interactiveButtons
+			})
+		}
+		
+		if('text' in message) {
+			interactiveMessage.body = { text: message.text }
+		} else {
+			if('caption' in message && !!message.caption) {
+				interactiveMessage.body = { text: message.caption }
+			}
+			
+			interactiveMessage.header = {
+				title: message.title,
+				subtitle: message.subtitle,
+				hasMediaAttachment: message.media! || message.hasMediaAttachment! || false
+			}
+			
+			Object.assign(interactiveMessage.header, m)
+		}
+		
+		if('footer' in message && !!message.footer) {
+			interactiveMessage.footer = { text: message.footer }
+		}
+		
+		m = { interactiveMessage }
+	}
+	
+	if('sections' in message && !!message.sections) {
+		const listMessage: proto.Message.IListMessage = {
+			sections: message.sections,
+			buttonText: message.buttonText,
+			title: message.title,
+			footerText: message.footer,
+			description: message.text,
+			listType: message.listType || proto.Message.ListMessage.ListType.SINGLE_SELECT
+		}
+
+		m = { listMessage }
 	}
 
 	if ('viewOnce' in message && !!message.viewOnce) {
