@@ -1,6 +1,6 @@
 # Class: QuickReplyButton
 
-Defined in: [WAProto/index.d.ts:51063](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L51063)
+Defined in: [WAProto/index.d.ts:51063](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L51063)
 
 Represents a QuickReplyButton.
 
@@ -14,7 +14,7 @@ Represents a QuickReplyButton.
 
 > **new QuickReplyButton**(`properties`?): [`QuickReplyButton`](QuickReplyButton.md)
 
-Defined in: [WAProto/index.d.ts:51069](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L51069)
+Defined in: [WAProto/index.d.ts:51069](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L51069)
 
 Constructs a new QuickReplyButton.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **displayText**: `null` \| [`IHighlyStructuredMessage`](../../Message/interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:51072](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L51072)
+Defined in: [WAProto/index.d.ts:51072](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L51072)
 
 QuickReplyButton displayText.
 
@@ -50,7 +50,7 @@ QuickReplyButton displayText.
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:51075](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L51075)
+Defined in: [WAProto/index.d.ts:51075](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L51075)
 
 QuickReplyButton id.
 
@@ -64,7 +64,7 @@ QuickReplyButton id.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:51145](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L51145)
+Defined in: [WAProto/index.d.ts:51145](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L51145)
 
 Converts this QuickReplyButton to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`QuickReplyButton`](QuickReplyButton.md)
 
-Defined in: [WAProto/index.d.ts:51082](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L51082)
+Defined in: [WAProto/index.d.ts:51082](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L51082)
 
 Creates a new QuickReplyButton instance using the specified properties.
 
@@ -104,7 +104,7 @@ QuickReplyButton instance
 
 > `static` **decode**(`reader`, `length`?): [`QuickReplyButton`](QuickReplyButton.md)
 
-Defined in: [WAProto/index.d.ts:51108](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L51108)
+Defined in: [WAProto/index.d.ts:51108](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L51108)
 
 Decodes a QuickReplyButton message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`QuickReplyButton`](QuickReplyButton.md)
 
-Defined in: [WAProto/index.d.ts:51117](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L51117)
+Defined in: [WAProto/index.d.ts:51117](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L51117)
 
 Decodes a QuickReplyButton message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:51090](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L51090)
+Defined in: [WAProto/index.d.ts:51090](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L51090)
 
 Encodes the specified QuickReplyButton message. Does not implicitly [verify](QuickReplyButton.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:51098](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L51098)
+Defined in: [WAProto/index.d.ts:51098](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L51098)
 
 Encodes the specified QuickReplyButton message, length delimited. Does not implicitly [verify](QuickReplyButton.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`QuickReplyButton`](QuickReplyButton.md)
 
-Defined in: [WAProto/index.d.ts:51131](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L51131)
+Defined in: [WAProto/index.d.ts:51131](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L51131)
 
 Creates a QuickReplyButton message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ QuickReplyButton
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:51152](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L51152)
+Defined in: [WAProto/index.d.ts:51152](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L51152)
 
 Gets the default type url for QuickReplyButton
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:51139](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L51139)
+Defined in: [WAProto/index.d.ts:51139](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L51139)
 
 Creates a plain object from a QuickReplyButton message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:51124](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L51124)
+Defined in: [WAProto/index.d.ts:51124](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L51124)
 
 Verifies a QuickReplyButton message.
 

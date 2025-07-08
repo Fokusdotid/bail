@@ -1,6 +1,6 @@
 # Enumeration: AttachmentType
 
-Defined in: [WAProto/index.d.ts:26477](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L26477)
+Defined in: [WAProto/index.d.ts:26477](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L26477)
 
 AttachmentType enum.
 
@@ -10,7 +10,7 @@ AttachmentType enum.
 
 > **IMAGE**: `0`
 
-Defined in: [WAProto/index.d.ts:26478](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L26478)
+Defined in: [WAProto/index.d.ts:26478](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L26478)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:26478](https://github.com/Fokusdotid/bail/blob/5
 
 > **PDF**: `1`
 
-Defined in: [WAProto/index.d.ts:26479](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L26479)
+Defined in: [WAProto/index.d.ts:26479](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L26479)

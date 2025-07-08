@@ -1,6 +1,6 @@
 # Class: BotSessionMetadata
 
-Defined in: [WAProto/index.d.ts:7037](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L7037)
+Defined in: [WAProto/index.d.ts:7037](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L7037)
 
 Represents a BotSessionMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotSessionMetadata.
 
 > **new BotSessionMetadata**(`properties`?): [`BotSessionMetadata`](BotSessionMetadata.md)
 
-Defined in: [WAProto/index.d.ts:7043](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L7043)
+Defined in: [WAProto/index.d.ts:7043](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L7043)
 
 Constructs a new BotSessionMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **sessionId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7046](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L7046)
+Defined in: [WAProto/index.d.ts:7046](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L7046)
 
 BotSessionMetadata sessionId.
 
@@ -50,7 +50,7 @@ BotSessionMetadata sessionId.
 
 > `optional` **sessionSource**: `null` \| [`BotSessionSource`](../enumerations/BotSessionSource.md)
 
-Defined in: [WAProto/index.d.ts:7049](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L7049)
+Defined in: [WAProto/index.d.ts:7049](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L7049)
 
 BotSessionMetadata sessionSource.
 
@@ -64,7 +64,7 @@ BotSessionMetadata sessionSource.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:7119](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L7119)
+Defined in: [WAProto/index.d.ts:7119](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L7119)
 
 Converts this BotSessionMetadata to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotSessionMetadata`](BotSessionMetadata.md)
 
-Defined in: [WAProto/index.d.ts:7056](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L7056)
+Defined in: [WAProto/index.d.ts:7056](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L7056)
 
 Creates a new BotSessionMetadata instance using the specified properties.
 
@@ -104,7 +104,7 @@ BotSessionMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotSessionMetadata`](BotSessionMetadata.md)
 
-Defined in: [WAProto/index.d.ts:7082](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L7082)
+Defined in: [WAProto/index.d.ts:7082](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L7082)
 
 Decodes a BotSessionMetadata message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotSessionMetadata`](BotSessionMetadata.md)
 
-Defined in: [WAProto/index.d.ts:7091](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L7091)
+Defined in: [WAProto/index.d.ts:7091](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L7091)
 
 Decodes a BotSessionMetadata message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:7064](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L7064)
+Defined in: [WAProto/index.d.ts:7064](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L7064)
 
 Encodes the specified BotSessionMetadata message. Does not implicitly [verify](BotSessionMetadata.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:7072](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L7072)
+Defined in: [WAProto/index.d.ts:7072](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L7072)
 
 Encodes the specified BotSessionMetadata message, length delimited. Does not implicitly [verify](BotSessionMetadata.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotSessionMetadata`](BotSessionMetadata.md)
 
-Defined in: [WAProto/index.d.ts:7105](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L7105)
+Defined in: [WAProto/index.d.ts:7105](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L7105)
 
 Creates a BotSessionMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ BotSessionMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:7126](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L7126)
+Defined in: [WAProto/index.d.ts:7126](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L7126)
 
 Gets the default type url for BotSessionMetadata
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:7113](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L7113)
+Defined in: [WAProto/index.d.ts:7113](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L7113)
 
 Creates a plain object from a BotSessionMetadata message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7098](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L7098)
+Defined in: [WAProto/index.d.ts:7098](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L7098)
 
 Verifies a BotSessionMetadata message.
 

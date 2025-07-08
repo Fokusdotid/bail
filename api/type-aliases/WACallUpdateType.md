@@ -2,4 +2,4 @@
 
 > **WACallUpdateType**: `"offer"` \| `"ringing"` \| `"timeout"` \| `"reject"` \| `"accept"` \| `"terminate"`
 
-Defined in: [src/Types/Call.ts:1](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/src/Types/Call.ts#L1)
+Defined in: [src/Types/Call.ts:1](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/src/Types/Call.ts#L1)

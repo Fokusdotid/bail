@@ -1,6 +1,6 @@
 # Interface: IHighlyStructuredMessage
 
-Defined in: [WAProto/index.d.ts:23660](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23660)
+Defined in: [WAProto/index.d.ts:23660](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L23660)
 
 Properties of a HighlyStructuredMessage.
 
@@ -10,7 +10,7 @@ Properties of a HighlyStructuredMessage.
 
 > `optional` **deterministicLc**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23684](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23684)
+Defined in: [WAProto/index.d.ts:23684](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L23684)
 
 HighlyStructuredMessage deterministicLc
 
@@ -20,7 +20,7 @@ HighlyStructuredMessage deterministicLc
 
 > `optional` **deterministicLg**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23681](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23681)
+Defined in: [WAProto/index.d.ts:23681](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L23681)
 
 HighlyStructuredMessage deterministicLg
 
@@ -30,7 +30,7 @@ HighlyStructuredMessage deterministicLg
 
 > `optional` **elementName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23666](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23666)
+Defined in: [WAProto/index.d.ts:23666](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L23666)
 
 HighlyStructuredMessage elementName
 
@@ -40,7 +40,7 @@ HighlyStructuredMessage elementName
 
 > `optional` **fallbackLc**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23675](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23675)
+Defined in: [WAProto/index.d.ts:23675](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L23675)
 
 HighlyStructuredMessage fallbackLc
 
@@ -50,7 +50,7 @@ HighlyStructuredMessage fallbackLc
 
 > `optional` **fallbackLg**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23672](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23672)
+Defined in: [WAProto/index.d.ts:23672](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L23672)
 
 HighlyStructuredMessage fallbackLg
 
@@ -60,7 +60,7 @@ HighlyStructuredMessage fallbackLg
 
 > `optional` **hydratedHsm**: `null` \| [`ITemplateMessage`](ITemplateMessage.md)
 
-Defined in: [WAProto/index.d.ts:23687](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23687)
+Defined in: [WAProto/index.d.ts:23687](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L23687)
 
 HighlyStructuredMessage hydratedHsm
 
@@ -70,7 +70,7 @@ HighlyStructuredMessage hydratedHsm
 
 > `optional` **localizableParams**: `null` \| [`IHSMLocalizableParameter`](../namespaces/HighlyStructuredMessage/interfaces/IHSMLocalizableParameter.md)[]
 
-Defined in: [WAProto/index.d.ts:23678](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23678)
+Defined in: [WAProto/index.d.ts:23678](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L23678)
 
 HighlyStructuredMessage localizableParams
 
@@ -80,7 +80,7 @@ HighlyStructuredMessage localizableParams
 
 > `optional` **namespace**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23663](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23663)
+Defined in: [WAProto/index.d.ts:23663](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L23663)
 
 HighlyStructuredMessage namespace
 
@@ -90,6 +90,6 @@ HighlyStructuredMessage namespace
 
 > `optional` **params**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:23669](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L23669)
+Defined in: [WAProto/index.d.ts:23669](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L23669)
 
 HighlyStructuredMessage params

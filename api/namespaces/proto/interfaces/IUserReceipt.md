@@ -1,6 +1,6 @@
 # Interface: IUserReceipt
 
-Defined in: [WAProto/index.d.ts:51818](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L51818)
+Defined in: [WAProto/index.d.ts:51818](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L51818)
 
 Properties of a UserReceipt.
 
@@ -10,7 +10,7 @@ Properties of a UserReceipt.
 
 > `optional` **deliveredDeviceJid**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:51836](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L51836)
+Defined in: [WAProto/index.d.ts:51836](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L51836)
 
 UserReceipt deliveredDeviceJid
 
@@ -20,7 +20,7 @@ UserReceipt deliveredDeviceJid
 
 > `optional` **pendingDeviceJid**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:51833](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L51833)
+Defined in: [WAProto/index.d.ts:51833](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L51833)
 
 UserReceipt pendingDeviceJid
 
@@ -30,7 +30,7 @@ UserReceipt pendingDeviceJid
 
 > `optional` **playedTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:51830](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L51830)
+Defined in: [WAProto/index.d.ts:51830](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L51830)
 
 UserReceipt playedTimestamp
 
@@ -40,7 +40,7 @@ UserReceipt playedTimestamp
 
 > `optional` **readTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:51827](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L51827)
+Defined in: [WAProto/index.d.ts:51827](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L51827)
 
 UserReceipt readTimestamp
 
@@ -50,7 +50,7 @@ UserReceipt readTimestamp
 
 > `optional` **receiptTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:51824](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L51824)
+Defined in: [WAProto/index.d.ts:51824](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L51824)
 
 UserReceipt receiptTimestamp
 
@@ -60,6 +60,6 @@ UserReceipt receiptTimestamp
 
 > **userJid**: `string`
 
-Defined in: [WAProto/index.d.ts:51821](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L51821)
+Defined in: [WAProto/index.d.ts:51821](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L51821)
 
 UserReceipt userJid

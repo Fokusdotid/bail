@@ -1,6 +1,6 @@
 # Class: NativeFlowMessage
 
-Defined in: [WAProto/index.d.ts:25665](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L25665)
+Defined in: [WAProto/index.d.ts:25665](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25665)
 
 Represents a NativeFlowMessage.
 
@@ -14,7 +14,7 @@ Represents a NativeFlowMessage.
 
 > **new NativeFlowMessage**(`properties`?): [`NativeFlowMessage`](NativeFlowMessage.md)
 
-Defined in: [WAProto/index.d.ts:25671](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L25671)
+Defined in: [WAProto/index.d.ts:25671](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25671)
 
 Constructs a new NativeFlowMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **buttons**: [`INativeFlowButton`](../namespaces/NativeFlowMessage/interfaces/INativeFlowButton.md)[]
 
-Defined in: [WAProto/index.d.ts:25674](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L25674)
+Defined in: [WAProto/index.d.ts:25674](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25674)
 
 NativeFlowMessage buttons.
 
@@ -50,7 +50,7 @@ NativeFlowMessage buttons.
 
 > `optional` **messageParamsJson**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25677](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L25677)
+Defined in: [WAProto/index.d.ts:25677](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25677)
 
 NativeFlowMessage messageParamsJson.
 
@@ -64,7 +64,7 @@ NativeFlowMessage messageParamsJson.
 
 > `optional` **messageVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:25680](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L25680)
+Defined in: [WAProto/index.d.ts:25680](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25680)
 
 NativeFlowMessage messageVersion.
 
@@ -78,7 +78,7 @@ NativeFlowMessage messageVersion.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:25750](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L25750)
+Defined in: [WAProto/index.d.ts:25750](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25750)
 
 Converts this NativeFlowMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`NativeFlowMessage`](NativeFlowMessage.md)
 
-Defined in: [WAProto/index.d.ts:25687](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L25687)
+Defined in: [WAProto/index.d.ts:25687](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25687)
 
 Creates a new NativeFlowMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ NativeFlowMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`NativeFlowMessage`](NativeFlowMessage.md)
 
-Defined in: [WAProto/index.d.ts:25713](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L25713)
+Defined in: [WAProto/index.d.ts:25713](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25713)
 
 Decodes a NativeFlowMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`NativeFlowMessage`](NativeFlowMessage.md)
 
-Defined in: [WAProto/index.d.ts:25722](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L25722)
+Defined in: [WAProto/index.d.ts:25722](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25722)
 
 Decodes a NativeFlowMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25695](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L25695)
+Defined in: [WAProto/index.d.ts:25695](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25695)
 
 Encodes the specified NativeFlowMessage message. Does not implicitly [verify](NativeFlowMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25703](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L25703)
+Defined in: [WAProto/index.d.ts:25703](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25703)
 
 Encodes the specified NativeFlowMessage message, length delimited. Does not implicitly [verify](NativeFlowMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`NativeFlowMessage`](NativeFlowMessage.md)
 
-Defined in: [WAProto/index.d.ts:25736](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L25736)
+Defined in: [WAProto/index.d.ts:25736](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25736)
 
 Creates a NativeFlowMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ NativeFlowMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:25757](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L25757)
+Defined in: [WAProto/index.d.ts:25757](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25757)
 
 Gets the default type url for NativeFlowMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:25744](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L25744)
+Defined in: [WAProto/index.d.ts:25744](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25744)
 
 Creates a plain object from a NativeFlowMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25729](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L25729)
+Defined in: [WAProto/index.d.ts:25729](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25729)
 
 Verifies a NativeFlowMessage message.
 

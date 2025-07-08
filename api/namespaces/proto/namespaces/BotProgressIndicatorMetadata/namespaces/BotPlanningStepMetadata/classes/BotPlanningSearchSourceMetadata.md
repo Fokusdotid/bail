@@ -1,6 +1,6 @@
 # Class: BotPlanningSearchSourceMetadata
 
-Defined in: [WAProto/index.d.ts:5807](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L5807)
+Defined in: [WAProto/index.d.ts:5807](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5807)
 
 Represents a BotPlanningSearchSourceMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotPlanningSearchSourceMetadata.
 
 > **new BotPlanningSearchSourceMetadata**(`properties`?): [`BotPlanningSearchSourceMetadata`](BotPlanningSearchSourceMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5813](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L5813)
+Defined in: [WAProto/index.d.ts:5813](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5813)
 
 Constructs a new BotPlanningSearchSourceMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **favIconUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5825](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L5825)
+Defined in: [WAProto/index.d.ts:5825](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5825)
 
 BotPlanningSearchSourceMetadata favIconUrl.
 
@@ -50,7 +50,7 @@ BotPlanningSearchSourceMetadata favIconUrl.
 
 > `optional` **provider**: `null` \| [`BotSearchSourceProvider`](../enumerations/BotSearchSourceProvider.md)
 
-Defined in: [WAProto/index.d.ts:5819](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L5819)
+Defined in: [WAProto/index.d.ts:5819](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5819)
 
 BotPlanningSearchSourceMetadata provider.
 
@@ -64,7 +64,7 @@ BotPlanningSearchSourceMetadata provider.
 
 > `optional` **sourceUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5822](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L5822)
+Defined in: [WAProto/index.d.ts:5822](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5822)
 
 BotPlanningSearchSourceMetadata sourceUrl.
 
@@ -78,7 +78,7 @@ BotPlanningSearchSourceMetadata sourceUrl.
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5816](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L5816)
+Defined in: [WAProto/index.d.ts:5816](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5816)
 
 BotPlanningSearchSourceMetadata title.
 
@@ -92,7 +92,7 @@ BotPlanningSearchSourceMetadata title.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:5895](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L5895)
+Defined in: [WAProto/index.d.ts:5895](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5895)
 
 Converts this BotPlanningSearchSourceMetadata to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotPlanningSearchSourceMetadata`](BotPlanningSearchSourceMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5832](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L5832)
+Defined in: [WAProto/index.d.ts:5832](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5832)
 
 Creates a new BotPlanningSearchSourceMetadata instance using the specified properties.
 
@@ -132,7 +132,7 @@ BotPlanningSearchSourceMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotPlanningSearchSourceMetadata`](BotPlanningSearchSourceMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5858](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L5858)
+Defined in: [WAProto/index.d.ts:5858](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5858)
 
 Decodes a BotPlanningSearchSourceMetadata message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotPlanningSearchSourceMetadata`](BotPlanningSearchSourceMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5867](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L5867)
+Defined in: [WAProto/index.d.ts:5867](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5867)
 
 Decodes a BotPlanningSearchSourceMetadata message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5840](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L5840)
+Defined in: [WAProto/index.d.ts:5840](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5840)
 
 Encodes the specified BotPlanningSearchSourceMetadata message. Does not implicitly [verify](BotPlanningSearchSourceMetadata.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5848](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L5848)
+Defined in: [WAProto/index.d.ts:5848](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5848)
 
 Encodes the specified BotPlanningSearchSourceMetadata message, length delimited. Does not implicitly [verify](BotPlanningSearchSourceMetadata.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotPlanningSearchSourceMetadata`](BotPlanningSearchSourceMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5881](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L5881)
+Defined in: [WAProto/index.d.ts:5881](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5881)
 
 Creates a BotPlanningSearchSourceMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ BotPlanningSearchSourceMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:5902](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L5902)
+Defined in: [WAProto/index.d.ts:5902](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5902)
 
 Gets the default type url for BotPlanningSearchSourceMetadata
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:5889](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L5889)
+Defined in: [WAProto/index.d.ts:5889](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5889)
 
 Creates a plain object from a BotPlanningSearchSourceMetadata message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5874](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L5874)
+Defined in: [WAProto/index.d.ts:5874](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5874)
 
 Verifies a BotPlanningSearchSourceMetadata message.
 

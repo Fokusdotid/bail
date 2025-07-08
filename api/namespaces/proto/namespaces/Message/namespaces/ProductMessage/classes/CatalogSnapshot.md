@@ -1,6 +1,6 @@
 # Class: CatalogSnapshot
 
-Defined in: [WAProto/index.d.ts:32307](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L32307)
+Defined in: [WAProto/index.d.ts:32307](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L32307)
 
 Represents a CatalogSnapshot.
 
@@ -14,7 +14,7 @@ Represents a CatalogSnapshot.
 
 > **new CatalogSnapshot**(`properties`?): [`CatalogSnapshot`](CatalogSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:32313](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L32313)
+Defined in: [WAProto/index.d.ts:32313](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L32313)
 
 Constructs a new CatalogSnapshot.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **catalogImage**: `null` \| [`IImageMessage`](../../../interfaces/IImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:32316](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L32316)
+Defined in: [WAProto/index.d.ts:32316](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L32316)
 
 CatalogSnapshot catalogImage.
 
@@ -50,7 +50,7 @@ CatalogSnapshot catalogImage.
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32322](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L32322)
+Defined in: [WAProto/index.d.ts:32322](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L32322)
 
 CatalogSnapshot description.
 
@@ -64,7 +64,7 @@ CatalogSnapshot description.
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32319](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L32319)
+Defined in: [WAProto/index.d.ts:32319](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L32319)
 
 CatalogSnapshot title.
 
@@ -78,7 +78,7 @@ CatalogSnapshot title.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:32392](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L32392)
+Defined in: [WAProto/index.d.ts:32392](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L32392)
 
 Converts this CatalogSnapshot to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CatalogSnapshot`](CatalogSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:32329](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L32329)
+Defined in: [WAProto/index.d.ts:32329](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L32329)
 
 Creates a new CatalogSnapshot instance using the specified properties.
 
@@ -118,7 +118,7 @@ CatalogSnapshot instance
 
 > `static` **decode**(`reader`, `length`?): [`CatalogSnapshot`](CatalogSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:32355](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L32355)
+Defined in: [WAProto/index.d.ts:32355](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L32355)
 
 Decodes a CatalogSnapshot message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CatalogSnapshot`](CatalogSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:32364](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L32364)
+Defined in: [WAProto/index.d.ts:32364](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L32364)
 
 Decodes a CatalogSnapshot message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:32337](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L32337)
+Defined in: [WAProto/index.d.ts:32337](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L32337)
 
 Encodes the specified CatalogSnapshot message. Does not implicitly [verify](CatalogSnapshot.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:32345](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L32345)
+Defined in: [WAProto/index.d.ts:32345](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L32345)
 
 Encodes the specified CatalogSnapshot message, length delimited. Does not implicitly [verify](CatalogSnapshot.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CatalogSnapshot`](CatalogSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:32378](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L32378)
+Defined in: [WAProto/index.d.ts:32378](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L32378)
 
 Creates a CatalogSnapshot message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ CatalogSnapshot
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:32399](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L32399)
+Defined in: [WAProto/index.d.ts:32399](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L32399)
 
 Gets the default type url for CatalogSnapshot
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:32386](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L32386)
+Defined in: [WAProto/index.d.ts:32386](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L32386)
 
 Creates a plain object from a CatalogSnapshot message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:32371](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L32371)
+Defined in: [WAProto/index.d.ts:32371](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L32371)
 
 Verifies a CatalogSnapshot message.
 

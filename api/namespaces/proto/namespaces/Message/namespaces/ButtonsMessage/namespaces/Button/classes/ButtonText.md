@@ -1,6 +1,6 @@
 # Class: ButtonText
 
-Defined in: [WAProto/index.d.ts:20531](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20531)
+Defined in: [WAProto/index.d.ts:20531](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20531)
 
 Represents a ButtonText.
 
@@ -14,7 +14,7 @@ Represents a ButtonText.
 
 > **new ButtonText**(`properties`?): [`ButtonText`](ButtonText.md)
 
-Defined in: [WAProto/index.d.ts:20537](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20537)
+Defined in: [WAProto/index.d.ts:20537](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20537)
 
 Constructs a new ButtonText.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **displayText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20540](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20540)
+Defined in: [WAProto/index.d.ts:20540](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20540)
 
 ButtonText displayText.
 
@@ -50,7 +50,7 @@ ButtonText displayText.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:20610](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20610)
+Defined in: [WAProto/index.d.ts:20610](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20610)
 
 Converts this ButtonText to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ButtonText`](ButtonText.md)
 
-Defined in: [WAProto/index.d.ts:20547](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20547)
+Defined in: [WAProto/index.d.ts:20547](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20547)
 
 Creates a new ButtonText instance using the specified properties.
 
@@ -90,7 +90,7 @@ ButtonText instance
 
 > `static` **decode**(`reader`, `length`?): [`ButtonText`](ButtonText.md)
 
-Defined in: [WAProto/index.d.ts:20573](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20573)
+Defined in: [WAProto/index.d.ts:20573](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20573)
 
 Decodes a ButtonText message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ButtonText`](ButtonText.md)
 
-Defined in: [WAProto/index.d.ts:20582](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20582)
+Defined in: [WAProto/index.d.ts:20582](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20582)
 
 Decodes a ButtonText message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20555](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20555)
+Defined in: [WAProto/index.d.ts:20555](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20555)
 
 Encodes the specified ButtonText message. Does not implicitly [verify](ButtonText.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20563](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20563)
+Defined in: [WAProto/index.d.ts:20563](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20563)
 
 Encodes the specified ButtonText message, length delimited. Does not implicitly [verify](ButtonText.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ButtonText`](ButtonText.md)
 
-Defined in: [WAProto/index.d.ts:20596](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20596)
+Defined in: [WAProto/index.d.ts:20596](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20596)
 
 Creates a ButtonText message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ ButtonText
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:20617](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20617)
+Defined in: [WAProto/index.d.ts:20617](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20617)
 
 Gets the default type url for ButtonText
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:20604](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20604)
+Defined in: [WAProto/index.d.ts:20604](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20604)
 
 Creates a plain object from a ButtonText message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20589](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20589)
+Defined in: [WAProto/index.d.ts:20589](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20589)
 
 Verifies a ButtonText message.
 

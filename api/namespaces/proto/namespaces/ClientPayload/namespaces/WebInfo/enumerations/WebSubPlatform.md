@@ -1,6 +1,6 @@
 # Enumeration: WebSubPlatform
 
-Defined in: [WAProto/index.d.ts:10157](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10157)
+Defined in: [WAProto/index.d.ts:10157](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10157)
 
 WebSubPlatform enum.
 
@@ -10,7 +10,7 @@ WebSubPlatform enum.
 
 > **APP\_STORE**: `1`
 
-Defined in: [WAProto/index.d.ts:10159](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10159)
+Defined in: [WAProto/index.d.ts:10159](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10159)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:10159](https://github.com/Fokusdotid/bail/blob/5
 
 > **DARWIN**: `3`
 
-Defined in: [WAProto/index.d.ts:10161](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10161)
+Defined in: [WAProto/index.d.ts:10161](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10161)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:10161](https://github.com/Fokusdotid/bail/blob/5
 
 > **WEB\_BROWSER**: `0`
 
-Defined in: [WAProto/index.d.ts:10158](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10158)
+Defined in: [WAProto/index.d.ts:10158](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10158)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:10158](https://github.com/Fokusdotid/bail/blob/5
 
 > **WIN\_HYBRID**: `5`
 
-Defined in: [WAProto/index.d.ts:10163](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10163)
+Defined in: [WAProto/index.d.ts:10163](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10163)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [WAProto/index.d.ts:10163](https://github.com/Fokusdotid/bail/blob/5
 
 > **WIN\_STORE**: `2`
 
-Defined in: [WAProto/index.d.ts:10160](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10160)
+Defined in: [WAProto/index.d.ts:10160](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10160)
 
 ***
 
@@ -50,4 +50,4 @@ Defined in: [WAProto/index.d.ts:10160](https://github.com/Fokusdotid/bail/blob/5
 
 > **WIN32**: `4`
 
-Defined in: [WAProto/index.d.ts:10162](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10162)
+Defined in: [WAProto/index.d.ts:10162](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10162)

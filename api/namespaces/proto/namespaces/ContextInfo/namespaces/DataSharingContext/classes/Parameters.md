@@ -1,6 +1,6 @@
 # Class: Parameters
 
-Defined in: [WAProto/index.d.ts:11465](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11465)
+Defined in: [WAProto/index.d.ts:11465](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11465)
 
 Represents a Parameters.
 
@@ -14,7 +14,7 @@ Represents a Parameters.
 
 > **new Parameters**(`properties`?): [`Parameters`](Parameters.md)
 
-Defined in: [WAProto/index.d.ts:11471](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11471)
+Defined in: [WAProto/index.d.ts:11471](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11471)
 
 Constructs a new Parameters.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **contents**: `null` \| [`IParameters`](../interfaces/IParameters.md)
 
-Defined in: [WAProto/index.d.ts:11486](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11486)
+Defined in: [WAProto/index.d.ts:11486](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11486)
 
 Parameters contents.
 
@@ -50,7 +50,7 @@ Parameters contents.
 
 > `optional` **floatData**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:11483](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11483)
+Defined in: [WAProto/index.d.ts:11483](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11483)
 
 Parameters floatData.
 
@@ -64,7 +64,7 @@ Parameters floatData.
 
 > `optional` **intData**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:11480](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11480)
+Defined in: [WAProto/index.d.ts:11480](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11480)
 
 Parameters intData.
 
@@ -78,7 +78,7 @@ Parameters intData.
 
 > `optional` **key**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11474](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11474)
+Defined in: [WAProto/index.d.ts:11474](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11474)
 
 Parameters key.
 
@@ -92,7 +92,7 @@ Parameters key.
 
 > `optional` **stringData**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11477](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11477)
+Defined in: [WAProto/index.d.ts:11477](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11477)
 
 Parameters stringData.
 
@@ -106,7 +106,7 @@ Parameters stringData.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:11556](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11556)
+Defined in: [WAProto/index.d.ts:11556](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11556)
 
 Converts this Parameters to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Parameters`](Parameters.md)
 
-Defined in: [WAProto/index.d.ts:11493](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11493)
+Defined in: [WAProto/index.d.ts:11493](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11493)
 
 Creates a new Parameters instance using the specified properties.
 
@@ -146,7 +146,7 @@ Parameters instance
 
 > `static` **decode**(`reader`, `length`?): [`Parameters`](Parameters.md)
 
-Defined in: [WAProto/index.d.ts:11519](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11519)
+Defined in: [WAProto/index.d.ts:11519](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11519)
 
 Decodes a Parameters message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Parameters`](Parameters.md)
 
-Defined in: [WAProto/index.d.ts:11528](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11528)
+Defined in: [WAProto/index.d.ts:11528](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11528)
 
 Decodes a Parameters message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:11501](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11501)
+Defined in: [WAProto/index.d.ts:11501](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11501)
 
 Encodes the specified Parameters message. Does not implicitly [verify](Parameters.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:11509](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11509)
+Defined in: [WAProto/index.d.ts:11509](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11509)
 
 Encodes the specified Parameters message, length delimited. Does not implicitly [verify](Parameters.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Parameters`](Parameters.md)
 
-Defined in: [WAProto/index.d.ts:11542](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11542)
+Defined in: [WAProto/index.d.ts:11542](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11542)
 
 Creates a Parameters message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ Parameters
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:11563](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11563)
+Defined in: [WAProto/index.d.ts:11563](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11563)
 
 Gets the default type url for Parameters
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:11550](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11550)
+Defined in: [WAProto/index.d.ts:11550](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11550)
 
 Creates a plain object from a Parameters message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11535](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11535)
+Defined in: [WAProto/index.d.ts:11535](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11535)
 
 Verifies a Parameters message.
 

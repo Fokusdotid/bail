@@ -1,6 +1,6 @@
 # Class: StarAction
 
-Defined in: [WAProto/index.d.ts:48577](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L48577)
+Defined in: [WAProto/index.d.ts:48577](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L48577)
 
 Represents a StarAction.
 
@@ -14,7 +14,7 @@ Represents a StarAction.
 
 > **new StarAction**(`properties`?): [`StarAction`](StarAction.md)
 
-Defined in: [WAProto/index.d.ts:48583](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L48583)
+Defined in: [WAProto/index.d.ts:48583](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L48583)
 
 Constructs a new StarAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **starred**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:48586](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L48586)
+Defined in: [WAProto/index.d.ts:48586](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L48586)
 
 StarAction starred.
 
@@ -50,7 +50,7 @@ StarAction starred.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:48656](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L48656)
+Defined in: [WAProto/index.d.ts:48656](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L48656)
 
 Converts this StarAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`StarAction`](StarAction.md)
 
-Defined in: [WAProto/index.d.ts:48593](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L48593)
+Defined in: [WAProto/index.d.ts:48593](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L48593)
 
 Creates a new StarAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ StarAction instance
 
 > `static` **decode**(`reader`, `length`?): [`StarAction`](StarAction.md)
 
-Defined in: [WAProto/index.d.ts:48619](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L48619)
+Defined in: [WAProto/index.d.ts:48619](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L48619)
 
 Decodes a StarAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`StarAction`](StarAction.md)
 
-Defined in: [WAProto/index.d.ts:48628](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L48628)
+Defined in: [WAProto/index.d.ts:48628](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L48628)
 
 Decodes a StarAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:48601](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L48601)
+Defined in: [WAProto/index.d.ts:48601](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L48601)
 
 Encodes the specified StarAction message. Does not implicitly [verify](StarAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:48609](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L48609)
+Defined in: [WAProto/index.d.ts:48609](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L48609)
 
 Encodes the specified StarAction message, length delimited. Does not implicitly [verify](StarAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`StarAction`](StarAction.md)
 
-Defined in: [WAProto/index.d.ts:48642](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L48642)
+Defined in: [WAProto/index.d.ts:48642](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L48642)
 
 Creates a StarAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ StarAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:48663](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L48663)
+Defined in: [WAProto/index.d.ts:48663](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L48663)
 
 Gets the default type url for StarAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:48650](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L48650)
+Defined in: [WAProto/index.d.ts:48650](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L48650)
 
 Creates a plain object from a StarAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48635](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L48635)
+Defined in: [WAProto/index.d.ts:48635](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L48635)
 
 Verifies a StarAction message.
 

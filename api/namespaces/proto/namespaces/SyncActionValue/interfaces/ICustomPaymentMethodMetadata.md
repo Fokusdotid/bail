@@ -1,6 +1,6 @@
 # Interface: ICustomPaymentMethodMetadata
 
-Defined in: [WAProto/index.d.ts:44811](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L44811)
+Defined in: [WAProto/index.d.ts:44811](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L44811)
 
 Properties of a CustomPaymentMethodMetadata.
 
@@ -10,7 +10,7 @@ Properties of a CustomPaymentMethodMetadata.
 
 > **key**: `string`
 
-Defined in: [WAProto/index.d.ts:44814](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L44814)
+Defined in: [WAProto/index.d.ts:44814](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L44814)
 
 CustomPaymentMethodMetadata key
 
@@ -20,6 +20,6 @@ CustomPaymentMethodMetadata key
 
 > **value**: `string`
 
-Defined in: [WAProto/index.d.ts:44817](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L44817)
+Defined in: [WAProto/index.d.ts:44817](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L44817)
 
 CustomPaymentMethodMetadata value

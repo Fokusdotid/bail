@@ -1,6 +1,6 @@
 # Class: PaymentBackground
 
-Defined in: [WAProto/index.d.ts:38340](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38340)
+Defined in: [WAProto/index.d.ts:38340](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38340)
 
 Represents a PaymentBackground.
 
@@ -14,7 +14,7 @@ Represents a PaymentBackground.
 
 > **new PaymentBackground**(`properties`?): [`PaymentBackground`](PaymentBackground.md)
 
-Defined in: [WAProto/index.d.ts:38346](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38346)
+Defined in: [WAProto/index.d.ts:38346](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38346)
 
 Constructs a new PaymentBackground.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:38352](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38352)
+Defined in: [WAProto/index.d.ts:38352](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38352)
 
 PaymentBackground fileLength.
 
@@ -50,7 +50,7 @@ PaymentBackground fileLength.
 
 > `optional` **height**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38358](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38358)
+Defined in: [WAProto/index.d.ts:38358](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38358)
 
 PaymentBackground height.
 
@@ -64,7 +64,7 @@ PaymentBackground height.
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:38349](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38349)
+Defined in: [WAProto/index.d.ts:38349](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38349)
 
 PaymentBackground id.
 
@@ -78,7 +78,7 @@ PaymentBackground id.
 
 > `optional` **mediaData**: `null` \| [`IMediaData`](../namespaces/PaymentBackground/interfaces/IMediaData.md)
 
-Defined in: [WAProto/index.d.ts:38373](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38373)
+Defined in: [WAProto/index.d.ts:38373](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38373)
 
 PaymentBackground mediaData.
 
@@ -92,7 +92,7 @@ PaymentBackground mediaData.
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:38361](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38361)
+Defined in: [WAProto/index.d.ts:38361](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38361)
 
 PaymentBackground mimetype.
 
@@ -106,7 +106,7 @@ PaymentBackground mimetype.
 
 > `optional` **placeholderArgb**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38364](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38364)
+Defined in: [WAProto/index.d.ts:38364](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38364)
 
 PaymentBackground placeholderArgb.
 
@@ -120,7 +120,7 @@ PaymentBackground placeholderArgb.
 
 > `optional` **subtextArgb**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38370](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38370)
+Defined in: [WAProto/index.d.ts:38370](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38370)
 
 PaymentBackground subtextArgb.
 
@@ -134,7 +134,7 @@ PaymentBackground subtextArgb.
 
 > `optional` **textArgb**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38367](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38367)
+Defined in: [WAProto/index.d.ts:38367](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38367)
 
 PaymentBackground textArgb.
 
@@ -148,7 +148,7 @@ PaymentBackground textArgb.
 
 > `optional` **type**: `null` \| [`Type`](../namespaces/PaymentBackground/enumerations/Type.md)
 
-Defined in: [WAProto/index.d.ts:38376](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38376)
+Defined in: [WAProto/index.d.ts:38376](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38376)
 
 PaymentBackground type.
 
@@ -162,7 +162,7 @@ PaymentBackground type.
 
 > `optional` **width**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:38355](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38355)
+Defined in: [WAProto/index.d.ts:38355](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38355)
 
 PaymentBackground width.
 
@@ -176,7 +176,7 @@ PaymentBackground width.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:38446](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38446)
+Defined in: [WAProto/index.d.ts:38446](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38446)
 
 Converts this PaymentBackground to JSON.
 
@@ -192,7 +192,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PaymentBackground`](PaymentBackground.md)
 
-Defined in: [WAProto/index.d.ts:38383](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38383)
+Defined in: [WAProto/index.d.ts:38383](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38383)
 
 Creates a new PaymentBackground instance using the specified properties.
 
@@ -216,7 +216,7 @@ PaymentBackground instance
 
 > `static` **decode**(`reader`, `length`?): [`PaymentBackground`](PaymentBackground.md)
 
-Defined in: [WAProto/index.d.ts:38409](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38409)
+Defined in: [WAProto/index.d.ts:38409](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38409)
 
 Decodes a PaymentBackground message from the specified reader or buffer.
 
@@ -254,7 +254,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PaymentBackground`](PaymentBackground.md)
 
-Defined in: [WAProto/index.d.ts:38418](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38418)
+Defined in: [WAProto/index.d.ts:38418](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38418)
 
 Decodes a PaymentBackground message from the specified reader or buffer, length delimited.
 
@@ -286,7 +286,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:38391](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38391)
+Defined in: [WAProto/index.d.ts:38391](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38391)
 
 Encodes the specified PaymentBackground message. Does not implicitly [verify](PaymentBackground.md#verify) messages.
 
@@ -316,7 +316,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:38399](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38399)
+Defined in: [WAProto/index.d.ts:38399](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38399)
 
 Encodes the specified PaymentBackground message, length delimited. Does not implicitly [verify](PaymentBackground.md#verify) messages.
 
@@ -346,7 +346,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PaymentBackground`](PaymentBackground.md)
 
-Defined in: [WAProto/index.d.ts:38432](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38432)
+Defined in: [WAProto/index.d.ts:38432](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38432)
 
 Creates a PaymentBackground message from a plain object. Also converts values to their respective internal types.
 
@@ -368,7 +368,7 @@ PaymentBackground
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:38453](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38453)
+Defined in: [WAProto/index.d.ts:38453](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38453)
 
 Gets the default type url for PaymentBackground
 
@@ -392,7 +392,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:38440](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38440)
+Defined in: [WAProto/index.d.ts:38440](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38440)
 
 Creates a plain object from a PaymentBackground message. Also converts values to other types if specified.
 
@@ -422,7 +422,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:38425](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L38425)
+Defined in: [WAProto/index.d.ts:38425](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L38425)
 
 Verifies a PaymentBackground message.
 

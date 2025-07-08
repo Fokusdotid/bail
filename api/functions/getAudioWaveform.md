@@ -2,7 +2,7 @@
 
 > **getAudioWaveform**(`buffer`, `logger`?): `Promise`\<`undefined` \| `Uint8Array`\<`ArrayBuffer`\>\>
 
-Defined in: [src/Utils/messages-media.ts:243](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/src/Utils/messages-media.ts#L243)
+Defined in: [src/Utils/messages-media.ts:243](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/src/Utils/messages-media.ts#L243)
 
 referenced from and modifying https://github.com/wppconnect-team/wa-js/blob/main/src/chat/functions/prepareAudioWaveform.ts
 

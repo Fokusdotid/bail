@@ -1,6 +1,6 @@
 # Interface: IFeatureEligibilities
 
-Defined in: [WAProto/index.d.ts:11825](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11825)
+Defined in: [WAProto/index.d.ts:11825](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11825)
 
 Properties of a FeatureEligibilities.
 
@@ -10,7 +10,7 @@ Properties of a FeatureEligibilities.
 
 > `optional` **canBeReshared**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:11837](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11837)
+Defined in: [WAProto/index.d.ts:11837](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11837)
 
 FeatureEligibilities canBeReshared
 
@@ -20,7 +20,7 @@ FeatureEligibilities canBeReshared
 
 > `optional` **cannotBeRanked**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:11831](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11831)
+Defined in: [WAProto/index.d.ts:11831](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11831)
 
 FeatureEligibilities cannotBeRanked
 
@@ -30,7 +30,7 @@ FeatureEligibilities cannotBeRanked
 
 > `optional` **cannotBeReactedTo**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:11828](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11828)
+Defined in: [WAProto/index.d.ts:11828](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11828)
 
 FeatureEligibilities cannotBeReactedTo
 
@@ -40,6 +40,6 @@ FeatureEligibilities cannotBeReactedTo
 
 > `optional` **canRequestFeedback**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:11834](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11834)
+Defined in: [WAProto/index.d.ts:11834](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11834)
 
 FeatureEligibilities canRequestFeedback

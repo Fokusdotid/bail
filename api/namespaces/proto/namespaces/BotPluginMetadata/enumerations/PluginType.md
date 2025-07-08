@@ -1,6 +1,6 @@
 # Enumeration: PluginType
 
-Defined in: [WAProto/index.d.ts:5535](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L5535)
+Defined in: [WAProto/index.d.ts:5535](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5535)
 
 PluginType enum.
 
@@ -10,7 +10,7 @@ PluginType enum.
 
 > **REELS**: `1`
 
-Defined in: [WAProto/index.d.ts:5537](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L5537)
+Defined in: [WAProto/index.d.ts:5537](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5537)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:5537](https://github.com/Fokusdotid/bail/blob/54
 
 > **SEARCH**: `2`
 
-Defined in: [WAProto/index.d.ts:5538](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L5538)
+Defined in: [WAProto/index.d.ts:5538](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5538)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:5538](https://github.com/Fokusdotid/bail/blob/54
 
 > **UNKNOWN\_PLUGIN**: `0`
 
-Defined in: [WAProto/index.d.ts:5536](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L5536)
+Defined in: [WAProto/index.d.ts:5536](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5536)

@@ -1,6 +1,6 @@
 # Class: BotAvatarMetadata
 
-Defined in: [WAProto/index.d.ts:3747](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3747)
+Defined in: [WAProto/index.d.ts:3747](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3747)
 
 Represents a BotAvatarMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotAvatarMetadata.
 
 > **new BotAvatarMetadata**(`properties`?): [`BotAvatarMetadata`](BotAvatarMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3753](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3753)
+Defined in: [WAProto/index.d.ts:3753](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3753)
 
 Constructs a new BotAvatarMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **action**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:3762](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3762)
+Defined in: [WAProto/index.d.ts:3762](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3762)
 
 BotAvatarMetadata action.
 
@@ -50,7 +50,7 @@ BotAvatarMetadata action.
 
 > `optional` **behaviorGraph**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3759](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3759)
+Defined in: [WAProto/index.d.ts:3759](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3759)
 
 BotAvatarMetadata behaviorGraph.
 
@@ -64,7 +64,7 @@ BotAvatarMetadata behaviorGraph.
 
 > `optional` **intensity**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:3765](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3765)
+Defined in: [WAProto/index.d.ts:3765](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3765)
 
 BotAvatarMetadata intensity.
 
@@ -78,7 +78,7 @@ BotAvatarMetadata intensity.
 
 > `optional` **sentiment**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:3756](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3756)
+Defined in: [WAProto/index.d.ts:3756](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3756)
 
 BotAvatarMetadata sentiment.
 
@@ -92,7 +92,7 @@ BotAvatarMetadata sentiment.
 
 > `optional` **wordCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:3768](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3768)
+Defined in: [WAProto/index.d.ts:3768](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3768)
 
 BotAvatarMetadata wordCount.
 
@@ -106,7 +106,7 @@ BotAvatarMetadata wordCount.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:3838](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3838)
+Defined in: [WAProto/index.d.ts:3838](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3838)
 
 Converts this BotAvatarMetadata to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotAvatarMetadata`](BotAvatarMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3775](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3775)
+Defined in: [WAProto/index.d.ts:3775](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3775)
 
 Creates a new BotAvatarMetadata instance using the specified properties.
 
@@ -146,7 +146,7 @@ BotAvatarMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotAvatarMetadata`](BotAvatarMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3801](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3801)
+Defined in: [WAProto/index.d.ts:3801](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3801)
 
 Decodes a BotAvatarMetadata message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotAvatarMetadata`](BotAvatarMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3810](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3810)
+Defined in: [WAProto/index.d.ts:3810](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3810)
 
 Decodes a BotAvatarMetadata message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3783](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3783)
+Defined in: [WAProto/index.d.ts:3783](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3783)
 
 Encodes the specified BotAvatarMetadata message. Does not implicitly [verify](BotAvatarMetadata.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3791](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3791)
+Defined in: [WAProto/index.d.ts:3791](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3791)
 
 Encodes the specified BotAvatarMetadata message, length delimited. Does not implicitly [verify](BotAvatarMetadata.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotAvatarMetadata`](BotAvatarMetadata.md)
 
-Defined in: [WAProto/index.d.ts:3824](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3824)
+Defined in: [WAProto/index.d.ts:3824](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3824)
 
 Creates a BotAvatarMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ BotAvatarMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:3845](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3845)
+Defined in: [WAProto/index.d.ts:3845](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3845)
 
 Gets the default type url for BotAvatarMetadata
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:3832](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3832)
+Defined in: [WAProto/index.d.ts:3832](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3832)
 
 Creates a plain object from a BotAvatarMetadata message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3817](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3817)
+Defined in: [WAProto/index.d.ts:3817](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3817)
 
 Verifies a BotAvatarMetadata message.
 

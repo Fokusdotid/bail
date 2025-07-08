@@ -1,6 +1,6 @@
 # Class: HydratedCallButton
 
-Defined in: [WAProto/index.d.ts:16209](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L16209)
+Defined in: [WAProto/index.d.ts:16209](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16209)
 
 Represents a HydratedCallButton.
 
@@ -14,7 +14,7 @@ Represents a HydratedCallButton.
 
 > **new HydratedCallButton**(`properties`?): [`HydratedCallButton`](HydratedCallButton.md)
 
-Defined in: [WAProto/index.d.ts:16215](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L16215)
+Defined in: [WAProto/index.d.ts:16215](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16215)
 
 Constructs a new HydratedCallButton.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **displayText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16218](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L16218)
+Defined in: [WAProto/index.d.ts:16218](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16218)
 
 HydratedCallButton displayText.
 
@@ -50,7 +50,7 @@ HydratedCallButton displayText.
 
 > `optional` **phoneNumber**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16221](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L16221)
+Defined in: [WAProto/index.d.ts:16221](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16221)
 
 HydratedCallButton phoneNumber.
 
@@ -64,7 +64,7 @@ HydratedCallButton phoneNumber.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:16291](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L16291)
+Defined in: [WAProto/index.d.ts:16291](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16291)
 
 Converts this HydratedCallButton to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`HydratedCallButton`](HydratedCallButton.md)
 
-Defined in: [WAProto/index.d.ts:16228](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L16228)
+Defined in: [WAProto/index.d.ts:16228](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16228)
 
 Creates a new HydratedCallButton instance using the specified properties.
 
@@ -104,7 +104,7 @@ HydratedCallButton instance
 
 > `static` **decode**(`reader`, `length`?): [`HydratedCallButton`](HydratedCallButton.md)
 
-Defined in: [WAProto/index.d.ts:16254](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L16254)
+Defined in: [WAProto/index.d.ts:16254](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16254)
 
 Decodes a HydratedCallButton message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`HydratedCallButton`](HydratedCallButton.md)
 
-Defined in: [WAProto/index.d.ts:16263](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L16263)
+Defined in: [WAProto/index.d.ts:16263](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16263)
 
 Decodes a HydratedCallButton message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:16236](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L16236)
+Defined in: [WAProto/index.d.ts:16236](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16236)
 
 Encodes the specified HydratedCallButton message. Does not implicitly [verify](HydratedCallButton.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:16244](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L16244)
+Defined in: [WAProto/index.d.ts:16244](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16244)
 
 Encodes the specified HydratedCallButton message, length delimited. Does not implicitly [verify](HydratedCallButton.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`HydratedCallButton`](HydratedCallButton.md)
 
-Defined in: [WAProto/index.d.ts:16277](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L16277)
+Defined in: [WAProto/index.d.ts:16277](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16277)
 
 Creates a HydratedCallButton message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ HydratedCallButton
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:16298](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L16298)
+Defined in: [WAProto/index.d.ts:16298](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16298)
 
 Gets the default type url for HydratedCallButton
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:16285](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L16285)
+Defined in: [WAProto/index.d.ts:16285](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16285)
 
 Creates a plain object from a HydratedCallButton message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16270](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L16270)
+Defined in: [WAProto/index.d.ts:16270](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16270)
 
 Verifies a HydratedCallButton message.
 

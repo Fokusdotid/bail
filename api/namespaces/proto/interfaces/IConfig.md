@@ -1,6 +1,6 @@
 # Interface: IConfig
 
-Defined in: [WAProto/index.d.ts:10635](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10635)
+Defined in: [WAProto/index.d.ts:10635](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10635)
 
 Properties of a Config.
 
@@ -10,7 +10,7 @@ Properties of a Config.
 
 > `optional` **field**: `null` \| \{\}
 
-Defined in: [WAProto/index.d.ts:10638](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10638)
+Defined in: [WAProto/index.d.ts:10638](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10638)
 
 Config field
 
@@ -20,6 +20,6 @@ Config field
 
 > `optional` **version**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:10641](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10641)
+Defined in: [WAProto/index.d.ts:10641](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10641)
 
 Config version

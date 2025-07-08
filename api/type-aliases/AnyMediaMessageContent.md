@@ -2,7 +2,7 @@
 
 > **AnyMediaMessageContent**: `object` & `Mentionable` & `Contextable` & `WithDimensions` & `Interactiveable` & `Buttonable` & `Templatable` \| `object` & `Mentionable` & `Contextable` & `WithDimensions` & `Interactiveable` & `Buttonable` & `Templatable` \| \{ `audio`: [`WAMediaUpload`](WAMediaUpload.md); `ptt`: `boolean`; `seconds`: `number`; \} \| `object` & `WithDimensions` \| `object` & `Contextable` & `Interactiveable` & `Buttonable` & `Templatable` & `object` & `Editable`
 
-Defined in: [src/Types/Message.ts:141](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/src/Types/Message.ts#L141)
+Defined in: [src/Types/Message.ts:141](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/src/Types/Message.ts#L141)
 
 ## Type declaration
 

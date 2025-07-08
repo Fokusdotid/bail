@@ -1,6 +1,6 @@
 # Class: ForwardedAIBotMessageInfo
 
-Defined in: [WAProto/index.d.ts:11953](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11953)
+Defined in: [WAProto/index.d.ts:11953](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11953)
 
 Represents a ForwardedAIBotMessageInfo.
 
@@ -14,7 +14,7 @@ Represents a ForwardedAIBotMessageInfo.
 
 > **new ForwardedAIBotMessageInfo**(`properties`?): [`ForwardedAIBotMessageInfo`](ForwardedAIBotMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:11959](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11959)
+Defined in: [WAProto/index.d.ts:11959](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11959)
 
 Constructs a new ForwardedAIBotMessageInfo.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **botJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11965](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11965)
+Defined in: [WAProto/index.d.ts:11965](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11965)
 
 ForwardedAIBotMessageInfo botJid.
 
@@ -50,7 +50,7 @@ ForwardedAIBotMessageInfo botJid.
 
 > `optional` **botName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11962](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11962)
+Defined in: [WAProto/index.d.ts:11962](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11962)
 
 ForwardedAIBotMessageInfo botName.
 
@@ -64,7 +64,7 @@ ForwardedAIBotMessageInfo botName.
 
 > `optional` **creatorName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11968](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11968)
+Defined in: [WAProto/index.d.ts:11968](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11968)
 
 ForwardedAIBotMessageInfo creatorName.
 
@@ -78,7 +78,7 @@ ForwardedAIBotMessageInfo creatorName.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:12038](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L12038)
+Defined in: [WAProto/index.d.ts:12038](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L12038)
 
 Converts this ForwardedAIBotMessageInfo to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ForwardedAIBotMessageInfo`](ForwardedAIBotMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:11975](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11975)
+Defined in: [WAProto/index.d.ts:11975](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11975)
 
 Creates a new ForwardedAIBotMessageInfo instance using the specified properties.
 
@@ -118,7 +118,7 @@ ForwardedAIBotMessageInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`ForwardedAIBotMessageInfo`](ForwardedAIBotMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:12001](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L12001)
+Defined in: [WAProto/index.d.ts:12001](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L12001)
 
 Decodes a ForwardedAIBotMessageInfo message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ForwardedAIBotMessageInfo`](ForwardedAIBotMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:12010](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L12010)
+Defined in: [WAProto/index.d.ts:12010](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L12010)
 
 Decodes a ForwardedAIBotMessageInfo message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:11983](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11983)
+Defined in: [WAProto/index.d.ts:11983](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11983)
 
 Encodes the specified ForwardedAIBotMessageInfo message. Does not implicitly [verify](ForwardedAIBotMessageInfo.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:11991](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L11991)
+Defined in: [WAProto/index.d.ts:11991](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11991)
 
 Encodes the specified ForwardedAIBotMessageInfo message, length delimited. Does not implicitly [verify](ForwardedAIBotMessageInfo.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ForwardedAIBotMessageInfo`](ForwardedAIBotMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:12024](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L12024)
+Defined in: [WAProto/index.d.ts:12024](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L12024)
 
 Creates a ForwardedAIBotMessageInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ ForwardedAIBotMessageInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:12045](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L12045)
+Defined in: [WAProto/index.d.ts:12045](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L12045)
 
 Gets the default type url for ForwardedAIBotMessageInfo
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:12032](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L12032)
+Defined in: [WAProto/index.d.ts:12032](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L12032)
 
 Creates a plain object from a ForwardedAIBotMessageInfo message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12017](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L12017)
+Defined in: [WAProto/index.d.ts:12017](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L12017)
 
 Verifies a ForwardedAIBotMessageInfo message.
 

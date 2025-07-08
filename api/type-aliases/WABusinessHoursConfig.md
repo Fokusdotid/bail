@@ -2,7 +2,7 @@
 
 > **WABusinessHoursConfig**: `object`
 
-Defined in: [src/Types/index.ts:46](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/src/Types/index.ts#L46)
+Defined in: [src/Types/index.ts:46](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/src/Types/index.ts#L46)
 
 ## Type declaration
 

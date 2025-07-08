@@ -1,6 +1,6 @@
 # Class: Call
 
-Defined in: [WAProto/index.d.ts:20896](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20896)
+Defined in: [WAProto/index.d.ts:20896](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20896)
 
 Represents a Call.
 
@@ -14,7 +14,7 @@ Represents a Call.
 
 > **new Call**(`properties`?): [`Call`](Call.md)
 
-Defined in: [WAProto/index.d.ts:20902](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20902)
+Defined in: [WAProto/index.d.ts:20902](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20902)
 
 Constructs a new Call.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **callKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20905](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20905)
+Defined in: [WAProto/index.d.ts:20905](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20905)
 
 Call callKey.
 
@@ -50,7 +50,7 @@ Call callKey.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:20923](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20923)
+Defined in: [WAProto/index.d.ts:20923](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20923)
 
 Call contextInfo.
 
@@ -64,7 +64,7 @@ Call contextInfo.
 
 > `optional` **conversionData**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20911](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20911)
+Defined in: [WAProto/index.d.ts:20911](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20911)
 
 Call conversionData.
 
@@ -78,7 +78,7 @@ Call conversionData.
 
 > `optional` **conversionDelaySeconds**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:20914](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20914)
+Defined in: [WAProto/index.d.ts:20914](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20914)
 
 Call conversionDelaySeconds.
 
@@ -92,7 +92,7 @@ Call conversionDelaySeconds.
 
 > `optional` **conversionSource**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20908](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20908)
+Defined in: [WAProto/index.d.ts:20908](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20908)
 
 Call conversionSource.
 
@@ -106,7 +106,7 @@ Call conversionSource.
 
 > `optional` **ctwaPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:20920](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20920)
+Defined in: [WAProto/index.d.ts:20920](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20920)
 
 Call ctwaPayload.
 
@@ -120,7 +120,7 @@ Call ctwaPayload.
 
 > `optional` **ctwaSignals**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20917](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20917)
+Defined in: [WAProto/index.d.ts:20917](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20917)
 
 Call ctwaSignals.
 
@@ -134,7 +134,7 @@ Call ctwaSignals.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:20993](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20993)
+Defined in: [WAProto/index.d.ts:20993](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20993)
 
 Converts this Call to JSON.
 
@@ -150,7 +150,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Call`](Call.md)
 
-Defined in: [WAProto/index.d.ts:20930](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20930)
+Defined in: [WAProto/index.d.ts:20930](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20930)
 
 Creates a new Call instance using the specified properties.
 
@@ -174,7 +174,7 @@ Call instance
 
 > `static` **decode**(`reader`, `length`?): [`Call`](Call.md)
 
-Defined in: [WAProto/index.d.ts:20956](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20956)
+Defined in: [WAProto/index.d.ts:20956](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20956)
 
 Decodes a Call message from the specified reader or buffer.
 
@@ -212,7 +212,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Call`](Call.md)
 
-Defined in: [WAProto/index.d.ts:20965](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20965)
+Defined in: [WAProto/index.d.ts:20965](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20965)
 
 Decodes a Call message from the specified reader or buffer, length delimited.
 
@@ -244,7 +244,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20938](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20938)
+Defined in: [WAProto/index.d.ts:20938](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20938)
 
 Encodes the specified Call message. Does not implicitly [verify](Call.md#verify) messages.
 
@@ -274,7 +274,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:20946](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20946)
+Defined in: [WAProto/index.d.ts:20946](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20946)
 
 Encodes the specified Call message, length delimited. Does not implicitly [verify](Call.md#verify) messages.
 
@@ -304,7 +304,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Call`](Call.md)
 
-Defined in: [WAProto/index.d.ts:20979](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20979)
+Defined in: [WAProto/index.d.ts:20979](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20979)
 
 Creates a Call message from a plain object. Also converts values to their respective internal types.
 
@@ -326,7 +326,7 @@ Call
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:21000](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L21000)
+Defined in: [WAProto/index.d.ts:21000](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L21000)
 
 Gets the default type url for Call
 
@@ -350,7 +350,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:20987](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20987)
+Defined in: [WAProto/index.d.ts:20987](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20987)
 
 Creates a plain object from a Call message. Also converts values to other types if specified.
 
@@ -380,7 +380,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:20972](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L20972)
+Defined in: [WAProto/index.d.ts:20972](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L20972)
 
 Verifies a Call message.
 

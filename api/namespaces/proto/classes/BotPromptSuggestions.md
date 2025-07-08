@@ -1,6 +1,6 @@
 # Class: BotPromptSuggestions
 
-Defined in: [WAProto/index.d.ts:6375](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6375)
+Defined in: [WAProto/index.d.ts:6375](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L6375)
 
 Represents a BotPromptSuggestions.
 
@@ -14,7 +14,7 @@ Represents a BotPromptSuggestions.
 
 > **new BotPromptSuggestions**(`properties`?): [`BotPromptSuggestions`](BotPromptSuggestions.md)
 
-Defined in: [WAProto/index.d.ts:6381](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6381)
+Defined in: [WAProto/index.d.ts:6381](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L6381)
 
 Constructs a new BotPromptSuggestions.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **suggestions**: [`IBotPromptSuggestion`](../interfaces/IBotPromptSuggestion.md)[]
 
-Defined in: [WAProto/index.d.ts:6384](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6384)
+Defined in: [WAProto/index.d.ts:6384](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L6384)
 
 BotPromptSuggestions suggestions.
 
@@ -50,7 +50,7 @@ BotPromptSuggestions suggestions.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:6454](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6454)
+Defined in: [WAProto/index.d.ts:6454](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L6454)
 
 Converts this BotPromptSuggestions to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotPromptSuggestions`](BotPromptSuggestions.md)
 
-Defined in: [WAProto/index.d.ts:6391](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6391)
+Defined in: [WAProto/index.d.ts:6391](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L6391)
 
 Creates a new BotPromptSuggestions instance using the specified properties.
 
@@ -90,7 +90,7 @@ BotPromptSuggestions instance
 
 > `static` **decode**(`reader`, `length`?): [`BotPromptSuggestions`](BotPromptSuggestions.md)
 
-Defined in: [WAProto/index.d.ts:6417](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6417)
+Defined in: [WAProto/index.d.ts:6417](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L6417)
 
 Decodes a BotPromptSuggestions message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotPromptSuggestions`](BotPromptSuggestions.md)
 
-Defined in: [WAProto/index.d.ts:6426](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6426)
+Defined in: [WAProto/index.d.ts:6426](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L6426)
 
 Decodes a BotPromptSuggestions message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:6399](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6399)
+Defined in: [WAProto/index.d.ts:6399](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L6399)
 
 Encodes the specified BotPromptSuggestions message. Does not implicitly [verify](BotPromptSuggestions.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:6407](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6407)
+Defined in: [WAProto/index.d.ts:6407](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L6407)
 
 Encodes the specified BotPromptSuggestions message, length delimited. Does not implicitly [verify](BotPromptSuggestions.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotPromptSuggestions`](BotPromptSuggestions.md)
 
-Defined in: [WAProto/index.d.ts:6440](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6440)
+Defined in: [WAProto/index.d.ts:6440](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L6440)
 
 Creates a BotPromptSuggestions message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ BotPromptSuggestions
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:6461](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6461)
+Defined in: [WAProto/index.d.ts:6461](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L6461)
 
 Gets the default type url for BotPromptSuggestions
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:6448](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6448)
+Defined in: [WAProto/index.d.ts:6448](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L6448)
 
 Creates a plain object from a BotPromptSuggestions message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:6433](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6433)
+Defined in: [WAProto/index.d.ts:6433](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L6433)
 
 Verifies a BotPromptSuggestions message.
 

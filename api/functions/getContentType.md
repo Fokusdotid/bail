@@ -2,7 +2,7 @@
 
 > **getContentType**(`content`): `undefined` \| keyof IMessage
 
-Defined in: [src/Utils/messages.ts:768](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/src/Utils/messages.ts#L768)
+Defined in: [src/Utils/messages.ts:768](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/src/Utils/messages.ts#L768)
 
 Get the key to access the true type of content
 

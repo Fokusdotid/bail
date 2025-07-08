@@ -1,6 +1,6 @@
 # Enumeration: KeepType
 
-Defined in: [WAProto/index.d.ts:16913](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L16913)
+Defined in: [WAProto/index.d.ts:16913](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16913)
 
 KeepType enum.
 
@@ -10,7 +10,7 @@ KeepType enum.
 
 > **KEEP\_FOR\_ALL**: `1`
 
-Defined in: [WAProto/index.d.ts:16915](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L16915)
+Defined in: [WAProto/index.d.ts:16915](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16915)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:16915](https://github.com/Fokusdotid/bail/blob/5
 
 > **UNDO\_KEEP\_FOR\_ALL**: `2`
 
-Defined in: [WAProto/index.d.ts:16916](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L16916)
+Defined in: [WAProto/index.d.ts:16916](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16916)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:16916](https://github.com/Fokusdotid/bail/blob/5
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:16914](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L16914)
+Defined in: [WAProto/index.d.ts:16914](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16914)

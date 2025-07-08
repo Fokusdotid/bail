@@ -1,6 +1,6 @@
 # Interface: IMessageHistoryMetadata
 
-Defined in: [WAProto/index.d.ts:28288](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L28288)
+Defined in: [WAProto/index.d.ts:28288](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28288)
 
 Properties of a MessageHistoryMetadata.
 
@@ -10,7 +10,7 @@ Properties of a MessageHistoryMetadata.
 
 > `optional` **firstMessageTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:28294](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L28294)
+Defined in: [WAProto/index.d.ts:28294](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28294)
 
 MessageHistoryMetadata firstMessageTimestamp
 
@@ -20,7 +20,7 @@ MessageHistoryMetadata firstMessageTimestamp
 
 > `optional` **historyReceivers**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:28291](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L28291)
+Defined in: [WAProto/index.d.ts:28291](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28291)
 
 MessageHistoryMetadata historyReceivers
 
@@ -30,6 +30,6 @@ MessageHistoryMetadata historyReceivers
 
 > `optional` **messageCount**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:28297](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L28297)
+Defined in: [WAProto/index.d.ts:28297](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28297)
 
 MessageHistoryMetadata messageCount

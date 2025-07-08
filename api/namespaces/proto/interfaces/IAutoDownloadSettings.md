@@ -1,6 +1,6 @@
 # Interface: IAutoDownloadSettings
 
-Defined in: [WAProto/index.d.ts:3008](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3008)
+Defined in: [WAProto/index.d.ts:3008](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3008)
 
 Properties of an AutoDownloadSettings.
 
@@ -10,7 +10,7 @@ Properties of an AutoDownloadSettings.
 
 > `optional` **downloadAudio**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:3014](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3014)
+Defined in: [WAProto/index.d.ts:3014](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3014)
 
 AutoDownloadSettings downloadAudio
 
@@ -20,7 +20,7 @@ AutoDownloadSettings downloadAudio
 
 > `optional` **downloadDocuments**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:3020](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3020)
+Defined in: [WAProto/index.d.ts:3020](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3020)
 
 AutoDownloadSettings downloadDocuments
 
@@ -30,7 +30,7 @@ AutoDownloadSettings downloadDocuments
 
 > `optional` **downloadImages**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:3011](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3011)
+Defined in: [WAProto/index.d.ts:3011](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3011)
 
 AutoDownloadSettings downloadImages
 
@@ -40,6 +40,6 @@ AutoDownloadSettings downloadImages
 
 > `optional` **downloadVideo**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:3017](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L3017)
+Defined in: [WAProto/index.d.ts:3017](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3017)
 
 AutoDownloadSettings downloadVideo

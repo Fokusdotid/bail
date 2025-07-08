@@ -1,6 +1,6 @@
 # Interface: IStickerMetadata
 
-Defined in: [WAProto/index.d.ts:42965](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42965)
+Defined in: [WAProto/index.d.ts:42965](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42965)
 
 Properties of a StickerMetadata.
 
@@ -10,7 +10,7 @@ Properties of a StickerMetadata.
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:42989](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42989)
+Defined in: [WAProto/index.d.ts:42989](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42989)
 
 StickerMetadata directPath
 
@@ -20,7 +20,7 @@ StickerMetadata directPath
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:42974](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42974)
+Defined in: [WAProto/index.d.ts:42974](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42974)
 
 StickerMetadata fileEncSha256
 
@@ -30,7 +30,7 @@ StickerMetadata fileEncSha256
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:42992](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42992)
+Defined in: [WAProto/index.d.ts:42992](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42992)
 
 StickerMetadata fileLength
 
@@ -40,7 +40,7 @@ StickerMetadata fileLength
 
 > `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:42971](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42971)
+Defined in: [WAProto/index.d.ts:42971](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42971)
 
 StickerMetadata fileSha256
 
@@ -50,7 +50,7 @@ StickerMetadata fileSha256
 
 > `optional` **height**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:42983](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42983)
+Defined in: [WAProto/index.d.ts:42983](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42983)
 
 StickerMetadata height
 
@@ -60,7 +60,7 @@ StickerMetadata height
 
 > `optional` **isLottie**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:43001](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L43001)
+Defined in: [WAProto/index.d.ts:43001](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L43001)
 
 StickerMetadata isLottie
 
@@ -70,7 +70,7 @@ StickerMetadata isLottie
 
 > `optional` **lastStickerSentTs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:42998](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42998)
+Defined in: [WAProto/index.d.ts:42998](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42998)
 
 StickerMetadata lastStickerSentTs
 
@@ -80,7 +80,7 @@ StickerMetadata lastStickerSentTs
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:42977](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42977)
+Defined in: [WAProto/index.d.ts:42977](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42977)
 
 StickerMetadata mediaKey
 
@@ -90,7 +90,7 @@ StickerMetadata mediaKey
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:42980](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42980)
+Defined in: [WAProto/index.d.ts:42980](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42980)
 
 StickerMetadata mimetype
 
@@ -100,7 +100,7 @@ StickerMetadata mimetype
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:42968](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42968)
+Defined in: [WAProto/index.d.ts:42968](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42968)
 
 StickerMetadata url
 
@@ -110,7 +110,7 @@ StickerMetadata url
 
 > `optional` **weight**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:42995](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42995)
+Defined in: [WAProto/index.d.ts:42995](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42995)
 
 StickerMetadata weight
 
@@ -120,6 +120,6 @@ StickerMetadata weight
 
 > `optional` **width**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:42986](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42986)
+Defined in: [WAProto/index.d.ts:42986](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42986)
 
 StickerMetadata width

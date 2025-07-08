@@ -1,6 +1,6 @@
 # Interface: ILocalizedName
 
-Defined in: [WAProto/index.d.ts:17676](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L17676)
+Defined in: [WAProto/index.d.ts:17676](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L17676)
 
 Properties of a LocalizedName.
 
@@ -10,7 +10,7 @@ Properties of a LocalizedName.
 
 > `optional` **lc**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:17682](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L17682)
+Defined in: [WAProto/index.d.ts:17682](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L17682)
 
 LocalizedName lc
 
@@ -20,7 +20,7 @@ LocalizedName lc
 
 > `optional` **lg**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:17679](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L17679)
+Defined in: [WAProto/index.d.ts:17679](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L17679)
 
 LocalizedName lg
 
@@ -30,6 +30,6 @@ LocalizedName lg
 
 > `optional` **verifiedName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:17685](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L17685)
+Defined in: [WAProto/index.d.ts:17685](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L17685)
 
 LocalizedName verifiedName

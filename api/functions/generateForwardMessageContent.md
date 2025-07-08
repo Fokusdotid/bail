@@ -2,7 +2,7 @@
 
 > **generateForwardMessageContent**(`message`, `forceForward`?): [`IMessage`](../namespaces/proto/interfaces/IMessage.md)
 
-Defined in: [src/Utils/messages.ts:328](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/src/Utils/messages.ts#L328)
+Defined in: [src/Utils/messages.ts:328](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/src/Utils/messages.ts#L328)
 
 Generate forwarded message content like WA does
 

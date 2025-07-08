@@ -1,6 +1,6 @@
 # Enumeration: PlanningStepStatus
 
-Defined in: [WAProto/index.d.ts:6143](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6143)
+Defined in: [WAProto/index.d.ts:6143](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L6143)
 
 PlanningStepStatus enum.
 
@@ -10,7 +10,7 @@ PlanningStepStatus enum.
 
 > **EXECUTING**: `2`
 
-Defined in: [WAProto/index.d.ts:6146](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6146)
+Defined in: [WAProto/index.d.ts:6146](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L6146)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:6146](https://github.com/Fokusdotid/bail/blob/54
 
 > **FINISHED**: `3`
 
-Defined in: [WAProto/index.d.ts:6147](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6147)
+Defined in: [WAProto/index.d.ts:6147](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L6147)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:6147](https://github.com/Fokusdotid/bail/blob/54
 
 > **PLANNED**: `1`
 
-Defined in: [WAProto/index.d.ts:6145](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6145)
+Defined in: [WAProto/index.d.ts:6145](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L6145)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:6145](https://github.com/Fokusdotid/bail/blob/54
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:6144](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L6144)
+Defined in: [WAProto/index.d.ts:6144](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L6144)

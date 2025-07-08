@@ -1,6 +1,6 @@
 # Class: HandshakeMessage
 
-Defined in: [WAProto/index.d.ts:15343](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L15343)
+Defined in: [WAProto/index.d.ts:15343](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L15343)
 
 Represents a HandshakeMessage.
 
@@ -14,7 +14,7 @@ Represents a HandshakeMessage.
 
 > **new HandshakeMessage**(`properties`?): [`HandshakeMessage`](HandshakeMessage.md)
 
-Defined in: [WAProto/index.d.ts:15349](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L15349)
+Defined in: [WAProto/index.d.ts:15349](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L15349)
 
 Constructs a new HandshakeMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **clientFinish**: `null` \| [`IClientFinish`](../namespaces/HandshakeMessage/interfaces/IClientFinish.md)
 
-Defined in: [WAProto/index.d.ts:15358](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L15358)
+Defined in: [WAProto/index.d.ts:15358](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L15358)
 
 HandshakeMessage clientFinish.
 
@@ -50,7 +50,7 @@ HandshakeMessage clientFinish.
 
 > `optional` **clientHello**: `null` \| [`IClientHello`](../namespaces/HandshakeMessage/interfaces/IClientHello.md)
 
-Defined in: [WAProto/index.d.ts:15352](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L15352)
+Defined in: [WAProto/index.d.ts:15352](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L15352)
 
 HandshakeMessage clientHello.
 
@@ -64,7 +64,7 @@ HandshakeMessage clientHello.
 
 > `optional` **serverHello**: `null` \| [`IServerHello`](../namespaces/HandshakeMessage/interfaces/IServerHello.md)
 
-Defined in: [WAProto/index.d.ts:15355](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L15355)
+Defined in: [WAProto/index.d.ts:15355](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L15355)
 
 HandshakeMessage serverHello.
 
@@ -78,7 +78,7 @@ HandshakeMessage serverHello.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:15428](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L15428)
+Defined in: [WAProto/index.d.ts:15428](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L15428)
 
 Converts this HandshakeMessage to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`HandshakeMessage`](HandshakeMessage.md)
 
-Defined in: [WAProto/index.d.ts:15365](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L15365)
+Defined in: [WAProto/index.d.ts:15365](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L15365)
 
 Creates a new HandshakeMessage instance using the specified properties.
 
@@ -118,7 +118,7 @@ HandshakeMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`HandshakeMessage`](HandshakeMessage.md)
 
-Defined in: [WAProto/index.d.ts:15391](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L15391)
+Defined in: [WAProto/index.d.ts:15391](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L15391)
 
 Decodes a HandshakeMessage message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`HandshakeMessage`](HandshakeMessage.md)
 
-Defined in: [WAProto/index.d.ts:15400](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L15400)
+Defined in: [WAProto/index.d.ts:15400](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L15400)
 
 Decodes a HandshakeMessage message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15373](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L15373)
+Defined in: [WAProto/index.d.ts:15373](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L15373)
 
 Encodes the specified HandshakeMessage message. Does not implicitly [verify](HandshakeMessage.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15381](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L15381)
+Defined in: [WAProto/index.d.ts:15381](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L15381)
 
 Encodes the specified HandshakeMessage message, length delimited. Does not implicitly [verify](HandshakeMessage.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`HandshakeMessage`](HandshakeMessage.md)
 
-Defined in: [WAProto/index.d.ts:15414](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L15414)
+Defined in: [WAProto/index.d.ts:15414](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L15414)
 
 Creates a HandshakeMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ HandshakeMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:15435](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L15435)
+Defined in: [WAProto/index.d.ts:15435](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L15435)
 
 Gets the default type url for HandshakeMessage
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:15422](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L15422)
+Defined in: [WAProto/index.d.ts:15422](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L15422)
 
 Creates a plain object from a HandshakeMessage message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:15407](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L15407)
+Defined in: [WAProto/index.d.ts:15407](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L15407)
 
 Verifies a HandshakeMessage message.
 

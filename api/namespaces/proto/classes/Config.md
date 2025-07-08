@@ -1,6 +1,6 @@
 # Class: Config
 
-Defined in: [WAProto/index.d.ts:10645](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10645)
+Defined in: [WAProto/index.d.ts:10645](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10645)
 
 Represents a Config.
 
@@ -14,7 +14,7 @@ Represents a Config.
 
 > **new Config**(`properties`?): [`Config`](Config.md)
 
-Defined in: [WAProto/index.d.ts:10651](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10651)
+Defined in: [WAProto/index.d.ts:10651](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10651)
 
 Constructs a new Config.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **field**: `object`
 
-Defined in: [WAProto/index.d.ts:10654](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10654)
+Defined in: [WAProto/index.d.ts:10654](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10654)
 
 Config field.
 
@@ -54,7 +54,7 @@ Config field.
 
 > `optional` **version**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:10657](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10657)
+Defined in: [WAProto/index.d.ts:10657](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10657)
 
 Config version.
 
@@ -68,7 +68,7 @@ Config version.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:10727](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10727)
+Defined in: [WAProto/index.d.ts:10727](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10727)
 
 Converts this Config to JSON.
 
@@ -84,7 +84,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Config`](Config.md)
 
-Defined in: [WAProto/index.d.ts:10664](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10664)
+Defined in: [WAProto/index.d.ts:10664](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10664)
 
 Creates a new Config instance using the specified properties.
 
@@ -108,7 +108,7 @@ Config instance
 
 > `static` **decode**(`reader`, `length`?): [`Config`](Config.md)
 
-Defined in: [WAProto/index.d.ts:10690](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10690)
+Defined in: [WAProto/index.d.ts:10690](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10690)
 
 Decodes a Config message from the specified reader or buffer.
 
@@ -146,7 +146,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Config`](Config.md)
 
-Defined in: [WAProto/index.d.ts:10699](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10699)
+Defined in: [WAProto/index.d.ts:10699](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10699)
 
 Decodes a Config message from the specified reader or buffer, length delimited.
 
@@ -178,7 +178,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:10672](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10672)
+Defined in: [WAProto/index.d.ts:10672](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10672)
 
 Encodes the specified Config message. Does not implicitly [verify](Config.md#verify) messages.
 
@@ -208,7 +208,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:10680](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10680)
+Defined in: [WAProto/index.d.ts:10680](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10680)
 
 Encodes the specified Config message, length delimited. Does not implicitly [verify](Config.md#verify) messages.
 
@@ -238,7 +238,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Config`](Config.md)
 
-Defined in: [WAProto/index.d.ts:10713](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10713)
+Defined in: [WAProto/index.d.ts:10713](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10713)
 
 Creates a Config message from a plain object. Also converts values to their respective internal types.
 
@@ -260,7 +260,7 @@ Config
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:10734](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10734)
+Defined in: [WAProto/index.d.ts:10734](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10734)
 
 Gets the default type url for Config
 
@@ -284,7 +284,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:10721](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10721)
+Defined in: [WAProto/index.d.ts:10721](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10721)
 
 Creates a plain object from a Config message. Also converts values to other types if specified.
 
@@ -314,7 +314,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10706](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L10706)
+Defined in: [WAProto/index.d.ts:10706](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L10706)
 
 Verifies a Config message.
 

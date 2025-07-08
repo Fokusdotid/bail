@@ -1,6 +1,6 @@
 # Interface: IADVSignedDeviceIdentity
 
-Defined in: [WAProto/index.d.ts:255](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L255)
+Defined in: [WAProto/index.d.ts:255](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L255)
 
 Properties of a ADVSignedDeviceIdentity.
 
@@ -10,7 +10,7 @@ Properties of a ADVSignedDeviceIdentity.
 
 > `optional` **accountSignature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:264](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L264)
+Defined in: [WAProto/index.d.ts:264](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L264)
 
 ADVSignedDeviceIdentity accountSignature
 
@@ -20,7 +20,7 @@ ADVSignedDeviceIdentity accountSignature
 
 > `optional` **accountSignatureKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:261](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L261)
+Defined in: [WAProto/index.d.ts:261](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L261)
 
 ADVSignedDeviceIdentity accountSignatureKey
 
@@ -30,7 +30,7 @@ ADVSignedDeviceIdentity accountSignatureKey
 
 > `optional` **details**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:258](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L258)
+Defined in: [WAProto/index.d.ts:258](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L258)
 
 ADVSignedDeviceIdentity details
 
@@ -40,6 +40,6 @@ ADVSignedDeviceIdentity details
 
 > `optional` **deviceSignature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:267](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L267)
+Defined in: [WAProto/index.d.ts:267](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L267)
 
 ADVSignedDeviceIdentity deviceSignature

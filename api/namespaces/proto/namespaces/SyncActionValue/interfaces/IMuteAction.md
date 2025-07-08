@@ -1,6 +1,6 @@
 # Interface: IMuteAction
 
-Defined in: [WAProto/index.d.ts:46827](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L46827)
+Defined in: [WAProto/index.d.ts:46827](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L46827)
 
 Properties of a MuteAction.
 
@@ -10,7 +10,7 @@ Properties of a MuteAction.
 
 > `optional` **autoMuted**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:46836](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L46836)
+Defined in: [WAProto/index.d.ts:46836](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L46836)
 
 MuteAction autoMuted
 
@@ -20,7 +20,7 @@ MuteAction autoMuted
 
 > `optional` **muted**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:46830](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L46830)
+Defined in: [WAProto/index.d.ts:46830](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L46830)
 
 MuteAction muted
 
@@ -30,6 +30,6 @@ MuteAction muted
 
 > `optional` **muteEndTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:46833](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L46833)
+Defined in: [WAProto/index.d.ts:46833](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L46833)
 
 MuteAction muteEndTimestamp

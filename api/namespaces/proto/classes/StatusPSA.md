@@ -1,6 +1,6 @@
 # Class: StatusPSA
 
-Defined in: [WAProto/index.d.ts:42872](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42872)
+Defined in: [WAProto/index.d.ts:42872](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42872)
 
 Represents a StatusPSA.
 
@@ -14,7 +14,7 @@ Represents a StatusPSA.
 
 > **new StatusPSA**(`properties`?): [`StatusPSA`](StatusPSA.md)
 
-Defined in: [WAProto/index.d.ts:42878](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42878)
+Defined in: [WAProto/index.d.ts:42878](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42878)
 
 Constructs a new StatusPSA.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **campaignExpirationTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:42884](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42884)
+Defined in: [WAProto/index.d.ts:42884](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42884)
 
 StatusPSA campaignExpirationTimestamp.
 
@@ -50,7 +50,7 @@ StatusPSA campaignExpirationTimestamp.
 
 > **campaignId**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:42881](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42881)
+Defined in: [WAProto/index.d.ts:42881](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42881)
 
 StatusPSA campaignId.
 
@@ -64,7 +64,7 @@ StatusPSA campaignId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:42954](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42954)
+Defined in: [WAProto/index.d.ts:42954](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42954)
 
 Converts this StatusPSA to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`StatusPSA`](StatusPSA.md)
 
-Defined in: [WAProto/index.d.ts:42891](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42891)
+Defined in: [WAProto/index.d.ts:42891](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42891)
 
 Creates a new StatusPSA instance using the specified properties.
 
@@ -104,7 +104,7 @@ StatusPSA instance
 
 > `static` **decode**(`reader`, `length`?): [`StatusPSA`](StatusPSA.md)
 
-Defined in: [WAProto/index.d.ts:42917](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42917)
+Defined in: [WAProto/index.d.ts:42917](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42917)
 
 Decodes a StatusPSA message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`StatusPSA`](StatusPSA.md)
 
-Defined in: [WAProto/index.d.ts:42926](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42926)
+Defined in: [WAProto/index.d.ts:42926](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42926)
 
 Decodes a StatusPSA message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42899](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42899)
+Defined in: [WAProto/index.d.ts:42899](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42899)
 
 Encodes the specified StatusPSA message. Does not implicitly [verify](StatusPSA.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42907](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42907)
+Defined in: [WAProto/index.d.ts:42907](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42907)
 
 Encodes the specified StatusPSA message, length delimited. Does not implicitly [verify](StatusPSA.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`StatusPSA`](StatusPSA.md)
 
-Defined in: [WAProto/index.d.ts:42940](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42940)
+Defined in: [WAProto/index.d.ts:42940](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42940)
 
 Creates a StatusPSA message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ StatusPSA
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:42961](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42961)
+Defined in: [WAProto/index.d.ts:42961](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42961)
 
 Gets the default type url for StatusPSA
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:42948](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42948)
+Defined in: [WAProto/index.d.ts:42948](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42948)
 
 Creates a plain object from a StatusPSA message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:42933](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L42933)
+Defined in: [WAProto/index.d.ts:42933](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L42933)
 
 Verifies a StatusPSA message.
 

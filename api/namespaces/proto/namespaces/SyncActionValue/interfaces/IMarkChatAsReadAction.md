@@ -1,6 +1,6 @@
 # Interface: IMarkChatAsReadAction
 
-Defined in: [WAProto/index.d.ts:46362](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L46362)
+Defined in: [WAProto/index.d.ts:46362](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L46362)
 
 Properties of a MarkChatAsReadAction.
 
@@ -10,7 +10,7 @@ Properties of a MarkChatAsReadAction.
 
 > `optional` **messageRange**: `null` \| [`ISyncActionMessageRange`](ISyncActionMessageRange.md)
 
-Defined in: [WAProto/index.d.ts:46368](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L46368)
+Defined in: [WAProto/index.d.ts:46368](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L46368)
 
 MarkChatAsReadAction messageRange
 
@@ -20,6 +20,6 @@ MarkChatAsReadAction messageRange
 
 > `optional` **read**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:46365](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L46365)
+Defined in: [WAProto/index.d.ts:46365](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L46365)
 
 MarkChatAsReadAction read

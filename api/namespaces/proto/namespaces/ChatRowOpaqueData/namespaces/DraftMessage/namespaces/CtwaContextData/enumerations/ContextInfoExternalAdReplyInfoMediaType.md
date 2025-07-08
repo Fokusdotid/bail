@@ -1,6 +1,6 @@
 # Enumeration: ContextInfoExternalAdReplyInfoMediaType
 
-Defined in: [WAProto/index.d.ts:8634](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L8634)
+Defined in: [WAProto/index.d.ts:8634](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L8634)
 
 ContextInfoExternalAdReplyInfoMediaType enum.
 
@@ -10,7 +10,7 @@ ContextInfoExternalAdReplyInfoMediaType enum.
 
 > **IMAGE**: `1`
 
-Defined in: [WAProto/index.d.ts:8636](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L8636)
+Defined in: [WAProto/index.d.ts:8636](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L8636)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:8636](https://github.com/Fokusdotid/bail/blob/54
 
 > **NONE**: `0`
 
-Defined in: [WAProto/index.d.ts:8635](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L8635)
+Defined in: [WAProto/index.d.ts:8635](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L8635)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:8635](https://github.com/Fokusdotid/bail/blob/54
 
 > **VIDEO**: `2`
 
-Defined in: [WAProto/index.d.ts:8637](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L8637)
+Defined in: [WAProto/index.d.ts:8637](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L8637)

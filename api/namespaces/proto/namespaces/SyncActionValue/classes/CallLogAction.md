@@ -1,6 +1,6 @@
 # Class: CallLogAction
 
-Defined in: [WAProto/index.d.ts:44091](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L44091)
+Defined in: [WAProto/index.d.ts:44091](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L44091)
 
 Represents a CallLogAction.
 
@@ -14,7 +14,7 @@ Represents a CallLogAction.
 
 > **new CallLogAction**(`properties`?): [`CallLogAction`](CallLogAction.md)
 
-Defined in: [WAProto/index.d.ts:44097](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L44097)
+Defined in: [WAProto/index.d.ts:44097](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L44097)
 
 Constructs a new CallLogAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **callLogRecord**: `null` \| [`ICallLogRecord`](../../../interfaces/ICallLogRecord.md)
 
-Defined in: [WAProto/index.d.ts:44100](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L44100)
+Defined in: [WAProto/index.d.ts:44100](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L44100)
 
 CallLogAction callLogRecord.
 
@@ -50,7 +50,7 @@ CallLogAction callLogRecord.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:44170](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L44170)
+Defined in: [WAProto/index.d.ts:44170](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L44170)
 
 Converts this CallLogAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CallLogAction`](CallLogAction.md)
 
-Defined in: [WAProto/index.d.ts:44107](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L44107)
+Defined in: [WAProto/index.d.ts:44107](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L44107)
 
 Creates a new CallLogAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ CallLogAction instance
 
 > `static` **decode**(`reader`, `length`?): [`CallLogAction`](CallLogAction.md)
 
-Defined in: [WAProto/index.d.ts:44133](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L44133)
+Defined in: [WAProto/index.d.ts:44133](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L44133)
 
 Decodes a CallLogAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CallLogAction`](CallLogAction.md)
 
-Defined in: [WAProto/index.d.ts:44142](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L44142)
+Defined in: [WAProto/index.d.ts:44142](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L44142)
 
 Decodes a CallLogAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44115](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L44115)
+Defined in: [WAProto/index.d.ts:44115](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L44115)
 
 Encodes the specified CallLogAction message. Does not implicitly [verify](CallLogAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44123](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L44123)
+Defined in: [WAProto/index.d.ts:44123](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L44123)
 
 Encodes the specified CallLogAction message, length delimited. Does not implicitly [verify](CallLogAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CallLogAction`](CallLogAction.md)
 
-Defined in: [WAProto/index.d.ts:44156](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L44156)
+Defined in: [WAProto/index.d.ts:44156](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L44156)
 
 Creates a CallLogAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ CallLogAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:44177](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L44177)
+Defined in: [WAProto/index.d.ts:44177](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L44177)
 
 Gets the default type url for CallLogAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:44164](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L44164)
+Defined in: [WAProto/index.d.ts:44164](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L44164)
 
 Creates a plain object from a CallLogAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44149](https://github.com/Fokusdotid/bail/blob/546bbbb35e652e95f45982a71bee62b2c682e4eb/WAProto/index.d.ts#L44149)
+Defined in: [WAProto/index.d.ts:44149](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L44149)
 
 Verifies a CallLogAction message.
 
