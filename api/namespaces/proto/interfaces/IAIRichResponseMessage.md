@@ -1,6 +1,6 @@
 # Interface: IAIRichResponseMessage
 
-Defined in: [WAProto/index.d.ts:697](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L697)
+Defined in: [WAProto/index.d.ts:697](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L697)
 
 Properties of a AIRichResponseMessage.
 
@@ -10,7 +10,7 @@ Properties of a AIRichResponseMessage.
 
 > `optional` **messageType**: `null` \| [`AIRichResponseMessageType`](../namespaces/AIRichResponseMessage/enumerations/AIRichResponseMessageType.md)
 
-Defined in: [WAProto/index.d.ts:700](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L700)
+Defined in: [WAProto/index.d.ts:700](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L700)
 
 AIRichResponseMessage messageType
 
@@ -20,7 +20,7 @@ AIRichResponseMessage messageType
 
 > `optional` **submessages**: `null` \| [`IAIRichResponseSubMessage`](../namespaces/AIRichResponseMessage/interfaces/IAIRichResponseSubMessage.md)[]
 
-Defined in: [WAProto/index.d.ts:703](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L703)
+Defined in: [WAProto/index.d.ts:703](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L703)
 
 AIRichResponseMessage submessages
 
@@ -30,6 +30,6 @@ AIRichResponseMessage submessages
 
 > `optional` **unifiedResponse**: `null` \| [`IAIRichResponseUnifiedResponse`](../namespaces/AIRichResponseMessage/interfaces/IAIRichResponseUnifiedResponse.md)
 
-Defined in: [WAProto/index.d.ts:706](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L706)
+Defined in: [WAProto/index.d.ts:706](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L706)
 
 AIRichResponseMessage unifiedResponse

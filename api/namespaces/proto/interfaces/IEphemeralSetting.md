@@ -1,6 +1,6 @@
 # Interface: IEphemeralSetting
 
-Defined in: [WAProto/index.d.ts:14237](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L14237)
+Defined in: [WAProto/index.d.ts:14237](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14237)
 
 Properties of an EphemeralSetting.
 
@@ -10,7 +10,7 @@ Properties of an EphemeralSetting.
 
 > `optional` **duration**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:14240](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L14240)
+Defined in: [WAProto/index.d.ts:14240](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14240)
 
 EphemeralSetting duration
 
@@ -20,6 +20,6 @@ EphemeralSetting duration
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:14243](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L14243)
+Defined in: [WAProto/index.d.ts:14243](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14243)
 
 EphemeralSetting timestamp

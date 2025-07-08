@@ -1,6 +1,6 @@
 # Class: BotLinkedAccount
 
-Defined in: [WAProto/index.d.ts:4105](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L4105)
+Defined in: [WAProto/index.d.ts:4105](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L4105)
 
 Represents a BotLinkedAccount.
 
@@ -14,7 +14,7 @@ Represents a BotLinkedAccount.
 
 > **new BotLinkedAccount**(`properties`?): [`BotLinkedAccount`](BotLinkedAccount.md)
 
-Defined in: [WAProto/index.d.ts:4111](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L4111)
+Defined in: [WAProto/index.d.ts:4111](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L4111)
 
 Constructs a new BotLinkedAccount.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **type**: `null` \| [`BOT_LINKED_ACCOUNT_TYPE_1P`](../namespaces/BotLinkedAccount/enumerations/BotLinkedAccountType.md#bot_linked_account_type_1p)
 
-Defined in: [WAProto/index.d.ts:4114](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L4114)
+Defined in: [WAProto/index.d.ts:4114](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L4114)
 
 BotLinkedAccount type.
 
@@ -50,7 +50,7 @@ BotLinkedAccount type.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:4184](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L4184)
+Defined in: [WAProto/index.d.ts:4184](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L4184)
 
 Converts this BotLinkedAccount to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotLinkedAccount`](BotLinkedAccount.md)
 
-Defined in: [WAProto/index.d.ts:4121](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L4121)
+Defined in: [WAProto/index.d.ts:4121](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L4121)
 
 Creates a new BotLinkedAccount instance using the specified properties.
 
@@ -90,7 +90,7 @@ BotLinkedAccount instance
 
 > `static` **decode**(`reader`, `length`?): [`BotLinkedAccount`](BotLinkedAccount.md)
 
-Defined in: [WAProto/index.d.ts:4147](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L4147)
+Defined in: [WAProto/index.d.ts:4147](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L4147)
 
 Decodes a BotLinkedAccount message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotLinkedAccount`](BotLinkedAccount.md)
 
-Defined in: [WAProto/index.d.ts:4156](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L4156)
+Defined in: [WAProto/index.d.ts:4156](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L4156)
 
 Decodes a BotLinkedAccount message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:4129](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L4129)
+Defined in: [WAProto/index.d.ts:4129](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L4129)
 
 Encodes the specified BotLinkedAccount message. Does not implicitly [verify](BotLinkedAccount.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:4137](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L4137)
+Defined in: [WAProto/index.d.ts:4137](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L4137)
 
 Encodes the specified BotLinkedAccount message, length delimited. Does not implicitly [verify](BotLinkedAccount.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotLinkedAccount`](BotLinkedAccount.md)
 
-Defined in: [WAProto/index.d.ts:4170](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L4170)
+Defined in: [WAProto/index.d.ts:4170](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L4170)
 
 Creates a BotLinkedAccount message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ BotLinkedAccount
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:4191](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L4191)
+Defined in: [WAProto/index.d.ts:4191](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L4191)
 
 Gets the default type url for BotLinkedAccount
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:4178](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L4178)
+Defined in: [WAProto/index.d.ts:4178](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L4178)
 
 Creates a plain object from a BotLinkedAccount message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4163](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L4163)
+Defined in: [WAProto/index.d.ts:4163](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L4163)
 
 Verifies a BotLinkedAccount message.
 

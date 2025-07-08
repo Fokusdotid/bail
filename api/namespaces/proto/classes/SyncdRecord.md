@@ -1,6 +1,6 @@
 # Class: SyncdRecord
 
-Defined in: [WAProto/index.d.ts:50322](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50322)
+Defined in: [WAProto/index.d.ts:50322](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50322)
 
 Represents a SyncdRecord.
 
@@ -14,7 +14,7 @@ Represents a SyncdRecord.
 
 > **new SyncdRecord**(`properties`?): [`SyncdRecord`](SyncdRecord.md)
 
-Defined in: [WAProto/index.d.ts:50328](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50328)
+Defined in: [WAProto/index.d.ts:50328](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50328)
 
 Constructs a new SyncdRecord.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **index**: `null` \| [`ISyncdIndex`](../interfaces/ISyncdIndex.md)
 
-Defined in: [WAProto/index.d.ts:50331](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50331)
+Defined in: [WAProto/index.d.ts:50331](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50331)
 
 SyncdRecord index.
 
@@ -50,7 +50,7 @@ SyncdRecord index.
 
 > `optional` **keyId**: `null` \| [`IKeyId`](../interfaces/IKeyId.md)
 
-Defined in: [WAProto/index.d.ts:50337](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50337)
+Defined in: [WAProto/index.d.ts:50337](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50337)
 
 SyncdRecord keyId.
 
@@ -64,7 +64,7 @@ SyncdRecord keyId.
 
 > `optional` **value**: `null` \| [`ISyncdValue`](../interfaces/ISyncdValue.md)
 
-Defined in: [WAProto/index.d.ts:50334](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50334)
+Defined in: [WAProto/index.d.ts:50334](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50334)
 
 SyncdRecord value.
 
@@ -78,7 +78,7 @@ SyncdRecord value.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:50407](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50407)
+Defined in: [WAProto/index.d.ts:50407](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50407)
 
 Converts this SyncdRecord to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SyncdRecord`](SyncdRecord.md)
 
-Defined in: [WAProto/index.d.ts:50344](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50344)
+Defined in: [WAProto/index.d.ts:50344](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50344)
 
 Creates a new SyncdRecord instance using the specified properties.
 
@@ -118,7 +118,7 @@ SyncdRecord instance
 
 > `static` **decode**(`reader`, `length`?): [`SyncdRecord`](SyncdRecord.md)
 
-Defined in: [WAProto/index.d.ts:50370](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50370)
+Defined in: [WAProto/index.d.ts:50370](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50370)
 
 Decodes a SyncdRecord message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SyncdRecord`](SyncdRecord.md)
 
-Defined in: [WAProto/index.d.ts:50379](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50379)
+Defined in: [WAProto/index.d.ts:50379](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50379)
 
 Decodes a SyncdRecord message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:50352](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50352)
+Defined in: [WAProto/index.d.ts:50352](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50352)
 
 Encodes the specified SyncdRecord message. Does not implicitly [verify](SyncdRecord.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:50360](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50360)
+Defined in: [WAProto/index.d.ts:50360](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50360)
 
 Encodes the specified SyncdRecord message, length delimited. Does not implicitly [verify](SyncdRecord.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SyncdRecord`](SyncdRecord.md)
 
-Defined in: [WAProto/index.d.ts:50393](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50393)
+Defined in: [WAProto/index.d.ts:50393](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50393)
 
 Creates a SyncdRecord message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ SyncdRecord
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:50414](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50414)
+Defined in: [WAProto/index.d.ts:50414](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50414)
 
 Gets the default type url for SyncdRecord
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:50401](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50401)
+Defined in: [WAProto/index.d.ts:50401](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50401)
 
 Creates a plain object from a SyncdRecord message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:50386](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50386)
+Defined in: [WAProto/index.d.ts:50386](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50386)
 
 Verifies a SyncdRecord message.
 

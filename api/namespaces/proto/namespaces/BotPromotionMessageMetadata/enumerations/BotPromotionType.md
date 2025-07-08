@@ -1,6 +1,6 @@
 # Enumeration: BotPromotionType
 
-Defined in: [WAProto/index.d.ts:6258](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L6258)
+Defined in: [WAProto/index.d.ts:6258](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L6258)
 
 BotPromotionType enum.
 
@@ -10,7 +10,7 @@ BotPromotionType enum.
 
 > **C50**: `1`
 
-Defined in: [WAProto/index.d.ts:6260](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L6260)
+Defined in: [WAProto/index.d.ts:6260](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L6260)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:6260](https://github.com/Fokusdotid/bail/blob/8b
 
 > **UNKNOWN\_TYPE**: `0`
 
-Defined in: [WAProto/index.d.ts:6259](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L6259)
+Defined in: [WAProto/index.d.ts:6259](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L6259)

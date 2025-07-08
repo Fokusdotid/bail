@@ -1,6 +1,6 @@
 # Interface: IContactAction
 
-Defined in: [WAProto/index.d.ts:44472](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L44472)
+Defined in: [WAProto/index.d.ts:44472](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L44472)
 
 Properties of a ContactAction.
 
@@ -10,7 +10,7 @@ Properties of a ContactAction.
 
 > `optional` **firstName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44478](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L44478)
+Defined in: [WAProto/index.d.ts:44478](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L44478)
 
 ContactAction firstName
 
@@ -20,7 +20,7 @@ ContactAction firstName
 
 > `optional` **fullName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44475](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L44475)
+Defined in: [WAProto/index.d.ts:44475](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L44475)
 
 ContactAction fullName
 
@@ -30,7 +30,7 @@ ContactAction fullName
 
 > `optional` **lidJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44481](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L44481)
+Defined in: [WAProto/index.d.ts:44481](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L44481)
 
 ContactAction lidJid
 
@@ -40,7 +40,7 @@ ContactAction lidJid
 
 > `optional` **pnJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44487](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L44487)
+Defined in: [WAProto/index.d.ts:44487](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L44487)
 
 ContactAction pnJid
 
@@ -50,7 +50,7 @@ ContactAction pnJid
 
 > `optional` **saveOnPrimaryAddressbook**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:44484](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L44484)
+Defined in: [WAProto/index.d.ts:44484](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L44484)
 
 ContactAction saveOnPrimaryAddressbook
 
@@ -60,6 +60,6 @@ ContactAction saveOnPrimaryAddressbook
 
 > `optional` **username**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44490](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L44490)
+Defined in: [WAProto/index.d.ts:44490](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L44490)
 
 ContactAction username

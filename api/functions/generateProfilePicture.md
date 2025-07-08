@@ -2,7 +2,7 @@
 
 > **generateProfilePicture**(`mediaUpload`, `dimensions`?): `Promise`\<\{ `img`: `Buffer`\<`ArrayBufferLike`\>; \}\>
 
-Defined in: [src/Utils/messages-media.ts:178](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/Utils/messages-media.ts#L178)
+Defined in: [src/Utils/messages-media.ts:173](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/src/Utils/messages-media.ts#L173)
 
 ## Parameters
 

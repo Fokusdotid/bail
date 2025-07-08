@@ -1,6 +1,6 @@
 # Enumeration: SyncdOperation
 
-Defined in: [WAProto/index.d.ts:50060](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50060)
+Defined in: [WAProto/index.d.ts:50060](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50060)
 
 SyncdOperation enum.
 
@@ -10,7 +10,7 @@ SyncdOperation enum.
 
 > **REMOVE**: `1`
 
-Defined in: [WAProto/index.d.ts:50062](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50062)
+Defined in: [WAProto/index.d.ts:50062](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50062)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:50062](https://github.com/Fokusdotid/bail/blob/8
 
 > **SET**: `0`
 
-Defined in: [WAProto/index.d.ts:50061](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50061)
+Defined in: [WAProto/index.d.ts:50061](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50061)

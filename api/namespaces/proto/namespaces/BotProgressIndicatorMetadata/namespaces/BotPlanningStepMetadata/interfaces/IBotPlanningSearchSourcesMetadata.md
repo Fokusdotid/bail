@@ -1,6 +1,6 @@
 # Interface: IBotPlanningSearchSourcesMetadata
 
-Defined in: [WAProto/index.d.ts:5906](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L5906)
+Defined in: [WAProto/index.d.ts:5906](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5906)
 
 Properties of a BotPlanningSearchSourcesMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotPlanningSearchSourcesMetadata.
 
 > `optional` **provider**: `null` \| [`BotPlanningSearchSourceProvider`](../namespaces/BotPlanningSearchSourcesMetadata/enumerations/BotPlanningSearchSourceProvider.md)
 
-Defined in: [WAProto/index.d.ts:5912](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L5912)
+Defined in: [WAProto/index.d.ts:5912](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5912)
 
 BotPlanningSearchSourcesMetadata provider
 
@@ -20,7 +20,7 @@ BotPlanningSearchSourcesMetadata provider
 
 > `optional` **sourceTitle**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5909](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L5909)
+Defined in: [WAProto/index.d.ts:5909](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5909)
 
 BotPlanningSearchSourcesMetadata sourceTitle
 
@@ -30,6 +30,6 @@ BotPlanningSearchSourcesMetadata sourceTitle
 
 > `optional` **sourceUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5915](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L5915)
+Defined in: [WAProto/index.d.ts:5915](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5915)
 
 BotPlanningSearchSourcesMetadata sourceUrl

@@ -2,7 +2,7 @@
 
 > **downloadEncryptedContent**(`downloadUrl`, `__namedParameters`, `__namedParameters`): `Promise`\<`Transform`\>
 
-Defined in: [src/Utils/messages-media.ts:517](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/Utils/messages-media.ts#L517)
+Defined in: [src/Utils/messages-media.ts:512](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/src/Utils/messages-media.ts#L512)
 
 Decrypts and downloads an AES256-CBC encrypted file given the keys.
 Assumes the SHA256 of the plaintext is appended to the end of the ciphertext

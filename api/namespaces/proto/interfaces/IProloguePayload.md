@@ -1,6 +1,6 @@
 # Interface: IProloguePayload
 
-Defined in: [WAProto/index.d.ts:40189](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L40189)
+Defined in: [WAProto/index.d.ts:40189](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L40189)
 
 Properties of a ProloguePayload.
 
@@ -10,7 +10,7 @@ Properties of a ProloguePayload.
 
 > `optional` **commitment**: `null` \| [`ICompanionCommitment`](ICompanionCommitment.md)
 
-Defined in: [WAProto/index.d.ts:40195](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L40195)
+Defined in: [WAProto/index.d.ts:40195](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L40195)
 
 ProloguePayload commitment
 
@@ -20,6 +20,6 @@ ProloguePayload commitment
 
 > `optional` **companionEphemeralIdentity**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:40192](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L40192)
+Defined in: [WAProto/index.d.ts:40192](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L40192)
 
 ProloguePayload companionEphemeralIdentity

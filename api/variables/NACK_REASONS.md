@@ -2,7 +2,7 @@
 
 > `const` **NACK\_REASONS**: `object`
 
-Defined in: [src/Utils/decode-wa-message.ts:21](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/Utils/decode-wa-message.ts#L21)
+Defined in: [src/Utils/decode-wa-message.ts:21](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/src/Utils/decode-wa-message.ts#L21)
 
 ## Type declaration
 

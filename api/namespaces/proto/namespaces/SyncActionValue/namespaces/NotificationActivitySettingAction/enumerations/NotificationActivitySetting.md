@@ -1,6 +1,6 @@
 # Enumeration: NotificationActivitySetting
 
-Defined in: [WAProto/index.d.ts:47165](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L47165)
+Defined in: [WAProto/index.d.ts:47165](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L47165)
 
 NotificationActivitySetting enum.
 
@@ -10,7 +10,7 @@ NotificationActivitySetting enum.
 
 > **ALL\_MESSAGES**: `1`
 
-Defined in: [WAProto/index.d.ts:47167](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L47167)
+Defined in: [WAProto/index.d.ts:47167](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L47167)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:47167](https://github.com/Fokusdotid/bail/blob/8
 
 > **DEFAULT\_ALL\_MESSAGES**: `0`
 
-Defined in: [WAProto/index.d.ts:47166](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L47166)
+Defined in: [WAProto/index.d.ts:47166](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L47166)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:47166](https://github.com/Fokusdotid/bail/blob/8
 
 > **DEFAULT\_HIGHLIGHTS**: `3`
 
-Defined in: [WAProto/index.d.ts:47169](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L47169)
+Defined in: [WAProto/index.d.ts:47169](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L47169)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:47169](https://github.com/Fokusdotid/bail/blob/8
 
 > **HIGHLIGHTS**: `2`
 
-Defined in: [WAProto/index.d.ts:47168](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L47168)
+Defined in: [WAProto/index.d.ts:47168](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L47168)

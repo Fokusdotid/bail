@@ -1,6 +1,6 @@
 # Class: TapLinkAction
 
-Defined in: [WAProto/index.d.ts:50737](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50737)
+Defined in: [WAProto/index.d.ts:50737](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50737)
 
 Represents a TapLinkAction.
 
@@ -14,7 +14,7 @@ Represents a TapLinkAction.
 
 > **new TapLinkAction**(`properties`?): [`TapLinkAction`](TapLinkAction.md)
 
-Defined in: [WAProto/index.d.ts:50743](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50743)
+Defined in: [WAProto/index.d.ts:50743](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50743)
 
 Constructs a new TapLinkAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **tapUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:50749](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50749)
+Defined in: [WAProto/index.d.ts:50749](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50749)
 
 TapLinkAction tapUrl.
 
@@ -50,7 +50,7 @@ TapLinkAction tapUrl.
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:50746](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50746)
+Defined in: [WAProto/index.d.ts:50746](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50746)
 
 TapLinkAction title.
 
@@ -64,7 +64,7 @@ TapLinkAction title.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:50819](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50819)
+Defined in: [WAProto/index.d.ts:50819](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50819)
 
 Converts this TapLinkAction to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`TapLinkAction`](TapLinkAction.md)
 
-Defined in: [WAProto/index.d.ts:50756](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50756)
+Defined in: [WAProto/index.d.ts:50756](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50756)
 
 Creates a new TapLinkAction instance using the specified properties.
 
@@ -104,7 +104,7 @@ TapLinkAction instance
 
 > `static` **decode**(`reader`, `length`?): [`TapLinkAction`](TapLinkAction.md)
 
-Defined in: [WAProto/index.d.ts:50782](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50782)
+Defined in: [WAProto/index.d.ts:50782](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50782)
 
 Decodes a TapLinkAction message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`TapLinkAction`](TapLinkAction.md)
 
-Defined in: [WAProto/index.d.ts:50791](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50791)
+Defined in: [WAProto/index.d.ts:50791](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50791)
 
 Decodes a TapLinkAction message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:50764](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50764)
+Defined in: [WAProto/index.d.ts:50764](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50764)
 
 Encodes the specified TapLinkAction message. Does not implicitly [verify](TapLinkAction.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:50772](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50772)
+Defined in: [WAProto/index.d.ts:50772](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50772)
 
 Encodes the specified TapLinkAction message, length delimited. Does not implicitly [verify](TapLinkAction.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`TapLinkAction`](TapLinkAction.md)
 
-Defined in: [WAProto/index.d.ts:50805](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50805)
+Defined in: [WAProto/index.d.ts:50805](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50805)
 
 Creates a TapLinkAction message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ TapLinkAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:50826](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50826)
+Defined in: [WAProto/index.d.ts:50826](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50826)
 
 Gets the default type url for TapLinkAction
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:50813](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50813)
+Defined in: [WAProto/index.d.ts:50813](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50813)
 
 Creates a plain object from a TapLinkAction message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:50798](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L50798)
+Defined in: [WAProto/index.d.ts:50798](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L50798)
 
 Verifies a TapLinkAction message.
 

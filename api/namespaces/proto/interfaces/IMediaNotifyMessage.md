@@ -1,6 +1,6 @@
 # Interface: IMediaNotifyMessage
 
-Defined in: [WAProto/index.d.ts:17991](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17991)
+Defined in: [WAProto/index.d.ts:17991](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17991)
 
 Properties of a MediaNotifyMessage.
 
@@ -10,7 +10,7 @@ Properties of a MediaNotifyMessage.
 
 > `optional` **expressPathUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:17994](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17994)
+Defined in: [WAProto/index.d.ts:17994](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17994)
 
 MediaNotifyMessage expressPathUrl
 
@@ -20,7 +20,7 @@ MediaNotifyMessage expressPathUrl
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:17997](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17997)
+Defined in: [WAProto/index.d.ts:17997](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17997)
 
 MediaNotifyMessage fileEncSha256
 
@@ -30,6 +30,6 @@ MediaNotifyMessage fileEncSha256
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:18000](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L18000)
+Defined in: [WAProto/index.d.ts:18000](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L18000)
 
 MediaNotifyMessage fileLength

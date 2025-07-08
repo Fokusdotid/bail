@@ -1,6 +1,6 @@
 # Interface: IPollUpdateMessage
 
-Defined in: [WAProto/index.d.ts:31862](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31862)
+Defined in: [WAProto/index.d.ts:31862](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31862)
 
 Properties of a PollUpdateMessage.
 
@@ -10,7 +10,7 @@ Properties of a PollUpdateMessage.
 
 > `optional` **metadata**: `null` \| [`IPollUpdateMessageMetadata`](IPollUpdateMessageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:31871](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31871)
+Defined in: [WAProto/index.d.ts:31871](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31871)
 
 PollUpdateMessage metadata
 
@@ -20,7 +20,7 @@ PollUpdateMessage metadata
 
 > `optional` **pollCreationMessageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:31865](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31865)
+Defined in: [WAProto/index.d.ts:31865](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31865)
 
 PollUpdateMessage pollCreationMessageKey
 
@@ -30,7 +30,7 @@ PollUpdateMessage pollCreationMessageKey
 
 > `optional` **senderTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:31874](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31874)
+Defined in: [WAProto/index.d.ts:31874](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31874)
 
 PollUpdateMessage senderTimestampMs
 
@@ -40,6 +40,6 @@ PollUpdateMessage senderTimestampMs
 
 > `optional` **vote**: `null` \| [`IPollEncValue`](IPollEncValue.md)
 
-Defined in: [WAProto/index.d.ts:31868](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31868)
+Defined in: [WAProto/index.d.ts:31868](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31868)
 
 PollUpdateMessage vote

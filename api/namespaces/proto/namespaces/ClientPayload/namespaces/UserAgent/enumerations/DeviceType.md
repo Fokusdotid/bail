@@ -1,6 +1,6 @@
 # Enumeration: DeviceType
 
-Defined in: [WAProto/index.d.ts:9982](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L9982)
+Defined in: [WAProto/index.d.ts:9982](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L9982)
 
 DeviceType enum.
 
@@ -10,7 +10,7 @@ DeviceType enum.
 
 > **DESKTOP**: `2`
 
-Defined in: [WAProto/index.d.ts:9985](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L9985)
+Defined in: [WAProto/index.d.ts:9985](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L9985)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:9985](https://github.com/Fokusdotid/bail/blob/8b
 
 > **PHONE**: `0`
 
-Defined in: [WAProto/index.d.ts:9983](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L9983)
+Defined in: [WAProto/index.d.ts:9983](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L9983)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:9983](https://github.com/Fokusdotid/bail/blob/8b
 
 > **TABLET**: `1`
 
-Defined in: [WAProto/index.d.ts:9984](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L9984)
+Defined in: [WAProto/index.d.ts:9984](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L9984)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:9984](https://github.com/Fokusdotid/bail/blob/8b
 
 > **VR**: `4`
 
-Defined in: [WAProto/index.d.ts:9987](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L9987)
+Defined in: [WAProto/index.d.ts:9987](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L9987)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [WAProto/index.d.ts:9987](https://github.com/Fokusdotid/bail/blob/8b
 
 > **WEARABLE**: `3`
 
-Defined in: [WAProto/index.d.ts:9986](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L9986)
+Defined in: [WAProto/index.d.ts:9986](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L9986)

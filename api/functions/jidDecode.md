@@ -2,7 +2,7 @@
 
 > **jidDecode**(`jid`): `undefined` \| [`FullJid`](../type-aliases/FullJid.md)
 
-Defined in: [src/WABinary/jid-utils.ts:24](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/WABinary/jid-utils.ts#L24)
+Defined in: [src/WABinary/jid-utils.ts:24](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/src/WABinary/jid-utils.ts#L24)
 
 ## Parameters
 

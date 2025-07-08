@@ -1,6 +1,6 @@
 # Enumeration: Format
 
-Defined in: [WAProto/index.d.ts:26207](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L26207)
+Defined in: [WAProto/index.d.ts:26207](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26207)
 
 Format enum.
 
@@ -10,7 +10,7 @@ Format enum.
 
 > **DEFAULT**: `0`
 
-Defined in: [WAProto/index.d.ts:26208](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L26208)
+Defined in: [WAProto/index.d.ts:26208](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26208)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:26208](https://github.com/Fokusdotid/bail/blob/8
 
 > **EXTENSIONS\_1**: `1`
 
-Defined in: [WAProto/index.d.ts:26209](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L26209)
+Defined in: [WAProto/index.d.ts:26209](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26209)

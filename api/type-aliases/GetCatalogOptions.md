@@ -2,7 +2,7 @@
 
 > **GetCatalogOptions**: `object`
 
-Defined in: [src/Types/Product.ts:78](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/Types/Product.ts#L78)
+Defined in: [src/Types/Product.ts:78](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/src/Types/Product.ts#L78)
 
 ## Type declaration
 

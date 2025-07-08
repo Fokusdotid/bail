@@ -1,6 +1,6 @@
 # Class: BotWelcomeRequestAction
 
-Defined in: [WAProto/index.d.ts:43994](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L43994)
+Defined in: [WAProto/index.d.ts:43994](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L43994)
 
 Represents a BotWelcomeRequestAction.
 
@@ -14,7 +14,7 @@ Represents a BotWelcomeRequestAction.
 
 > **new BotWelcomeRequestAction**(`properties`?): [`BotWelcomeRequestAction`](BotWelcomeRequestAction.md)
 
-Defined in: [WAProto/index.d.ts:44000](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L44000)
+Defined in: [WAProto/index.d.ts:44000](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L44000)
 
 Constructs a new BotWelcomeRequestAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **isSent**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:44003](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L44003)
+Defined in: [WAProto/index.d.ts:44003](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L44003)
 
 BotWelcomeRequestAction isSent.
 
@@ -50,7 +50,7 @@ BotWelcomeRequestAction isSent.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:44073](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L44073)
+Defined in: [WAProto/index.d.ts:44073](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L44073)
 
 Converts this BotWelcomeRequestAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotWelcomeRequestAction`](BotWelcomeRequestAction.md)
 
-Defined in: [WAProto/index.d.ts:44010](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L44010)
+Defined in: [WAProto/index.d.ts:44010](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L44010)
 
 Creates a new BotWelcomeRequestAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ BotWelcomeRequestAction instance
 
 > `static` **decode**(`reader`, `length`?): [`BotWelcomeRequestAction`](BotWelcomeRequestAction.md)
 
-Defined in: [WAProto/index.d.ts:44036](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L44036)
+Defined in: [WAProto/index.d.ts:44036](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L44036)
 
 Decodes a BotWelcomeRequestAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotWelcomeRequestAction`](BotWelcomeRequestAction.md)
 
-Defined in: [WAProto/index.d.ts:44045](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L44045)
+Defined in: [WAProto/index.d.ts:44045](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L44045)
 
 Decodes a BotWelcomeRequestAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44018](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L44018)
+Defined in: [WAProto/index.d.ts:44018](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L44018)
 
 Encodes the specified BotWelcomeRequestAction message. Does not implicitly [verify](BotWelcomeRequestAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:44026](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L44026)
+Defined in: [WAProto/index.d.ts:44026](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L44026)
 
 Encodes the specified BotWelcomeRequestAction message, length delimited. Does not implicitly [verify](BotWelcomeRequestAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotWelcomeRequestAction`](BotWelcomeRequestAction.md)
 
-Defined in: [WAProto/index.d.ts:44059](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L44059)
+Defined in: [WAProto/index.d.ts:44059](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L44059)
 
 Creates a BotWelcomeRequestAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ BotWelcomeRequestAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:44080](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L44080)
+Defined in: [WAProto/index.d.ts:44080](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L44080)
 
 Gets the default type url for BotWelcomeRequestAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:44067](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L44067)
+Defined in: [WAProto/index.d.ts:44067](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L44067)
 
 Creates a plain object from a BotWelcomeRequestAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:44052](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L44052)
+Defined in: [WAProto/index.d.ts:44052](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L44052)
 
 Verifies a BotWelcomeRequestAction message.
 

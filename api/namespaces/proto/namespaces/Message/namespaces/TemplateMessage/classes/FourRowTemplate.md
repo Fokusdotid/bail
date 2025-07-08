@@ -1,6 +1,6 @@
 # Class: FourRowTemplate
 
-Defined in: [WAProto/index.d.ts:34934](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L34934)
+Defined in: [WAProto/index.d.ts:34934](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34934)
 
 Represents a FourRowTemplate.
 
@@ -14,7 +14,7 @@ Represents a FourRowTemplate.
 
 > **new FourRowTemplate**(`properties`?): [`FourRowTemplate`](FourRowTemplate.md)
 
-Defined in: [WAProto/index.d.ts:34940](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L34940)
+Defined in: [WAProto/index.d.ts:34940](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34940)
 
 Constructs a new FourRowTemplate.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **buttons**: [`ITemplateButton`](../../../../../interfaces/ITemplateButton.md)[]
 
-Defined in: [WAProto/index.d.ts:34949](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L34949)
+Defined in: [WAProto/index.d.ts:34949](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34949)
 
 FourRowTemplate buttons.
 
@@ -50,7 +50,7 @@ FourRowTemplate buttons.
 
 > `optional` **content**: `null` \| [`IHighlyStructuredMessage`](../../../interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:34943](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L34943)
+Defined in: [WAProto/index.d.ts:34943](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34943)
 
 FourRowTemplate content.
 
@@ -64,7 +64,7 @@ FourRowTemplate content.
 
 > `optional` **documentMessage**: `null` \| [`IDocumentMessage`](../../../interfaces/IDocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:34952](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L34952)
+Defined in: [WAProto/index.d.ts:34952](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34952)
 
 FourRowTemplate documentMessage.
 
@@ -78,7 +78,7 @@ FourRowTemplate documentMessage.
 
 > `optional` **footer**: `null` \| [`IHighlyStructuredMessage`](../../../interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:34946](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L34946)
+Defined in: [WAProto/index.d.ts:34946](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34946)
 
 FourRowTemplate footer.
 
@@ -92,7 +92,7 @@ FourRowTemplate footer.
 
 > `optional` **highlyStructuredMessage**: `null` \| [`IHighlyStructuredMessage`](../../../interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:34955](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L34955)
+Defined in: [WAProto/index.d.ts:34955](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34955)
 
 FourRowTemplate highlyStructuredMessage.
 
@@ -106,7 +106,7 @@ FourRowTemplate highlyStructuredMessage.
 
 > `optional` **imageMessage**: `null` \| [`IImageMessage`](../../../interfaces/IImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:34958](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L34958)
+Defined in: [WAProto/index.d.ts:34958](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34958)
 
 FourRowTemplate imageMessage.
 
@@ -120,7 +120,7 @@ FourRowTemplate imageMessage.
 
 > `optional` **locationMessage**: `null` \| [`ILocationMessage`](../../../interfaces/ILocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:34964](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L34964)
+Defined in: [WAProto/index.d.ts:34964](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34964)
 
 FourRowTemplate locationMessage.
 
@@ -134,7 +134,7 @@ FourRowTemplate locationMessage.
 
 > `optional` **title**: `"imageMessage"` \| `"locationMessage"` \| `"documentMessage"` \| `"videoMessage"` \| `"highlyStructuredMessage"`
 
-Defined in: [WAProto/index.d.ts:34967](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L34967)
+Defined in: [WAProto/index.d.ts:34967](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34967)
 
 FourRowTemplate title.
 
@@ -144,7 +144,7 @@ FourRowTemplate title.
 
 > `optional` **videoMessage**: `null` \| [`IVideoMessage`](../../../interfaces/IVideoMessage.md)
 
-Defined in: [WAProto/index.d.ts:34961](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L34961)
+Defined in: [WAProto/index.d.ts:34961](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34961)
 
 FourRowTemplate videoMessage.
 
@@ -158,7 +158,7 @@ FourRowTemplate videoMessage.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:35037](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L35037)
+Defined in: [WAProto/index.d.ts:35037](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L35037)
 
 Converts this FourRowTemplate to JSON.
 
@@ -174,7 +174,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`FourRowTemplate`](FourRowTemplate.md)
 
-Defined in: [WAProto/index.d.ts:34974](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L34974)
+Defined in: [WAProto/index.d.ts:34974](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34974)
 
 Creates a new FourRowTemplate instance using the specified properties.
 
@@ -198,7 +198,7 @@ FourRowTemplate instance
 
 > `static` **decode**(`reader`, `length`?): [`FourRowTemplate`](FourRowTemplate.md)
 
-Defined in: [WAProto/index.d.ts:35000](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L35000)
+Defined in: [WAProto/index.d.ts:35000](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L35000)
 
 Decodes a FourRowTemplate message from the specified reader or buffer.
 
@@ -236,7 +236,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`FourRowTemplate`](FourRowTemplate.md)
 
-Defined in: [WAProto/index.d.ts:35009](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L35009)
+Defined in: [WAProto/index.d.ts:35009](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L35009)
 
 Decodes a FourRowTemplate message from the specified reader or buffer, length delimited.
 
@@ -268,7 +268,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:34982](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L34982)
+Defined in: [WAProto/index.d.ts:34982](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34982)
 
 Encodes the specified FourRowTemplate message. Does not implicitly [verify](FourRowTemplate.md#verify) messages.
 
@@ -298,7 +298,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:34990](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L34990)
+Defined in: [WAProto/index.d.ts:34990](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34990)
 
 Encodes the specified FourRowTemplate message, length delimited. Does not implicitly [verify](FourRowTemplate.md#verify) messages.
 
@@ -328,7 +328,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`FourRowTemplate`](FourRowTemplate.md)
 
-Defined in: [WAProto/index.d.ts:35023](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L35023)
+Defined in: [WAProto/index.d.ts:35023](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L35023)
 
 Creates a FourRowTemplate message from a plain object. Also converts values to their respective internal types.
 
@@ -350,7 +350,7 @@ FourRowTemplate
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:35044](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L35044)
+Defined in: [WAProto/index.d.ts:35044](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L35044)
 
 Gets the default type url for FourRowTemplate
 
@@ -374,7 +374,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:35031](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L35031)
+Defined in: [WAProto/index.d.ts:35031](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L35031)
 
 Creates a plain object from a FourRowTemplate message. Also converts values to other types if specified.
 
@@ -404,7 +404,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35016](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L35016)
+Defined in: [WAProto/index.d.ts:35016](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L35016)
 
 Verifies a FourRowTemplate message.
 

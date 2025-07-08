@@ -1,6 +1,6 @@
 # Interface: ISenderKeyRecordStructure
 
-Defined in: [WAProto/index.d.ts:41158](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L41158)
+Defined in: [WAProto/index.d.ts:41158](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L41158)
 
 Properties of a SenderKeyRecordStructure.
 
@@ -10,6 +10,6 @@ Properties of a SenderKeyRecordStructure.
 
 > `optional` **senderKeyStates**: `null` \| [`ISenderKeyStateStructure`](ISenderKeyStateStructure.md)[]
 
-Defined in: [WAProto/index.d.ts:41161](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L41161)
+Defined in: [WAProto/index.d.ts:41161](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L41161)
 
 SenderKeyRecordStructure senderKeyStates

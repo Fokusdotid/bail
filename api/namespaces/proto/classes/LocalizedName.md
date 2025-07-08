@@ -1,6 +1,6 @@
 # Class: LocalizedName
 
-Defined in: [WAProto/index.d.ts:17689](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17689)
+Defined in: [WAProto/index.d.ts:17689](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17689)
 
 Represents a LocalizedName.
 
@@ -14,7 +14,7 @@ Represents a LocalizedName.
 
 > **new LocalizedName**(`properties`?): [`LocalizedName`](LocalizedName.md)
 
-Defined in: [WAProto/index.d.ts:17695](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17695)
+Defined in: [WAProto/index.d.ts:17695](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17695)
 
 Constructs a new LocalizedName.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **lc**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:17701](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17701)
+Defined in: [WAProto/index.d.ts:17701](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17701)
 
 LocalizedName lc.
 
@@ -50,7 +50,7 @@ LocalizedName lc.
 
 > `optional` **lg**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:17698](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17698)
+Defined in: [WAProto/index.d.ts:17698](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17698)
 
 LocalizedName lg.
 
@@ -64,7 +64,7 @@ LocalizedName lg.
 
 > `optional` **verifiedName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:17704](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17704)
+Defined in: [WAProto/index.d.ts:17704](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17704)
 
 LocalizedName verifiedName.
 
@@ -78,7 +78,7 @@ LocalizedName verifiedName.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:17774](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17774)
+Defined in: [WAProto/index.d.ts:17774](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17774)
 
 Converts this LocalizedName to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LocalizedName`](LocalizedName.md)
 
-Defined in: [WAProto/index.d.ts:17711](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17711)
+Defined in: [WAProto/index.d.ts:17711](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17711)
 
 Creates a new LocalizedName instance using the specified properties.
 
@@ -118,7 +118,7 @@ LocalizedName instance
 
 > `static` **decode**(`reader`, `length`?): [`LocalizedName`](LocalizedName.md)
 
-Defined in: [WAProto/index.d.ts:17737](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17737)
+Defined in: [WAProto/index.d.ts:17737](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17737)
 
 Decodes a LocalizedName message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LocalizedName`](LocalizedName.md)
 
-Defined in: [WAProto/index.d.ts:17746](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17746)
+Defined in: [WAProto/index.d.ts:17746](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17746)
 
 Decodes a LocalizedName message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17719](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17719)
+Defined in: [WAProto/index.d.ts:17719](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17719)
 
 Encodes the specified LocalizedName message. Does not implicitly [verify](LocalizedName.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17727](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17727)
+Defined in: [WAProto/index.d.ts:17727](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17727)
 
 Encodes the specified LocalizedName message, length delimited. Does not implicitly [verify](LocalizedName.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LocalizedName`](LocalizedName.md)
 
-Defined in: [WAProto/index.d.ts:17760](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17760)
+Defined in: [WAProto/index.d.ts:17760](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17760)
 
 Creates a LocalizedName message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ LocalizedName
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:17781](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17781)
+Defined in: [WAProto/index.d.ts:17781](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17781)
 
 Gets the default type url for LocalizedName
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:17768](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17768)
+Defined in: [WAProto/index.d.ts:17768](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17768)
 
 Creates a plain object from a LocalizedName message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:17753](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L17753)
+Defined in: [WAProto/index.d.ts:17753](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17753)
 
 Verifies a LocalizedName message.
 

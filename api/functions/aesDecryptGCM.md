@@ -2,7 +2,7 @@
 
 > **aesDecryptGCM**(`ciphertext`, `key`, `iv`, `additionalData`): `Buffer`\<`ArrayBuffer`\>
 
-Defined in: [src/Utils/crypto.ts:62](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/Utils/crypto.ts#L62)
+Defined in: [src/Utils/crypto.ts:62](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/src/Utils/crypto.ts#L62)
 
 decrypt AES 256 GCM;
 where the auth tag is suffixed to the ciphertext

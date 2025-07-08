@@ -2,7 +2,7 @@
 
 > **encryptMediaRetryRequest**(`key`, `mediaKey`, `meId`): `Promise`\<[`BinaryNode`](../type-aliases/BinaryNode.md)\>
 
-Defined in: [src/Utils/messages-media.ts:705](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/Utils/messages-media.ts#L705)
+Defined in: [src/Utils/messages-media.ts:700](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/src/Utils/messages-media.ts#L700)
 
 Generate a binary node that will request the phone to re-upload the media & return the newly uploaded URL
 

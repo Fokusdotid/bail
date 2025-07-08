@@ -2,7 +2,7 @@
 
 > **GroupParticipant**: [`Contact`](../interfaces/Contact.md) & `object`
 
-Defined in: [src/Types/GroupMetadata.ts:3](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/src/Types/GroupMetadata.ts#L3)
+Defined in: [src/Types/GroupMetadata.ts:3](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/src/Types/GroupMetadata.ts#L3)
 
 ## Type declaration
 

@@ -1,6 +1,6 @@
 # Enumeration: InviteLinkGroupType
 
-Defined in: [WAProto/index.d.ts:23299](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L23299)
+Defined in: [WAProto/index.d.ts:23299](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L23299)
 
 InviteLinkGroupType enum.
 
@@ -10,7 +10,7 @@ InviteLinkGroupType enum.
 
 > **DEFAULT**: `0`
 
-Defined in: [WAProto/index.d.ts:23300](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L23300)
+Defined in: [WAProto/index.d.ts:23300](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L23300)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:23300](https://github.com/Fokusdotid/bail/blob/8
 
 > **DEFAULT\_SUB**: `3`
 
-Defined in: [WAProto/index.d.ts:23303](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L23303)
+Defined in: [WAProto/index.d.ts:23303](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L23303)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:23303](https://github.com/Fokusdotid/bail/blob/8
 
 > **PARENT**: `1`
 
-Defined in: [WAProto/index.d.ts:23301](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L23301)
+Defined in: [WAProto/index.d.ts:23301](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L23301)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:23301](https://github.com/Fokusdotid/bail/blob/8
 
 > **SUB**: `2`
 
-Defined in: [WAProto/index.d.ts:23302](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L23302)
+Defined in: [WAProto/index.d.ts:23302](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L23302)

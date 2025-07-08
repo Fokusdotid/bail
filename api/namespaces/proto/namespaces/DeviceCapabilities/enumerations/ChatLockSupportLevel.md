@@ -1,6 +1,6 @@
 # Enumeration: ChatLockSupportLevel
 
-Defined in: [WAProto/index.d.ts:12836](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L12836)
+Defined in: [WAProto/index.d.ts:12836](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12836)
 
 ChatLockSupportLevel enum.
 
@@ -10,7 +10,7 @@ ChatLockSupportLevel enum.
 
 > **FULL**: `2`
 
-Defined in: [WAProto/index.d.ts:12839](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L12839)
+Defined in: [WAProto/index.d.ts:12839](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12839)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:12839](https://github.com/Fokusdotid/bail/blob/8
 
 > **MINIMAL**: `1`
 
-Defined in: [WAProto/index.d.ts:12838](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L12838)
+Defined in: [WAProto/index.d.ts:12838](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12838)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:12838](https://github.com/Fokusdotid/bail/blob/8
 
 > **NONE**: `0`
 
-Defined in: [WAProto/index.d.ts:12837](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L12837)
+Defined in: [WAProto/index.d.ts:12837](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12837)

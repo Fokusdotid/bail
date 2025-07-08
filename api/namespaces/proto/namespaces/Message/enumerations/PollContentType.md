@@ -1,6 +1,6 @@
 # Enumeration: PollContentType
 
-Defined in: [WAProto/index.d.ts:31286](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31286)
+Defined in: [WAProto/index.d.ts:31286](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31286)
 
 PollContentType enum.
 
@@ -10,7 +10,7 @@ PollContentType enum.
 
 > **IMAGE**: `2`
 
-Defined in: [WAProto/index.d.ts:31289](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31289)
+Defined in: [WAProto/index.d.ts:31289](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31289)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:31289](https://github.com/Fokusdotid/bail/blob/8
 
 > **TEXT**: `1`
 
-Defined in: [WAProto/index.d.ts:31288](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31288)
+Defined in: [WAProto/index.d.ts:31288](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31288)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:31288](https://github.com/Fokusdotid/bail/blob/8
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:31287](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L31287)
+Defined in: [WAProto/index.d.ts:31287](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31287)

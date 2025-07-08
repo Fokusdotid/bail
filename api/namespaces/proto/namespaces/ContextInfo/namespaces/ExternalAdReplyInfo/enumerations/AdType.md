@@ -1,6 +1,6 @@
 # Enumeration: AdType
 
-Defined in: [WAProto/index.d.ts:11811](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L11811)
+Defined in: [WAProto/index.d.ts:11811](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L11811)
 
 AdType enum.
 
@@ -10,7 +10,7 @@ AdType enum.
 
 > **CAWC**: `1`
 
-Defined in: [WAProto/index.d.ts:11813](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L11813)
+Defined in: [WAProto/index.d.ts:11813](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L11813)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:11813](https://github.com/Fokusdotid/bail/blob/8
 
 > **CTWA**: `0`
 
-Defined in: [WAProto/index.d.ts:11812](https://github.com/Fokusdotid/bail/blob/8b525f9ebcc20cb9acd0f880b6ad58976e38b117/WAProto/index.d.ts#L11812)
+Defined in: [WAProto/index.d.ts:11812](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L11812)
