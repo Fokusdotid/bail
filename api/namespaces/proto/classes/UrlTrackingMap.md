@@ -1,6 +1,6 @@
 # Class: UrlTrackingMap
 
-Defined in: [WAProto/index.d.ts:51267](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51267)
+Defined in: [WAProto/index.d.ts:51267](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51267)
 
 Represents an UrlTrackingMap.
 
@@ -14,7 +14,7 @@ Represents an UrlTrackingMap.
 
 > **new UrlTrackingMap**(`properties`?): [`UrlTrackingMap`](UrlTrackingMap.md)
 
-Defined in: [WAProto/index.d.ts:51273](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51273)
+Defined in: [WAProto/index.d.ts:51273](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51273)
 
 Constructs a new UrlTrackingMap.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **urlTrackingMapElements**: [`IUrlTrackingMapElement`](../namespaces/UrlTrackingMap/interfaces/IUrlTrackingMapElement.md)[]
 
-Defined in: [WAProto/index.d.ts:51276](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51276)
+Defined in: [WAProto/index.d.ts:51276](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51276)
 
 UrlTrackingMap urlTrackingMapElements.
 
@@ -50,7 +50,7 @@ UrlTrackingMap urlTrackingMapElements.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:51346](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51346)
+Defined in: [WAProto/index.d.ts:51346](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51346)
 
 Converts this UrlTrackingMap to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`UrlTrackingMap`](UrlTrackingMap.md)
 
-Defined in: [WAProto/index.d.ts:51283](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51283)
+Defined in: [WAProto/index.d.ts:51283](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51283)
 
 Creates a new UrlTrackingMap instance using the specified properties.
 
@@ -90,7 +90,7 @@ UrlTrackingMap instance
 
 > `static` **decode**(`reader`, `length`?): [`UrlTrackingMap`](UrlTrackingMap.md)
 
-Defined in: [WAProto/index.d.ts:51309](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51309)
+Defined in: [WAProto/index.d.ts:51309](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51309)
 
 Decodes an UrlTrackingMap message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`UrlTrackingMap`](UrlTrackingMap.md)
 
-Defined in: [WAProto/index.d.ts:51318](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51318)
+Defined in: [WAProto/index.d.ts:51318](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51318)
 
 Decodes an UrlTrackingMap message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:51291](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51291)
+Defined in: [WAProto/index.d.ts:51291](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51291)
 
 Encodes the specified UrlTrackingMap message. Does not implicitly [verify](UrlTrackingMap.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:51299](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51299)
+Defined in: [WAProto/index.d.ts:51299](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51299)
 
 Encodes the specified UrlTrackingMap message, length delimited. Does not implicitly [verify](UrlTrackingMap.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`UrlTrackingMap`](UrlTrackingMap.md)
 
-Defined in: [WAProto/index.d.ts:51332](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51332)
+Defined in: [WAProto/index.d.ts:51332](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51332)
 
 Creates an UrlTrackingMap message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ UrlTrackingMap
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:51353](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51353)
+Defined in: [WAProto/index.d.ts:51353](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51353)
 
 Gets the default type url for UrlTrackingMap
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:51340](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51340)
+Defined in: [WAProto/index.d.ts:51340](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51340)
 
 Creates a plain object from an UrlTrackingMap message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:51325](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51325)
+Defined in: [WAProto/index.d.ts:51325](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51325)
 
 Verifies an UrlTrackingMap message.
 

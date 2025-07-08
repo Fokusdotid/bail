@@ -1,6 +1,6 @@
 # Interface: INewsletterAdminInviteMessage
 
-Defined in: [WAProto/index.d.ts:28500](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L28500)
+Defined in: [WAProto/index.d.ts:28500](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28500)
 
 Properties of a NewsletterAdminInviteMessage.
 
@@ -10,7 +10,7 @@ Properties of a NewsletterAdminInviteMessage.
 
 > `optional` **caption**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28512](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L28512)
+Defined in: [WAProto/index.d.ts:28512](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28512)
 
 NewsletterAdminInviteMessage caption
 
@@ -20,7 +20,7 @@ NewsletterAdminInviteMessage caption
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:28518](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L28518)
+Defined in: [WAProto/index.d.ts:28518](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28518)
 
 NewsletterAdminInviteMessage contextInfo
 
@@ -30,7 +30,7 @@ NewsletterAdminInviteMessage contextInfo
 
 > `optional` **inviteExpiration**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:28515](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L28515)
+Defined in: [WAProto/index.d.ts:28515](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28515)
 
 NewsletterAdminInviteMessage inviteExpiration
 
@@ -40,7 +40,7 @@ NewsletterAdminInviteMessage inviteExpiration
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:28509](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L28509)
+Defined in: [WAProto/index.d.ts:28509](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28509)
 
 NewsletterAdminInviteMessage jpegThumbnail
 
@@ -50,7 +50,7 @@ NewsletterAdminInviteMessage jpegThumbnail
 
 > `optional` **newsletterJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28503](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L28503)
+Defined in: [WAProto/index.d.ts:28503](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28503)
 
 NewsletterAdminInviteMessage newsletterJid
 
@@ -60,6 +60,6 @@ NewsletterAdminInviteMessage newsletterJid
 
 > `optional` **newsletterName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28506](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L28506)
+Defined in: [WAProto/index.d.ts:28506](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L28506)
 
 NewsletterAdminInviteMessage newsletterName

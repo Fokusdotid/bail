@@ -1,6 +1,6 @@
 # Interface: IFourRowTemplate
 
-Defined in: [WAProto/index.d.ts:34906](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34906)
+Defined in: [WAProto/index.d.ts:34906](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L34906)
 
 Properties of a FourRowTemplate.
 
@@ -10,7 +10,7 @@ Properties of a FourRowTemplate.
 
 > `optional` **buttons**: `null` \| [`ITemplateButton`](../../../../../interfaces/ITemplateButton.md)[]
 
-Defined in: [WAProto/index.d.ts:34915](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34915)
+Defined in: [WAProto/index.d.ts:34915](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L34915)
 
 FourRowTemplate buttons
 
@@ -20,7 +20,7 @@ FourRowTemplate buttons
 
 > `optional` **content**: `null` \| [`IHighlyStructuredMessage`](../../../interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:34909](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34909)
+Defined in: [WAProto/index.d.ts:34909](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L34909)
 
 FourRowTemplate content
 
@@ -30,7 +30,7 @@ FourRowTemplate content
 
 > `optional` **documentMessage**: `null` \| [`IDocumentMessage`](../../../interfaces/IDocumentMessage.md)
 
-Defined in: [WAProto/index.d.ts:34918](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34918)
+Defined in: [WAProto/index.d.ts:34918](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L34918)
 
 FourRowTemplate documentMessage
 
@@ -40,7 +40,7 @@ FourRowTemplate documentMessage
 
 > `optional` **footer**: `null` \| [`IHighlyStructuredMessage`](../../../interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:34912](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34912)
+Defined in: [WAProto/index.d.ts:34912](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L34912)
 
 FourRowTemplate footer
 
@@ -50,7 +50,7 @@ FourRowTemplate footer
 
 > `optional` **highlyStructuredMessage**: `null` \| [`IHighlyStructuredMessage`](../../../interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:34921](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34921)
+Defined in: [WAProto/index.d.ts:34921](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L34921)
 
 FourRowTemplate highlyStructuredMessage
 
@@ -60,7 +60,7 @@ FourRowTemplate highlyStructuredMessage
 
 > `optional` **imageMessage**: `null` \| [`IImageMessage`](../../../interfaces/IImageMessage.md)
 
-Defined in: [WAProto/index.d.ts:34924](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34924)
+Defined in: [WAProto/index.d.ts:34924](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L34924)
 
 FourRowTemplate imageMessage
 
@@ -70,7 +70,7 @@ FourRowTemplate imageMessage
 
 > `optional` **locationMessage**: `null` \| [`ILocationMessage`](../../../interfaces/ILocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:34930](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34930)
+Defined in: [WAProto/index.d.ts:34930](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L34930)
 
 FourRowTemplate locationMessage
 
@@ -80,6 +80,6 @@ FourRowTemplate locationMessage
 
 > `optional` **videoMessage**: `null` \| [`IVideoMessage`](../../../interfaces/IVideoMessage.md)
 
-Defined in: [WAProto/index.d.ts:34927](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L34927)
+Defined in: [WAProto/index.d.ts:34927](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L34927)
 
 FourRowTemplate videoMessage

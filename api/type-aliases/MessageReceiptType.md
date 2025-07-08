@@ -2,4 +2,4 @@
 
 > **MessageReceiptType**: `"read"` \| `"read-self"` \| `"hist_sync"` \| `"peer_msg"` \| `"sender"` \| `"inactive"` \| `"played"` \| `undefined`
 
-Defined in: [src/Types/Message.ts:44](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/src/Types/Message.ts#L44)
+Defined in: [src/Types/Message.ts:44](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/src/Types/Message.ts#L44)

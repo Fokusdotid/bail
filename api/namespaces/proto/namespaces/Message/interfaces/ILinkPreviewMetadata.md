@@ -1,6 +1,6 @@
 # Interface: ILinkPreviewMetadata
 
-Defined in: [WAProto/index.d.ts:26593](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26593)
+Defined in: [WAProto/index.d.ts:26593](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26593)
 
 Properties of a LinkPreviewMetadata.
 
@@ -10,7 +10,7 @@ Properties of a LinkPreviewMetadata.
 
 > `optional` **fbExperimentId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:26602](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26602)
+Defined in: [WAProto/index.d.ts:26602](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26602)
 
 LinkPreviewMetadata fbExperimentId
 
@@ -20,7 +20,7 @@ LinkPreviewMetadata fbExperimentId
 
 > `optional` **paymentLinkMetadata**: `null` \| [`IPaymentLinkMetadata`](IPaymentLinkMetadata.md)
 
-Defined in: [WAProto/index.d.ts:26596](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26596)
+Defined in: [WAProto/index.d.ts:26596](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26596)
 
 LinkPreviewMetadata paymentLinkMetadata
 
@@ -30,6 +30,6 @@ LinkPreviewMetadata paymentLinkMetadata
 
 > `optional` **urlMetadata**: `null` \| [`IURLMetadata`](IURLMetadata.md)
 
-Defined in: [WAProto/index.d.ts:26599](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26599)
+Defined in: [WAProto/index.d.ts:26599](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26599)
 
 LinkPreviewMetadata urlMetadata

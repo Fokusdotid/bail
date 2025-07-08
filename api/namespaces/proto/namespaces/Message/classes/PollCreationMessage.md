@@ -1,6 +1,6 @@
 # Class: PollCreationMessage
 
-Defined in: [WAProto/index.d.ts:31321](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31321)
+Defined in: [WAProto/index.d.ts:31321](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L31321)
 
 Represents a PollCreationMessage.
 
@@ -14,7 +14,7 @@ Represents a PollCreationMessage.
 
 > **new PollCreationMessage**(`properties`?): [`PollCreationMessage`](PollCreationMessage.md)
 
-Defined in: [WAProto/index.d.ts:31327](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31327)
+Defined in: [WAProto/index.d.ts:31327](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L31327)
 
 Constructs a new PollCreationMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:31342](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31342)
+Defined in: [WAProto/index.d.ts:31342](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L31342)
 
 PollCreationMessage contextInfo.
 
@@ -50,7 +50,7 @@ PollCreationMessage contextInfo.
 
 > `optional` **correctAnswer**: `null` \| [`IOption`](../namespaces/PollCreationMessage/interfaces/IOption.md)
 
-Defined in: [WAProto/index.d.ts:31351](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31351)
+Defined in: [WAProto/index.d.ts:31351](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L31351)
 
 PollCreationMessage correctAnswer.
 
@@ -64,7 +64,7 @@ PollCreationMessage correctAnswer.
 
 > `optional` **encKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:31330](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31330)
+Defined in: [WAProto/index.d.ts:31330](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L31330)
 
 PollCreationMessage encKey.
 
@@ -78,7 +78,7 @@ PollCreationMessage encKey.
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:31333](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31333)
+Defined in: [WAProto/index.d.ts:31333](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L31333)
 
 PollCreationMessage name.
 
@@ -92,7 +92,7 @@ PollCreationMessage name.
 
 > **options**: [`IOption`](../namespaces/PollCreationMessage/interfaces/IOption.md)[]
 
-Defined in: [WAProto/index.d.ts:31336](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31336)
+Defined in: [WAProto/index.d.ts:31336](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L31336)
 
 PollCreationMessage options.
 
@@ -106,7 +106,7 @@ PollCreationMessage options.
 
 > `optional` **pollContentType**: `null` \| [`PollContentType`](../enumerations/PollContentType.md)
 
-Defined in: [WAProto/index.d.ts:31345](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31345)
+Defined in: [WAProto/index.d.ts:31345](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L31345)
 
 PollCreationMessage pollContentType.
 
@@ -120,7 +120,7 @@ PollCreationMessage pollContentType.
 
 > `optional` **pollType**: `null` \| [`PollType`](../namespaces/PollCreationMessage/enumerations/PollType.md)
 
-Defined in: [WAProto/index.d.ts:31348](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31348)
+Defined in: [WAProto/index.d.ts:31348](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L31348)
 
 PollCreationMessage pollType.
 
@@ -134,7 +134,7 @@ PollCreationMessage pollType.
 
 > `optional` **selectableOptionsCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:31339](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31339)
+Defined in: [WAProto/index.d.ts:31339](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L31339)
 
 PollCreationMessage selectableOptionsCount.
 
@@ -148,7 +148,7 @@ PollCreationMessage selectableOptionsCount.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:31421](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31421)
+Defined in: [WAProto/index.d.ts:31421](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L31421)
 
 Converts this PollCreationMessage to JSON.
 
@@ -164,7 +164,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PollCreationMessage`](PollCreationMessage.md)
 
-Defined in: [WAProto/index.d.ts:31358](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31358)
+Defined in: [WAProto/index.d.ts:31358](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L31358)
 
 Creates a new PollCreationMessage instance using the specified properties.
 
@@ -188,7 +188,7 @@ PollCreationMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`PollCreationMessage`](PollCreationMessage.md)
 
-Defined in: [WAProto/index.d.ts:31384](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31384)
+Defined in: [WAProto/index.d.ts:31384](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L31384)
 
 Decodes a PollCreationMessage message from the specified reader or buffer.
 
@@ -226,7 +226,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PollCreationMessage`](PollCreationMessage.md)
 
-Defined in: [WAProto/index.d.ts:31393](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31393)
+Defined in: [WAProto/index.d.ts:31393](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L31393)
 
 Decodes a PollCreationMessage message from the specified reader or buffer, length delimited.
 
@@ -258,7 +258,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:31366](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31366)
+Defined in: [WAProto/index.d.ts:31366](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L31366)
 
 Encodes the specified PollCreationMessage message. Does not implicitly [verify](PollCreationMessage.md#verify) messages.
 
@@ -288,7 +288,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:31374](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31374)
+Defined in: [WAProto/index.d.ts:31374](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L31374)
 
 Encodes the specified PollCreationMessage message, length delimited. Does not implicitly [verify](PollCreationMessage.md#verify) messages.
 
@@ -318,7 +318,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PollCreationMessage`](PollCreationMessage.md)
 
-Defined in: [WAProto/index.d.ts:31407](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31407)
+Defined in: [WAProto/index.d.ts:31407](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L31407)
 
 Creates a PollCreationMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -340,7 +340,7 @@ PollCreationMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:31428](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31428)
+Defined in: [WAProto/index.d.ts:31428](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L31428)
 
 Gets the default type url for PollCreationMessage
 
@@ -364,7 +364,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:31415](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31415)
+Defined in: [WAProto/index.d.ts:31415](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L31415)
 
 Creates a plain object from a PollCreationMessage message. Also converts values to other types if specified.
 
@@ -394,7 +394,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:31400](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L31400)
+Defined in: [WAProto/index.d.ts:31400](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L31400)
 
 Verifies a PollCreationMessage message.
 

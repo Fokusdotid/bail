@@ -1,6 +1,6 @@
 # Interface: ILIDMigrationMapping
 
-Defined in: [WAProto/index.d.ts:17138](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17138)
+Defined in: [WAProto/index.d.ts:17138](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L17138)
 
 Properties of a LIDMigrationMapping.
 
@@ -10,7 +10,7 @@ Properties of a LIDMigrationMapping.
 
 > **assignedLid**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:17144](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17144)
+Defined in: [WAProto/index.d.ts:17144](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L17144)
 
 LIDMigrationMapping assignedLid
 
@@ -20,7 +20,7 @@ LIDMigrationMapping assignedLid
 
 > `optional` **latestLid**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:17147](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17147)
+Defined in: [WAProto/index.d.ts:17147](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L17147)
 
 LIDMigrationMapping latestLid
 
@@ -30,6 +30,6 @@ LIDMigrationMapping latestLid
 
 > **pn**: `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:17141](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17141)
+Defined in: [WAProto/index.d.ts:17141](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L17141)
 
 LIDMigrationMapping pn

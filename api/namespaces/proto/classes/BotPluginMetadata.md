@@ -1,6 +1,6 @@
 # Class: BotPluginMetadata
 
-Defined in: [WAProto/index.d.ts:5410](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5410)
+Defined in: [WAProto/index.d.ts:5410](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5410)
 
 Represents a BotPluginMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotPluginMetadata.
 
 > **new BotPluginMetadata**(`properties`?): [`BotPluginMetadata`](BotPluginMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5416](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5416)
+Defined in: [WAProto/index.d.ts:5416](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5416)
 
 Constructs a new BotPluginMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **deprecatedField**: `null` \| [`PluginType`](../namespaces/BotPluginMetadata/enumerations/PluginType.md)
 
-Defined in: [WAProto/index.d.ts:5446](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5446)
+Defined in: [WAProto/index.d.ts:5446](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5446)
 
 BotPluginMetadata deprecatedField.
 
@@ -50,7 +50,7 @@ BotPluginMetadata deprecatedField.
 
 > `optional` **expectedLinksCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:5437](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5437)
+Defined in: [WAProto/index.d.ts:5437](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5437)
 
 BotPluginMetadata expectedLinksCount.
 
@@ -64,7 +64,7 @@ BotPluginMetadata expectedLinksCount.
 
 > `optional` **faviconCdnUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5452](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5452)
+Defined in: [WAProto/index.d.ts:5452](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5452)
 
 BotPluginMetadata faviconCdnUrl.
 
@@ -78,7 +78,7 @@ BotPluginMetadata faviconCdnUrl.
 
 > `optional` **parentPluginMessageKey**: `null` \| [`IMessageKey`](../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:5443](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5443)
+Defined in: [WAProto/index.d.ts:5443](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5443)
 
 BotPluginMetadata parentPluginMessageKey.
 
@@ -92,7 +92,7 @@ BotPluginMetadata parentPluginMessageKey.
 
 > `optional` **parentPluginType**: `null` \| [`PluginType`](../namespaces/BotPluginMetadata/enumerations/PluginType.md)
 
-Defined in: [WAProto/index.d.ts:5449](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5449)
+Defined in: [WAProto/index.d.ts:5449](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5449)
 
 BotPluginMetadata parentPluginType.
 
@@ -106,7 +106,7 @@ BotPluginMetadata parentPluginType.
 
 > `optional` **pluginType**: `null` \| [`PluginType`](../namespaces/BotPluginMetadata/enumerations/PluginType.md)
 
-Defined in: [WAProto/index.d.ts:5422](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5422)
+Defined in: [WAProto/index.d.ts:5422](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5422)
 
 BotPluginMetadata pluginType.
 
@@ -120,7 +120,7 @@ BotPluginMetadata pluginType.
 
 > `optional` **profilePhotoCdnUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5428](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5428)
+Defined in: [WAProto/index.d.ts:5428](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5428)
 
 BotPluginMetadata profilePhotoCdnUrl.
 
@@ -134,7 +134,7 @@ BotPluginMetadata profilePhotoCdnUrl.
 
 > `optional` **provider**: `null` \| [`SearchProvider`](../namespaces/BotPluginMetadata/enumerations/SearchProvider.md)
 
-Defined in: [WAProto/index.d.ts:5419](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5419)
+Defined in: [WAProto/index.d.ts:5419](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5419)
 
 BotPluginMetadata provider.
 
@@ -148,7 +148,7 @@ BotPluginMetadata provider.
 
 > `optional` **referenceIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:5434](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5434)
+Defined in: [WAProto/index.d.ts:5434](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5434)
 
 BotPluginMetadata referenceIndex.
 
@@ -162,7 +162,7 @@ BotPluginMetadata referenceIndex.
 
 > `optional` **searchProviderUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5431](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5431)
+Defined in: [WAProto/index.d.ts:5431](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5431)
 
 BotPluginMetadata searchProviderUrl.
 
@@ -176,7 +176,7 @@ BotPluginMetadata searchProviderUrl.
 
 > `optional` **searchQuery**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5440](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5440)
+Defined in: [WAProto/index.d.ts:5440](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5440)
 
 BotPluginMetadata searchQuery.
 
@@ -190,7 +190,7 @@ BotPluginMetadata searchQuery.
 
 > `optional` **thumbnailCdnUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5425](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5425)
+Defined in: [WAProto/index.d.ts:5425](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5425)
 
 BotPluginMetadata thumbnailCdnUrl.
 
@@ -204,7 +204,7 @@ BotPluginMetadata thumbnailCdnUrl.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:5522](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5522)
+Defined in: [WAProto/index.d.ts:5522](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5522)
 
 Converts this BotPluginMetadata to JSON.
 
@@ -220,7 +220,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotPluginMetadata`](BotPluginMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5459](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5459)
+Defined in: [WAProto/index.d.ts:5459](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5459)
 
 Creates a new BotPluginMetadata instance using the specified properties.
 
@@ -244,7 +244,7 @@ BotPluginMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotPluginMetadata`](BotPluginMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5485](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5485)
+Defined in: [WAProto/index.d.ts:5485](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5485)
 
 Decodes a BotPluginMetadata message from the specified reader or buffer.
 
@@ -282,7 +282,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotPluginMetadata`](BotPluginMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5494](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5494)
+Defined in: [WAProto/index.d.ts:5494](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5494)
 
 Decodes a BotPluginMetadata message from the specified reader or buffer, length delimited.
 
@@ -314,7 +314,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5467](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5467)
+Defined in: [WAProto/index.d.ts:5467](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5467)
 
 Encodes the specified BotPluginMetadata message. Does not implicitly [verify](BotPluginMetadata.md#verify) messages.
 
@@ -344,7 +344,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5475](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5475)
+Defined in: [WAProto/index.d.ts:5475](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5475)
 
 Encodes the specified BotPluginMetadata message, length delimited. Does not implicitly [verify](BotPluginMetadata.md#verify) messages.
 
@@ -374,7 +374,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotPluginMetadata`](BotPluginMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5508](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5508)
+Defined in: [WAProto/index.d.ts:5508](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5508)
 
 Creates a BotPluginMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -396,7 +396,7 @@ BotPluginMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:5529](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5529)
+Defined in: [WAProto/index.d.ts:5529](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5529)
 
 Gets the default type url for BotPluginMetadata
 
@@ -420,7 +420,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:5516](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5516)
+Defined in: [WAProto/index.d.ts:5516](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5516)
 
 Creates a plain object from a BotPluginMetadata message. Also converts values to other types if specified.
 
@@ -450,7 +450,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5501](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L5501)
+Defined in: [WAProto/index.d.ts:5501](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L5501)
 
 Verifies a BotPluginMetadata message.
 

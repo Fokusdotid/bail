@@ -1,6 +1,6 @@
 # Class: LidContactAction
 
-Defined in: [WAProto/index.d.ts:46069](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L46069)
+Defined in: [WAProto/index.d.ts:46069](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L46069)
 
 Represents a LidContactAction.
 
@@ -14,7 +14,7 @@ Represents a LidContactAction.
 
 > **new LidContactAction**(`properties`?): [`LidContactAction`](LidContactAction.md)
 
-Defined in: [WAProto/index.d.ts:46075](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L46075)
+Defined in: [WAProto/index.d.ts:46075](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L46075)
 
 Constructs a new LidContactAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **firstName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46081](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L46081)
+Defined in: [WAProto/index.d.ts:46081](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L46081)
 
 LidContactAction firstName.
 
@@ -50,7 +50,7 @@ LidContactAction firstName.
 
 > `optional` **fullName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46078](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L46078)
+Defined in: [WAProto/index.d.ts:46078](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L46078)
 
 LidContactAction fullName.
 
@@ -64,7 +64,7 @@ LidContactAction fullName.
 
 > `optional` **saveOnPrimaryAddressbook**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:46087](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L46087)
+Defined in: [WAProto/index.d.ts:46087](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L46087)
 
 LidContactAction saveOnPrimaryAddressbook.
 
@@ -78,7 +78,7 @@ LidContactAction saveOnPrimaryAddressbook.
 
 > `optional` **username**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46084](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L46084)
+Defined in: [WAProto/index.d.ts:46084](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L46084)
 
 LidContactAction username.
 
@@ -92,7 +92,7 @@ LidContactAction username.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:46157](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L46157)
+Defined in: [WAProto/index.d.ts:46157](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L46157)
 
 Converts this LidContactAction to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LidContactAction`](LidContactAction.md)
 
-Defined in: [WAProto/index.d.ts:46094](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L46094)
+Defined in: [WAProto/index.d.ts:46094](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L46094)
 
 Creates a new LidContactAction instance using the specified properties.
 
@@ -132,7 +132,7 @@ LidContactAction instance
 
 > `static` **decode**(`reader`, `length`?): [`LidContactAction`](LidContactAction.md)
 
-Defined in: [WAProto/index.d.ts:46120](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L46120)
+Defined in: [WAProto/index.d.ts:46120](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L46120)
 
 Decodes a LidContactAction message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LidContactAction`](LidContactAction.md)
 
-Defined in: [WAProto/index.d.ts:46129](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L46129)
+Defined in: [WAProto/index.d.ts:46129](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L46129)
 
 Decodes a LidContactAction message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46102](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L46102)
+Defined in: [WAProto/index.d.ts:46102](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L46102)
 
 Encodes the specified LidContactAction message. Does not implicitly [verify](LidContactAction.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46110](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L46110)
+Defined in: [WAProto/index.d.ts:46110](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L46110)
 
 Encodes the specified LidContactAction message, length delimited. Does not implicitly [verify](LidContactAction.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LidContactAction`](LidContactAction.md)
 
-Defined in: [WAProto/index.d.ts:46143](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L46143)
+Defined in: [WAProto/index.d.ts:46143](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L46143)
 
 Creates a LidContactAction message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ LidContactAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:46164](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L46164)
+Defined in: [WAProto/index.d.ts:46164](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L46164)
 
 Gets the default type url for LidContactAction
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:46151](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L46151)
+Defined in: [WAProto/index.d.ts:46151](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L46151)
 
 Creates a plain object from a LidContactAction message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46136](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L46136)
+Defined in: [WAProto/index.d.ts:46136](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L46136)
 
 Verifies a LidContactAction message.
 

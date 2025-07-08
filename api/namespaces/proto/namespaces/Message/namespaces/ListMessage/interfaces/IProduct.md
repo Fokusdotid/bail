@@ -1,6 +1,6 @@
 # Interface: IProduct
 
-Defined in: [WAProto/index.d.ts:26850](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26850)
+Defined in: [WAProto/index.d.ts:26850](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26850)
 
 Properties of a Product.
 
@@ -10,6 +10,6 @@ Properties of a Product.
 
 > `optional` **productId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26853](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26853)
+Defined in: [WAProto/index.d.ts:26853](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26853)
 
 Product productId

@@ -1,6 +1,6 @@
 # Class: CloudAPIThreadControlNotification
 
-Defined in: [WAProto/index.d.ts:21469](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L21469)
+Defined in: [WAProto/index.d.ts:21469](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21469)
 
 Represents a CloudAPIThreadControlNotification.
 
@@ -14,7 +14,7 @@ Represents a CloudAPIThreadControlNotification.
 
 > **new CloudAPIThreadControlNotification**(`properties`?): [`CloudAPIThreadControlNotification`](CloudAPIThreadControlNotification.md)
 
-Defined in: [WAProto/index.d.ts:21475](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L21475)
+Defined in: [WAProto/index.d.ts:21475](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21475)
 
 Constructs a new CloudAPIThreadControlNotification.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **consumerLid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21484](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L21484)
+Defined in: [WAProto/index.d.ts:21484](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21484)
 
 CloudAPIThreadControlNotification consumerLid.
 
@@ -50,7 +50,7 @@ CloudAPIThreadControlNotification consumerLid.
 
 > `optional` **consumerPhoneNumber**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21487](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L21487)
+Defined in: [WAProto/index.d.ts:21487](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21487)
 
 CloudAPIThreadControlNotification consumerPhoneNumber.
 
@@ -64,7 +64,7 @@ CloudAPIThreadControlNotification consumerPhoneNumber.
 
 > `optional` **notificationContent**: `null` \| [`ICloudAPIThreadControlNotificationContent`](../namespaces/CloudAPIThreadControlNotification/interfaces/ICloudAPIThreadControlNotificationContent.md)
 
-Defined in: [WAProto/index.d.ts:21490](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L21490)
+Defined in: [WAProto/index.d.ts:21490](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21490)
 
 CloudAPIThreadControlNotification notificationContent.
 
@@ -78,7 +78,7 @@ CloudAPIThreadControlNotification notificationContent.
 
 > `optional` **senderNotificationTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:21481](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L21481)
+Defined in: [WAProto/index.d.ts:21481](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21481)
 
 CloudAPIThreadControlNotification senderNotificationTimestampMs.
 
@@ -92,7 +92,7 @@ CloudAPIThreadControlNotification senderNotificationTimestampMs.
 
 > `optional` **status**: `null` \| [`CloudAPIThreadControl`](../namespaces/CloudAPIThreadControlNotification/enumerations/CloudAPIThreadControl.md)
 
-Defined in: [WAProto/index.d.ts:21478](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L21478)
+Defined in: [WAProto/index.d.ts:21478](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21478)
 
 CloudAPIThreadControlNotification status.
 
@@ -106,7 +106,7 @@ CloudAPIThreadControlNotification status.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:21560](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L21560)
+Defined in: [WAProto/index.d.ts:21560](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21560)
 
 Converts this CloudAPIThreadControlNotification to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CloudAPIThreadControlNotification`](CloudAPIThreadControlNotification.md)
 
-Defined in: [WAProto/index.d.ts:21497](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L21497)
+Defined in: [WAProto/index.d.ts:21497](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21497)
 
 Creates a new CloudAPIThreadControlNotification instance using the specified properties.
 
@@ -146,7 +146,7 @@ CloudAPIThreadControlNotification instance
 
 > `static` **decode**(`reader`, `length`?): [`CloudAPIThreadControlNotification`](CloudAPIThreadControlNotification.md)
 
-Defined in: [WAProto/index.d.ts:21523](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L21523)
+Defined in: [WAProto/index.d.ts:21523](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21523)
 
 Decodes a CloudAPIThreadControlNotification message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CloudAPIThreadControlNotification`](CloudAPIThreadControlNotification.md)
 
-Defined in: [WAProto/index.d.ts:21532](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L21532)
+Defined in: [WAProto/index.d.ts:21532](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21532)
 
 Decodes a CloudAPIThreadControlNotification message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:21505](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L21505)
+Defined in: [WAProto/index.d.ts:21505](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21505)
 
 Encodes the specified CloudAPIThreadControlNotification message. Does not implicitly [verify](CloudAPIThreadControlNotification.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:21513](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L21513)
+Defined in: [WAProto/index.d.ts:21513](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21513)
 
 Encodes the specified CloudAPIThreadControlNotification message, length delimited. Does not implicitly [verify](CloudAPIThreadControlNotification.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CloudAPIThreadControlNotification`](CloudAPIThreadControlNotification.md)
 
-Defined in: [WAProto/index.d.ts:21546](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L21546)
+Defined in: [WAProto/index.d.ts:21546](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21546)
 
 Creates a CloudAPIThreadControlNotification message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ CloudAPIThreadControlNotification
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:21567](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L21567)
+Defined in: [WAProto/index.d.ts:21567](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21567)
 
 Gets the default type url for CloudAPIThreadControlNotification
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:21554](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L21554)
+Defined in: [WAProto/index.d.ts:21554](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21554)
 
 Creates a plain object from a CloudAPIThreadControlNotification message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21539](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L21539)
+Defined in: [WAProto/index.d.ts:21539](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L21539)
 
 Verifies a CloudAPIThreadControlNotification message.
 

@@ -1,6 +1,6 @@
 # Interface: IMessageSecretMessage
 
-Defined in: [WAProto/index.d.ts:36248](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L36248)
+Defined in: [WAProto/index.d.ts:36248](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L36248)
 
 Properties of a MessageSecretMessage.
 
@@ -10,7 +10,7 @@ Properties of a MessageSecretMessage.
 
 > `optional` **encIv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:36254](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L36254)
+Defined in: [WAProto/index.d.ts:36254](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L36254)
 
 MessageSecretMessage encIv
 
@@ -20,7 +20,7 @@ MessageSecretMessage encIv
 
 > `optional` **encPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:36257](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L36257)
+Defined in: [WAProto/index.d.ts:36257](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L36257)
 
 MessageSecretMessage encPayload
 
@@ -30,6 +30,6 @@ MessageSecretMessage encPayload
 
 > `optional` **version**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36251](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L36251)
+Defined in: [WAProto/index.d.ts:36251](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L36251)
 
 MessageSecretMessage version

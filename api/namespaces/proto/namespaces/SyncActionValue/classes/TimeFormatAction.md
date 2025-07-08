@@ -1,6 +1,6 @@
 # Class: TimeFormatAction
 
-Defined in: [WAProto/index.d.ts:49265](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L49265)
+Defined in: [WAProto/index.d.ts:49265](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L49265)
 
 Represents a TimeFormatAction.
 
@@ -14,7 +14,7 @@ Represents a TimeFormatAction.
 
 > **new TimeFormatAction**(`properties`?): [`TimeFormatAction`](TimeFormatAction.md)
 
-Defined in: [WAProto/index.d.ts:49271](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L49271)
+Defined in: [WAProto/index.d.ts:49271](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L49271)
 
 Constructs a new TimeFormatAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **isTwentyFourHourFormatEnabled**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:49274](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L49274)
+Defined in: [WAProto/index.d.ts:49274](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L49274)
 
 TimeFormatAction isTwentyFourHourFormatEnabled.
 
@@ -50,7 +50,7 @@ TimeFormatAction isTwentyFourHourFormatEnabled.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:49344](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L49344)
+Defined in: [WAProto/index.d.ts:49344](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L49344)
 
 Converts this TimeFormatAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`TimeFormatAction`](TimeFormatAction.md)
 
-Defined in: [WAProto/index.d.ts:49281](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L49281)
+Defined in: [WAProto/index.d.ts:49281](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L49281)
 
 Creates a new TimeFormatAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ TimeFormatAction instance
 
 > `static` **decode**(`reader`, `length`?): [`TimeFormatAction`](TimeFormatAction.md)
 
-Defined in: [WAProto/index.d.ts:49307](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L49307)
+Defined in: [WAProto/index.d.ts:49307](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L49307)
 
 Decodes a TimeFormatAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`TimeFormatAction`](TimeFormatAction.md)
 
-Defined in: [WAProto/index.d.ts:49316](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L49316)
+Defined in: [WAProto/index.d.ts:49316](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L49316)
 
 Decodes a TimeFormatAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:49289](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L49289)
+Defined in: [WAProto/index.d.ts:49289](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L49289)
 
 Encodes the specified TimeFormatAction message. Does not implicitly [verify](TimeFormatAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:49297](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L49297)
+Defined in: [WAProto/index.d.ts:49297](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L49297)
 
 Encodes the specified TimeFormatAction message, length delimited. Does not implicitly [verify](TimeFormatAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`TimeFormatAction`](TimeFormatAction.md)
 
-Defined in: [WAProto/index.d.ts:49330](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L49330)
+Defined in: [WAProto/index.d.ts:49330](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L49330)
 
 Creates a TimeFormatAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ TimeFormatAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:49351](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L49351)
+Defined in: [WAProto/index.d.ts:49351](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L49351)
 
 Gets the default type url for TimeFormatAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:49338](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L49338)
+Defined in: [WAProto/index.d.ts:49338](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L49338)
 
 Creates a plain object from a TimeFormatAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:49323](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L49323)
+Defined in: [WAProto/index.d.ts:49323](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L49323)
 
 Verifies a TimeFormatAction message.
 

@@ -1,6 +1,6 @@
 # Class: StickerAction
 
-Defined in: [WAProto/index.d.ts:48817](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48817)
+Defined in: [WAProto/index.d.ts:48817](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48817)
 
 Represents a StickerAction.
 
@@ -14,7 +14,7 @@ Represents a StickerAction.
 
 > **new StickerAction**(`properties`?): [`StickerAction`](StickerAction.md)
 
-Defined in: [WAProto/index.d.ts:48823](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48823)
+Defined in: [WAProto/index.d.ts:48823](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48823)
 
 Constructs a new StickerAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **deviceIdHint**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:48853](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48853)
+Defined in: [WAProto/index.d.ts:48853](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48853)
 
 StickerAction deviceIdHint.
 
@@ -50,7 +50,7 @@ StickerAction deviceIdHint.
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48844](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48844)
+Defined in: [WAProto/index.d.ts:48844](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48844)
 
 StickerAction directPath.
 
@@ -64,7 +64,7 @@ StickerAction directPath.
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:48829](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48829)
+Defined in: [WAProto/index.d.ts:48829](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48829)
 
 StickerAction fileEncSha256.
 
@@ -78,7 +78,7 @@ StickerAction fileEncSha256.
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:48847](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48847)
+Defined in: [WAProto/index.d.ts:48847](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48847)
 
 StickerAction fileLength.
 
@@ -92,7 +92,7 @@ StickerAction fileLength.
 
 > `optional` **height**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:48838](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48838)
+Defined in: [WAProto/index.d.ts:48838](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48838)
 
 StickerAction height.
 
@@ -106,7 +106,7 @@ StickerAction height.
 
 > `optional` **isFavorite**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:48850](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48850)
+Defined in: [WAProto/index.d.ts:48850](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48850)
 
 StickerAction isFavorite.
 
@@ -120,7 +120,7 @@ StickerAction isFavorite.
 
 > `optional` **isLottie**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:48856](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48856)
+Defined in: [WAProto/index.d.ts:48856](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48856)
 
 StickerAction isLottie.
 
@@ -134,7 +134,7 @@ StickerAction isLottie.
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:48832](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48832)
+Defined in: [WAProto/index.d.ts:48832](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48832)
 
 StickerAction mediaKey.
 
@@ -148,7 +148,7 @@ StickerAction mediaKey.
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48835](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48835)
+Defined in: [WAProto/index.d.ts:48835](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48835)
 
 StickerAction mimetype.
 
@@ -162,7 +162,7 @@ StickerAction mimetype.
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48826](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48826)
+Defined in: [WAProto/index.d.ts:48826](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48826)
 
 StickerAction url.
 
@@ -176,7 +176,7 @@ StickerAction url.
 
 > `optional` **width**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:48841](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48841)
+Defined in: [WAProto/index.d.ts:48841](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48841)
 
 StickerAction width.
 
@@ -190,7 +190,7 @@ StickerAction width.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:48926](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48926)
+Defined in: [WAProto/index.d.ts:48926](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48926)
 
 Converts this StickerAction to JSON.
 
@@ -206,7 +206,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`StickerAction`](StickerAction.md)
 
-Defined in: [WAProto/index.d.ts:48863](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48863)
+Defined in: [WAProto/index.d.ts:48863](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48863)
 
 Creates a new StickerAction instance using the specified properties.
 
@@ -230,7 +230,7 @@ StickerAction instance
 
 > `static` **decode**(`reader`, `length`?): [`StickerAction`](StickerAction.md)
 
-Defined in: [WAProto/index.d.ts:48889](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48889)
+Defined in: [WAProto/index.d.ts:48889](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48889)
 
 Decodes a StickerAction message from the specified reader or buffer.
 
@@ -268,7 +268,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`StickerAction`](StickerAction.md)
 
-Defined in: [WAProto/index.d.ts:48898](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48898)
+Defined in: [WAProto/index.d.ts:48898](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48898)
 
 Decodes a StickerAction message from the specified reader or buffer, length delimited.
 
@@ -300,7 +300,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:48871](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48871)
+Defined in: [WAProto/index.d.ts:48871](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48871)
 
 Encodes the specified StickerAction message. Does not implicitly [verify](StickerAction.md#verify) messages.
 
@@ -330,7 +330,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:48879](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48879)
+Defined in: [WAProto/index.d.ts:48879](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48879)
 
 Encodes the specified StickerAction message, length delimited. Does not implicitly [verify](StickerAction.md#verify) messages.
 
@@ -360,7 +360,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`StickerAction`](StickerAction.md)
 
-Defined in: [WAProto/index.d.ts:48912](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48912)
+Defined in: [WAProto/index.d.ts:48912](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48912)
 
 Creates a StickerAction message from a plain object. Also converts values to their respective internal types.
 
@@ -382,7 +382,7 @@ StickerAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:48933](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48933)
+Defined in: [WAProto/index.d.ts:48933](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48933)
 
 Gets the default type url for StickerAction
 
@@ -406,7 +406,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:48920](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48920)
+Defined in: [WAProto/index.d.ts:48920](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48920)
 
 Creates a plain object from a StickerAction message. Also converts values to other types if specified.
 
@@ -436,7 +436,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48905](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48905)
+Defined in: [WAProto/index.d.ts:48905](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48905)
 
 Verifies a StickerAction message.
 

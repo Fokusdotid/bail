@@ -1,6 +1,6 @@
 # Class: PaymentLinkButton
 
-Defined in: [WAProto/index.d.ts:29049](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L29049)
+Defined in: [WAProto/index.d.ts:29049](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L29049)
 
 Represents a PaymentLinkButton.
 
@@ -14,7 +14,7 @@ Represents a PaymentLinkButton.
 
 > **new PaymentLinkButton**(`properties`?): [`PaymentLinkButton`](PaymentLinkButton.md)
 
-Defined in: [WAProto/index.d.ts:29055](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L29055)
+Defined in: [WAProto/index.d.ts:29055](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L29055)
 
 Constructs a new PaymentLinkButton.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **displayText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29058](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L29058)
+Defined in: [WAProto/index.d.ts:29058](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L29058)
 
 PaymentLinkButton displayText.
 
@@ -50,7 +50,7 @@ PaymentLinkButton displayText.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:29128](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L29128)
+Defined in: [WAProto/index.d.ts:29128](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L29128)
 
 Converts this PaymentLinkButton to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PaymentLinkButton`](PaymentLinkButton.md)
 
-Defined in: [WAProto/index.d.ts:29065](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L29065)
+Defined in: [WAProto/index.d.ts:29065](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L29065)
 
 Creates a new PaymentLinkButton instance using the specified properties.
 
@@ -90,7 +90,7 @@ PaymentLinkButton instance
 
 > `static` **decode**(`reader`, `length`?): [`PaymentLinkButton`](PaymentLinkButton.md)
 
-Defined in: [WAProto/index.d.ts:29091](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L29091)
+Defined in: [WAProto/index.d.ts:29091](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L29091)
 
 Decodes a PaymentLinkButton message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PaymentLinkButton`](PaymentLinkButton.md)
 
-Defined in: [WAProto/index.d.ts:29100](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L29100)
+Defined in: [WAProto/index.d.ts:29100](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L29100)
 
 Decodes a PaymentLinkButton message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29073](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L29073)
+Defined in: [WAProto/index.d.ts:29073](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L29073)
 
 Encodes the specified PaymentLinkButton message. Does not implicitly [verify](PaymentLinkButton.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29081](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L29081)
+Defined in: [WAProto/index.d.ts:29081](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L29081)
 
 Encodes the specified PaymentLinkButton message, length delimited. Does not implicitly [verify](PaymentLinkButton.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PaymentLinkButton`](PaymentLinkButton.md)
 
-Defined in: [WAProto/index.d.ts:29114](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L29114)
+Defined in: [WAProto/index.d.ts:29114](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L29114)
 
 Creates a PaymentLinkButton message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PaymentLinkButton
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:29135](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L29135)
+Defined in: [WAProto/index.d.ts:29135](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L29135)
 
 Gets the default type url for PaymentLinkButton
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:29122](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L29122)
+Defined in: [WAProto/index.d.ts:29122](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L29122)
 
 Creates a plain object from a PaymentLinkButton message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29107](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L29107)
+Defined in: [WAProto/index.d.ts:29107](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L29107)
 
 Verifies a PaymentLinkButton message.
 

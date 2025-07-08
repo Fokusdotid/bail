@@ -1,6 +1,6 @@
 # Interface: ITransformerArg
 
-Defined in: [WAProto/index.d.ts:51605](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51605)
+Defined in: [WAProto/index.d.ts:51605](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51605)
 
 Properties of a TransformerArg.
 
@@ -10,7 +10,7 @@ Properties of a TransformerArg.
 
 > `optional` **key**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:51608](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51608)
+Defined in: [WAProto/index.d.ts:51608](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51608)
 
 TransformerArg key
 
@@ -20,6 +20,6 @@ TransformerArg key
 
 > `optional` **value**: `null` \| [`IValue`](../namespaces/TransformerArg/interfaces/IValue.md)
 
-Defined in: [WAProto/index.d.ts:51611](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51611)
+Defined in: [WAProto/index.d.ts:51611](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51611)
 
 TransformerArg value

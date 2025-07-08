@@ -1,6 +1,6 @@
 # Interface: IBody
 
-Defined in: [WAProto/index.d.ts:26102](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26102)
+Defined in: [WAProto/index.d.ts:26102](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26102)
 
 Properties of a Body.
 
@@ -10,7 +10,7 @@ Properties of a Body.
 
 > `optional` **format**: `null` \| [`Format`](../namespaces/Body/enumerations/Format.md)
 
-Defined in: [WAProto/index.d.ts:26108](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26108)
+Defined in: [WAProto/index.d.ts:26108](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26108)
 
 Body format
 
@@ -20,6 +20,6 @@ Body format
 
 > `optional` **text**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26105](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26105)
+Defined in: [WAProto/index.d.ts:26105](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26105)
 
 Body text

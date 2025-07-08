@@ -2,7 +2,7 @@
 
 > **CurveKeyPair**: `object`
 
-Defined in: [src/Types/index.ts:67](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/src/Types/index.ts#L67)
+Defined in: [src/Types/index.ts:67](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/src/Types/index.ts#L67)
 
 ## Type declaration
 

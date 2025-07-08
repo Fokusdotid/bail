@@ -1,6 +1,6 @@
 # Interface: IGlobalSettings
 
-Defined in: [WAProto/index.d.ts:14903](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14903)
+Defined in: [WAProto/index.d.ts:14903](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14903)
 
 Properties of a GlobalSettings.
 
@@ -10,7 +10,7 @@ Properties of a GlobalSettings.
 
 > `optional` **autoDownloadCellular**: `null` \| [`IAutoDownloadSettings`](IAutoDownloadSettings.md)
 
-Defined in: [WAProto/index.d.ts:14918](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14918)
+Defined in: [WAProto/index.d.ts:14918](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14918)
 
 GlobalSettings autoDownloadCellular
 
@@ -20,7 +20,7 @@ GlobalSettings autoDownloadCellular
 
 > `optional` **autoDownloadRoaming**: `null` \| [`IAutoDownloadSettings`](IAutoDownloadSettings.md)
 
-Defined in: [WAProto/index.d.ts:14921](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14921)
+Defined in: [WAProto/index.d.ts:14921](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14921)
 
 GlobalSettings autoDownloadRoaming
 
@@ -30,7 +30,7 @@ GlobalSettings autoDownloadRoaming
 
 > `optional` **autoDownloadWiFi**: `null` \| [`IAutoDownloadSettings`](IAutoDownloadSettings.md)
 
-Defined in: [WAProto/index.d.ts:14915](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14915)
+Defined in: [WAProto/index.d.ts:14915](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14915)
 
 GlobalSettings autoDownloadWiFi
 
@@ -40,7 +40,7 @@ GlobalSettings autoDownloadWiFi
 
 > `optional` **autoUnarchiveChats**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:14945](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14945)
+Defined in: [WAProto/index.d.ts:14945](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14945)
 
 GlobalSettings autoUnarchiveChats
 
@@ -50,7 +50,7 @@ GlobalSettings autoUnarchiveChats
 
 > `optional` **avatarUserSettings**: `null` \| [`IAvatarUserSettings`](IAvatarUserSettings.md)
 
-Defined in: [WAProto/index.d.ts:14936](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14936)
+Defined in: [WAProto/index.d.ts:14936](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14936)
 
 GlobalSettings avatarUserSettings
 
@@ -60,7 +60,7 @@ GlobalSettings avatarUserSettings
 
 > `optional` **chatDbLidMigrationTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:14963](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14963)
+Defined in: [WAProto/index.d.ts:14963](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14963)
 
 GlobalSettings chatDbLidMigrationTimestamp
 
@@ -70,7 +70,7 @@ GlobalSettings chatDbLidMigrationTimestamp
 
 > `optional` **chatLockSettings**: `null` \| [`IChatLockSettings`](IChatLockSettings.md)
 
-Defined in: [WAProto/index.d.ts:14960](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14960)
+Defined in: [WAProto/index.d.ts:14960](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14960)
 
 GlobalSettings chatLockSettings
 
@@ -80,7 +80,7 @@ GlobalSettings chatLockSettings
 
 > `optional` **darkThemeWallpaper**: `null` \| [`IWallpaperSettings`](IWallpaperSettings.md)
 
-Defined in: [WAProto/index.d.ts:14912](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14912)
+Defined in: [WAProto/index.d.ts:14912](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14912)
 
 GlobalSettings darkThemeWallpaper
 
@@ -90,7 +90,7 @@ GlobalSettings darkThemeWallpaper
 
 > `optional` **disappearingModeDuration**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:14930](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14930)
+Defined in: [WAProto/index.d.ts:14930](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14930)
 
 GlobalSettings disappearingModeDuration
 
@@ -100,7 +100,7 @@ GlobalSettings disappearingModeDuration
 
 > `optional` **disappearingModeTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:14933](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14933)
+Defined in: [WAProto/index.d.ts:14933](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14933)
 
 GlobalSettings disappearingModeTimestamp
 
@@ -110,7 +110,7 @@ GlobalSettings disappearingModeTimestamp
 
 > `optional` **fontSize**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:14939](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14939)
+Defined in: [WAProto/index.d.ts:14939](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14939)
 
 GlobalSettings fontSize
 
@@ -120,7 +120,7 @@ GlobalSettings fontSize
 
 > `optional` **groupNotificationSettings**: `null` \| [`INotificationSettings`](INotificationSettings.md)
 
-Defined in: [WAProto/index.d.ts:14957](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14957)
+Defined in: [WAProto/index.d.ts:14957](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14957)
 
 GlobalSettings groupNotificationSettings
 
@@ -130,7 +130,7 @@ GlobalSettings groupNotificationSettings
 
 > `optional` **individualNotificationSettings**: `null` \| [`INotificationSettings`](INotificationSettings.md)
 
-Defined in: [WAProto/index.d.ts:14954](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14954)
+Defined in: [WAProto/index.d.ts:14954](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14954)
 
 GlobalSettings individualNotificationSettings
 
@@ -140,7 +140,7 @@ GlobalSettings individualNotificationSettings
 
 > `optional` **lightThemeWallpaper**: `null` \| [`IWallpaperSettings`](IWallpaperSettings.md)
 
-Defined in: [WAProto/index.d.ts:14906](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14906)
+Defined in: [WAProto/index.d.ts:14906](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14906)
 
 GlobalSettings lightThemeWallpaper
 
@@ -150,7 +150,7 @@ GlobalSettings lightThemeWallpaper
 
 > `optional` **mediaVisibility**: `null` \| [`MediaVisibility`](../enumerations/MediaVisibility.md)
 
-Defined in: [WAProto/index.d.ts:14909](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14909)
+Defined in: [WAProto/index.d.ts:14909](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14909)
 
 GlobalSettings mediaVisibility
 
@@ -160,7 +160,7 @@ GlobalSettings mediaVisibility
 
 > `optional` **photoQualityMode**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:14951](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14951)
+Defined in: [WAProto/index.d.ts:14951](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14951)
 
 GlobalSettings photoQualityMode
 
@@ -170,7 +170,7 @@ GlobalSettings photoQualityMode
 
 > `optional` **securityNotifications**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:14942](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14942)
+Defined in: [WAProto/index.d.ts:14942](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14942)
 
 GlobalSettings securityNotifications
 
@@ -180,7 +180,7 @@ GlobalSettings securityNotifications
 
 > `optional` **showGroupNotificationsPreview**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:14927](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14927)
+Defined in: [WAProto/index.d.ts:14927](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14927)
 
 GlobalSettings showGroupNotificationsPreview
 
@@ -190,7 +190,7 @@ GlobalSettings showGroupNotificationsPreview
 
 > `optional` **showIndividualNotificationsPreview**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:14924](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14924)
+Defined in: [WAProto/index.d.ts:14924](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14924)
 
 GlobalSettings showIndividualNotificationsPreview
 
@@ -200,6 +200,6 @@ GlobalSettings showIndividualNotificationsPreview
 
 > `optional` **videoQualityMode**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:14948](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14948)
+Defined in: [WAProto/index.d.ts:14948](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14948)
 
 GlobalSettings videoQualityMode

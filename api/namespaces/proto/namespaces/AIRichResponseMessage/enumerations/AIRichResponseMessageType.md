@@ -1,6 +1,6 @@
 # Enumeration: AIRichResponseMessageType
 
-Defined in: [WAProto/index.d.ts:2318](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L2318)
+Defined in: [WAProto/index.d.ts:2318](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L2318)
 
 AIRichResponseMessageType enum.
 
@@ -10,7 +10,7 @@ AIRichResponseMessageType enum.
 
 > **AI\_RICH\_RESPONSE\_TYPE\_STANDARD**: `1`
 
-Defined in: [WAProto/index.d.ts:2320](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L2320)
+Defined in: [WAProto/index.d.ts:2320](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L2320)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:2320](https://github.com/Fokusdotid/bail/blob/3b
 
 > **AI\_RICH\_RESPONSE\_TYPE\_UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:2319](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L2319)
+Defined in: [WAProto/index.d.ts:2319](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L2319)

@@ -1,6 +1,6 @@
 # Class: LegacyMessage
 
-Defined in: [WAProto/index.d.ts:17457](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17457)
+Defined in: [WAProto/index.d.ts:17457](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L17457)
 
 Represents a LegacyMessage.
 
@@ -14,7 +14,7 @@ Represents a LegacyMessage.
 
 > **new LegacyMessage**(`properties`?): [`LegacyMessage`](LegacyMessage.md)
 
-Defined in: [WAProto/index.d.ts:17463](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17463)
+Defined in: [WAProto/index.d.ts:17463](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L17463)
 
 Constructs a new LegacyMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **eventResponseMessage**: `null` \| [`IEventResponseMessage`](../namespaces/Message/interfaces/IEventResponseMessage.md)
 
-Defined in: [WAProto/index.d.ts:17466](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17466)
+Defined in: [WAProto/index.d.ts:17466](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L17466)
 
 LegacyMessage eventResponseMessage.
 
@@ -50,7 +50,7 @@ LegacyMessage eventResponseMessage.
 
 > `optional` **pollVote**: `null` \| [`IPollVoteMessage`](../namespaces/Message/interfaces/IPollVoteMessage.md)
 
-Defined in: [WAProto/index.d.ts:17469](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17469)
+Defined in: [WAProto/index.d.ts:17469](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L17469)
 
 LegacyMessage pollVote.
 
@@ -64,7 +64,7 @@ LegacyMessage pollVote.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:17539](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17539)
+Defined in: [WAProto/index.d.ts:17539](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L17539)
 
 Converts this LegacyMessage to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`LegacyMessage`](LegacyMessage.md)
 
-Defined in: [WAProto/index.d.ts:17476](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17476)
+Defined in: [WAProto/index.d.ts:17476](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L17476)
 
 Creates a new LegacyMessage instance using the specified properties.
 
@@ -104,7 +104,7 @@ LegacyMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`LegacyMessage`](LegacyMessage.md)
 
-Defined in: [WAProto/index.d.ts:17502](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17502)
+Defined in: [WAProto/index.d.ts:17502](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L17502)
 
 Decodes a LegacyMessage message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`LegacyMessage`](LegacyMessage.md)
 
-Defined in: [WAProto/index.d.ts:17511](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17511)
+Defined in: [WAProto/index.d.ts:17511](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L17511)
 
 Decodes a LegacyMessage message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17484](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17484)
+Defined in: [WAProto/index.d.ts:17484](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L17484)
 
 Encodes the specified LegacyMessage message. Does not implicitly [verify](LegacyMessage.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:17492](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17492)
+Defined in: [WAProto/index.d.ts:17492](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L17492)
 
 Encodes the specified LegacyMessage message, length delimited. Does not implicitly [verify](LegacyMessage.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`LegacyMessage`](LegacyMessage.md)
 
-Defined in: [WAProto/index.d.ts:17525](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17525)
+Defined in: [WAProto/index.d.ts:17525](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L17525)
 
 Creates a LegacyMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ LegacyMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:17546](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17546)
+Defined in: [WAProto/index.d.ts:17546](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L17546)
 
 Gets the default type url for LegacyMessage
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:17533](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17533)
+Defined in: [WAProto/index.d.ts:17533](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L17533)
 
 Creates a plain object from a LegacyMessage message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:17518](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L17518)
+Defined in: [WAProto/index.d.ts:17518](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L17518)
 
 Verifies a LegacyMessage message.
 

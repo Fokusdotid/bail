@@ -1,6 +1,6 @@
 # Interface: IDevicePairingRegistrationData
 
-Defined in: [WAProto/index.d.ts:9402](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L9402)
+Defined in: [WAProto/index.d.ts:9402](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L9402)
 
 Properties of a DevicePairingRegistrationData.
 
@@ -10,7 +10,7 @@ Properties of a DevicePairingRegistrationData.
 
 > `optional` **buildHash**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9423](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L9423)
+Defined in: [WAProto/index.d.ts:9423](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L9423)
 
 DevicePairingRegistrationData buildHash
 
@@ -20,7 +20,7 @@ DevicePairingRegistrationData buildHash
 
 > `optional` **deviceProps**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9426](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L9426)
+Defined in: [WAProto/index.d.ts:9426](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L9426)
 
 DevicePairingRegistrationData deviceProps
 
@@ -30,7 +30,7 @@ DevicePairingRegistrationData deviceProps
 
 > `optional` **eIdent**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9411](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L9411)
+Defined in: [WAProto/index.d.ts:9411](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L9411)
 
 DevicePairingRegistrationData eIdent
 
@@ -40,7 +40,7 @@ DevicePairingRegistrationData eIdent
 
 > `optional` **eKeytype**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9408](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L9408)
+Defined in: [WAProto/index.d.ts:9408](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L9408)
 
 DevicePairingRegistrationData eKeytype
 
@@ -50,7 +50,7 @@ DevicePairingRegistrationData eKeytype
 
 > `optional` **eRegid**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9405](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L9405)
+Defined in: [WAProto/index.d.ts:9405](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L9405)
 
 DevicePairingRegistrationData eRegid
 
@@ -60,7 +60,7 @@ DevicePairingRegistrationData eRegid
 
 > `optional` **eSkeyId**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9414](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L9414)
+Defined in: [WAProto/index.d.ts:9414](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L9414)
 
 DevicePairingRegistrationData eSkeyId
 
@@ -70,7 +70,7 @@ DevicePairingRegistrationData eSkeyId
 
 > `optional` **eSkeySig**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9420](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L9420)
+Defined in: [WAProto/index.d.ts:9420](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L9420)
 
 DevicePairingRegistrationData eSkeySig
 
@@ -80,6 +80,6 @@ DevicePairingRegistrationData eSkeySig
 
 > `optional` **eSkeyVal**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9417](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L9417)
+Defined in: [WAProto/index.d.ts:9417](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L9417)
 
 DevicePairingRegistrationData eSkeyVal

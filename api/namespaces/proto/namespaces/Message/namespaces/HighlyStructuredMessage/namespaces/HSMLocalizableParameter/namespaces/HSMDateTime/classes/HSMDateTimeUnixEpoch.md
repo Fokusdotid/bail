@@ -1,6 +1,6 @@
 # Class: HSMDateTimeUnixEpoch
 
-Defined in: [WAProto/index.d.ts:24292](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L24292)
+Defined in: [WAProto/index.d.ts:24292](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L24292)
 
 Represents a HSMDateTimeUnixEpoch.
 
@@ -14,7 +14,7 @@ Represents a HSMDateTimeUnixEpoch.
 
 > **new HSMDateTimeUnixEpoch**(`properties`?): [`HSMDateTimeUnixEpoch`](HSMDateTimeUnixEpoch.md)
 
-Defined in: [WAProto/index.d.ts:24298](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L24298)
+Defined in: [WAProto/index.d.ts:24298](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L24298)
 
 Constructs a new HSMDateTimeUnixEpoch.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:24301](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L24301)
+Defined in: [WAProto/index.d.ts:24301](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L24301)
 
 HSMDateTimeUnixEpoch timestamp.
 
@@ -50,7 +50,7 @@ HSMDateTimeUnixEpoch timestamp.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:24371](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L24371)
+Defined in: [WAProto/index.d.ts:24371](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L24371)
 
 Converts this HSMDateTimeUnixEpoch to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`HSMDateTimeUnixEpoch`](HSMDateTimeUnixEpoch.md)
 
-Defined in: [WAProto/index.d.ts:24308](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L24308)
+Defined in: [WAProto/index.d.ts:24308](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L24308)
 
 Creates a new HSMDateTimeUnixEpoch instance using the specified properties.
 
@@ -90,7 +90,7 @@ HSMDateTimeUnixEpoch instance
 
 > `static` **decode**(`reader`, `length`?): [`HSMDateTimeUnixEpoch`](HSMDateTimeUnixEpoch.md)
 
-Defined in: [WAProto/index.d.ts:24334](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L24334)
+Defined in: [WAProto/index.d.ts:24334](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L24334)
 
 Decodes a HSMDateTimeUnixEpoch message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`HSMDateTimeUnixEpoch`](HSMDateTimeUnixEpoch.md)
 
-Defined in: [WAProto/index.d.ts:24343](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L24343)
+Defined in: [WAProto/index.d.ts:24343](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L24343)
 
 Decodes a HSMDateTimeUnixEpoch message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:24316](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L24316)
+Defined in: [WAProto/index.d.ts:24316](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L24316)
 
 Encodes the specified HSMDateTimeUnixEpoch message. Does not implicitly [verify](HSMDateTimeUnixEpoch.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:24324](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L24324)
+Defined in: [WAProto/index.d.ts:24324](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L24324)
 
 Encodes the specified HSMDateTimeUnixEpoch message, length delimited. Does not implicitly [verify](HSMDateTimeUnixEpoch.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`HSMDateTimeUnixEpoch`](HSMDateTimeUnixEpoch.md)
 
-Defined in: [WAProto/index.d.ts:24357](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L24357)
+Defined in: [WAProto/index.d.ts:24357](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L24357)
 
 Creates a HSMDateTimeUnixEpoch message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ HSMDateTimeUnixEpoch
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:24378](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L24378)
+Defined in: [WAProto/index.d.ts:24378](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L24378)
 
 Gets the default type url for HSMDateTimeUnixEpoch
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:24365](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L24365)
+Defined in: [WAProto/index.d.ts:24365](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L24365)
 
 Creates a plain object from a HSMDateTimeUnixEpoch message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:24350](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L24350)
+Defined in: [WAProto/index.d.ts:24350](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L24350)
 
 Verifies a HSMDateTimeUnixEpoch message.
 

@@ -2,7 +2,7 @@
 
 > **generateRegistrationNode**(`__namedParameters`, `config`): [`ClientPayload`](../namespaces/proto/classes/ClientPayload.md)
 
-Defined in: [src/Utils/validate-connection.ts:73](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/src/Utils/validate-connection.ts#L73)
+Defined in: [src/Utils/validate-connection.ts:73](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/src/Utils/validate-connection.ts#L73)
 
 ## Parameters
 

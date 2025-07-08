@@ -1,6 +1,6 @@
 # Class: Product
 
-Defined in: [WAProto/index.d.ts:26857](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26857)
+Defined in: [WAProto/index.d.ts:26857](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26857)
 
 Represents a Product.
 
@@ -14,7 +14,7 @@ Represents a Product.
 
 > **new Product**(`properties`?): [`Product`](Product.md)
 
-Defined in: [WAProto/index.d.ts:26863](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26863)
+Defined in: [WAProto/index.d.ts:26863](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26863)
 
 Constructs a new Product.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **productId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26866](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26866)
+Defined in: [WAProto/index.d.ts:26866](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26866)
 
 Product productId.
 
@@ -50,7 +50,7 @@ Product productId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:26936](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26936)
+Defined in: [WAProto/index.d.ts:26936](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26936)
 
 Converts this Product to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Product`](Product.md)
 
-Defined in: [WAProto/index.d.ts:26873](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26873)
+Defined in: [WAProto/index.d.ts:26873](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26873)
 
 Creates a new Product instance using the specified properties.
 
@@ -90,7 +90,7 @@ Product instance
 
 > `static` **decode**(`reader`, `length`?): [`Product`](Product.md)
 
-Defined in: [WAProto/index.d.ts:26899](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26899)
+Defined in: [WAProto/index.d.ts:26899](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26899)
 
 Decodes a Product message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Product`](Product.md)
 
-Defined in: [WAProto/index.d.ts:26908](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26908)
+Defined in: [WAProto/index.d.ts:26908](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26908)
 
 Decodes a Product message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:26881](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26881)
+Defined in: [WAProto/index.d.ts:26881](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26881)
 
 Encodes the specified Product message. Does not implicitly [verify](Product.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:26889](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26889)
+Defined in: [WAProto/index.d.ts:26889](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26889)
 
 Encodes the specified Product message, length delimited. Does not implicitly [verify](Product.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Product`](Product.md)
 
-Defined in: [WAProto/index.d.ts:26922](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26922)
+Defined in: [WAProto/index.d.ts:26922](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26922)
 
 Creates a Product message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ Product
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:26943](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26943)
+Defined in: [WAProto/index.d.ts:26943](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26943)
 
 Gets the default type url for Product
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:26930](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26930)
+Defined in: [WAProto/index.d.ts:26930](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26930)
 
 Creates a plain object from a Product message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26915](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L26915)
+Defined in: [WAProto/index.d.ts:26915](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L26915)
 
 Verifies a Product message.
 

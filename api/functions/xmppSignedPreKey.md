@@ -2,7 +2,7 @@
 
 > **xmppSignedPreKey**(`key`): [`BinaryNode`](../type-aliases/BinaryNode.md)
 
-Defined in: [src/Utils/signal.ts:61](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/src/Utils/signal.ts#L61)
+Defined in: [src/Utils/signal.ts:61](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/src/Utils/signal.ts#L61)
 
 ## Parameters
 

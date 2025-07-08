@@ -1,6 +1,6 @@
 # Interface: IProcessedVideo
 
-Defined in: [WAProto/index.d.ts:40039](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L40039)
+Defined in: [WAProto/index.d.ts:40039](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L40039)
 
 Properties of a ProcessedVideo.
 
@@ -10,7 +10,7 @@ Properties of a ProcessedVideo.
 
 > `optional` **bitrate**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:40057](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L40057)
+Defined in: [WAProto/index.d.ts:40057](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L40057)
 
 ProcessedVideo bitrate
 
@@ -20,7 +20,7 @@ ProcessedVideo bitrate
 
 > `optional` **capabilities**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:40063](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L40063)
+Defined in: [WAProto/index.d.ts:40063](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L40063)
 
 ProcessedVideo capabilities
 
@@ -30,7 +30,7 @@ ProcessedVideo capabilities
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:40042](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L40042)
+Defined in: [WAProto/index.d.ts:40042](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L40042)
 
 ProcessedVideo directPath
 
@@ -40,7 +40,7 @@ ProcessedVideo directPath
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:40054](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L40054)
+Defined in: [WAProto/index.d.ts:40054](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L40054)
 
 ProcessedVideo fileLength
 
@@ -50,7 +50,7 @@ ProcessedVideo fileLength
 
 > `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:40045](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L40045)
+Defined in: [WAProto/index.d.ts:40045](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L40045)
 
 ProcessedVideo fileSha256
 
@@ -60,7 +60,7 @@ ProcessedVideo fileSha256
 
 > `optional` **height**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:40048](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L40048)
+Defined in: [WAProto/index.d.ts:40048](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L40048)
 
 ProcessedVideo height
 
@@ -70,7 +70,7 @@ ProcessedVideo height
 
 > `optional` **quality**: `null` \| [`VideoQuality`](../namespaces/ProcessedVideo/enumerations/VideoQuality.md)
 
-Defined in: [WAProto/index.d.ts:40060](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L40060)
+Defined in: [WAProto/index.d.ts:40060](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L40060)
 
 ProcessedVideo quality
 
@@ -80,6 +80,6 @@ ProcessedVideo quality
 
 > `optional` **width**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:40051](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L40051)
+Defined in: [WAProto/index.d.ts:40051](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L40051)
 
 ProcessedVideo width

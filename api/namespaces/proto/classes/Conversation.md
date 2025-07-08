@@ -1,6 +1,6 @@
 # Class: Conversation
 
-Defined in: [WAProto/index.d.ts:12475](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12475)
+Defined in: [WAProto/index.d.ts:12475](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12475)
 
 Represents a Conversation.
 
@@ -14,7 +14,7 @@ Represents a Conversation.
 
 > **new Conversation**(`properties`?): [`Conversation`](Conversation.md)
 
-Defined in: [WAProto/index.d.ts:12481](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12481)
+Defined in: [WAProto/index.d.ts:12481](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12481)
 
 Constructs a new Conversation.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **accountLid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12628](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12628)
+Defined in: [WAProto/index.d.ts:12628](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12628)
 
 Conversation accountLid.
 
@@ -50,7 +50,7 @@ Conversation accountLid.
 
 > `optional` **archived**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12529](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12529)
+Defined in: [WAProto/index.d.ts:12529](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12529)
 
 Conversation archived.
 
@@ -64,7 +64,7 @@ Conversation archived.
 
 > `optional` **capiCreatedGroup**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12625](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12625)
+Defined in: [WAProto/index.d.ts:12625](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12625)
 
 Conversation capiCreatedGroup.
 
@@ -78,7 +78,7 @@ Conversation capiCreatedGroup.
 
 > `optional` **commentsCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:12616](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12616)
+Defined in: [WAProto/index.d.ts:12616](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12616)
 
 Conversation commentsCount.
 
@@ -92,7 +92,7 @@ Conversation commentsCount.
 
 > `optional` **contactPrimaryIdentityKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:12550](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12550)
+Defined in: [WAProto/index.d.ts:12550](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12550)
 
 Conversation contactPrimaryIdentityKey.
 
@@ -106,7 +106,7 @@ Conversation contactPrimaryIdentityKey.
 
 > `optional` **conversationTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:12517](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12517)
+Defined in: [WAProto/index.d.ts:12517](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12517)
 
 Conversation conversationTimestamp.
 
@@ -120,7 +120,7 @@ Conversation conversationTimestamp.
 
 > `optional` **createdAt**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:12574](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12574)
+Defined in: [WAProto/index.d.ts:12574](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12574)
 
 Conversation createdAt.
 
@@ -134,7 +134,7 @@ Conversation createdAt.
 
 > `optional` **createdBy**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12577](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12577)
+Defined in: [WAProto/index.d.ts:12577](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12577)
 
 Conversation createdBy.
 
@@ -148,7 +148,7 @@ Conversation createdBy.
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12580](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12580)
+Defined in: [WAProto/index.d.ts:12580](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12580)
 
 Conversation description.
 
@@ -162,7 +162,7 @@ Conversation description.
 
 > `optional` **disappearingMode**: `null` \| [`IDisappearingMode`](../interfaces/IDisappearingMode.md)
 
-Defined in: [WAProto/index.d.ts:12532](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12532)
+Defined in: [WAProto/index.d.ts:12532](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12532)
 
 Conversation disappearingMode.
 
@@ -176,7 +176,7 @@ Conversation disappearingMode.
 
 > `optional` **displayName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12595](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12595)
+Defined in: [WAProto/index.d.ts:12595](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12595)
 
 Conversation displayName.
 
@@ -190,7 +190,7 @@ Conversation displayName.
 
 > `optional` **endOfHistoryTransfer**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12505](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12505)
+Defined in: [WAProto/index.d.ts:12505](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12505)
 
 Conversation endOfHistoryTransfer.
 
@@ -204,7 +204,7 @@ Conversation endOfHistoryTransfer.
 
 > `optional` **endOfHistoryTransferType**: `null` \| [`EndOfHistoryTransferType`](../namespaces/Conversation/enumerations/EndOfHistoryTransferType.md)
 
-Defined in: [WAProto/index.d.ts:12514](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12514)
+Defined in: [WAProto/index.d.ts:12514](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12514)
 
 Conversation endOfHistoryTransferType.
 
@@ -218,7 +218,7 @@ Conversation endOfHistoryTransferType.
 
 > `optional` **ephemeralExpiration**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:12508](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12508)
+Defined in: [WAProto/index.d.ts:12508](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12508)
 
 Conversation ephemeralExpiration.
 
@@ -232,7 +232,7 @@ Conversation ephemeralExpiration.
 
 > `optional` **ephemeralSettingTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:12511](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12511)
+Defined in: [WAProto/index.d.ts:12511](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12511)
 
 Conversation ephemeralSettingTimestamp.
 
@@ -246,7 +246,7 @@ Conversation ephemeralSettingTimestamp.
 
 > **id**: `string`
 
-Defined in: [WAProto/index.d.ts:12484](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12484)
+Defined in: [WAProto/index.d.ts:12484](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12484)
 
 Conversation id.
 
@@ -260,7 +260,7 @@ Conversation id.
 
 > `optional` **isDefaultSubgroup**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12592](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12592)
+Defined in: [WAProto/index.d.ts:12592](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12592)
 
 Conversation isDefaultSubgroup.
 
@@ -274,7 +274,7 @@ Conversation isDefaultSubgroup.
 
 > `optional` **isParentGroup**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12586](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12586)
+Defined in: [WAProto/index.d.ts:12586](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12586)
 
 Conversation isParentGroup.
 
@@ -288,7 +288,7 @@ Conversation isParentGroup.
 
 > `optional` **lastMsgTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:12496](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12496)
+Defined in: [WAProto/index.d.ts:12496](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12496)
 
 Conversation lastMsgTimestamp.
 
@@ -302,7 +302,7 @@ Conversation lastMsgTimestamp.
 
 > `optional` **lidJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12607](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12607)
+Defined in: [WAProto/index.d.ts:12607](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12607)
 
 Conversation lidJid.
 
@@ -316,7 +316,7 @@ Conversation lidJid.
 
 > `optional` **lidOriginType**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12613](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12613)
+Defined in: [WAProto/index.d.ts:12613](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12613)
 
 Conversation lidOriginType.
 
@@ -330,7 +330,7 @@ Conversation lidOriginType.
 
 > `optional` **limitSharing**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12631](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12631)
+Defined in: [WAProto/index.d.ts:12631](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12631)
 
 Conversation limitSharing.
 
@@ -344,7 +344,7 @@ Conversation limitSharing.
 
 > `optional` **limitSharingInitiatedByMe**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12640](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12640)
+Defined in: [WAProto/index.d.ts:12640](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12640)
 
 Conversation limitSharingInitiatedByMe.
 
@@ -358,7 +358,7 @@ Conversation limitSharingInitiatedByMe.
 
 > `optional` **limitSharingSettingTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:12634](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12634)
+Defined in: [WAProto/index.d.ts:12634](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12634)
 
 Conversation limitSharingSettingTimestamp.
 
@@ -372,7 +372,7 @@ Conversation limitSharingSettingTimestamp.
 
 > `optional` **limitSharingTrigger**: `null` \| [`TriggerType`](../namespaces/LimitSharing/enumerations/TriggerType.md)
 
-Defined in: [WAProto/index.d.ts:12637](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12637)
+Defined in: [WAProto/index.d.ts:12637](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12637)
 
 Conversation limitSharingTrigger.
 
@@ -386,7 +386,7 @@ Conversation limitSharingTrigger.
 
 > `optional` **locked**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12619](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12619)
+Defined in: [WAProto/index.d.ts:12619](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12619)
 
 Conversation locked.
 
@@ -400,7 +400,7 @@ Conversation locked.
 
 > `optional` **markedAsUnread**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12538](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12538)
+Defined in: [WAProto/index.d.ts:12538](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12538)
 
 Conversation markedAsUnread.
 
@@ -414,7 +414,7 @@ Conversation markedAsUnread.
 
 > `optional` **mediaVisibility**: `null` \| [`MediaVisibility`](../enumerations/MediaVisibility.md)
 
-Defined in: [WAProto/index.d.ts:12562](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12562)
+Defined in: [WAProto/index.d.ts:12562](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12562)
 
 Conversation mediaVisibility.
 
@@ -428,7 +428,7 @@ Conversation mediaVisibility.
 
 > **messages**: [`IHistorySyncMsg`](../interfaces/IHistorySyncMsg.md)[]
 
-Defined in: [WAProto/index.d.ts:12487](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12487)
+Defined in: [WAProto/index.d.ts:12487](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12487)
 
 Conversation messages.
 
@@ -442,7 +442,7 @@ Conversation messages.
 
 > `optional` **muteEndTime**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:12556](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12556)
+Defined in: [WAProto/index.d.ts:12556](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12556)
 
 Conversation muteEndTime.
 
@@ -456,7 +456,7 @@ Conversation muteEndTime.
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12520](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12520)
+Defined in: [WAProto/index.d.ts:12520](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12520)
 
 Conversation name.
 
@@ -470,7 +470,7 @@ Conversation name.
 
 > `optional` **newJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12490](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12490)
+Defined in: [WAProto/index.d.ts:12490](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12490)
 
 Conversation newJid.
 
@@ -484,7 +484,7 @@ Conversation newJid.
 
 > `optional` **notSpam**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12526](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12526)
+Defined in: [WAProto/index.d.ts:12526](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12526)
 
 Conversation notSpam.
 
@@ -498,7 +498,7 @@ Conversation notSpam.
 
 > `optional` **oldJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12493](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12493)
+Defined in: [WAProto/index.d.ts:12493](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12493)
 
 Conversation oldJid.
 
@@ -512,7 +512,7 @@ Conversation oldJid.
 
 > `optional` **parentGroupId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12589](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12589)
+Defined in: [WAProto/index.d.ts:12589](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12589)
 
 Conversation parentGroupId.
 
@@ -526,7 +526,7 @@ Conversation parentGroupId.
 
 > **participant**: [`IGroupParticipant`](../interfaces/IGroupParticipant.md)[]
 
-Defined in: [WAProto/index.d.ts:12541](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12541)
+Defined in: [WAProto/index.d.ts:12541](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12541)
 
 Conversation participant.
 
@@ -540,7 +540,7 @@ Conversation participant.
 
 > `optional` **pHash**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12523](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12523)
+Defined in: [WAProto/index.d.ts:12523](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12523)
 
 Conversation pHash.
 
@@ -554,7 +554,7 @@ Conversation pHash.
 
 > `optional` **pinned**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:12553](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12553)
+Defined in: [WAProto/index.d.ts:12553](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12553)
 
 Conversation pinned.
 
@@ -568,7 +568,7 @@ Conversation pinned.
 
 > `optional` **pnhDuplicateLidThread**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12604](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12604)
+Defined in: [WAProto/index.d.ts:12604](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12604)
 
 Conversation pnhDuplicateLidThread.
 
@@ -582,7 +582,7 @@ Conversation pnhDuplicateLidThread.
 
 > `optional` **pnJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12598](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12598)
+Defined in: [WAProto/index.d.ts:12598](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12598)
 
 Conversation pnJid.
 
@@ -596,7 +596,7 @@ Conversation pnJid.
 
 > `optional` **readOnly**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12502](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12502)
+Defined in: [WAProto/index.d.ts:12502](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12502)
 
 Conversation readOnly.
 
@@ -610,7 +610,7 @@ Conversation readOnly.
 
 > `optional` **shareOwnPn**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12601](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12601)
+Defined in: [WAProto/index.d.ts:12601](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12601)
 
 Conversation shareOwnPn.
 
@@ -624,7 +624,7 @@ Conversation shareOwnPn.
 
 > `optional` **support**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12583](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12583)
+Defined in: [WAProto/index.d.ts:12583](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12583)
 
 Conversation support.
 
@@ -638,7 +638,7 @@ Conversation support.
 
 > `optional` **suspended**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12568](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12568)
+Defined in: [WAProto/index.d.ts:12568](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12568)
 
 Conversation suspended.
 
@@ -652,7 +652,7 @@ Conversation suspended.
 
 > `optional` **systemMessageToInsert**: `null` \| [`PrivacySystemMessage`](../enumerations/PrivacySystemMessage.md)
 
-Defined in: [WAProto/index.d.ts:12622](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12622)
+Defined in: [WAProto/index.d.ts:12622](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12622)
 
 Conversation systemMessageToInsert.
 
@@ -666,7 +666,7 @@ Conversation systemMessageToInsert.
 
 > `optional` **tcToken**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:12544](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12544)
+Defined in: [WAProto/index.d.ts:12544](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12544)
 
 Conversation tcToken.
 
@@ -680,7 +680,7 @@ Conversation tcToken.
 
 > `optional` **tcTokenSenderTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:12565](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12565)
+Defined in: [WAProto/index.d.ts:12565](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12565)
 
 Conversation tcTokenSenderTimestamp.
 
@@ -694,7 +694,7 @@ Conversation tcTokenSenderTimestamp.
 
 > `optional` **tcTokenTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:12547](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12547)
+Defined in: [WAProto/index.d.ts:12547](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12547)
 
 Conversation tcTokenTimestamp.
 
@@ -708,7 +708,7 @@ Conversation tcTokenTimestamp.
 
 > `optional` **terminated**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:12571](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12571)
+Defined in: [WAProto/index.d.ts:12571](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12571)
 
 Conversation terminated.
 
@@ -722,7 +722,7 @@ Conversation terminated.
 
 > `optional` **unreadCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:12499](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12499)
+Defined in: [WAProto/index.d.ts:12499](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12499)
 
 Conversation unreadCount.
 
@@ -736,7 +736,7 @@ Conversation unreadCount.
 
 > `optional` **unreadMentionCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:12535](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12535)
+Defined in: [WAProto/index.d.ts:12535](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12535)
 
 Conversation unreadMentionCount.
 
@@ -750,7 +750,7 @@ Conversation unreadMentionCount.
 
 > `optional` **username**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12610](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12610)
+Defined in: [WAProto/index.d.ts:12610](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12610)
 
 Conversation username.
 
@@ -764,7 +764,7 @@ Conversation username.
 
 > `optional` **wallpaper**: `null` \| [`IWallpaperSettings`](../interfaces/IWallpaperSettings.md)
 
-Defined in: [WAProto/index.d.ts:12559](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12559)
+Defined in: [WAProto/index.d.ts:12559](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12559)
 
 Conversation wallpaper.
 
@@ -778,7 +778,7 @@ Conversation wallpaper.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:12710](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12710)
+Defined in: [WAProto/index.d.ts:12710](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12710)
 
 Converts this Conversation to JSON.
 
@@ -794,7 +794,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Conversation`](Conversation.md)
 
-Defined in: [WAProto/index.d.ts:12647](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12647)
+Defined in: [WAProto/index.d.ts:12647](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12647)
 
 Creates a new Conversation instance using the specified properties.
 
@@ -818,7 +818,7 @@ Conversation instance
 
 > `static` **decode**(`reader`, `length`?): [`Conversation`](Conversation.md)
 
-Defined in: [WAProto/index.d.ts:12673](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12673)
+Defined in: [WAProto/index.d.ts:12673](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12673)
 
 Decodes a Conversation message from the specified reader or buffer.
 
@@ -856,7 +856,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Conversation`](Conversation.md)
 
-Defined in: [WAProto/index.d.ts:12682](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12682)
+Defined in: [WAProto/index.d.ts:12682](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12682)
 
 Decodes a Conversation message from the specified reader or buffer, length delimited.
 
@@ -888,7 +888,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:12655](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12655)
+Defined in: [WAProto/index.d.ts:12655](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12655)
 
 Encodes the specified Conversation message. Does not implicitly [verify](Conversation.md#verify) messages.
 
@@ -918,7 +918,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:12663](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12663)
+Defined in: [WAProto/index.d.ts:12663](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12663)
 
 Encodes the specified Conversation message, length delimited. Does not implicitly [verify](Conversation.md#verify) messages.
 
@@ -948,7 +948,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Conversation`](Conversation.md)
 
-Defined in: [WAProto/index.d.ts:12696](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12696)
+Defined in: [WAProto/index.d.ts:12696](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12696)
 
 Creates a Conversation message from a plain object. Also converts values to their respective internal types.
 
@@ -970,7 +970,7 @@ Conversation
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:12717](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12717)
+Defined in: [WAProto/index.d.ts:12717](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12717)
 
 Gets the default type url for Conversation
 
@@ -994,7 +994,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:12704](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12704)
+Defined in: [WAProto/index.d.ts:12704](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12704)
 
 Creates a plain object from a Conversation message. Also converts values to other types if specified.
 
@@ -1024,7 +1024,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:12689](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L12689)
+Defined in: [WAProto/index.d.ts:12689](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L12689)
 
 Verifies a Conversation message.
 

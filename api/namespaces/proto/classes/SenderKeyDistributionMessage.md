@@ -1,6 +1,6 @@
 # Class: SenderKeyDistributionMessage
 
-Defined in: [WAProto/index.d.ts:40950](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L40950)
+Defined in: [WAProto/index.d.ts:40950](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L40950)
 
 Represents a SenderKeyDistributionMessage.
 
@@ -14,7 +14,7 @@ Represents a SenderKeyDistributionMessage.
 
 > **new SenderKeyDistributionMessage**(`properties`?): [`SenderKeyDistributionMessage`](SenderKeyDistributionMessage.md)
 
-Defined in: [WAProto/index.d.ts:40956](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L40956)
+Defined in: [WAProto/index.d.ts:40956](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L40956)
 
 Constructs a new SenderKeyDistributionMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **chainKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:40965](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L40965)
+Defined in: [WAProto/index.d.ts:40965](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L40965)
 
 SenderKeyDistributionMessage chainKey.
 
@@ -50,7 +50,7 @@ SenderKeyDistributionMessage chainKey.
 
 > `optional` **id**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:40959](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L40959)
+Defined in: [WAProto/index.d.ts:40959](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L40959)
 
 SenderKeyDistributionMessage id.
 
@@ -64,7 +64,7 @@ SenderKeyDistributionMessage id.
 
 > `optional` **iteration**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:40962](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L40962)
+Defined in: [WAProto/index.d.ts:40962](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L40962)
 
 SenderKeyDistributionMessage iteration.
 
@@ -78,7 +78,7 @@ SenderKeyDistributionMessage iteration.
 
 > `optional` **signingKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:40968](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L40968)
+Defined in: [WAProto/index.d.ts:40968](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L40968)
 
 SenderKeyDistributionMessage signingKey.
 
@@ -92,7 +92,7 @@ SenderKeyDistributionMessage signingKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:41038](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L41038)
+Defined in: [WAProto/index.d.ts:41038](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L41038)
 
 Converts this SenderKeyDistributionMessage to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SenderKeyDistributionMessage`](SenderKeyDistributionMessage.md)
 
-Defined in: [WAProto/index.d.ts:40975](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L40975)
+Defined in: [WAProto/index.d.ts:40975](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L40975)
 
 Creates a new SenderKeyDistributionMessage instance using the specified properties.
 
@@ -132,7 +132,7 @@ SenderKeyDistributionMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`SenderKeyDistributionMessage`](SenderKeyDistributionMessage.md)
 
-Defined in: [WAProto/index.d.ts:41001](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L41001)
+Defined in: [WAProto/index.d.ts:41001](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L41001)
 
 Decodes a SenderKeyDistributionMessage message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SenderKeyDistributionMessage`](SenderKeyDistributionMessage.md)
 
-Defined in: [WAProto/index.d.ts:41010](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L41010)
+Defined in: [WAProto/index.d.ts:41010](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L41010)
 
 Decodes a SenderKeyDistributionMessage message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:40983](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L40983)
+Defined in: [WAProto/index.d.ts:40983](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L40983)
 
 Encodes the specified SenderKeyDistributionMessage message. Does not implicitly [verify](SenderKeyDistributionMessage.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:40991](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L40991)
+Defined in: [WAProto/index.d.ts:40991](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L40991)
 
 Encodes the specified SenderKeyDistributionMessage message, length delimited. Does not implicitly [verify](SenderKeyDistributionMessage.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SenderKeyDistributionMessage`](SenderKeyDistributionMessage.md)
 
-Defined in: [WAProto/index.d.ts:41024](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L41024)
+Defined in: [WAProto/index.d.ts:41024](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L41024)
 
 Creates a SenderKeyDistributionMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ SenderKeyDistributionMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:41045](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L41045)
+Defined in: [WAProto/index.d.ts:41045](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L41045)
 
 Gets the default type url for SenderKeyDistributionMessage
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:41032](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L41032)
+Defined in: [WAProto/index.d.ts:41032](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L41032)
 
 Creates a plain object from a SenderKeyDistributionMessage message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:41017](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L41017)
+Defined in: [WAProto/index.d.ts:41017](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L41017)
 
 Verifies a SenderKeyDistributionMessage message.
 

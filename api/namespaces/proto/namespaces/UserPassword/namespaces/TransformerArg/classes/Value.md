@@ -1,6 +1,6 @@
 # Class: Value
 
-Defined in: [WAProto/index.d.ts:51720](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51720)
+Defined in: [WAProto/index.d.ts:51720](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51720)
 
 Represents a Value.
 
@@ -14,7 +14,7 @@ Represents a Value.
 
 > **new Value**(`properties`?): [`Value`](Value.md)
 
-Defined in: [WAProto/index.d.ts:51726](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51726)
+Defined in: [WAProto/index.d.ts:51726](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51726)
 
 Constructs a new Value.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **asBlob**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:51729](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51729)
+Defined in: [WAProto/index.d.ts:51729](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51729)
 
 Value asBlob.
 
@@ -50,7 +50,7 @@ Value asBlob.
 
 > `optional` **asUnsignedInteger**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:51732](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51732)
+Defined in: [WAProto/index.d.ts:51732](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51732)
 
 Value asUnsignedInteger.
 
@@ -64,7 +64,7 @@ Value asUnsignedInteger.
 
 > `optional` **value**: `"asBlob"` \| `"asUnsignedInteger"`
 
-Defined in: [WAProto/index.d.ts:51735](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51735)
+Defined in: [WAProto/index.d.ts:51735](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51735)
 
 Value value.
 
@@ -74,7 +74,7 @@ Value value.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:51805](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51805)
+Defined in: [WAProto/index.d.ts:51805](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51805)
 
 Converts this Value to JSON.
 
@@ -90,7 +90,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Value`](Value.md)
 
-Defined in: [WAProto/index.d.ts:51742](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51742)
+Defined in: [WAProto/index.d.ts:51742](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51742)
 
 Creates a new Value instance using the specified properties.
 
@@ -114,7 +114,7 @@ Value instance
 
 > `static` **decode**(`reader`, `length`?): [`Value`](Value.md)
 
-Defined in: [WAProto/index.d.ts:51768](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51768)
+Defined in: [WAProto/index.d.ts:51768](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51768)
 
 Decodes a Value message from the specified reader or buffer.
 
@@ -152,7 +152,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Value`](Value.md)
 
-Defined in: [WAProto/index.d.ts:51777](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51777)
+Defined in: [WAProto/index.d.ts:51777](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51777)
 
 Decodes a Value message from the specified reader or buffer, length delimited.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:51750](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51750)
+Defined in: [WAProto/index.d.ts:51750](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51750)
 
 Encodes the specified Value message. Does not implicitly [verify](Value.md#verify) messages.
 
@@ -214,7 +214,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:51758](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51758)
+Defined in: [WAProto/index.d.ts:51758](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51758)
 
 Encodes the specified Value message, length delimited. Does not implicitly [verify](Value.md#verify) messages.
 
@@ -244,7 +244,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Value`](Value.md)
 
-Defined in: [WAProto/index.d.ts:51791](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51791)
+Defined in: [WAProto/index.d.ts:51791](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51791)
 
 Creates a Value message from a plain object. Also converts values to their respective internal types.
 
@@ -266,7 +266,7 @@ Value
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:51812](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51812)
+Defined in: [WAProto/index.d.ts:51812](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51812)
 
 Gets the default type url for Value
 
@@ -290,7 +290,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:51799](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51799)
+Defined in: [WAProto/index.d.ts:51799](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51799)
 
 Creates a plain object from a Value message. Also converts values to other types if specified.
 
@@ -320,7 +320,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:51784](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L51784)
+Defined in: [WAProto/index.d.ts:51784](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L51784)
 
 Verifies a Value message.
 

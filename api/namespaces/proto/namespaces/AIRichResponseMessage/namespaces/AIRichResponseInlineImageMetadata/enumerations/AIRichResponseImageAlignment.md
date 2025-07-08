@@ -1,6 +1,6 @@
 # Enumeration: AIRichResponseImageAlignment
 
-Defined in: [WAProto/index.d.ts:1808](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L1808)
+Defined in: [WAProto/index.d.ts:1808](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L1808)
 
 AIRichResponseImageAlignment enum.
 
@@ -10,7 +10,7 @@ AIRichResponseImageAlignment enum.
 
 > **AI\_RICH\_RESPONSE\_IMAGE\_LAYOUT\_CENTER\_ALIGNED**: `2`
 
-Defined in: [WAProto/index.d.ts:1811](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L1811)
+Defined in: [WAProto/index.d.ts:1811](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L1811)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:1811](https://github.com/Fokusdotid/bail/blob/3b
 
 > **AI\_RICH\_RESPONSE\_IMAGE\_LAYOUT\_LEADING\_ALIGNED**: `0`
 
-Defined in: [WAProto/index.d.ts:1809](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L1809)
+Defined in: [WAProto/index.d.ts:1809](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L1809)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:1809](https://github.com/Fokusdotid/bail/blob/3b
 
 > **AI\_RICH\_RESPONSE\_IMAGE\_LAYOUT\_TRAILING\_ALIGNED**: `1`
 
-Defined in: [WAProto/index.d.ts:1810](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L1810)
+Defined in: [WAProto/index.d.ts:1810](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L1810)

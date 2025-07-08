@@ -1,6 +1,6 @@
 # Class: EventAdditionalMetadata
 
-Defined in: [WAProto/index.d.ts:14347](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14347)
+Defined in: [WAProto/index.d.ts:14347](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14347)
 
 Represents an EventAdditionalMetadata.
 
@@ -14,7 +14,7 @@ Represents an EventAdditionalMetadata.
 
 > **new EventAdditionalMetadata**(`properties`?): [`EventAdditionalMetadata`](EventAdditionalMetadata.md)
 
-Defined in: [WAProto/index.d.ts:14353](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14353)
+Defined in: [WAProto/index.d.ts:14353](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14353)
 
 Constructs a new EventAdditionalMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **isStale**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:14356](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14356)
+Defined in: [WAProto/index.d.ts:14356](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14356)
 
 EventAdditionalMetadata isStale.
 
@@ -50,7 +50,7 @@ EventAdditionalMetadata isStale.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:14426](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14426)
+Defined in: [WAProto/index.d.ts:14426](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14426)
 
 Converts this EventAdditionalMetadata to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`EventAdditionalMetadata`](EventAdditionalMetadata.md)
 
-Defined in: [WAProto/index.d.ts:14363](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14363)
+Defined in: [WAProto/index.d.ts:14363](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14363)
 
 Creates a new EventAdditionalMetadata instance using the specified properties.
 
@@ -90,7 +90,7 @@ EventAdditionalMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`EventAdditionalMetadata`](EventAdditionalMetadata.md)
 
-Defined in: [WAProto/index.d.ts:14389](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14389)
+Defined in: [WAProto/index.d.ts:14389](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14389)
 
 Decodes an EventAdditionalMetadata message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`EventAdditionalMetadata`](EventAdditionalMetadata.md)
 
-Defined in: [WAProto/index.d.ts:14398](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14398)
+Defined in: [WAProto/index.d.ts:14398](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14398)
 
 Decodes an EventAdditionalMetadata message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:14371](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14371)
+Defined in: [WAProto/index.d.ts:14371](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14371)
 
 Encodes the specified EventAdditionalMetadata message. Does not implicitly [verify](EventAdditionalMetadata.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:14379](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14379)
+Defined in: [WAProto/index.d.ts:14379](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14379)
 
 Encodes the specified EventAdditionalMetadata message, length delimited. Does not implicitly [verify](EventAdditionalMetadata.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`EventAdditionalMetadata`](EventAdditionalMetadata.md)
 
-Defined in: [WAProto/index.d.ts:14412](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14412)
+Defined in: [WAProto/index.d.ts:14412](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14412)
 
 Creates an EventAdditionalMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ EventAdditionalMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:14433](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14433)
+Defined in: [WAProto/index.d.ts:14433](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14433)
 
 Gets the default type url for EventAdditionalMetadata
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:14420](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14420)
+Defined in: [WAProto/index.d.ts:14420](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14420)
 
 Creates a plain object from an EventAdditionalMetadata message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14405](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14405)
+Defined in: [WAProto/index.d.ts:14405](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14405)
 
 Verifies an EventAdditionalMetadata message.
 

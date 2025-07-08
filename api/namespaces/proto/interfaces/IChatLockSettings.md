@@ -1,6 +1,6 @@
 # Interface: IChatLockSettings
 
-Defined in: [WAProto/index.d.ts:8144](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L8144)
+Defined in: [WAProto/index.d.ts:8144](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L8144)
 
 Properties of a ChatLockSettings.
 
@@ -10,7 +10,7 @@ Properties of a ChatLockSettings.
 
 > `optional` **hideLockedChats**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8147](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L8147)
+Defined in: [WAProto/index.d.ts:8147](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L8147)
 
 ChatLockSettings hideLockedChats
 
@@ -20,6 +20,6 @@ ChatLockSettings hideLockedChats
 
 > `optional` **secretCode**: `null` \| [`IUserPassword`](IUserPassword.md)
 
-Defined in: [WAProto/index.d.ts:8150](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L8150)
+Defined in: [WAProto/index.d.ts:8150](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L8150)
 
 ChatLockSettings secretCode

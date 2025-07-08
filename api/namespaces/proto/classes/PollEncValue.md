@@ -1,6 +1,6 @@
 # Class: PollEncValue
 
-Defined in: [WAProto/index.d.ts:39382](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39382)
+Defined in: [WAProto/index.d.ts:39382](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39382)
 
 Represents a PollEncValue.
 
@@ -14,7 +14,7 @@ Represents a PollEncValue.
 
 > **new PollEncValue**(`properties`?): [`PollEncValue`](PollEncValue.md)
 
-Defined in: [WAProto/index.d.ts:39388](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39388)
+Defined in: [WAProto/index.d.ts:39388](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39388)
 
 Constructs a new PollEncValue.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **encIv**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39394](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39394)
+Defined in: [WAProto/index.d.ts:39394](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39394)
 
 PollEncValue encIv.
 
@@ -50,7 +50,7 @@ PollEncValue encIv.
 
 > `optional` **encPayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39391](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39391)
+Defined in: [WAProto/index.d.ts:39391](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39391)
 
 PollEncValue encPayload.
 
@@ -64,7 +64,7 @@ PollEncValue encPayload.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:39464](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39464)
+Defined in: [WAProto/index.d.ts:39464](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39464)
 
 Converts this PollEncValue to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PollEncValue`](PollEncValue.md)
 
-Defined in: [WAProto/index.d.ts:39401](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39401)
+Defined in: [WAProto/index.d.ts:39401](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39401)
 
 Creates a new PollEncValue instance using the specified properties.
 
@@ -104,7 +104,7 @@ PollEncValue instance
 
 > `static` **decode**(`reader`, `length`?): [`PollEncValue`](PollEncValue.md)
 
-Defined in: [WAProto/index.d.ts:39427](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39427)
+Defined in: [WAProto/index.d.ts:39427](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39427)
 
 Decodes a PollEncValue message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PollEncValue`](PollEncValue.md)
 
-Defined in: [WAProto/index.d.ts:39436](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39436)
+Defined in: [WAProto/index.d.ts:39436](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39436)
 
 Decodes a PollEncValue message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39409](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39409)
+Defined in: [WAProto/index.d.ts:39409](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39409)
 
 Encodes the specified PollEncValue message. Does not implicitly [verify](PollEncValue.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39417](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39417)
+Defined in: [WAProto/index.d.ts:39417](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39417)
 
 Encodes the specified PollEncValue message, length delimited. Does not implicitly [verify](PollEncValue.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PollEncValue`](PollEncValue.md)
 
-Defined in: [WAProto/index.d.ts:39450](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39450)
+Defined in: [WAProto/index.d.ts:39450](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39450)
 
 Creates a PollEncValue message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ PollEncValue
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:39471](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39471)
+Defined in: [WAProto/index.d.ts:39471](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39471)
 
 Gets the default type url for PollEncValue
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:39458](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39458)
+Defined in: [WAProto/index.d.ts:39458](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39458)
 
 Creates a plain object from a PollEncValue message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:39443](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39443)
+Defined in: [WAProto/index.d.ts:39443](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39443)
 
 Verifies a PollEncValue message.
 

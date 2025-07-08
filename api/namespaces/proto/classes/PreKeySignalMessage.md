@@ -1,6 +1,6 @@
 # Class: PreKeySignalMessage
 
-Defined in: [WAProto/index.d.ts:39727](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39727)
+Defined in: [WAProto/index.d.ts:39727](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39727)
 
 Represents a PreKeySignalMessage.
 
@@ -14,7 +14,7 @@ Represents a PreKeySignalMessage.
 
 > **new PreKeySignalMessage**(`properties`?): [`PreKeySignalMessage`](PreKeySignalMessage.md)
 
-Defined in: [WAProto/index.d.ts:39733](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39733)
+Defined in: [WAProto/index.d.ts:39733](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39733)
 
 Constructs a new PreKeySignalMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **baseKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39745](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39745)
+Defined in: [WAProto/index.d.ts:39745](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39745)
 
 PreKeySignalMessage baseKey.
 
@@ -50,7 +50,7 @@ PreKeySignalMessage baseKey.
 
 > `optional` **identityKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39748](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39748)
+Defined in: [WAProto/index.d.ts:39748](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39748)
 
 PreKeySignalMessage identityKey.
 
@@ -64,7 +64,7 @@ PreKeySignalMessage identityKey.
 
 > `optional` **message**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39751](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39751)
+Defined in: [WAProto/index.d.ts:39751](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39751)
 
 PreKeySignalMessage message.
 
@@ -78,7 +78,7 @@ PreKeySignalMessage message.
 
 > `optional` **preKeyId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39739](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39739)
+Defined in: [WAProto/index.d.ts:39739](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39739)
 
 PreKeySignalMessage preKeyId.
 
@@ -92,7 +92,7 @@ PreKeySignalMessage preKeyId.
 
 > `optional` **registrationId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39736](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39736)
+Defined in: [WAProto/index.d.ts:39736](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39736)
 
 PreKeySignalMessage registrationId.
 
@@ -106,7 +106,7 @@ PreKeySignalMessage registrationId.
 
 > `optional` **signedPreKeyId**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39742](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39742)
+Defined in: [WAProto/index.d.ts:39742](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39742)
 
 PreKeySignalMessage signedPreKeyId.
 
@@ -120,7 +120,7 @@ PreKeySignalMessage signedPreKeyId.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:39821](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39821)
+Defined in: [WAProto/index.d.ts:39821](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39821)
 
 Converts this PreKeySignalMessage to JSON.
 
@@ -136,7 +136,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PreKeySignalMessage`](PreKeySignalMessage.md)
 
-Defined in: [WAProto/index.d.ts:39758](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39758)
+Defined in: [WAProto/index.d.ts:39758](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39758)
 
 Creates a new PreKeySignalMessage instance using the specified properties.
 
@@ -160,7 +160,7 @@ PreKeySignalMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`PreKeySignalMessage`](PreKeySignalMessage.md)
 
-Defined in: [WAProto/index.d.ts:39784](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39784)
+Defined in: [WAProto/index.d.ts:39784](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39784)
 
 Decodes a PreKeySignalMessage message from the specified reader or buffer.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PreKeySignalMessage`](PreKeySignalMessage.md)
 
-Defined in: [WAProto/index.d.ts:39793](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39793)
+Defined in: [WAProto/index.d.ts:39793](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39793)
 
 Decodes a PreKeySignalMessage message from the specified reader or buffer, length delimited.
 
@@ -230,7 +230,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39766](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39766)
+Defined in: [WAProto/index.d.ts:39766](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39766)
 
 Encodes the specified PreKeySignalMessage message. Does not implicitly [verify](PreKeySignalMessage.md#verify) messages.
 
@@ -260,7 +260,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:39774](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39774)
+Defined in: [WAProto/index.d.ts:39774](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39774)
 
 Encodes the specified PreKeySignalMessage message, length delimited. Does not implicitly [verify](PreKeySignalMessage.md#verify) messages.
 
@@ -290,7 +290,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PreKeySignalMessage`](PreKeySignalMessage.md)
 
-Defined in: [WAProto/index.d.ts:39807](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39807)
+Defined in: [WAProto/index.d.ts:39807](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39807)
 
 Creates a PreKeySignalMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -312,7 +312,7 @@ PreKeySignalMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:39828](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39828)
+Defined in: [WAProto/index.d.ts:39828](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39828)
 
 Gets the default type url for PreKeySignalMessage
 
@@ -336,7 +336,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:39815](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39815)
+Defined in: [WAProto/index.d.ts:39815](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39815)
 
 Creates a plain object from a PreKeySignalMessage message. Also converts values to other types if specified.
 
@@ -366,7 +366,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:39800](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L39800)
+Defined in: [WAProto/index.d.ts:39800](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L39800)
 
 Verifies a PreKeySignalMessage message.
 

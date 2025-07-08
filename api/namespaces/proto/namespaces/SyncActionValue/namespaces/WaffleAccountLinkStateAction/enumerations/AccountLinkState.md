@@ -1,6 +1,6 @@
 # Enumeration: AccountLinkState
 
-Defined in: [WAProto/index.d.ts:49754](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L49754)
+Defined in: [WAProto/index.d.ts:49754](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L49754)
 
 AccountLinkState enum.
 
@@ -10,4 +10,4 @@ AccountLinkState enum.
 
 > **ACTIVE**: `0`
 
-Defined in: [WAProto/index.d.ts:49755](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L49755)
+Defined in: [WAProto/index.d.ts:49755](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L49755)

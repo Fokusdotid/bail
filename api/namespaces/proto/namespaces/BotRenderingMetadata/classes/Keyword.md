@@ -1,6 +1,6 @@
 # Class: Keyword
 
-Defined in: [WAProto/index.d.ts:6933](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L6933)
+Defined in: [WAProto/index.d.ts:6933](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6933)
 
 Represents a Keyword.
 
@@ -14,7 +14,7 @@ Represents a Keyword.
 
 > **new Keyword**(`properties`?): [`Keyword`](Keyword.md)
 
-Defined in: [WAProto/index.d.ts:6939](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L6939)
+Defined in: [WAProto/index.d.ts:6939](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6939)
 
 Constructs a new Keyword.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **associatedPrompts**: `string`[]
 
-Defined in: [WAProto/index.d.ts:6945](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L6945)
+Defined in: [WAProto/index.d.ts:6945](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6945)
 
 Keyword associatedPrompts.
 
@@ -50,7 +50,7 @@ Keyword associatedPrompts.
 
 > `optional` **value**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:6942](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L6942)
+Defined in: [WAProto/index.d.ts:6942](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6942)
 
 Keyword value.
 
@@ -64,7 +64,7 @@ Keyword value.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:7015](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7015)
+Defined in: [WAProto/index.d.ts:7015](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7015)
 
 Converts this Keyword to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Keyword`](Keyword.md)
 
-Defined in: [WAProto/index.d.ts:6952](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L6952)
+Defined in: [WAProto/index.d.ts:6952](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6952)
 
 Creates a new Keyword instance using the specified properties.
 
@@ -104,7 +104,7 @@ Keyword instance
 
 > `static` **decode**(`reader`, `length`?): [`Keyword`](Keyword.md)
 
-Defined in: [WAProto/index.d.ts:6978](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L6978)
+Defined in: [WAProto/index.d.ts:6978](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6978)
 
 Decodes a Keyword message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Keyword`](Keyword.md)
 
-Defined in: [WAProto/index.d.ts:6987](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L6987)
+Defined in: [WAProto/index.d.ts:6987](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6987)
 
 Decodes a Keyword message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:6960](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L6960)
+Defined in: [WAProto/index.d.ts:6960](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6960)
 
 Encodes the specified Keyword message. Does not implicitly [verify](Keyword.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:6968](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L6968)
+Defined in: [WAProto/index.d.ts:6968](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6968)
 
 Encodes the specified Keyword message, length delimited. Does not implicitly [verify](Keyword.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Keyword`](Keyword.md)
 
-Defined in: [WAProto/index.d.ts:7001](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7001)
+Defined in: [WAProto/index.d.ts:7001](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7001)
 
 Creates a Keyword message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ Keyword
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:7022](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7022)
+Defined in: [WAProto/index.d.ts:7022](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7022)
 
 Gets the default type url for Keyword
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:7009](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7009)
+Defined in: [WAProto/index.d.ts:7009](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7009)
 
 Creates a plain object from a Keyword message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:6994](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L6994)
+Defined in: [WAProto/index.d.ts:6994](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L6994)
 
 Verifies a Keyword message.
 

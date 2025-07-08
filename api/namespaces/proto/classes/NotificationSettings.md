@@ -1,6 +1,6 @@
 # Class: NotificationSettings
 
-Defined in: [WAProto/index.d.ts:37698](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37698)
+Defined in: [WAProto/index.d.ts:37698](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37698)
 
 Represents a NotificationSettings.
 
@@ -14,7 +14,7 @@ Represents a NotificationSettings.
 
 > **new NotificationSettings**(`properties`?): [`NotificationSettings`](NotificationSettings.md)
 
-Defined in: [WAProto/index.d.ts:37704](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37704)
+Defined in: [WAProto/index.d.ts:37704](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37704)
 
 Constructs a new NotificationSettings.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **callVibrate**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37722](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37722)
+Defined in: [WAProto/index.d.ts:37722](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37722)
 
 NotificationSettings callVibrate.
 
@@ -50,7 +50,7 @@ NotificationSettings callVibrate.
 
 > `optional` **lowPriorityNotifications**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:37716](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37716)
+Defined in: [WAProto/index.d.ts:37716](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37716)
 
 NotificationSettings lowPriorityNotifications.
 
@@ -64,7 +64,7 @@ NotificationSettings lowPriorityNotifications.
 
 > `optional` **messageLight**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37713](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37713)
+Defined in: [WAProto/index.d.ts:37713](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37713)
 
 NotificationSettings messageLight.
 
@@ -78,7 +78,7 @@ NotificationSettings messageLight.
 
 > `optional` **messagePopup**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37710](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37710)
+Defined in: [WAProto/index.d.ts:37710](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37710)
 
 NotificationSettings messagePopup.
 
@@ -92,7 +92,7 @@ NotificationSettings messagePopup.
 
 > `optional` **messageVibrate**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37707](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37707)
+Defined in: [WAProto/index.d.ts:37707](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37707)
 
 NotificationSettings messageVibrate.
 
@@ -106,7 +106,7 @@ NotificationSettings messageVibrate.
 
 > `optional` **reactionsMuted**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:37719](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37719)
+Defined in: [WAProto/index.d.ts:37719](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37719)
 
 NotificationSettings reactionsMuted.
 
@@ -120,7 +120,7 @@ NotificationSettings reactionsMuted.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:37792](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37792)
+Defined in: [WAProto/index.d.ts:37792](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37792)
 
 Converts this NotificationSettings to JSON.
 
@@ -136,7 +136,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`NotificationSettings`](NotificationSettings.md)
 
-Defined in: [WAProto/index.d.ts:37729](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37729)
+Defined in: [WAProto/index.d.ts:37729](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37729)
 
 Creates a new NotificationSettings instance using the specified properties.
 
@@ -160,7 +160,7 @@ NotificationSettings instance
 
 > `static` **decode**(`reader`, `length`?): [`NotificationSettings`](NotificationSettings.md)
 
-Defined in: [WAProto/index.d.ts:37755](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37755)
+Defined in: [WAProto/index.d.ts:37755](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37755)
 
 Decodes a NotificationSettings message from the specified reader or buffer.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`NotificationSettings`](NotificationSettings.md)
 
-Defined in: [WAProto/index.d.ts:37764](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37764)
+Defined in: [WAProto/index.d.ts:37764](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37764)
 
 Decodes a NotificationSettings message from the specified reader or buffer, length delimited.
 
@@ -230,7 +230,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:37737](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37737)
+Defined in: [WAProto/index.d.ts:37737](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37737)
 
 Encodes the specified NotificationSettings message. Does not implicitly [verify](NotificationSettings.md#verify) messages.
 
@@ -260,7 +260,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:37745](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37745)
+Defined in: [WAProto/index.d.ts:37745](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37745)
 
 Encodes the specified NotificationSettings message, length delimited. Does not implicitly [verify](NotificationSettings.md#verify) messages.
 
@@ -290,7 +290,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`NotificationSettings`](NotificationSettings.md)
 
-Defined in: [WAProto/index.d.ts:37778](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37778)
+Defined in: [WAProto/index.d.ts:37778](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37778)
 
 Creates a NotificationSettings message from a plain object. Also converts values to their respective internal types.
 
@@ -312,7 +312,7 @@ NotificationSettings
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:37799](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37799)
+Defined in: [WAProto/index.d.ts:37799](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37799)
 
 Gets the default type url for NotificationSettings
 
@@ -336,7 +336,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:37786](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37786)
+Defined in: [WAProto/index.d.ts:37786](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37786)
 
 Creates a plain object from a NotificationSettings message. Also converts values to other types if specified.
 
@@ -366,7 +366,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37771](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37771)
+Defined in: [WAProto/index.d.ts:37771](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37771)
 
 Verifies a NotificationSettings message.
 

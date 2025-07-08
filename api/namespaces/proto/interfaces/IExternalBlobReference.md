@@ -1,6 +1,6 @@
 # Interface: IExternalBlobReference
 
-Defined in: [WAProto/index.d.ts:14655](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14655)
+Defined in: [WAProto/index.d.ts:14655](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14655)
 
 Properties of an ExternalBlobReference.
 
@@ -10,7 +10,7 @@ Properties of an ExternalBlobReference.
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14661](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14661)
+Defined in: [WAProto/index.d.ts:14661](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14661)
 
 ExternalBlobReference directPath
 
@@ -20,7 +20,7 @@ ExternalBlobReference directPath
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:14673](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14673)
+Defined in: [WAProto/index.d.ts:14673](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14673)
 
 ExternalBlobReference fileEncSha256
 
@@ -30,7 +30,7 @@ ExternalBlobReference fileEncSha256
 
 > `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:14670](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14670)
+Defined in: [WAProto/index.d.ts:14670](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14670)
 
 ExternalBlobReference fileSha256
 
@@ -40,7 +40,7 @@ ExternalBlobReference fileSha256
 
 > `optional` **fileSizeBytes**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:14667](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14667)
+Defined in: [WAProto/index.d.ts:14667](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14667)
 
 ExternalBlobReference fileSizeBytes
 
@@ -50,7 +50,7 @@ ExternalBlobReference fileSizeBytes
 
 > `optional` **handle**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:14664](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14664)
+Defined in: [WAProto/index.d.ts:14664](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14664)
 
 ExternalBlobReference handle
 
@@ -60,6 +60,6 @@ ExternalBlobReference handle
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:14658](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L14658)
+Defined in: [WAProto/index.d.ts:14658](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L14658)
 
 ExternalBlobReference mediaKey

@@ -1,6 +1,6 @@
 # Interface: IMessageAddOn
 
-Defined in: [WAProto/index.d.ts:35564](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L35564)
+Defined in: [WAProto/index.d.ts:35564](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L35564)
 
 Properties of a MessageAddOn.
 
@@ -10,7 +10,7 @@ Properties of a MessageAddOn.
 
 > `optional` **addOnContextInfo**: `null` \| [`IMessageAddOnContextInfo`](IMessageAddOnContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:35582](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L35582)
+Defined in: [WAProto/index.d.ts:35582](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L35582)
 
 MessageAddOn addOnContextInfo
 
@@ -20,7 +20,7 @@ MessageAddOn addOnContextInfo
 
 > `optional` **legacyMessage**: `null` \| [`ILegacyMessage`](ILegacyMessage.md)
 
-Defined in: [WAProto/index.d.ts:35588](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L35588)
+Defined in: [WAProto/index.d.ts:35588](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L35588)
 
 MessageAddOn legacyMessage
 
@@ -30,7 +30,7 @@ MessageAddOn legacyMessage
 
 > `optional` **messageAddOn**: `null` \| [`IMessage`](IMessage.md)
 
-Defined in: [WAProto/index.d.ts:35570](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L35570)
+Defined in: [WAProto/index.d.ts:35570](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L35570)
 
 MessageAddOn messageAddOn
 
@@ -40,7 +40,7 @@ MessageAddOn messageAddOn
 
 > `optional` **messageAddOnKey**: `null` \| [`IMessageKey`](IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:35585](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L35585)
+Defined in: [WAProto/index.d.ts:35585](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L35585)
 
 MessageAddOn messageAddOnKey
 
@@ -50,7 +50,7 @@ MessageAddOn messageAddOnKey
 
 > `optional` **messageAddOnType**: `null` \| [`MessageAddOnType`](../namespaces/MessageAddOn/enumerations/MessageAddOnType.md)
 
-Defined in: [WAProto/index.d.ts:35567](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L35567)
+Defined in: [WAProto/index.d.ts:35567](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L35567)
 
 MessageAddOn messageAddOnType
 
@@ -60,7 +60,7 @@ MessageAddOn messageAddOnType
 
 > `optional` **senderTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:35573](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L35573)
+Defined in: [WAProto/index.d.ts:35573](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L35573)
 
 MessageAddOn senderTimestampMs
 
@@ -70,7 +70,7 @@ MessageAddOn senderTimestampMs
 
 > `optional` **serverTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:35576](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L35576)
+Defined in: [WAProto/index.d.ts:35576](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L35576)
 
 MessageAddOn serverTimestampMs
 
@@ -80,6 +80,6 @@ MessageAddOn serverTimestampMs
 
 > `optional` **status**: `null` \| [`Status`](../namespaces/WebMessageInfo/enumerations/Status.md)
 
-Defined in: [WAProto/index.d.ts:35579](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L35579)
+Defined in: [WAProto/index.d.ts:35579](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L35579)
 
 MessageAddOn status

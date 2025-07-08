@@ -1,6 +1,6 @@
 # Class: PollVotesSnapshot
 
-Defined in: [WAProto/index.d.ts:37140](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37140)
+Defined in: [WAProto/index.d.ts:37140](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37140)
 
 Represents a PollVotesSnapshot.
 
@@ -14,7 +14,7 @@ Represents a PollVotesSnapshot.
 
 > **new PollVotesSnapshot**(`properties`?): [`PollVotesSnapshot`](PollVotesSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:37146](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37146)
+Defined in: [WAProto/index.d.ts:37146](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37146)
 
 Constructs a new PollVotesSnapshot.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **pollVotes**: [`IPollVoteSnapshot`](../interfaces/IPollVoteSnapshot.md)[]
 
-Defined in: [WAProto/index.d.ts:37149](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37149)
+Defined in: [WAProto/index.d.ts:37149](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37149)
 
 PollVotesSnapshot pollVotes.
 
@@ -50,7 +50,7 @@ PollVotesSnapshot pollVotes.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:37219](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37219)
+Defined in: [WAProto/index.d.ts:37219](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37219)
 
 Converts this PollVotesSnapshot to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PollVotesSnapshot`](PollVotesSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:37156](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37156)
+Defined in: [WAProto/index.d.ts:37156](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37156)
 
 Creates a new PollVotesSnapshot instance using the specified properties.
 
@@ -90,7 +90,7 @@ PollVotesSnapshot instance
 
 > `static` **decode**(`reader`, `length`?): [`PollVotesSnapshot`](PollVotesSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:37182](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37182)
+Defined in: [WAProto/index.d.ts:37182](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37182)
 
 Decodes a PollVotesSnapshot message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PollVotesSnapshot`](PollVotesSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:37191](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37191)
+Defined in: [WAProto/index.d.ts:37191](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37191)
 
 Decodes a PollVotesSnapshot message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:37164](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37164)
+Defined in: [WAProto/index.d.ts:37164](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37164)
 
 Encodes the specified PollVotesSnapshot message. Does not implicitly [verify](PollVotesSnapshot.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:37172](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37172)
+Defined in: [WAProto/index.d.ts:37172](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37172)
 
 Encodes the specified PollVotesSnapshot message, length delimited. Does not implicitly [verify](PollVotesSnapshot.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PollVotesSnapshot`](PollVotesSnapshot.md)
 
-Defined in: [WAProto/index.d.ts:37205](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37205)
+Defined in: [WAProto/index.d.ts:37205](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37205)
 
 Creates a PollVotesSnapshot message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PollVotesSnapshot
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:37226](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37226)
+Defined in: [WAProto/index.d.ts:37226](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37226)
 
 Gets the default type url for PollVotesSnapshot
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:37213](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37213)
+Defined in: [WAProto/index.d.ts:37213](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37213)
 
 Creates a plain object from a PollVotesSnapshot message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37198](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L37198)
+Defined in: [WAProto/index.d.ts:37198](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L37198)
 
 Verifies a PollVotesSnapshot message.
 

@@ -1,6 +1,6 @@
 # Interface: IWebMessageInfo
 
-Defined in: [WAProto/index.d.ts:52653](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52653)
+Defined in: [WAProto/index.d.ts:52653](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52653)
 
 Properties of a WebMessageInfo.
 
@@ -10,7 +10,7 @@ Properties of a WebMessageInfo.
 
 > `optional` **agentId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:52767](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52767)
+Defined in: [WAProto/index.d.ts:52767](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52767)
 
 WebMessageInfo agentId
 
@@ -20,7 +20,7 @@ WebMessageInfo agentId
 
 > `optional` **bizPrivacyStatus**: `null` \| [`BizPrivacyStatus`](../namespaces/WebMessageInfo/enumerations/BizPrivacyStatus.md)
 
-Defined in: [WAProto/index.d.ts:52734](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52734)
+Defined in: [WAProto/index.d.ts:52734](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52734)
 
 WebMessageInfo bizPrivacyStatus
 
@@ -30,7 +30,7 @@ WebMessageInfo bizPrivacyStatus
 
 > `optional` **botMessageInvokerJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:52797](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52797)
+Defined in: [WAProto/index.d.ts:52797](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52797)
 
 WebMessageInfo botMessageInvokerJid
 
@@ -40,7 +40,7 @@ WebMessageInfo botMessageInvokerJid
 
 > `optional` **botTargetId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:52839](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52839)
+Defined in: [WAProto/index.d.ts:52839](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52839)
 
 WebMessageInfo botTargetId
 
@@ -50,7 +50,7 @@ WebMessageInfo botTargetId
 
 > `optional` **broadcast**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:52680](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52680)
+Defined in: [WAProto/index.d.ts:52680](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52680)
 
 WebMessageInfo broadcast
 
@@ -60,7 +60,7 @@ WebMessageInfo broadcast
 
 > `optional` **clearMedia**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:52701](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52701)
+Defined in: [WAProto/index.d.ts:52701](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52701)
 
 WebMessageInfo clearMedia
 
@@ -70,7 +70,7 @@ WebMessageInfo clearMedia
 
 > `optional` **commentMetadata**: `null` \| [`ICommentMetadata`](ICommentMetadata.md)
 
-Defined in: [WAProto/index.d.ts:52800](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52800)
+Defined in: [WAProto/index.d.ts:52800](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52800)
 
 WebMessageInfo commentMetadata
 
@@ -80,7 +80,7 @@ WebMessageInfo commentMetadata
 
 > `optional` **duration**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:52707](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52707)
+Defined in: [WAProto/index.d.ts:52707](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52707)
 
 WebMessageInfo duration
 
@@ -90,7 +90,7 @@ WebMessageInfo duration
 
 > `optional` **ephemeralDuration**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:52725](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52725)
+Defined in: [WAProto/index.d.ts:52725](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52725)
 
 WebMessageInfo ephemeralDuration
 
@@ -100,7 +100,7 @@ WebMessageInfo ephemeralDuration
 
 > `optional` **ephemeralOffToOn**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:52728](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52728)
+Defined in: [WAProto/index.d.ts:52728](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52728)
 
 WebMessageInfo ephemeralOffToOn
 
@@ -110,7 +110,7 @@ WebMessageInfo ephemeralOffToOn
 
 > `optional` **ephemeralOutOfSync**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:52731](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52731)
+Defined in: [WAProto/index.d.ts:52731](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52731)
 
 WebMessageInfo ephemeralOutOfSync
 
@@ -120,7 +120,7 @@ WebMessageInfo ephemeralOutOfSync
 
 > `optional` **ephemeralStartTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:52722](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52722)
+Defined in: [WAProto/index.d.ts:52722](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52722)
 
 WebMessageInfo ephemeralStartTimestamp
 
@@ -130,7 +130,7 @@ WebMessageInfo ephemeralStartTimestamp
 
 > `optional` **eventAdditionalMetadata**: `null` \| [`IEventAdditionalMetadata`](IEventAdditionalMetadata.md)
 
-Defined in: [WAProto/index.d.ts:52812](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52812)
+Defined in: [WAProto/index.d.ts:52812](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52812)
 
 WebMessageInfo eventAdditionalMetadata
 
@@ -140,7 +140,7 @@ WebMessageInfo eventAdditionalMetadata
 
 > `optional` **eventResponses**: `null` \| [`IEventResponse`](IEventResponse.md)[]
 
-Defined in: [WAProto/index.d.ts:52803](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52803)
+Defined in: [WAProto/index.d.ts:52803](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52803)
 
 WebMessageInfo eventResponses
 
@@ -150,7 +150,7 @@ WebMessageInfo eventResponses
 
 > `optional` **finalLiveLocation**: `null` \| [`ILiveLocationMessage`](../namespaces/Message/interfaces/ILiveLocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:52716](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52716)
+Defined in: [WAProto/index.d.ts:52716](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52716)
 
 WebMessageInfo finalLiveLocation
 
@@ -160,7 +160,7 @@ WebMessageInfo finalLiveLocation
 
 > `optional` **futureproofData**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:52755](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52755)
+Defined in: [WAProto/index.d.ts:52755](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52755)
 
 WebMessageInfo futureproofData
 
@@ -170,7 +170,7 @@ WebMessageInfo futureproofData
 
 > `optional` **ignore**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:52674](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52674)
+Defined in: [WAProto/index.d.ts:52674](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52674)
 
 WebMessageInfo ignore
 
@@ -180,7 +180,7 @@ WebMessageInfo ignore
 
 > `optional` **is1PBizBotMessage**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:52791](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52791)
+Defined in: [WAProto/index.d.ts:52791](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52791)
 
 WebMessageInfo is1PBizBotMessage
 
@@ -190,7 +190,7 @@ WebMessageInfo is1PBizBotMessage
 
 > `optional` **isGroupHistoryMessage**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:52794](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52794)
+Defined in: [WAProto/index.d.ts:52794](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52794)
 
 WebMessageInfo isGroupHistoryMessage
 
@@ -200,7 +200,7 @@ WebMessageInfo isGroupHistoryMessage
 
 > `optional` **isMentionedInStatus**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:52815](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52815)
+Defined in: [WAProto/index.d.ts:52815](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52815)
 
 WebMessageInfo isMentionedInStatus
 
@@ -210,7 +210,7 @@ WebMessageInfo isMentionedInStatus
 
 > `optional` **isSupportAiMessage**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:52830](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52830)
+Defined in: [WAProto/index.d.ts:52830](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52830)
 
 WebMessageInfo isSupportAiMessage
 
@@ -220,7 +220,7 @@ WebMessageInfo isSupportAiMessage
 
 > `optional` **keepInChat**: `null` \| [`IKeepInChat`](IKeepInChat.md)
 
-Defined in: [WAProto/index.d.ts:52776](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52776)
+Defined in: [WAProto/index.d.ts:52776](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52776)
 
 WebMessageInfo keepInChat
 
@@ -230,7 +230,7 @@ WebMessageInfo keepInChat
 
 > **key**: [`IMessageKey`](IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:52656](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52656)
+Defined in: [WAProto/index.d.ts:52656](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52656)
 
 WebMessageInfo key
 
@@ -240,7 +240,7 @@ WebMessageInfo key
 
 > `optional` **labels**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:52710](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52710)
+Defined in: [WAProto/index.d.ts:52710](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52710)
 
 WebMessageInfo labels
 
@@ -250,7 +250,7 @@ WebMessageInfo labels
 
 > `optional` **mediaCiphertextSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:52686](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52686)
+Defined in: [WAProto/index.d.ts:52686](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52686)
 
 WebMessageInfo mediaCiphertextSha256
 
@@ -260,7 +260,7 @@ WebMessageInfo mediaCiphertextSha256
 
 > `optional` **mediaData**: `null` \| [`IMediaData`](IMediaData.md)
 
-Defined in: [WAProto/index.d.ts:52740](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52740)
+Defined in: [WAProto/index.d.ts:52740](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52740)
 
 WebMessageInfo mediaData
 
@@ -270,7 +270,7 @@ WebMessageInfo mediaData
 
 > `optional` **message**: `null` \| [`IMessage`](IMessage.md)
 
-Defined in: [WAProto/index.d.ts:52659](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52659)
+Defined in: [WAProto/index.d.ts:52659](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52659)
 
 WebMessageInfo message
 
@@ -280,7 +280,7 @@ WebMessageInfo message
 
 > `optional` **messageAddOns**: `null` \| [`IMessageAddOn`](IMessageAddOn.md)[]
 
-Defined in: [WAProto/index.d.ts:52824](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52824)
+Defined in: [WAProto/index.d.ts:52824](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52824)
 
 WebMessageInfo messageAddOns
 
@@ -290,7 +290,7 @@ WebMessageInfo messageAddOns
 
 > `optional` **messageC2STimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:52671](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52671)
+Defined in: [WAProto/index.d.ts:52671](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52671)
 
 WebMessageInfo messageC2STimestamp
 
@@ -300,7 +300,7 @@ WebMessageInfo messageC2STimestamp
 
 > `optional` **messageSecret**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:52773](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52773)
+Defined in: [WAProto/index.d.ts:52773](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52773)
 
 WebMessageInfo messageSecret
 
@@ -310,7 +310,7 @@ WebMessageInfo messageSecret
 
 > `optional` **messageStubParameters**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:52704](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52704)
+Defined in: [WAProto/index.d.ts:52704](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52704)
 
 WebMessageInfo messageStubParameters
 
@@ -320,7 +320,7 @@ WebMessageInfo messageStubParameters
 
 > `optional` **messageStubType**: `null` \| [`StubType`](../namespaces/WebMessageInfo/enumerations/StubType.md)
 
-Defined in: [WAProto/index.d.ts:52698](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52698)
+Defined in: [WAProto/index.d.ts:52698](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52698)
 
 WebMessageInfo messageStubType
 
@@ -330,7 +330,7 @@ WebMessageInfo messageStubType
 
 > `optional` **messageTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:52662](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52662)
+Defined in: [WAProto/index.d.ts:52662](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52662)
 
 WebMessageInfo messageTimestamp
 
@@ -340,7 +340,7 @@ WebMessageInfo messageTimestamp
 
 > `optional` **multicast**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:52689](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52689)
+Defined in: [WAProto/index.d.ts:52689](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52689)
 
 WebMessageInfo multicast
 
@@ -350,7 +350,7 @@ WebMessageInfo multicast
 
 > `optional` **newsletterServerId**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:52809](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52809)
+Defined in: [WAProto/index.d.ts:52809](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52809)
 
 WebMessageInfo newsletterServerId
 
@@ -360,7 +360,7 @@ WebMessageInfo newsletterServerId
 
 > `optional` **originalSelfAuthorUserJidString**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:52779](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52779)
+Defined in: [WAProto/index.d.ts:52779](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52779)
 
 WebMessageInfo originalSelfAuthorUserJidString
 
@@ -370,7 +370,7 @@ WebMessageInfo originalSelfAuthorUserJidString
 
 > `optional` **participant**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:52668](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52668)
+Defined in: [WAProto/index.d.ts:52668](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52668)
 
 WebMessageInfo participant
 
@@ -380,7 +380,7 @@ WebMessageInfo participant
 
 > `optional` **paymentInfo**: `null` \| [`IPaymentInfo`](IPaymentInfo.md)
 
-Defined in: [WAProto/index.d.ts:52713](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52713)
+Defined in: [WAProto/index.d.ts:52713](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52713)
 
 WebMessageInfo paymentInfo
 
@@ -390,7 +390,7 @@ WebMessageInfo paymentInfo
 
 > `optional` **photoChange**: `null` \| [`IPhotoChange`](IPhotoChange.md)
 
-Defined in: [WAProto/index.d.ts:52743](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52743)
+Defined in: [WAProto/index.d.ts:52743](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52743)
 
 WebMessageInfo photoChange
 
@@ -400,7 +400,7 @@ WebMessageInfo photoChange
 
 > `optional` **pinInChat**: `null` \| [`IPinInChat`](IPinInChat.md)
 
-Defined in: [WAProto/index.d.ts:52785](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52785)
+Defined in: [WAProto/index.d.ts:52785](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52785)
 
 WebMessageInfo pinInChat
 
@@ -410,7 +410,7 @@ WebMessageInfo pinInChat
 
 > `optional` **pollAdditionalMetadata**: `null` \| [`IPollAdditionalMetadata`](IPollAdditionalMetadata.md)
 
-Defined in: [WAProto/index.d.ts:52764](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52764)
+Defined in: [WAProto/index.d.ts:52764](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52764)
 
 WebMessageInfo pollAdditionalMetadata
 
@@ -420,7 +420,7 @@ WebMessageInfo pollAdditionalMetadata
 
 > `optional` **pollUpdates**: `null` \| [`IPollUpdate`](IPollUpdate.md)[]
 
-Defined in: [WAProto/index.d.ts:52761](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52761)
+Defined in: [WAProto/index.d.ts:52761](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52761)
 
 WebMessageInfo pollUpdates
 
@@ -430,7 +430,7 @@ WebMessageInfo pollUpdates
 
 > `optional` **premiumMessageInfo**: `null` \| [`IPremiumMessageInfo`](IPremiumMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:52788](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52788)
+Defined in: [WAProto/index.d.ts:52788](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52788)
 
 WebMessageInfo premiumMessageInfo
 
@@ -440,7 +440,7 @@ WebMessageInfo premiumMessageInfo
 
 > `optional` **pushName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:52683](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52683)
+Defined in: [WAProto/index.d.ts:52683](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52683)
 
 WebMessageInfo pushName
 
@@ -450,7 +450,7 @@ WebMessageInfo pushName
 
 > `optional` **quotedPaymentInfo**: `null` \| [`IPaymentInfo`](IPaymentInfo.md)
 
-Defined in: [WAProto/index.d.ts:52719](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52719)
+Defined in: [WAProto/index.d.ts:52719](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52719)
 
 WebMessageInfo quotedPaymentInfo
 
@@ -460,7 +460,7 @@ WebMessageInfo quotedPaymentInfo
 
 > `optional` **quotedStickerData**: `null` \| [`IMediaData`](IMediaData.md)
 
-Defined in: [WAProto/index.d.ts:52752](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52752)
+Defined in: [WAProto/index.d.ts:52752](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52752)
 
 WebMessageInfo quotedStickerData
 
@@ -470,7 +470,7 @@ WebMessageInfo quotedStickerData
 
 > `optional` **reactions**: `null` \| [`IReaction`](IReaction.md)[]
 
-Defined in: [WAProto/index.d.ts:52749](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52749)
+Defined in: [WAProto/index.d.ts:52749](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52749)
 
 WebMessageInfo reactions
 
@@ -480,7 +480,7 @@ WebMessageInfo reactions
 
 > `optional` **reportingTokenInfo**: `null` \| [`IReportingTokenInfo`](IReportingTokenInfo.md)
 
-Defined in: [WAProto/index.d.ts:52806](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52806)
+Defined in: [WAProto/index.d.ts:52806](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52806)
 
 WebMessageInfo reportingTokenInfo
 
@@ -490,7 +490,7 @@ WebMessageInfo reportingTokenInfo
 
 > `optional` **revokeMessageTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:52782](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52782)
+Defined in: [WAProto/index.d.ts:52782](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52782)
 
 WebMessageInfo revokeMessageTimestamp
 
@@ -500,7 +500,7 @@ WebMessageInfo revokeMessageTimestamp
 
 > `optional` **starred**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:52677](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52677)
+Defined in: [WAProto/index.d.ts:52677](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52677)
 
 WebMessageInfo starred
 
@@ -510,7 +510,7 @@ WebMessageInfo starred
 
 > `optional` **status**: `null` \| [`Status`](../namespaces/WebMessageInfo/enumerations/Status.md)
 
-Defined in: [WAProto/index.d.ts:52665](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52665)
+Defined in: [WAProto/index.d.ts:52665](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52665)
 
 WebMessageInfo status
 
@@ -520,7 +520,7 @@ WebMessageInfo status
 
 > `optional` **statusAlreadyViewed**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:52770](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52770)
+Defined in: [WAProto/index.d.ts:52770](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52770)
 
 WebMessageInfo statusAlreadyViewed
 
@@ -530,7 +530,7 @@ WebMessageInfo statusAlreadyViewed
 
 > `optional` **statusMentionMessageInfo**: `null` \| [`IStatusMentionMessage`](IStatusMentionMessage.md)
 
-Defined in: [WAProto/index.d.ts:52827](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52827)
+Defined in: [WAProto/index.d.ts:52827](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52827)
 
 WebMessageInfo statusMentionMessageInfo
 
@@ -540,7 +540,7 @@ WebMessageInfo statusMentionMessageInfo
 
 > `optional` **statusMentions**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:52818](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52818)
+Defined in: [WAProto/index.d.ts:52818](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52818)
 
 WebMessageInfo statusMentions
 
@@ -550,7 +550,7 @@ WebMessageInfo statusMentions
 
 > `optional` **statusMentionSources**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:52833](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52833)
+Defined in: [WAProto/index.d.ts:52833](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52833)
 
 WebMessageInfo statusMentionSources
 
@@ -560,7 +560,7 @@ WebMessageInfo statusMentionSources
 
 > `optional` **statusPsa**: `null` \| [`IStatusPSA`](IStatusPSA.md)
 
-Defined in: [WAProto/index.d.ts:52758](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52758)
+Defined in: [WAProto/index.d.ts:52758](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52758)
 
 WebMessageInfo statusPsa
 
@@ -570,7 +570,7 @@ WebMessageInfo statusPsa
 
 > `optional` **supportAiCitations**: `null` \| [`ICitation`](ICitation.md)[]
 
-Defined in: [WAProto/index.d.ts:52836](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52836)
+Defined in: [WAProto/index.d.ts:52836](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52836)
 
 WebMessageInfo supportAiCitations
 
@@ -580,7 +580,7 @@ WebMessageInfo supportAiCitations
 
 > `optional` **targetMessageId**: `null` \| [`IMessageKey`](IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:52821](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52821)
+Defined in: [WAProto/index.d.ts:52821](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52821)
 
 WebMessageInfo targetMessageId
 
@@ -590,7 +590,7 @@ WebMessageInfo targetMessageId
 
 > `optional` **urlNumber**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:52695](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52695)
+Defined in: [WAProto/index.d.ts:52695](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52695)
 
 WebMessageInfo urlNumber
 
@@ -600,7 +600,7 @@ WebMessageInfo urlNumber
 
 > `optional` **urlText**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:52692](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52692)
+Defined in: [WAProto/index.d.ts:52692](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52692)
 
 WebMessageInfo urlText
 
@@ -610,7 +610,7 @@ WebMessageInfo urlText
 
 > `optional` **userReceipt**: `null` \| [`IUserReceipt`](IUserReceipt.md)[]
 
-Defined in: [WAProto/index.d.ts:52746](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52746)
+Defined in: [WAProto/index.d.ts:52746](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52746)
 
 WebMessageInfo userReceipt
 
@@ -620,6 +620,6 @@ WebMessageInfo userReceipt
 
 > `optional` **verifiedBizName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:52737](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L52737)
+Defined in: [WAProto/index.d.ts:52737](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L52737)
 
 WebMessageInfo verifiedBizName

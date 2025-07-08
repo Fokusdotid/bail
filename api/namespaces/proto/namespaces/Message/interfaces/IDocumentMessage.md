@@ -1,6 +1,6 @@
 # Interface: IDocumentMessage
 
-Defined in: [WAProto/index.d.ts:22211](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22211)
+Defined in: [WAProto/index.d.ts:22211](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22211)
 
 Properties of a DocumentMessage.
 
@@ -10,7 +10,7 @@ Properties of a DocumentMessage.
 
 > `optional` **accessibilityLabel**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22274](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22274)
+Defined in: [WAProto/index.d.ts:22274](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22274)
 
 DocumentMessage accessibilityLabel
 
@@ -20,7 +20,7 @@ DocumentMessage accessibilityLabel
 
 > `optional` **caption**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22271](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22271)
+Defined in: [WAProto/index.d.ts:22271](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22271)
 
 DocumentMessage caption
 
@@ -30,7 +30,7 @@ DocumentMessage caption
 
 > `optional` **contactVcard**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:22247](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22247)
+Defined in: [WAProto/index.d.ts:22247](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22247)
 
 DocumentMessage contactVcard
 
@@ -40,7 +40,7 @@ DocumentMessage contactVcard
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:22262](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22262)
+Defined in: [WAProto/index.d.ts:22262](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22262)
 
 DocumentMessage contextInfo
 
@@ -50,7 +50,7 @@ DocumentMessage contextInfo
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22241](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22241)
+Defined in: [WAProto/index.d.ts:22241](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22241)
 
 DocumentMessage directPath
 
@@ -60,7 +60,7 @@ DocumentMessage directPath
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22238](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22238)
+Defined in: [WAProto/index.d.ts:22238](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22238)
 
 DocumentMessage fileEncSha256
 
@@ -70,7 +70,7 @@ DocumentMessage fileEncSha256
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:22226](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22226)
+Defined in: [WAProto/index.d.ts:22226](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22226)
 
 DocumentMessage fileLength
 
@@ -80,7 +80,7 @@ DocumentMessage fileLength
 
 > `optional` **fileName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22235](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22235)
+Defined in: [WAProto/index.d.ts:22235](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22235)
 
 DocumentMessage fileName
 
@@ -90,7 +90,7 @@ DocumentMessage fileName
 
 > `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22223](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22223)
+Defined in: [WAProto/index.d.ts:22223](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22223)
 
 DocumentMessage fileSha256
 
@@ -100,7 +100,7 @@ DocumentMessage fileSha256
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22259](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22259)
+Defined in: [WAProto/index.d.ts:22259](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22259)
 
 DocumentMessage jpegThumbnail
 
@@ -110,7 +110,7 @@ DocumentMessage jpegThumbnail
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22232](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22232)
+Defined in: [WAProto/index.d.ts:22232](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22232)
 
 DocumentMessage mediaKey
 
@@ -120,7 +120,7 @@ DocumentMessage mediaKey
 
 > `optional` **mediaKeyTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:22244](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22244)
+Defined in: [WAProto/index.d.ts:22244](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22244)
 
 DocumentMessage mediaKeyTimestamp
 
@@ -130,7 +130,7 @@ DocumentMessage mediaKeyTimestamp
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22217](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22217)
+Defined in: [WAProto/index.d.ts:22217](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22217)
 
 DocumentMessage mimetype
 
@@ -140,7 +140,7 @@ DocumentMessage mimetype
 
 > `optional` **pageCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:22229](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22229)
+Defined in: [WAProto/index.d.ts:22229](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22229)
 
 DocumentMessage pageCount
 
@@ -150,7 +150,7 @@ DocumentMessage pageCount
 
 > `optional` **thumbnailDirectPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22250](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22250)
+Defined in: [WAProto/index.d.ts:22250](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22250)
 
 DocumentMessage thumbnailDirectPath
 
@@ -160,7 +160,7 @@ DocumentMessage thumbnailDirectPath
 
 > `optional` **thumbnailEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22256](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22256)
+Defined in: [WAProto/index.d.ts:22256](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22256)
 
 DocumentMessage thumbnailEncSha256
 
@@ -170,7 +170,7 @@ DocumentMessage thumbnailEncSha256
 
 > `optional` **thumbnailHeight**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:22265](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22265)
+Defined in: [WAProto/index.d.ts:22265](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22265)
 
 DocumentMessage thumbnailHeight
 
@@ -180,7 +180,7 @@ DocumentMessage thumbnailHeight
 
 > `optional` **thumbnailSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:22253](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22253)
+Defined in: [WAProto/index.d.ts:22253](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22253)
 
 DocumentMessage thumbnailSha256
 
@@ -190,7 +190,7 @@ DocumentMessage thumbnailSha256
 
 > `optional` **thumbnailWidth**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:22268](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22268)
+Defined in: [WAProto/index.d.ts:22268](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22268)
 
 DocumentMessage thumbnailWidth
 
@@ -200,7 +200,7 @@ DocumentMessage thumbnailWidth
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22220](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22220)
+Defined in: [WAProto/index.d.ts:22220](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22220)
 
 DocumentMessage title
 
@@ -210,6 +210,6 @@ DocumentMessage title
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22214](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L22214)
+Defined in: [WAProto/index.d.ts:22214](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L22214)
 
 DocumentMessage url

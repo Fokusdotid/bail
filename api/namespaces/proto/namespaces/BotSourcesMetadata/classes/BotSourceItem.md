@@ -1,6 +1,6 @@
 # Class: BotSourceItem
 
-Defined in: [WAProto/index.d.ts:7262](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7262)
+Defined in: [WAProto/index.d.ts:7262](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7262)
 
 Represents a BotSourceItem.
 
@@ -14,7 +14,7 @@ Represents a BotSourceItem.
 
 > **new BotSourceItem**(`properties`?): [`BotSourceItem`](BotSourceItem.md)
 
-Defined in: [WAProto/index.d.ts:7268](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7268)
+Defined in: [WAProto/index.d.ts:7268](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7268)
 
 Constructs a new BotSourceItem.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **citationNumber**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:7286](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7286)
+Defined in: [WAProto/index.d.ts:7286](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7286)
 
 BotSourceItem citationNumber.
 
@@ -50,7 +50,7 @@ BotSourceItem citationNumber.
 
 > `optional` **faviconCdnUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7283](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7283)
+Defined in: [WAProto/index.d.ts:7283](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7283)
 
 BotSourceItem faviconCdnUrl.
 
@@ -64,7 +64,7 @@ BotSourceItem faviconCdnUrl.
 
 > `optional` **provider**: `null` \| [`SourceProvider`](../namespaces/BotSourceItem/enumerations/SourceProvider.md)
 
-Defined in: [WAProto/index.d.ts:7271](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7271)
+Defined in: [WAProto/index.d.ts:7271](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7271)
 
 BotSourceItem provider.
 
@@ -78,7 +78,7 @@ BotSourceItem provider.
 
 > `optional` **sourceProviderUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7277](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7277)
+Defined in: [WAProto/index.d.ts:7277](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7277)
 
 BotSourceItem sourceProviderUrl.
 
@@ -92,7 +92,7 @@ BotSourceItem sourceProviderUrl.
 
 > `optional` **sourceQuery**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7280](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7280)
+Defined in: [WAProto/index.d.ts:7280](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7280)
 
 BotSourceItem sourceQuery.
 
@@ -106,7 +106,7 @@ BotSourceItem sourceQuery.
 
 > `optional` **thumbnailCdnUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7274](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7274)
+Defined in: [WAProto/index.d.ts:7274](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7274)
 
 BotSourceItem thumbnailCdnUrl.
 
@@ -120,7 +120,7 @@ BotSourceItem thumbnailCdnUrl.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:7356](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7356)
+Defined in: [WAProto/index.d.ts:7356](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7356)
 
 Converts this BotSourceItem to JSON.
 
@@ -136,7 +136,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotSourceItem`](BotSourceItem.md)
 
-Defined in: [WAProto/index.d.ts:7293](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7293)
+Defined in: [WAProto/index.d.ts:7293](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7293)
 
 Creates a new BotSourceItem instance using the specified properties.
 
@@ -160,7 +160,7 @@ BotSourceItem instance
 
 > `static` **decode**(`reader`, `length`?): [`BotSourceItem`](BotSourceItem.md)
 
-Defined in: [WAProto/index.d.ts:7319](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7319)
+Defined in: [WAProto/index.d.ts:7319](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7319)
 
 Decodes a BotSourceItem message from the specified reader or buffer.
 
@@ -198,7 +198,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotSourceItem`](BotSourceItem.md)
 
-Defined in: [WAProto/index.d.ts:7328](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7328)
+Defined in: [WAProto/index.d.ts:7328](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7328)
 
 Decodes a BotSourceItem message from the specified reader or buffer, length delimited.
 
@@ -230,7 +230,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:7301](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7301)
+Defined in: [WAProto/index.d.ts:7301](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7301)
 
 Encodes the specified BotSourceItem message. Does not implicitly [verify](BotSourceItem.md#verify) messages.
 
@@ -260,7 +260,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:7309](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7309)
+Defined in: [WAProto/index.d.ts:7309](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7309)
 
 Encodes the specified BotSourceItem message, length delimited. Does not implicitly [verify](BotSourceItem.md#verify) messages.
 
@@ -290,7 +290,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotSourceItem`](BotSourceItem.md)
 
-Defined in: [WAProto/index.d.ts:7342](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7342)
+Defined in: [WAProto/index.d.ts:7342](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7342)
 
 Creates a BotSourceItem message from a plain object. Also converts values to their respective internal types.
 
@@ -312,7 +312,7 @@ BotSourceItem
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:7363](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7363)
+Defined in: [WAProto/index.d.ts:7363](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7363)
 
 Gets the default type url for BotSourceItem
 
@@ -336,7 +336,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:7350](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7350)
+Defined in: [WAProto/index.d.ts:7350](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7350)
 
 Creates a plain object from a BotSourceItem message. Also converts values to other types if specified.
 
@@ -366,7 +366,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:7335](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L7335)
+Defined in: [WAProto/index.d.ts:7335](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L7335)
 
 Verifies a BotSourceItem message.
 

@@ -1,6 +1,6 @@
 # Enumeration: ChatStartMode
 
-Defined in: [WAProto/index.d.ts:49648](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L49648)
+Defined in: [WAProto/index.d.ts:49648](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L49648)
 
 ChatStartMode enum.
 
@@ -10,7 +10,7 @@ ChatStartMode enum.
 
 > **LID**: `1`
 
-Defined in: [WAProto/index.d.ts:49649](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L49649)
+Defined in: [WAProto/index.d.ts:49649](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L49649)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:49649](https://github.com/Fokusdotid/bail/blob/3
 
 > **PN**: `2`
 
-Defined in: [WAProto/index.d.ts:49650](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L49650)
+Defined in: [WAProto/index.d.ts:49650](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L49650)

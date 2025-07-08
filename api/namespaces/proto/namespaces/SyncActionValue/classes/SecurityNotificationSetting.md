@@ -1,6 +1,6 @@
 # Class: SecurityNotificationSetting
 
-Defined in: [WAProto/index.d.ts:48480](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48480)
+Defined in: [WAProto/index.d.ts:48480](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48480)
 
 Represents a SecurityNotificationSetting.
 
@@ -14,7 +14,7 @@ Represents a SecurityNotificationSetting.
 
 > **new SecurityNotificationSetting**(`properties`?): [`SecurityNotificationSetting`](SecurityNotificationSetting.md)
 
-Defined in: [WAProto/index.d.ts:48486](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48486)
+Defined in: [WAProto/index.d.ts:48486](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48486)
 
 Constructs a new SecurityNotificationSetting.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **showNotification**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:48489](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48489)
+Defined in: [WAProto/index.d.ts:48489](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48489)
 
 SecurityNotificationSetting showNotification.
 
@@ -50,7 +50,7 @@ SecurityNotificationSetting showNotification.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:48559](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48559)
+Defined in: [WAProto/index.d.ts:48559](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48559)
 
 Converts this SecurityNotificationSetting to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SecurityNotificationSetting`](SecurityNotificationSetting.md)
 
-Defined in: [WAProto/index.d.ts:48496](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48496)
+Defined in: [WAProto/index.d.ts:48496](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48496)
 
 Creates a new SecurityNotificationSetting instance using the specified properties.
 
@@ -90,7 +90,7 @@ SecurityNotificationSetting instance
 
 > `static` **decode**(`reader`, `length`?): [`SecurityNotificationSetting`](SecurityNotificationSetting.md)
 
-Defined in: [WAProto/index.d.ts:48522](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48522)
+Defined in: [WAProto/index.d.ts:48522](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48522)
 
 Decodes a SecurityNotificationSetting message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SecurityNotificationSetting`](SecurityNotificationSetting.md)
 
-Defined in: [WAProto/index.d.ts:48531](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48531)
+Defined in: [WAProto/index.d.ts:48531](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48531)
 
 Decodes a SecurityNotificationSetting message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:48504](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48504)
+Defined in: [WAProto/index.d.ts:48504](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48504)
 
 Encodes the specified SecurityNotificationSetting message. Does not implicitly [verify](SecurityNotificationSetting.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:48512](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48512)
+Defined in: [WAProto/index.d.ts:48512](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48512)
 
 Encodes the specified SecurityNotificationSetting message, length delimited. Does not implicitly [verify](SecurityNotificationSetting.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SecurityNotificationSetting`](SecurityNotificationSetting.md)
 
-Defined in: [WAProto/index.d.ts:48545](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48545)
+Defined in: [WAProto/index.d.ts:48545](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48545)
 
 Creates a SecurityNotificationSetting message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ SecurityNotificationSetting
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:48566](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48566)
+Defined in: [WAProto/index.d.ts:48566](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48566)
 
 Gets the default type url for SecurityNotificationSetting
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:48553](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48553)
+Defined in: [WAProto/index.d.ts:48553](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48553)
 
 Creates a plain object from a SecurityNotificationSetting message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:48538](https://github.com/Fokusdotid/bail/blob/3bd64a6fd6e8fc52d3ec9ba842534bed26103555/WAProto/index.d.ts#L48538)
+Defined in: [WAProto/index.d.ts:48538](https://github.com/Fokusdotid/bail/blob/99acc683da8779d62a0509bb4108fdb35cb2b061/WAProto/index.d.ts#L48538)
 
 Verifies a SecurityNotificationSetting message.
 
