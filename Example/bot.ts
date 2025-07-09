@@ -182,6 +182,7 @@ const startSock = async() => {
 			if(events['messages.upsert']) {
 				const upsert = events['messages.upsert'];
 				let m = upsert.messages[upsert.messages.length - 1];
+				console.log(m);
 				m = proto.WebMessageInfo.fromObject(m);
 				//console.log("m:", JSON.stringify(m, null, 2));
 				const senderKeyDistributionMessage = m.message?.senderKeyDistributionMessage?.groupId;
