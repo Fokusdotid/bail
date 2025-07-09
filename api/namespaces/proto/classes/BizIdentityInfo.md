@@ -1,6 +1,6 @@
 # Class: BizIdentityInfo
 
-Defined in: [WAProto/index.d.ts:3492](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3492)
+Defined in: [WAProto/index.d.ts:3492](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3492)
 
 Represents a BizIdentityInfo.
 
@@ -14,7 +14,7 @@ Represents a BizIdentityInfo.
 
 > **new BizIdentityInfo**(`properties`?): [`BizIdentityInfo`](BizIdentityInfo.md)
 
-Defined in: [WAProto/index.d.ts:3498](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3498)
+Defined in: [WAProto/index.d.ts:3498](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3498)
 
 Constructs a new BizIdentityInfo.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **actualActors**: `null` \| [`ActualActorsType`](../namespaces/BizIdentityInfo/enumerations/ActualActorsType.md)
 
-Defined in: [WAProto/index.d.ts:3516](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3516)
+Defined in: [WAProto/index.d.ts:3516](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3516)
 
 BizIdentityInfo actualActors.
 
@@ -50,7 +50,7 @@ BizIdentityInfo actualActors.
 
 > `optional` **featureControls**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:3522](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3522)
+Defined in: [WAProto/index.d.ts:3522](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3522)
 
 BizIdentityInfo featureControls.
 
@@ -64,7 +64,7 @@ BizIdentityInfo featureControls.
 
 > `optional` **hostStorage**: `null` \| [`HostStorageType`](../namespaces/BizIdentityInfo/enumerations/HostStorageType.md)
 
-Defined in: [WAProto/index.d.ts:3513](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3513)
+Defined in: [WAProto/index.d.ts:3513](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3513)
 
 BizIdentityInfo hostStorage.
 
@@ -78,7 +78,7 @@ BizIdentityInfo hostStorage.
 
 > `optional` **privacyModeTs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:3519](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3519)
+Defined in: [WAProto/index.d.ts:3519](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3519)
 
 BizIdentityInfo privacyModeTs.
 
@@ -92,7 +92,7 @@ BizIdentityInfo privacyModeTs.
 
 > `optional` **revoked**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:3510](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3510)
+Defined in: [WAProto/index.d.ts:3510](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3510)
 
 BizIdentityInfo revoked.
 
@@ -106,7 +106,7 @@ BizIdentityInfo revoked.
 
 > `optional` **signed**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:3507](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3507)
+Defined in: [WAProto/index.d.ts:3507](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3507)
 
 BizIdentityInfo signed.
 
@@ -120,7 +120,7 @@ BizIdentityInfo signed.
 
 > `optional` **vlevel**: `null` \| [`VerifiedLevelValue`](../namespaces/BizIdentityInfo/enumerations/VerifiedLevelValue.md)
 
-Defined in: [WAProto/index.d.ts:3501](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3501)
+Defined in: [WAProto/index.d.ts:3501](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3501)
 
 BizIdentityInfo vlevel.
 
@@ -134,7 +134,7 @@ BizIdentityInfo vlevel.
 
 > `optional` **vnameCert**: `null` \| [`IVerifiedNameCertificate`](../interfaces/IVerifiedNameCertificate.md)
 
-Defined in: [WAProto/index.d.ts:3504](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3504)
+Defined in: [WAProto/index.d.ts:3504](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3504)
 
 BizIdentityInfo vnameCert.
 
@@ -148,7 +148,7 @@ BizIdentityInfo vnameCert.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:3592](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3592)
+Defined in: [WAProto/index.d.ts:3592](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3592)
 
 Converts this BizIdentityInfo to JSON.
 
@@ -164,7 +164,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BizIdentityInfo`](BizIdentityInfo.md)
 
-Defined in: [WAProto/index.d.ts:3529](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3529)
+Defined in: [WAProto/index.d.ts:3529](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3529)
 
 Creates a new BizIdentityInfo instance using the specified properties.
 
@@ -188,7 +188,7 @@ BizIdentityInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`BizIdentityInfo`](BizIdentityInfo.md)
 
-Defined in: [WAProto/index.d.ts:3555](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3555)
+Defined in: [WAProto/index.d.ts:3555](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3555)
 
 Decodes a BizIdentityInfo message from the specified reader or buffer.
 
@@ -226,7 +226,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BizIdentityInfo`](BizIdentityInfo.md)
 
-Defined in: [WAProto/index.d.ts:3564](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3564)
+Defined in: [WAProto/index.d.ts:3564](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3564)
 
 Decodes a BizIdentityInfo message from the specified reader or buffer, length delimited.
 
@@ -258,7 +258,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3537](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3537)
+Defined in: [WAProto/index.d.ts:3537](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3537)
 
 Encodes the specified BizIdentityInfo message. Does not implicitly [verify](BizIdentityInfo.md#verify) messages.
 
@@ -288,7 +288,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:3545](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3545)
+Defined in: [WAProto/index.d.ts:3545](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3545)
 
 Encodes the specified BizIdentityInfo message, length delimited. Does not implicitly [verify](BizIdentityInfo.md#verify) messages.
 
@@ -318,7 +318,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BizIdentityInfo`](BizIdentityInfo.md)
 
-Defined in: [WAProto/index.d.ts:3578](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3578)
+Defined in: [WAProto/index.d.ts:3578](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3578)
 
 Creates a BizIdentityInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -340,7 +340,7 @@ BizIdentityInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:3599](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3599)
+Defined in: [WAProto/index.d.ts:3599](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3599)
 
 Gets the default type url for BizIdentityInfo
 
@@ -364,7 +364,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:3586](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3586)
+Defined in: [WAProto/index.d.ts:3586](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3586)
 
 Creates a plain object from a BizIdentityInfo message. Also converts values to other types if specified.
 
@@ -394,7 +394,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3571](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3571)
+Defined in: [WAProto/index.d.ts:3571](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3571)
 
 Verifies a BizIdentityInfo message.
 

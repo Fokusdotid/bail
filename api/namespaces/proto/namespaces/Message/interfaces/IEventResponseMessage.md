@@ -1,6 +1,6 @@
 # Interface: IEventResponseMessage
 
-Defined in: [WAProto/index.d.ts:22906](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L22906)
+Defined in: [WAProto/index.d.ts:22906](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L22906)
 
 Properties of an EventResponseMessage.
 
@@ -10,7 +10,7 @@ Properties of an EventResponseMessage.
 
 > `optional` **extraGuestCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:22915](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L22915)
+Defined in: [WAProto/index.d.ts:22915](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L22915)
 
 EventResponseMessage extraGuestCount
 
@@ -20,7 +20,7 @@ EventResponseMessage extraGuestCount
 
 > `optional` **response**: `null` \| [`EventResponseType`](../namespaces/EventResponseMessage/enumerations/EventResponseType.md)
 
-Defined in: [WAProto/index.d.ts:22909](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L22909)
+Defined in: [WAProto/index.d.ts:22909](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L22909)
 
 EventResponseMessage response
 
@@ -30,6 +30,6 @@ EventResponseMessage response
 
 > `optional` **timestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:22912](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L22912)
+Defined in: [WAProto/index.d.ts:22912](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L22912)
 
 EventResponseMessage timestampMs

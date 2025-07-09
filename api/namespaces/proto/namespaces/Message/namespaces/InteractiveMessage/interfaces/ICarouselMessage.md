@@ -1,6 +1,6 @@
 # Interface: ICarouselMessage
 
-Defined in: [WAProto/index.d.ts:25195](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25195)
+Defined in: [WAProto/index.d.ts:25195](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25195)
 
 Properties of a CarouselMessage.
 
@@ -10,7 +10,7 @@ Properties of a CarouselMessage.
 
 > `optional` **cards**: `null` \| [`IInteractiveMessage`](../../../interfaces/IInteractiveMessage.md)[]
 
-Defined in: [WAProto/index.d.ts:25198](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25198)
+Defined in: [WAProto/index.d.ts:25198](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25198)
 
 CarouselMessage cards
 
@@ -20,6 +20,6 @@ CarouselMessage cards
 
 > `optional` **messageVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:25201](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25201)
+Defined in: [WAProto/index.d.ts:25201](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25201)
 
 CarouselMessage messageVersion

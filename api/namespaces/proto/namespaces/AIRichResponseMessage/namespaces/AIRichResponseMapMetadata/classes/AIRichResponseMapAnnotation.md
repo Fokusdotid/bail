@@ -1,6 +1,6 @@
 # Class: AIRichResponseMapAnnotation
 
-Defined in: [WAProto/index.d.ts:2215](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2215)
+Defined in: [WAProto/index.d.ts:2215](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2215)
 
 Represents a AIRichResponseMapAnnotation.
 
@@ -14,7 +14,7 @@ Represents a AIRichResponseMapAnnotation.
 
 > **new AIRichResponseMapAnnotation**(`properties`?): [`AIRichResponseMapAnnotation`](AIRichResponseMapAnnotation.md)
 
-Defined in: [WAProto/index.d.ts:2221](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2221)
+Defined in: [WAProto/index.d.ts:2221](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2221)
 
 Constructs a new AIRichResponseMapAnnotation.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **annotationNumber**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:2224](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2224)
+Defined in: [WAProto/index.d.ts:2224](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2224)
 
 AIRichResponseMapAnnotation annotationNumber.
 
@@ -50,7 +50,7 @@ AIRichResponseMapAnnotation annotationNumber.
 
 > `optional` **body**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2236](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2236)
+Defined in: [WAProto/index.d.ts:2236](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2236)
 
 AIRichResponseMapAnnotation body.
 
@@ -64,7 +64,7 @@ AIRichResponseMapAnnotation body.
 
 > `optional` **latitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:2227](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2227)
+Defined in: [WAProto/index.d.ts:2227](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2227)
 
 AIRichResponseMapAnnotation latitude.
 
@@ -78,7 +78,7 @@ AIRichResponseMapAnnotation latitude.
 
 > `optional` **longitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:2230](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2230)
+Defined in: [WAProto/index.d.ts:2230](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2230)
 
 AIRichResponseMapAnnotation longitude.
 
@@ -92,7 +92,7 @@ AIRichResponseMapAnnotation longitude.
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2233](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2233)
+Defined in: [WAProto/index.d.ts:2233](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2233)
 
 AIRichResponseMapAnnotation title.
 
@@ -106,7 +106,7 @@ AIRichResponseMapAnnotation title.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:2306](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2306)
+Defined in: [WAProto/index.d.ts:2306](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2306)
 
 Converts this AIRichResponseMapAnnotation to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIRichResponseMapAnnotation`](AIRichResponseMapAnnotation.md)
 
-Defined in: [WAProto/index.d.ts:2243](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2243)
+Defined in: [WAProto/index.d.ts:2243](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2243)
 
 Creates a new AIRichResponseMapAnnotation instance using the specified properties.
 
@@ -146,7 +146,7 @@ AIRichResponseMapAnnotation instance
 
 > `static` **decode**(`reader`, `length`?): [`AIRichResponseMapAnnotation`](AIRichResponseMapAnnotation.md)
 
-Defined in: [WAProto/index.d.ts:2269](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2269)
+Defined in: [WAProto/index.d.ts:2269](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2269)
 
 Decodes a AIRichResponseMapAnnotation message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIRichResponseMapAnnotation`](AIRichResponseMapAnnotation.md)
 
-Defined in: [WAProto/index.d.ts:2278](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2278)
+Defined in: [WAProto/index.d.ts:2278](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2278)
 
 Decodes a AIRichResponseMapAnnotation message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2251](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2251)
+Defined in: [WAProto/index.d.ts:2251](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2251)
 
 Encodes the specified AIRichResponseMapAnnotation message. Does not implicitly [verify](AIRichResponseMapAnnotation.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2259](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2259)
+Defined in: [WAProto/index.d.ts:2259](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2259)
 
 Encodes the specified AIRichResponseMapAnnotation message, length delimited. Does not implicitly [verify](AIRichResponseMapAnnotation.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIRichResponseMapAnnotation`](AIRichResponseMapAnnotation.md)
 
-Defined in: [WAProto/index.d.ts:2292](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2292)
+Defined in: [WAProto/index.d.ts:2292](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2292)
 
 Creates a AIRichResponseMapAnnotation message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ AIRichResponseMapAnnotation
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:2313](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2313)
+Defined in: [WAProto/index.d.ts:2313](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2313)
 
 Gets the default type url for AIRichResponseMapAnnotation
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:2300](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2300)
+Defined in: [WAProto/index.d.ts:2300](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2300)
 
 Creates a plain object from a AIRichResponseMapAnnotation message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2285](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2285)
+Defined in: [WAProto/index.d.ts:2285](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2285)
 
 Verifies a AIRichResponseMapAnnotation message.
 

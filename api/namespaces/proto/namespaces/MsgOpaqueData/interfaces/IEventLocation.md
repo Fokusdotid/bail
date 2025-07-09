@@ -1,6 +1,6 @@
 # Interface: IEventLocation
 
-Defined in: [WAProto/index.d.ts:36793](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L36793)
+Defined in: [WAProto/index.d.ts:36793](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36793)
 
 Properties of an EventLocation.
 
@@ -10,7 +10,7 @@ Properties of an EventLocation.
 
 > `optional` **address**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36805](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L36805)
+Defined in: [WAProto/index.d.ts:36805](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36805)
 
 EventLocation address
 
@@ -20,7 +20,7 @@ EventLocation address
 
 > `optional` **degreesLatitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36796](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L36796)
+Defined in: [WAProto/index.d.ts:36796](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36796)
 
 EventLocation degreesLatitude
 
@@ -30,7 +30,7 @@ EventLocation degreesLatitude
 
 > `optional` **degreesLongitude**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36799](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L36799)
+Defined in: [WAProto/index.d.ts:36799](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36799)
 
 EventLocation degreesLongitude
 
@@ -40,7 +40,7 @@ EventLocation degreesLongitude
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:36811](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L36811)
+Defined in: [WAProto/index.d.ts:36811](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36811)
 
 EventLocation jpegThumbnail
 
@@ -50,7 +50,7 @@ EventLocation jpegThumbnail
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36802](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L36802)
+Defined in: [WAProto/index.d.ts:36802](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36802)
 
 EventLocation name
 
@@ -60,6 +60,6 @@ EventLocation name
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36808](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L36808)
+Defined in: [WAProto/index.d.ts:36808](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36808)
 
 EventLocation url

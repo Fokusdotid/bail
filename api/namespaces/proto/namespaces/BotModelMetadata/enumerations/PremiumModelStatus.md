@@ -1,6 +1,6 @@
 # Enumeration: PremiumModelStatus
 
-Defined in: [WAProto/index.d.ts:5362](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5362)
+Defined in: [WAProto/index.d.ts:5362](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5362)
 
 PremiumModelStatus enum.
 
@@ -10,7 +10,7 @@ PremiumModelStatus enum.
 
 > **AVAILABLE**: `1`
 
-Defined in: [WAProto/index.d.ts:5364](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5364)
+Defined in: [WAProto/index.d.ts:5364](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5364)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:5364](https://github.com/Fokusdotid/bail/blob/0f
 
 > **QUOTA\_EXCEED\_LIMIT**: `2`
 
-Defined in: [WAProto/index.d.ts:5365](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5365)
+Defined in: [WAProto/index.d.ts:5365](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5365)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:5365](https://github.com/Fokusdotid/bail/blob/0f
 
 > **UNKNOWN\_STATUS**: `0`
 
-Defined in: [WAProto/index.d.ts:5363](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L5363)
+Defined in: [WAProto/index.d.ts:5363](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5363)

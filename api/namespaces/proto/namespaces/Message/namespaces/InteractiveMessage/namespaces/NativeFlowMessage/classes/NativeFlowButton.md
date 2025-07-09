@@ -1,6 +1,6 @@
 # Class: NativeFlowButton
 
-Defined in: [WAProto/index.d.ts:25773](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25773)
+Defined in: [WAProto/index.d.ts:25773](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25773)
 
 Represents a NativeFlowButton.
 
@@ -14,7 +14,7 @@ Represents a NativeFlowButton.
 
 > **new NativeFlowButton**(`properties`?): [`NativeFlowButton`](NativeFlowButton.md)
 
-Defined in: [WAProto/index.d.ts:25779](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25779)
+Defined in: [WAProto/index.d.ts:25779](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25779)
 
 Constructs a new NativeFlowButton.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **buttonParamsJson**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25785](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25785)
+Defined in: [WAProto/index.d.ts:25785](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25785)
 
 NativeFlowButton buttonParamsJson.
 
@@ -50,7 +50,7 @@ NativeFlowButton buttonParamsJson.
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25782](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25782)
+Defined in: [WAProto/index.d.ts:25782](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25782)
 
 NativeFlowButton name.
 
@@ -64,7 +64,7 @@ NativeFlowButton name.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:25855](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25855)
+Defined in: [WAProto/index.d.ts:25855](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25855)
 
 Converts this NativeFlowButton to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`NativeFlowButton`](NativeFlowButton.md)
 
-Defined in: [WAProto/index.d.ts:25792](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25792)
+Defined in: [WAProto/index.d.ts:25792](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25792)
 
 Creates a new NativeFlowButton instance using the specified properties.
 
@@ -104,7 +104,7 @@ NativeFlowButton instance
 
 > `static` **decode**(`reader`, `length`?): [`NativeFlowButton`](NativeFlowButton.md)
 
-Defined in: [WAProto/index.d.ts:25818](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25818)
+Defined in: [WAProto/index.d.ts:25818](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25818)
 
 Decodes a NativeFlowButton message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`NativeFlowButton`](NativeFlowButton.md)
 
-Defined in: [WAProto/index.d.ts:25827](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25827)
+Defined in: [WAProto/index.d.ts:25827](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25827)
 
 Decodes a NativeFlowButton message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25800](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25800)
+Defined in: [WAProto/index.d.ts:25800](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25800)
 
 Encodes the specified NativeFlowButton message. Does not implicitly [verify](NativeFlowButton.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25808](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25808)
+Defined in: [WAProto/index.d.ts:25808](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25808)
 
 Encodes the specified NativeFlowButton message, length delimited. Does not implicitly [verify](NativeFlowButton.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`NativeFlowButton`](NativeFlowButton.md)
 
-Defined in: [WAProto/index.d.ts:25841](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25841)
+Defined in: [WAProto/index.d.ts:25841](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25841)
 
 Creates a NativeFlowButton message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ NativeFlowButton
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:25862](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25862)
+Defined in: [WAProto/index.d.ts:25862](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25862)
 
 Gets the default type url for NativeFlowButton
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:25849](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25849)
+Defined in: [WAProto/index.d.ts:25849](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25849)
 
 Creates a plain object from a NativeFlowButton message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25834](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25834)
+Defined in: [WAProto/index.d.ts:25834](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25834)
 
 Verifies a NativeFlowButton message.
 

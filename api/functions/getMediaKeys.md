@@ -2,7 +2,7 @@
 
 > **getMediaKeys**(`buffer`, `mediaType`): `Promise`\<[`MediaDecryptionKeyInfo`](../type-aliases/MediaDecryptionKeyInfo.md)\>
 
-Defined in: [src/Utils/messages-media.ts:95](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/src/Utils/messages-media.ts#L95)
+Defined in: [src/Utils/messages-media.ts:95](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/src/Utils/messages-media.ts#L95)
 
 generates all the keys required to encrypt/decrypt & sign a media message
 

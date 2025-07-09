@@ -1,6 +1,6 @@
 # Class: SyncdPatch
 
-Defined in: [WAProto/index.d.ts:50195](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50195)
+Defined in: [WAProto/index.d.ts:50195](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50195)
 
 Represents a SyncdPatch.
 
@@ -14,7 +14,7 @@ Represents a SyncdPatch.
 
 > **new SyncdPatch**(`properties`?): [`SyncdPatch`](SyncdPatch.md)
 
-Defined in: [WAProto/index.d.ts:50201](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50201)
+Defined in: [WAProto/index.d.ts:50201](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50201)
 
 Constructs a new SyncdPatch.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **clientDebugData**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:50228](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50228)
+Defined in: [WAProto/index.d.ts:50228](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50228)
 
 SyncdPatch clientDebugData.
 
@@ -50,7 +50,7 @@ SyncdPatch clientDebugData.
 
 > `optional` **deviceIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:50225](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50225)
+Defined in: [WAProto/index.d.ts:50225](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50225)
 
 SyncdPatch deviceIndex.
 
@@ -64,7 +64,7 @@ SyncdPatch deviceIndex.
 
 > `optional` **exitCode**: `null` \| [`IExitCode`](../interfaces/IExitCode.md)
 
-Defined in: [WAProto/index.d.ts:50222](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50222)
+Defined in: [WAProto/index.d.ts:50222](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50222)
 
 SyncdPatch exitCode.
 
@@ -78,7 +78,7 @@ SyncdPatch exitCode.
 
 > `optional` **externalMutations**: `null` \| [`IExternalBlobReference`](../interfaces/IExternalBlobReference.md)
 
-Defined in: [WAProto/index.d.ts:50210](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50210)
+Defined in: [WAProto/index.d.ts:50210](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50210)
 
 SyncdPatch externalMutations.
 
@@ -92,7 +92,7 @@ SyncdPatch externalMutations.
 
 > `optional` **keyId**: `null` \| [`IKeyId`](../interfaces/IKeyId.md)
 
-Defined in: [WAProto/index.d.ts:50219](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50219)
+Defined in: [WAProto/index.d.ts:50219](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50219)
 
 SyncdPatch keyId.
 
@@ -106,7 +106,7 @@ SyncdPatch keyId.
 
 > **mutations**: [`ISyncdMutation`](../interfaces/ISyncdMutation.md)[]
 
-Defined in: [WAProto/index.d.ts:50207](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50207)
+Defined in: [WAProto/index.d.ts:50207](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50207)
 
 SyncdPatch mutations.
 
@@ -120,7 +120,7 @@ SyncdPatch mutations.
 
 > `optional` **patchMac**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:50216](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50216)
+Defined in: [WAProto/index.d.ts:50216](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50216)
 
 SyncdPatch patchMac.
 
@@ -134,7 +134,7 @@ SyncdPatch patchMac.
 
 > `optional` **snapshotMac**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:50213](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50213)
+Defined in: [WAProto/index.d.ts:50213](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50213)
 
 SyncdPatch snapshotMac.
 
@@ -148,7 +148,7 @@ SyncdPatch snapshotMac.
 
 > `optional` **version**: `null` \| [`ISyncdVersion`](../interfaces/ISyncdVersion.md)
 
-Defined in: [WAProto/index.d.ts:50204](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50204)
+Defined in: [WAProto/index.d.ts:50204](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50204)
 
 SyncdPatch version.
 
@@ -162,7 +162,7 @@ SyncdPatch version.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:50298](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50298)
+Defined in: [WAProto/index.d.ts:50298](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50298)
 
 Converts this SyncdPatch to JSON.
 
@@ -178,7 +178,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SyncdPatch`](SyncdPatch.md)
 
-Defined in: [WAProto/index.d.ts:50235](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50235)
+Defined in: [WAProto/index.d.ts:50235](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50235)
 
 Creates a new SyncdPatch instance using the specified properties.
 
@@ -202,7 +202,7 @@ SyncdPatch instance
 
 > `static` **decode**(`reader`, `length`?): [`SyncdPatch`](SyncdPatch.md)
 
-Defined in: [WAProto/index.d.ts:50261](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50261)
+Defined in: [WAProto/index.d.ts:50261](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50261)
 
 Decodes a SyncdPatch message from the specified reader or buffer.
 
@@ -240,7 +240,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SyncdPatch`](SyncdPatch.md)
 
-Defined in: [WAProto/index.d.ts:50270](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50270)
+Defined in: [WAProto/index.d.ts:50270](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50270)
 
 Decodes a SyncdPatch message from the specified reader or buffer, length delimited.
 
@@ -272,7 +272,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:50243](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50243)
+Defined in: [WAProto/index.d.ts:50243](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50243)
 
 Encodes the specified SyncdPatch message. Does not implicitly [verify](SyncdPatch.md#verify) messages.
 
@@ -302,7 +302,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:50251](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50251)
+Defined in: [WAProto/index.d.ts:50251](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50251)
 
 Encodes the specified SyncdPatch message, length delimited. Does not implicitly [verify](SyncdPatch.md#verify) messages.
 
@@ -332,7 +332,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SyncdPatch`](SyncdPatch.md)
 
-Defined in: [WAProto/index.d.ts:50284](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50284)
+Defined in: [WAProto/index.d.ts:50284](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50284)
 
 Creates a SyncdPatch message from a plain object. Also converts values to their respective internal types.
 
@@ -354,7 +354,7 @@ SyncdPatch
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:50305](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50305)
+Defined in: [WAProto/index.d.ts:50305](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50305)
 
 Gets the default type url for SyncdPatch
 
@@ -378,7 +378,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:50292](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50292)
+Defined in: [WAProto/index.d.ts:50292](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50292)
 
 Creates a plain object from a SyncdPatch message. Also converts values to other types if specified.
 
@@ -408,7 +408,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:50277](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50277)
+Defined in: [WAProto/index.d.ts:50277](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50277)
 
 Verifies a SyncdPatch message.
 

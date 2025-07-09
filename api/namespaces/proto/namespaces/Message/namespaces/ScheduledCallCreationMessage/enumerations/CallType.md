@@ -1,6 +1,6 @@
 # Enumeration: CallType
 
-Defined in: [WAProto/index.d.ts:33397](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L33397)
+Defined in: [WAProto/index.d.ts:33397](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L33397)
 
 CallType enum.
 
@@ -10,7 +10,7 @@ CallType enum.
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:33398](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L33398)
+Defined in: [WAProto/index.d.ts:33398](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L33398)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:33398](https://github.com/Fokusdotid/bail/blob/0
 
 > **VIDEO**: `2`
 
-Defined in: [WAProto/index.d.ts:33400](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L33400)
+Defined in: [WAProto/index.d.ts:33400](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L33400)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:33400](https://github.com/Fokusdotid/bail/blob/0
 
 > **VOICE**: `1`
 
-Defined in: [WAProto/index.d.ts:33399](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L33399)
+Defined in: [WAProto/index.d.ts:33399](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L33399)

@@ -1,6 +1,6 @@
 # Interface: ICallButton
 
-Defined in: [WAProto/index.d.ts:50950](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50950)
+Defined in: [WAProto/index.d.ts:50950](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50950)
 
 Properties of a CallButton.
 
@@ -10,7 +10,7 @@ Properties of a CallButton.
 
 > `optional` **displayText**: `null` \| [`IHighlyStructuredMessage`](../../Message/interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:50953](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50953)
+Defined in: [WAProto/index.d.ts:50953](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50953)
 
 CallButton displayText
 
@@ -20,6 +20,6 @@ CallButton displayText
 
 > `optional` **phoneNumber**: `null` \| [`IHighlyStructuredMessage`](../../Message/interfaces/IHighlyStructuredMessage.md)
 
-Defined in: [WAProto/index.d.ts:50956](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L50956)
+Defined in: [WAProto/index.d.ts:50956](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50956)
 
 CallButton phoneNumber

@@ -1,6 +1,6 @@
 # Interface: INotificationMessageInfo
 
-Defined in: [WAProto/index.d.ts:37561](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L37561)
+Defined in: [WAProto/index.d.ts:37561](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L37561)
 
 Properties of a NotificationMessageInfo.
 
@@ -10,7 +10,7 @@ Properties of a NotificationMessageInfo.
 
 > `optional` **key**: `null` \| [`IMessageKey`](IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:37564](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L37564)
+Defined in: [WAProto/index.d.ts:37564](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L37564)
 
 NotificationMessageInfo key
 
@@ -20,7 +20,7 @@ NotificationMessageInfo key
 
 > `optional` **message**: `null` \| [`IMessage`](IMessage.md)
 
-Defined in: [WAProto/index.d.ts:37567](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L37567)
+Defined in: [WAProto/index.d.ts:37567](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L37567)
 
 NotificationMessageInfo message
 
@@ -30,7 +30,7 @@ NotificationMessageInfo message
 
 > `optional` **messageTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:37570](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L37570)
+Defined in: [WAProto/index.d.ts:37570](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L37570)
 
 NotificationMessageInfo messageTimestamp
 
@@ -40,6 +40,6 @@ NotificationMessageInfo messageTimestamp
 
 > `optional` **participant**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37573](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L37573)
+Defined in: [WAProto/index.d.ts:37573](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L37573)
 
 NotificationMessageInfo participant

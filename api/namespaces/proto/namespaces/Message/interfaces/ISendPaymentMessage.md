@@ -1,6 +1,6 @@
 # Interface: ISendPaymentMessage
 
-Defined in: [WAProto/index.d.ts:33642](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L33642)
+Defined in: [WAProto/index.d.ts:33642](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L33642)
 
 Properties of a SendPaymentMessage.
 
@@ -10,7 +10,7 @@ Properties of a SendPaymentMessage.
 
 > `optional` **background**: `null` \| [`IPaymentBackground`](../../../interfaces/IPaymentBackground.md)
 
-Defined in: [WAProto/index.d.ts:33651](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L33651)
+Defined in: [WAProto/index.d.ts:33651](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L33651)
 
 SendPaymentMessage background
 
@@ -20,7 +20,7 @@ SendPaymentMessage background
 
 > `optional` **noteMessage**: `null` \| [`IMessage`](../../../interfaces/IMessage.md)
 
-Defined in: [WAProto/index.d.ts:33645](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L33645)
+Defined in: [WAProto/index.d.ts:33645](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L33645)
 
 SendPaymentMessage noteMessage
 
@@ -30,6 +30,6 @@ SendPaymentMessage noteMessage
 
 > `optional` **requestMessageKey**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:33648](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L33648)
+Defined in: [WAProto/index.d.ts:33648](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L33648)
 
 SendPaymentMessage requestMessageKey

@@ -1,6 +1,6 @@
 # Interface: IParameters
 
-Defined in: [WAProto/index.d.ts:11446](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11446)
+Defined in: [WAProto/index.d.ts:11446](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L11446)
 
 Properties of a Parameters.
 
@@ -10,7 +10,7 @@ Properties of a Parameters.
 
 > `optional` **contents**: `null` \| [`IParameters`](IParameters.md)
 
-Defined in: [WAProto/index.d.ts:11461](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11461)
+Defined in: [WAProto/index.d.ts:11461](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L11461)
 
 Parameters contents
 
@@ -20,7 +20,7 @@ Parameters contents
 
 > `optional` **floatData**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:11458](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11458)
+Defined in: [WAProto/index.d.ts:11458](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L11458)
 
 Parameters floatData
 
@@ -30,7 +30,7 @@ Parameters floatData
 
 > `optional` **intData**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:11455](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11455)
+Defined in: [WAProto/index.d.ts:11455](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L11455)
 
 Parameters intData
 
@@ -40,7 +40,7 @@ Parameters intData
 
 > `optional` **key**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11449](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11449)
+Defined in: [WAProto/index.d.ts:11449](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L11449)
 
 Parameters key
 
@@ -50,6 +50,6 @@ Parameters key
 
 > `optional` **stringData**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11452](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L11452)
+Defined in: [WAProto/index.d.ts:11452](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L11452)
 
 Parameters stringData

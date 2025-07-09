@@ -1,6 +1,6 @@
 # Class: InteractiveAnnotation
 
-Defined in: [WAProto/index.d.ts:16662](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16662)
+Defined in: [WAProto/index.d.ts:16662](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L16662)
 
 Represents an InteractiveAnnotation.
 
@@ -14,7 +14,7 @@ Represents an InteractiveAnnotation.
 
 > **new InteractiveAnnotation**(`properties`?): [`InteractiveAnnotation`](InteractiveAnnotation.md)
 
-Defined in: [WAProto/index.d.ts:16668](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16668)
+Defined in: [WAProto/index.d.ts:16668](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L16668)
 
 Constructs a new InteractiveAnnotation.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **action**: `"location"` \| `"newsletter"` \| `"embeddedAction"` \| `"tapAction"`
 
-Defined in: [WAProto/index.d.ts:16695](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16695)
+Defined in: [WAProto/index.d.ts:16695](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L16695)
 
 InteractiveAnnotation action.
 
@@ -46,7 +46,7 @@ InteractiveAnnotation action.
 
 > `optional` **embeddedAction**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:16689](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16689)
+Defined in: [WAProto/index.d.ts:16689](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L16689)
 
 InteractiveAnnotation embeddedAction.
 
@@ -60,7 +60,7 @@ InteractiveAnnotation embeddedAction.
 
 > `optional` **embeddedContent**: `null` \| [`IEmbeddedContent`](../interfaces/IEmbeddedContent.md)
 
-Defined in: [WAProto/index.d.ts:16677](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16677)
+Defined in: [WAProto/index.d.ts:16677](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L16677)
 
 InteractiveAnnotation embeddedContent.
 
@@ -74,7 +74,7 @@ InteractiveAnnotation embeddedContent.
 
 > `optional` **location**: `null` \| [`ILocation`](../interfaces/ILocation.md)
 
-Defined in: [WAProto/index.d.ts:16683](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16683)
+Defined in: [WAProto/index.d.ts:16683](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L16683)
 
 InteractiveAnnotation location.
 
@@ -88,7 +88,7 @@ InteractiveAnnotation location.
 
 > `optional` **newsletter**: `null` \| [`IForwardedNewsletterMessageInfo`](../namespaces/ContextInfo/interfaces/IForwardedNewsletterMessageInfo.md)
 
-Defined in: [WAProto/index.d.ts:16686](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16686)
+Defined in: [WAProto/index.d.ts:16686](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L16686)
 
 InteractiveAnnotation newsletter.
 
@@ -102,7 +102,7 @@ InteractiveAnnotation newsletter.
 
 > **polygonVertices**: [`IPoint`](../interfaces/IPoint.md)[]
 
-Defined in: [WAProto/index.d.ts:16671](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16671)
+Defined in: [WAProto/index.d.ts:16671](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L16671)
 
 InteractiveAnnotation polygonVertices.
 
@@ -116,7 +116,7 @@ InteractiveAnnotation polygonVertices.
 
 > `optional` **shouldSkipConfirmation**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:16674](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16674)
+Defined in: [WAProto/index.d.ts:16674](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L16674)
 
 InteractiveAnnotation shouldSkipConfirmation.
 
@@ -130,7 +130,7 @@ InteractiveAnnotation shouldSkipConfirmation.
 
 > `optional` **statusLinkType**: `null` \| [`StatusLinkType`](../namespaces/InteractiveAnnotation/enumerations/StatusLinkType.md)
 
-Defined in: [WAProto/index.d.ts:16680](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16680)
+Defined in: [WAProto/index.d.ts:16680](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L16680)
 
 InteractiveAnnotation statusLinkType.
 
@@ -144,7 +144,7 @@ InteractiveAnnotation statusLinkType.
 
 > `optional` **tapAction**: `null` \| [`ITapLinkAction`](../interfaces/ITapLinkAction.md)
 
-Defined in: [WAProto/index.d.ts:16692](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16692)
+Defined in: [WAProto/index.d.ts:16692](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L16692)
 
 InteractiveAnnotation tapAction.
 
@@ -158,7 +158,7 @@ InteractiveAnnotation tapAction.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:16765](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16765)
+Defined in: [WAProto/index.d.ts:16765](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L16765)
 
 Converts this InteractiveAnnotation to JSON.
 
@@ -174,7 +174,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`InteractiveAnnotation`](InteractiveAnnotation.md)
 
-Defined in: [WAProto/index.d.ts:16702](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16702)
+Defined in: [WAProto/index.d.ts:16702](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L16702)
 
 Creates a new InteractiveAnnotation instance using the specified properties.
 
@@ -198,7 +198,7 @@ InteractiveAnnotation instance
 
 > `static` **decode**(`reader`, `length`?): [`InteractiveAnnotation`](InteractiveAnnotation.md)
 
-Defined in: [WAProto/index.d.ts:16728](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16728)
+Defined in: [WAProto/index.d.ts:16728](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L16728)
 
 Decodes an InteractiveAnnotation message from the specified reader or buffer.
 
@@ -236,7 +236,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`InteractiveAnnotation`](InteractiveAnnotation.md)
 
-Defined in: [WAProto/index.d.ts:16737](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16737)
+Defined in: [WAProto/index.d.ts:16737](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L16737)
 
 Decodes an InteractiveAnnotation message from the specified reader or buffer, length delimited.
 
@@ -268,7 +268,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:16710](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16710)
+Defined in: [WAProto/index.d.ts:16710](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L16710)
 
 Encodes the specified InteractiveAnnotation message. Does not implicitly [verify](InteractiveAnnotation.md#verify) messages.
 
@@ -298,7 +298,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:16718](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16718)
+Defined in: [WAProto/index.d.ts:16718](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L16718)
 
 Encodes the specified InteractiveAnnotation message, length delimited. Does not implicitly [verify](InteractiveAnnotation.md#verify) messages.
 
@@ -328,7 +328,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`InteractiveAnnotation`](InteractiveAnnotation.md)
 
-Defined in: [WAProto/index.d.ts:16751](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16751)
+Defined in: [WAProto/index.d.ts:16751](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L16751)
 
 Creates an InteractiveAnnotation message from a plain object. Also converts values to their respective internal types.
 
@@ -350,7 +350,7 @@ InteractiveAnnotation
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:16772](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16772)
+Defined in: [WAProto/index.d.ts:16772](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L16772)
 
 Gets the default type url for InteractiveAnnotation
 
@@ -374,7 +374,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:16759](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16759)
+Defined in: [WAProto/index.d.ts:16759](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L16759)
 
 Creates a plain object from an InteractiveAnnotation message. Also converts values to other types if specified.
 
@@ -404,7 +404,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16744](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L16744)
+Defined in: [WAProto/index.d.ts:16744](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L16744)
 
 Verifies an InteractiveAnnotation message.
 

@@ -1,6 +1,6 @@
 # Class: Footer
 
-Defined in: [WAProto/index.d.ts:25414](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25414)
+Defined in: [WAProto/index.d.ts:25414](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25414)
 
 Represents a Footer.
 
@@ -14,7 +14,7 @@ Represents a Footer.
 
 > **new Footer**(`properties`?): [`Footer`](Footer.md)
 
-Defined in: [WAProto/index.d.ts:25420](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25420)
+Defined in: [WAProto/index.d.ts:25420](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25420)
 
 Constructs a new Footer.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **text**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25423](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25423)
+Defined in: [WAProto/index.d.ts:25423](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25423)
 
 Footer text.
 
@@ -50,7 +50,7 @@ Footer text.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:25493](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25493)
+Defined in: [WAProto/index.d.ts:25493](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25493)
 
 Converts this Footer to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Footer`](Footer.md)
 
-Defined in: [WAProto/index.d.ts:25430](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25430)
+Defined in: [WAProto/index.d.ts:25430](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25430)
 
 Creates a new Footer instance using the specified properties.
 
@@ -90,7 +90,7 @@ Footer instance
 
 > `static` **decode**(`reader`, `length`?): [`Footer`](Footer.md)
 
-Defined in: [WAProto/index.d.ts:25456](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25456)
+Defined in: [WAProto/index.d.ts:25456](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25456)
 
 Decodes a Footer message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Footer`](Footer.md)
 
-Defined in: [WAProto/index.d.ts:25465](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25465)
+Defined in: [WAProto/index.d.ts:25465](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25465)
 
 Decodes a Footer message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25438](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25438)
+Defined in: [WAProto/index.d.ts:25438](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25438)
 
 Encodes the specified Footer message. Does not implicitly [verify](Footer.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:25446](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25446)
+Defined in: [WAProto/index.d.ts:25446](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25446)
 
 Encodes the specified Footer message, length delimited. Does not implicitly [verify](Footer.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Footer`](Footer.md)
 
-Defined in: [WAProto/index.d.ts:25479](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25479)
+Defined in: [WAProto/index.d.ts:25479](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25479)
 
 Creates a Footer message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ Footer
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:25500](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25500)
+Defined in: [WAProto/index.d.ts:25500](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25500)
 
 Gets the default type url for Footer
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:25487](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25487)
+Defined in: [WAProto/index.d.ts:25487](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25487)
 
 Creates a plain object from a Footer message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25472](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L25472)
+Defined in: [WAProto/index.d.ts:25472](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25472)
 
 Verifies a Footer message.
 

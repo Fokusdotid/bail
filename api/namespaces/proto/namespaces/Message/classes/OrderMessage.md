@@ -1,6 +1,6 @@
 # Class: OrderMessage
 
-Defined in: [WAProto/index.d.ts:28676](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28676)
+Defined in: [WAProto/index.d.ts:28676](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28676)
 
 Represents an OrderMessage.
 
@@ -14,7 +14,7 @@ Represents an OrderMessage.
 
 > **new OrderMessage**(`properties`?): [`OrderMessage`](OrderMessage.md)
 
-Defined in: [WAProto/index.d.ts:28682](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28682)
+Defined in: [WAProto/index.d.ts:28682](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28682)
 
 Constructs a new OrderMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **catalogType**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28727](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28727)
+Defined in: [WAProto/index.d.ts:28727](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28727)
 
 OrderMessage catalogType.
 
@@ -50,7 +50,7 @@ OrderMessage catalogType.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:28718](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28718)
+Defined in: [WAProto/index.d.ts:28718](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28718)
 
 OrderMessage contextInfo.
 
@@ -64,7 +64,7 @@ OrderMessage contextInfo.
 
 > `optional` **itemCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:28691](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28691)
+Defined in: [WAProto/index.d.ts:28691](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28691)
 
 OrderMessage itemCount.
 
@@ -78,7 +78,7 @@ OrderMessage itemCount.
 
 > `optional` **message**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28700](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28700)
+Defined in: [WAProto/index.d.ts:28700](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28700)
 
 OrderMessage message.
 
@@ -92,7 +92,7 @@ OrderMessage message.
 
 > `optional` **messageVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:28721](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28721)
+Defined in: [WAProto/index.d.ts:28721](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28721)
 
 OrderMessage messageVersion.
 
@@ -106,7 +106,7 @@ OrderMessage messageVersion.
 
 > `optional` **orderId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28685](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28685)
+Defined in: [WAProto/index.d.ts:28685](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28685)
 
 OrderMessage orderId.
 
@@ -120,7 +120,7 @@ OrderMessage orderId.
 
 > `optional` **orderRequestMessageId**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:28724](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28724)
+Defined in: [WAProto/index.d.ts:28724](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28724)
 
 OrderMessage orderRequestMessageId.
 
@@ -134,7 +134,7 @@ OrderMessage orderRequestMessageId.
 
 > `optional` **orderTitle**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28703](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28703)
+Defined in: [WAProto/index.d.ts:28703](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28703)
 
 OrderMessage orderTitle.
 
@@ -148,7 +148,7 @@ OrderMessage orderTitle.
 
 > `optional` **sellerJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28706](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28706)
+Defined in: [WAProto/index.d.ts:28706](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28706)
 
 OrderMessage sellerJid.
 
@@ -162,7 +162,7 @@ OrderMessage sellerJid.
 
 > `optional` **status**: `null` \| [`OrderStatus`](../namespaces/OrderMessage/enumerations/OrderStatus.md)
 
-Defined in: [WAProto/index.d.ts:28694](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28694)
+Defined in: [WAProto/index.d.ts:28694](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28694)
 
 OrderMessage status.
 
@@ -176,7 +176,7 @@ OrderMessage status.
 
 > `optional` **surface**: `null` \| [`CATALOG`](../namespaces/OrderMessage/enumerations/OrderSurface.md#catalog)
 
-Defined in: [WAProto/index.d.ts:28697](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28697)
+Defined in: [WAProto/index.d.ts:28697](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28697)
 
 OrderMessage surface.
 
@@ -190,7 +190,7 @@ OrderMessage surface.
 
 > `optional` **thumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:28688](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28688)
+Defined in: [WAProto/index.d.ts:28688](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28688)
 
 OrderMessage thumbnail.
 
@@ -204,7 +204,7 @@ OrderMessage thumbnail.
 
 > `optional` **token**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28709](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28709)
+Defined in: [WAProto/index.d.ts:28709](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28709)
 
 OrderMessage token.
 
@@ -218,7 +218,7 @@ OrderMessage token.
 
 > `optional` **totalAmount1000**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:28712](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28712)
+Defined in: [WAProto/index.d.ts:28712](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28712)
 
 OrderMessage totalAmount1000.
 
@@ -232,7 +232,7 @@ OrderMessage totalAmount1000.
 
 > `optional` **totalCurrencyCode**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28715](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28715)
+Defined in: [WAProto/index.d.ts:28715](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28715)
 
 OrderMessage totalCurrencyCode.
 
@@ -246,7 +246,7 @@ OrderMessage totalCurrencyCode.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:28797](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28797)
+Defined in: [WAProto/index.d.ts:28797](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28797)
 
 Converts this OrderMessage to JSON.
 
@@ -262,7 +262,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`OrderMessage`](OrderMessage.md)
 
-Defined in: [WAProto/index.d.ts:28734](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28734)
+Defined in: [WAProto/index.d.ts:28734](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28734)
 
 Creates a new OrderMessage instance using the specified properties.
 
@@ -286,7 +286,7 @@ OrderMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`OrderMessage`](OrderMessage.md)
 
-Defined in: [WAProto/index.d.ts:28760](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28760)
+Defined in: [WAProto/index.d.ts:28760](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28760)
 
 Decodes an OrderMessage message from the specified reader or buffer.
 
@@ -324,7 +324,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`OrderMessage`](OrderMessage.md)
 
-Defined in: [WAProto/index.d.ts:28769](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28769)
+Defined in: [WAProto/index.d.ts:28769](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28769)
 
 Decodes an OrderMessage message from the specified reader or buffer, length delimited.
 
@@ -356,7 +356,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28742](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28742)
+Defined in: [WAProto/index.d.ts:28742](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28742)
 
 Encodes the specified OrderMessage message. Does not implicitly [verify](OrderMessage.md#verify) messages.
 
@@ -386,7 +386,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:28750](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28750)
+Defined in: [WAProto/index.d.ts:28750](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28750)
 
 Encodes the specified OrderMessage message, length delimited. Does not implicitly [verify](OrderMessage.md#verify) messages.
 
@@ -416,7 +416,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`OrderMessage`](OrderMessage.md)
 
-Defined in: [WAProto/index.d.ts:28783](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28783)
+Defined in: [WAProto/index.d.ts:28783](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28783)
 
 Creates an OrderMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -438,7 +438,7 @@ OrderMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:28804](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28804)
+Defined in: [WAProto/index.d.ts:28804](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28804)
 
 Gets the default type url for OrderMessage
 
@@ -462,7 +462,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:28791](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28791)
+Defined in: [WAProto/index.d.ts:28791](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28791)
 
 Creates a plain object from an OrderMessage message. Also converts values to other types if specified.
 
@@ -492,7 +492,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:28776](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L28776)
+Defined in: [WAProto/index.d.ts:28776](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L28776)
 
 Verifies an OrderMessage message.
 

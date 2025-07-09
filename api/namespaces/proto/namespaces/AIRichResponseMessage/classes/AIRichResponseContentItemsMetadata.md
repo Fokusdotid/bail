@@ -1,6 +1,6 @@
 # Class: AIRichResponseContentItemsMetadata
 
-Defined in: [WAProto/index.d.ts:1037](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L1037)
+Defined in: [WAProto/index.d.ts:1037](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1037)
 
 Represents a AIRichResponseContentItemsMetadata.
 
@@ -14,7 +14,7 @@ Represents a AIRichResponseContentItemsMetadata.
 
 > **new AIRichResponseContentItemsMetadata**(`properties`?): [`AIRichResponseContentItemsMetadata`](AIRichResponseContentItemsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1043](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L1043)
+Defined in: [WAProto/index.d.ts:1043](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1043)
 
 Constructs a new AIRichResponseContentItemsMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **contentType**: `null` \| [`ContentType`](../namespaces/AIRichResponseContentItemsMetadata/enumerations/ContentType.md)
 
-Defined in: [WAProto/index.d.ts:1049](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L1049)
+Defined in: [WAProto/index.d.ts:1049](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1049)
 
 AIRichResponseContentItemsMetadata contentType.
 
@@ -50,7 +50,7 @@ AIRichResponseContentItemsMetadata contentType.
 
 > **itemsMetadata**: [`IAIRichResponseContentItemMetadata`](../namespaces/AIRichResponseContentItemsMetadata/interfaces/IAIRichResponseContentItemMetadata.md)[]
 
-Defined in: [WAProto/index.d.ts:1046](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L1046)
+Defined in: [WAProto/index.d.ts:1046](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1046)
 
 AIRichResponseContentItemsMetadata itemsMetadata.
 
@@ -64,7 +64,7 @@ AIRichResponseContentItemsMetadata itemsMetadata.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:1119](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L1119)
+Defined in: [WAProto/index.d.ts:1119](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1119)
 
 Converts this AIRichResponseContentItemsMetadata to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIRichResponseContentItemsMetadata`](AIRichResponseContentItemsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1056](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L1056)
+Defined in: [WAProto/index.d.ts:1056](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1056)
 
 Creates a new AIRichResponseContentItemsMetadata instance using the specified properties.
 
@@ -104,7 +104,7 @@ AIRichResponseContentItemsMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`AIRichResponseContentItemsMetadata`](AIRichResponseContentItemsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1082](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L1082)
+Defined in: [WAProto/index.d.ts:1082](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1082)
 
 Decodes a AIRichResponseContentItemsMetadata message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIRichResponseContentItemsMetadata`](AIRichResponseContentItemsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1091](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L1091)
+Defined in: [WAProto/index.d.ts:1091](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1091)
 
 Decodes a AIRichResponseContentItemsMetadata message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:1064](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L1064)
+Defined in: [WAProto/index.d.ts:1064](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1064)
 
 Encodes the specified AIRichResponseContentItemsMetadata message. Does not implicitly [verify](AIRichResponseContentItemsMetadata.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:1072](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L1072)
+Defined in: [WAProto/index.d.ts:1072](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1072)
 
 Encodes the specified AIRichResponseContentItemsMetadata message, length delimited. Does not implicitly [verify](AIRichResponseContentItemsMetadata.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIRichResponseContentItemsMetadata`](AIRichResponseContentItemsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1105](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L1105)
+Defined in: [WAProto/index.d.ts:1105](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1105)
 
 Creates a AIRichResponseContentItemsMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ AIRichResponseContentItemsMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:1126](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L1126)
+Defined in: [WAProto/index.d.ts:1126](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1126)
 
 Gets the default type url for AIRichResponseContentItemsMetadata
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:1113](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L1113)
+Defined in: [WAProto/index.d.ts:1113](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1113)
 
 Creates a plain object from a AIRichResponseContentItemsMetadata message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1098](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L1098)
+Defined in: [WAProto/index.d.ts:1098](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1098)
 
 Verifies a AIRichResponseContentItemsMetadata message.
 

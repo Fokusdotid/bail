@@ -1,6 +1,6 @@
 # Class: RequestStickerReupload
 
-Defined in: [WAProto/index.d.ts:29715](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L29715)
+Defined in: [WAProto/index.d.ts:29715](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L29715)
 
 Represents a RequestStickerReupload.
 
@@ -14,7 +14,7 @@ Represents a RequestStickerReupload.
 
 > **new RequestStickerReupload**(`properties`?): [`RequestStickerReupload`](RequestStickerReupload.md)
 
-Defined in: [WAProto/index.d.ts:29721](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L29721)
+Defined in: [WAProto/index.d.ts:29721](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L29721)
 
 Constructs a new RequestStickerReupload.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **fileSha256**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29724](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L29724)
+Defined in: [WAProto/index.d.ts:29724](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L29724)
 
 RequestStickerReupload fileSha256.
 
@@ -50,7 +50,7 @@ RequestStickerReupload fileSha256.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:29794](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L29794)
+Defined in: [WAProto/index.d.ts:29794](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L29794)
 
 Converts this RequestStickerReupload to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`RequestStickerReupload`](RequestStickerReupload.md)
 
-Defined in: [WAProto/index.d.ts:29731](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L29731)
+Defined in: [WAProto/index.d.ts:29731](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L29731)
 
 Creates a new RequestStickerReupload instance using the specified properties.
 
@@ -90,7 +90,7 @@ RequestStickerReupload instance
 
 > `static` **decode**(`reader`, `length`?): [`RequestStickerReupload`](RequestStickerReupload.md)
 
-Defined in: [WAProto/index.d.ts:29757](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L29757)
+Defined in: [WAProto/index.d.ts:29757](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L29757)
 
 Decodes a RequestStickerReupload message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`RequestStickerReupload`](RequestStickerReupload.md)
 
-Defined in: [WAProto/index.d.ts:29766](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L29766)
+Defined in: [WAProto/index.d.ts:29766](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L29766)
 
 Decodes a RequestStickerReupload message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29739](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L29739)
+Defined in: [WAProto/index.d.ts:29739](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L29739)
 
 Encodes the specified RequestStickerReupload message. Does not implicitly [verify](RequestStickerReupload.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29747](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L29747)
+Defined in: [WAProto/index.d.ts:29747](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L29747)
 
 Encodes the specified RequestStickerReupload message, length delimited. Does not implicitly [verify](RequestStickerReupload.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`RequestStickerReupload`](RequestStickerReupload.md)
 
-Defined in: [WAProto/index.d.ts:29780](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L29780)
+Defined in: [WAProto/index.d.ts:29780](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L29780)
 
 Creates a RequestStickerReupload message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ RequestStickerReupload
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:29801](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L29801)
+Defined in: [WAProto/index.d.ts:29801](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L29801)
 
 Gets the default type url for RequestStickerReupload
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:29788](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L29788)
+Defined in: [WAProto/index.d.ts:29788](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L29788)
 
 Creates a plain object from a RequestStickerReupload message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29773](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L29773)
+Defined in: [WAProto/index.d.ts:29773](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L29773)
 
 Verifies a RequestStickerReupload message.
 

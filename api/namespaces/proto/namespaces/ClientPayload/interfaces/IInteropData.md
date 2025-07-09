@@ -1,6 +1,6 @@
 # Interface: IInteropData
 
-Defined in: [WAProto/index.d.ts:9548](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L9548)
+Defined in: [WAProto/index.d.ts:9548](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9548)
 
 Properties of an InteropData.
 
@@ -10,7 +10,7 @@ Properties of an InteropData.
 
 > `optional` **accountId**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:9551](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L9551)
+Defined in: [WAProto/index.d.ts:9551](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9551)
 
 InteropData accountId
 
@@ -20,7 +20,7 @@ InteropData accountId
 
 > `optional` **enableReadReceipts**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:9557](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L9557)
+Defined in: [WAProto/index.d.ts:9557](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9557)
 
 InteropData enableReadReceipts
 
@@ -30,6 +30,6 @@ InteropData enableReadReceipts
 
 > `optional` **token**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:9554](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L9554)
+Defined in: [WAProto/index.d.ts:9554](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9554)
 
 InteropData token

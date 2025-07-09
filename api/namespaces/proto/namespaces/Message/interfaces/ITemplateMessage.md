@@ -1,6 +1,6 @@
 # Interface: ITemplateMessage
 
-Defined in: [WAProto/index.d.ts:34774](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L34774)
+Defined in: [WAProto/index.d.ts:34774](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L34774)
 
 Properties of a TemplateMessage.
 
@@ -10,7 +10,7 @@ Properties of a TemplateMessage.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:34777](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L34777)
+Defined in: [WAProto/index.d.ts:34777](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L34777)
 
 TemplateMessage contextInfo
 
@@ -20,7 +20,7 @@ TemplateMessage contextInfo
 
 > `optional` **fourRowTemplate**: `null` \| [`IFourRowTemplate`](../namespaces/TemplateMessage/interfaces/IFourRowTemplate.md)
 
-Defined in: [WAProto/index.d.ts:34786](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L34786)
+Defined in: [WAProto/index.d.ts:34786](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L34786)
 
 TemplateMessage fourRowTemplate
 
@@ -30,7 +30,7 @@ TemplateMessage fourRowTemplate
 
 > `optional` **hydratedFourRowTemplate**: `null` \| [`IHydratedFourRowTemplate`](../namespaces/TemplateMessage/interfaces/IHydratedFourRowTemplate.md)
 
-Defined in: [WAProto/index.d.ts:34789](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L34789)
+Defined in: [WAProto/index.d.ts:34789](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L34789)
 
 TemplateMessage hydratedFourRowTemplate
 
@@ -40,7 +40,7 @@ TemplateMessage hydratedFourRowTemplate
 
 > `optional` **hydratedTemplate**: `null` \| [`IHydratedFourRowTemplate`](../namespaces/TemplateMessage/interfaces/IHydratedFourRowTemplate.md)
 
-Defined in: [WAProto/index.d.ts:34780](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L34780)
+Defined in: [WAProto/index.d.ts:34780](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L34780)
 
 TemplateMessage hydratedTemplate
 
@@ -50,7 +50,7 @@ TemplateMessage hydratedTemplate
 
 > `optional` **interactiveMessageTemplate**: `null` \| [`IInteractiveMessage`](IInteractiveMessage.md)
 
-Defined in: [WAProto/index.d.ts:34792](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L34792)
+Defined in: [WAProto/index.d.ts:34792](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L34792)
 
 TemplateMessage interactiveMessageTemplate
 
@@ -60,6 +60,6 @@ TemplateMessage interactiveMessageTemplate
 
 > `optional` **templateId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34783](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L34783)
+Defined in: [WAProto/index.d.ts:34783](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L34783)
 
 TemplateMessage templateId

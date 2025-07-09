@@ -1,6 +1,6 @@
 # Enumeration: SecretEncType
 
-Defined in: [WAProto/index.d.ts:33634](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L33634)
+Defined in: [WAProto/index.d.ts:33634](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L33634)
 
 SecretEncType enum.
 
@@ -10,7 +10,7 @@ SecretEncType enum.
 
 > **EVENT\_EDIT**: `1`
 
-Defined in: [WAProto/index.d.ts:33636](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L33636)
+Defined in: [WAProto/index.d.ts:33636](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L33636)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:33636](https://github.com/Fokusdotid/bail/blob/0
 
 > **MESSAGE\_EDIT**: `2`
 
-Defined in: [WAProto/index.d.ts:33637](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L33637)
+Defined in: [WAProto/index.d.ts:33637](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L33637)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:33637](https://github.com/Fokusdotid/bail/blob/0
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:33635](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L33635)
+Defined in: [WAProto/index.d.ts:33635](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L33635)

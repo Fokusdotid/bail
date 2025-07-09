@@ -1,6 +1,6 @@
 # Class: DNSSource
 
-Defined in: [WAProto/index.d.ts:9296](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L9296)
+Defined in: [WAProto/index.d.ts:9296](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9296)
 
 Represents a DNSSource.
 
@@ -14,7 +14,7 @@ Represents a DNSSource.
 
 > **new DNSSource**(`properties`?): [`DNSSource`](DNSSource.md)
 
-Defined in: [WAProto/index.d.ts:9302](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L9302)
+Defined in: [WAProto/index.d.ts:9302](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9302)
 
 Constructs a new DNSSource.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **appCached**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:9308](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L9308)
+Defined in: [WAProto/index.d.ts:9308](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9308)
 
 DNSSource appCached.
 
@@ -50,7 +50,7 @@ DNSSource appCached.
 
 > `optional` **dnsMethod**: `null` \| [`DNSResolutionMethod`](../namespaces/DNSSource/enumerations/DNSResolutionMethod.md)
 
-Defined in: [WAProto/index.d.ts:9305](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L9305)
+Defined in: [WAProto/index.d.ts:9305](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9305)
 
 DNSSource dnsMethod.
 
@@ -64,7 +64,7 @@ DNSSource dnsMethod.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:9378](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L9378)
+Defined in: [WAProto/index.d.ts:9378](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9378)
 
 Converts this DNSSource to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`DNSSource`](DNSSource.md)
 
-Defined in: [WAProto/index.d.ts:9315](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L9315)
+Defined in: [WAProto/index.d.ts:9315](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9315)
 
 Creates a new DNSSource instance using the specified properties.
 
@@ -104,7 +104,7 @@ DNSSource instance
 
 > `static` **decode**(`reader`, `length`?): [`DNSSource`](DNSSource.md)
 
-Defined in: [WAProto/index.d.ts:9341](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L9341)
+Defined in: [WAProto/index.d.ts:9341](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9341)
 
 Decodes a DNSSource message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`DNSSource`](DNSSource.md)
 
-Defined in: [WAProto/index.d.ts:9350](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L9350)
+Defined in: [WAProto/index.d.ts:9350](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9350)
 
 Decodes a DNSSource message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:9323](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L9323)
+Defined in: [WAProto/index.d.ts:9323](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9323)
 
 Encodes the specified DNSSource message. Does not implicitly [verify](DNSSource.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:9331](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L9331)
+Defined in: [WAProto/index.d.ts:9331](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9331)
 
 Encodes the specified DNSSource message, length delimited. Does not implicitly [verify](DNSSource.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`DNSSource`](DNSSource.md)
 
-Defined in: [WAProto/index.d.ts:9364](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L9364)
+Defined in: [WAProto/index.d.ts:9364](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9364)
 
 Creates a DNSSource message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ DNSSource
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:9385](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L9385)
+Defined in: [WAProto/index.d.ts:9385](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9385)
 
 Gets the default type url for DNSSource
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:9372](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L9372)
+Defined in: [WAProto/index.d.ts:9372](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9372)
 
 Creates a plain object from a DNSSource message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:9357](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L9357)
+Defined in: [WAProto/index.d.ts:9357](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9357)
 
 Verifies a DNSSource message.
 

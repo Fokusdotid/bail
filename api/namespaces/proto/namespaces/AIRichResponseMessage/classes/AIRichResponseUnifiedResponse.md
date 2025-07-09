@@ -1,6 +1,6 @@
 # Class: AIRichResponseUnifiedResponse
 
-Defined in: [WAProto/index.d.ts:2699](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2699)
+Defined in: [WAProto/index.d.ts:2699](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2699)
 
 Represents a AIRichResponseUnifiedResponse.
 
@@ -14,7 +14,7 @@ Represents a AIRichResponseUnifiedResponse.
 
 > **new AIRichResponseUnifiedResponse**(`properties`?): [`AIRichResponseUnifiedResponse`](AIRichResponseUnifiedResponse.md)
 
-Defined in: [WAProto/index.d.ts:2705](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2705)
+Defined in: [WAProto/index.d.ts:2705](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2705)
 
 Constructs a new AIRichResponseUnifiedResponse.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **data**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:2708](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2708)
+Defined in: [WAProto/index.d.ts:2708](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2708)
 
 AIRichResponseUnifiedResponse data.
 
@@ -50,7 +50,7 @@ AIRichResponseUnifiedResponse data.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:2778](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2778)
+Defined in: [WAProto/index.d.ts:2778](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2778)
 
 Converts this AIRichResponseUnifiedResponse to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIRichResponseUnifiedResponse`](AIRichResponseUnifiedResponse.md)
 
-Defined in: [WAProto/index.d.ts:2715](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2715)
+Defined in: [WAProto/index.d.ts:2715](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2715)
 
 Creates a new AIRichResponseUnifiedResponse instance using the specified properties.
 
@@ -90,7 +90,7 @@ AIRichResponseUnifiedResponse instance
 
 > `static` **decode**(`reader`, `length`?): [`AIRichResponseUnifiedResponse`](AIRichResponseUnifiedResponse.md)
 
-Defined in: [WAProto/index.d.ts:2741](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2741)
+Defined in: [WAProto/index.d.ts:2741](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2741)
 
 Decodes a AIRichResponseUnifiedResponse message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIRichResponseUnifiedResponse`](AIRichResponseUnifiedResponse.md)
 
-Defined in: [WAProto/index.d.ts:2750](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2750)
+Defined in: [WAProto/index.d.ts:2750](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2750)
 
 Decodes a AIRichResponseUnifiedResponse message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2723](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2723)
+Defined in: [WAProto/index.d.ts:2723](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2723)
 
 Encodes the specified AIRichResponseUnifiedResponse message. Does not implicitly [verify](AIRichResponseUnifiedResponse.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2731](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2731)
+Defined in: [WAProto/index.d.ts:2731](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2731)
 
 Encodes the specified AIRichResponseUnifiedResponse message, length delimited. Does not implicitly [verify](AIRichResponseUnifiedResponse.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIRichResponseUnifiedResponse`](AIRichResponseUnifiedResponse.md)
 
-Defined in: [WAProto/index.d.ts:2764](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2764)
+Defined in: [WAProto/index.d.ts:2764](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2764)
 
 Creates a AIRichResponseUnifiedResponse message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ AIRichResponseUnifiedResponse
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:2785](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2785)
+Defined in: [WAProto/index.d.ts:2785](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2785)
 
 Gets the default type url for AIRichResponseUnifiedResponse
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:2772](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2772)
+Defined in: [WAProto/index.d.ts:2772](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2772)
 
 Creates a plain object from a AIRichResponseUnifiedResponse message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2757](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L2757)
+Defined in: [WAProto/index.d.ts:2757](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2757)
 
 Verifies a AIRichResponseUnifiedResponse message.
 

@@ -1,6 +1,6 @@
 # Interface: IBizAccountLinkInfo
 
-Defined in: [WAProto/index.d.ts:3226](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3226)
+Defined in: [WAProto/index.d.ts:3226](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3226)
 
 Properties of a BizAccountLinkInfo.
 
@@ -10,7 +10,7 @@ Properties of a BizAccountLinkInfo.
 
 > `optional` **accountType**: `null` \| [`ENTERPRISE`](../namespaces/BizAccountLinkInfo/enumerations/AccountType.md#enterprise)
 
-Defined in: [WAProto/index.d.ts:3241](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3241)
+Defined in: [WAProto/index.d.ts:3241](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3241)
 
 BizAccountLinkInfo accountType
 
@@ -20,7 +20,7 @@ BizAccountLinkInfo accountType
 
 > `optional` **hostStorage**: `null` \| [`HostStorageType`](../namespaces/BizAccountLinkInfo/enumerations/HostStorageType.md)
 
-Defined in: [WAProto/index.d.ts:3238](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3238)
+Defined in: [WAProto/index.d.ts:3238](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3238)
 
 BizAccountLinkInfo hostStorage
 
@@ -30,7 +30,7 @@ BizAccountLinkInfo hostStorage
 
 > `optional` **issueTime**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:3235](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3235)
+Defined in: [WAProto/index.d.ts:3235](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3235)
 
 BizAccountLinkInfo issueTime
 
@@ -40,7 +40,7 @@ BizAccountLinkInfo issueTime
 
 > `optional` **whatsappAcctNumber**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:3232](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3232)
+Defined in: [WAProto/index.d.ts:3232](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3232)
 
 BizAccountLinkInfo whatsappAcctNumber
 
@@ -50,6 +50,6 @@ BizAccountLinkInfo whatsappAcctNumber
 
 > `optional` **whatsappBizAcctFbid**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:3229](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L3229)
+Defined in: [WAProto/index.d.ts:3229](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3229)
 
 BizAccountLinkInfo whatsappBizAcctFbid

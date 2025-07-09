@@ -1,6 +1,6 @@
 # Interface: GroupModificationResponse
 
-Defined in: [src/Types/GroupMetadata.ts:64](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/src/Types/GroupMetadata.ts#L64)
+Defined in: [src/Types/GroupMetadata.ts:64](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/src/Types/GroupMetadata.ts#L64)
 
 ## Properties
 
@@ -8,7 +8,7 @@ Defined in: [src/Types/GroupMetadata.ts:64](https://github.com/Fokusdotid/bail/b
 
 > `optional` **participants**: `object`
 
-Defined in: [src/Types/GroupMetadata.ts:66](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/src/Types/GroupMetadata.ts#L66)
+Defined in: [src/Types/GroupMetadata.ts:66](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/src/Types/GroupMetadata.ts#L66)
 
 #### Index Signature
 
@@ -20,4 +20,4 @@ Defined in: [src/Types/GroupMetadata.ts:66](https://github.com/Fokusdotid/bail/b
 
 > **status**: `number`
 
-Defined in: [src/Types/GroupMetadata.ts:65](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/src/Types/GroupMetadata.ts#L65)
+Defined in: [src/Types/GroupMetadata.ts:65](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/src/Types/GroupMetadata.ts#L65)

@@ -1,6 +1,6 @@
 # Enumeration: BotFeatureType
 
-Defined in: [WAProto/index.d.ts:6675](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L6675)
+Defined in: [WAProto/index.d.ts:6675](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L6675)
 
 BotFeatureType enum.
 
@@ -10,7 +10,7 @@ BotFeatureType enum.
 
 > **REASONING\_FEATURE**: `1`
 
-Defined in: [WAProto/index.d.ts:6677](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L6677)
+Defined in: [WAProto/index.d.ts:6677](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L6677)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:6677](https://github.com/Fokusdotid/bail/blob/0f
 
 > **UNKNOWN\_FEATURE**: `0`
 
-Defined in: [WAProto/index.d.ts:6676](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L6676)
+Defined in: [WAProto/index.d.ts:6676](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L6676)

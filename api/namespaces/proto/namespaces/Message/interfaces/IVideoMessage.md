@@ -1,6 +1,6 @@
 # Interface: IVideoMessage
 
-Defined in: [WAProto/index.d.ts:35300](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35300)
+Defined in: [WAProto/index.d.ts:35300](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35300)
 
 Properties of a VideoMessage.
 
@@ -10,7 +10,7 @@ Properties of a VideoMessage.
 
 > `optional` **accessibilityLabel**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35375](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35375)
+Defined in: [WAProto/index.d.ts:35375](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35375)
 
 VideoMessage accessibilityLabel
 
@@ -20,7 +20,7 @@ VideoMessage accessibilityLabel
 
 > `optional` **annotations**: `null` \| [`IInteractiveAnnotation`](../../../interfaces/IInteractiveAnnotation.md)[]
 
-Defined in: [WAProto/index.d.ts:35372](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35372)
+Defined in: [WAProto/index.d.ts:35372](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35372)
 
 VideoMessage annotations
 
@@ -30,7 +30,7 @@ VideoMessage annotations
 
 > `optional` **caption**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35321](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35321)
+Defined in: [WAProto/index.d.ts:35321](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35321)
 
 VideoMessage caption
 
@@ -40,7 +40,7 @@ VideoMessage caption
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:35348](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35348)
+Defined in: [WAProto/index.d.ts:35348](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35348)
 
 VideoMessage contextInfo
 
@@ -50,7 +50,7 @@ VideoMessage contextInfo
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35339](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35339)
+Defined in: [WAProto/index.d.ts:35339](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35339)
 
 VideoMessage directPath
 
@@ -60,7 +60,7 @@ VideoMessage directPath
 
 > `optional` **externalShareFullVideoDurationInSeconds**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:35381](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35381)
+Defined in: [WAProto/index.d.ts:35381](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35381)
 
 VideoMessage externalShareFullVideoDurationInSeconds
 
@@ -70,7 +70,7 @@ VideoMessage externalShareFullVideoDurationInSeconds
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35333](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35333)
+Defined in: [WAProto/index.d.ts:35333](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35333)
 
 VideoMessage fileEncSha256
 
@@ -80,7 +80,7 @@ VideoMessage fileEncSha256
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:35312](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35312)
+Defined in: [WAProto/index.d.ts:35312](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35312)
 
 VideoMessage fileLength
 
@@ -90,7 +90,7 @@ VideoMessage fileLength
 
 > `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35309](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35309)
+Defined in: [WAProto/index.d.ts:35309](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35309)
 
 VideoMessage fileSha256
 
@@ -100,7 +100,7 @@ VideoMessage fileSha256
 
 > `optional` **gifAttribution**: `null` \| [`Attribution`](../namespaces/VideoMessage/enumerations/Attribution.md)
 
-Defined in: [WAProto/index.d.ts:35354](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35354)
+Defined in: [WAProto/index.d.ts:35354](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35354)
 
 VideoMessage gifAttribution
 
@@ -110,7 +110,7 @@ VideoMessage gifAttribution
 
 > `optional` **gifPlayback**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:35324](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35324)
+Defined in: [WAProto/index.d.ts:35324](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35324)
 
 VideoMessage gifPlayback
 
@@ -120,7 +120,7 @@ VideoMessage gifPlayback
 
 > `optional` **height**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:35327](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35327)
+Defined in: [WAProto/index.d.ts:35327](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35327)
 
 VideoMessage height
 
@@ -130,7 +130,7 @@ VideoMessage height
 
 > `optional` **interactiveAnnotations**: `null` \| [`IInteractiveAnnotation`](../../../interfaces/IInteractiveAnnotation.md)[]
 
-Defined in: [WAProto/index.d.ts:35336](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35336)
+Defined in: [WAProto/index.d.ts:35336](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35336)
 
 VideoMessage interactiveAnnotations
 
@@ -140,7 +140,7 @@ VideoMessage interactiveAnnotations
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35345](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35345)
+Defined in: [WAProto/index.d.ts:35345](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35345)
 
 VideoMessage jpegThumbnail
 
@@ -150,7 +150,7 @@ VideoMessage jpegThumbnail
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35318](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35318)
+Defined in: [WAProto/index.d.ts:35318](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35318)
 
 VideoMessage mediaKey
 
@@ -160,7 +160,7 @@ VideoMessage mediaKey
 
 > `optional` **mediaKeyTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:35342](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35342)
+Defined in: [WAProto/index.d.ts:35342](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35342)
 
 VideoMessage mediaKeyTimestamp
 
@@ -170,7 +170,7 @@ VideoMessage mediaKeyTimestamp
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35306](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35306)
+Defined in: [WAProto/index.d.ts:35306](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35306)
 
 VideoMessage mimetype
 
@@ -180,7 +180,7 @@ VideoMessage mimetype
 
 > `optional` **processedVideos**: `null` \| [`IProcessedVideo`](../../../interfaces/IProcessedVideo.md)[]
 
-Defined in: [WAProto/index.d.ts:35378](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35378)
+Defined in: [WAProto/index.d.ts:35378](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35378)
 
 VideoMessage processedVideos
 
@@ -190,7 +190,7 @@ VideoMessage processedVideos
 
 > `optional` **seconds**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:35315](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35315)
+Defined in: [WAProto/index.d.ts:35315](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35315)
 
 VideoMessage seconds
 
@@ -200,7 +200,7 @@ VideoMessage seconds
 
 > `optional` **staticUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35369](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35369)
+Defined in: [WAProto/index.d.ts:35369](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35369)
 
 VideoMessage staticUrl
 
@@ -210,7 +210,7 @@ VideoMessage staticUrl
 
 > `optional` **streamingSidecar**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35351](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35351)
+Defined in: [WAProto/index.d.ts:35351](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35351)
 
 VideoMessage streamingSidecar
 
@@ -220,7 +220,7 @@ VideoMessage streamingSidecar
 
 > `optional` **thumbnailDirectPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35360](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35360)
+Defined in: [WAProto/index.d.ts:35360](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35360)
 
 VideoMessage thumbnailDirectPath
 
@@ -230,7 +230,7 @@ VideoMessage thumbnailDirectPath
 
 > `optional` **thumbnailEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35366](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35366)
+Defined in: [WAProto/index.d.ts:35366](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35366)
 
 VideoMessage thumbnailEncSha256
 
@@ -240,7 +240,7 @@ VideoMessage thumbnailEncSha256
 
 > `optional` **thumbnailSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35363](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35363)
+Defined in: [WAProto/index.d.ts:35363](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35363)
 
 VideoMessage thumbnailSha256
 
@@ -250,7 +250,7 @@ VideoMessage thumbnailSha256
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35303](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35303)
+Defined in: [WAProto/index.d.ts:35303](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35303)
 
 VideoMessage url
 
@@ -260,7 +260,7 @@ VideoMessage url
 
 > `optional` **viewOnce**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:35357](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35357)
+Defined in: [WAProto/index.d.ts:35357](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35357)
 
 VideoMessage viewOnce
 
@@ -270,6 +270,6 @@ VideoMessage viewOnce
 
 > `optional` **width**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:35330](https://github.com/Fokusdotid/bail/blob/0fe6346a5ff68a74eb71890335c982b44e2da604/WAProto/index.d.ts#L35330)
+Defined in: [WAProto/index.d.ts:35330](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35330)
 
 VideoMessage width
