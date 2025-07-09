@@ -1,6 +1,6 @@
 # Enumeration: EndOfHistoryTransferType
 
-Defined in: [WAProto/index.d.ts:12723](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L12723)
+Defined in: [WAProto/index.d.ts:12723](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L12723)
 
 EndOfHistoryTransferType enum.
 
@@ -10,7 +10,7 @@ EndOfHistoryTransferType enum.
 
 > **COMPLETE\_AND\_NO\_MORE\_MESSAGE\_REMAIN\_ON\_PRIMARY**: `1`
 
-Defined in: [WAProto/index.d.ts:12725](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L12725)
+Defined in: [WAProto/index.d.ts:12725](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L12725)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:12725](https://github.com/Fokusdotid/bail/blob/c
 
 > **COMPLETE\_BUT\_MORE\_MESSAGES\_REMAIN\_ON\_PRIMARY**: `0`
 
-Defined in: [WAProto/index.d.ts:12724](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L12724)
+Defined in: [WAProto/index.d.ts:12724](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L12724)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:12724](https://github.com/Fokusdotid/bail/blob/c
 
 > **COMPLETE\_ON\_DEMAND\_SYNC\_BUT\_MORE\_MSG\_REMAIN\_ON\_PRIMARY**: `2`
 
-Defined in: [WAProto/index.d.ts:12726](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L12726)
+Defined in: [WAProto/index.d.ts:12726](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L12726)

@@ -1,6 +1,6 @@
 # Interface: IDeleteIndividualCallLogAction
 
-Defined in: [WAProto/index.d.ts:45108](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L45108)
+Defined in: [WAProto/index.d.ts:45108](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L45108)
 
 Properties of a DeleteIndividualCallLogAction.
 
@@ -10,7 +10,7 @@ Properties of a DeleteIndividualCallLogAction.
 
 > `optional` **isIncoming**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:45114](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L45114)
+Defined in: [WAProto/index.d.ts:45114](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L45114)
 
 DeleteIndividualCallLogAction isIncoming
 
@@ -20,6 +20,6 @@ DeleteIndividualCallLogAction isIncoming
 
 > `optional` **peerJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:45111](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L45111)
+Defined in: [WAProto/index.d.ts:45111](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L45111)
 
 DeleteIndividualCallLogAction peerJid

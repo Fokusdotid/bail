@@ -1,6 +1,6 @@
 # Class: BotPlanningStepMetadata
 
-Defined in: [WAProto/index.d.ts:5681](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5681)
+Defined in: [WAProto/index.d.ts:5681](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L5681)
 
 Represents a BotPlanningStepMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotPlanningStepMetadata.
 
 > **new BotPlanningStepMetadata**(`properties`?): [`BotPlanningStepMetadata`](BotPlanningStepMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5687](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5687)
+Defined in: [WAProto/index.d.ts:5687](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L5687)
 
 Constructs a new BotPlanningStepMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **isEnhancedSearch**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:5705](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5705)
+Defined in: [WAProto/index.d.ts:5705](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L5705)
 
 BotPlanningStepMetadata isEnhancedSearch.
 
@@ -50,7 +50,7 @@ BotPlanningStepMetadata isEnhancedSearch.
 
 > `optional` **isReasoning**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:5702](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5702)
+Defined in: [WAProto/index.d.ts:5702](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L5702)
 
 BotPlanningStepMetadata isReasoning.
 
@@ -64,7 +64,7 @@ BotPlanningStepMetadata isReasoning.
 
 > **sections**: [`IBotPlanningStepSectionMetadata`](../namespaces/BotPlanningStepMetadata/interfaces/IBotPlanningStepSectionMetadata.md)[]
 
-Defined in: [WAProto/index.d.ts:5708](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5708)
+Defined in: [WAProto/index.d.ts:5708](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L5708)
 
 BotPlanningStepMetadata sections.
 
@@ -78,7 +78,7 @@ BotPlanningStepMetadata sections.
 
 > **sourcesMetadata**: [`IBotPlanningSearchSourcesMetadata`](../namespaces/BotPlanningStepMetadata/interfaces/IBotPlanningSearchSourcesMetadata.md)[]
 
-Defined in: [WAProto/index.d.ts:5696](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5696)
+Defined in: [WAProto/index.d.ts:5696](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L5696)
 
 BotPlanningStepMetadata sourcesMetadata.
 
@@ -92,7 +92,7 @@ BotPlanningStepMetadata sourcesMetadata.
 
 > `optional` **status**: `null` \| [`PlanningStepStatus`](../namespaces/BotPlanningStepMetadata/enumerations/PlanningStepStatus.md)
 
-Defined in: [WAProto/index.d.ts:5699](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5699)
+Defined in: [WAProto/index.d.ts:5699](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L5699)
 
 BotPlanningStepMetadata status.
 
@@ -106,7 +106,7 @@ BotPlanningStepMetadata status.
 
 > `optional` **statusBody**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5693](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5693)
+Defined in: [WAProto/index.d.ts:5693](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L5693)
 
 BotPlanningStepMetadata statusBody.
 
@@ -120,7 +120,7 @@ BotPlanningStepMetadata statusBody.
 
 > `optional` **statusTitle**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5690](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5690)
+Defined in: [WAProto/index.d.ts:5690](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L5690)
 
 BotPlanningStepMetadata statusTitle.
 
@@ -134,7 +134,7 @@ BotPlanningStepMetadata statusTitle.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:5778](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5778)
+Defined in: [WAProto/index.d.ts:5778](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L5778)
 
 Converts this BotPlanningStepMetadata to JSON.
 
@@ -150,7 +150,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotPlanningStepMetadata`](BotPlanningStepMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5715](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5715)
+Defined in: [WAProto/index.d.ts:5715](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L5715)
 
 Creates a new BotPlanningStepMetadata instance using the specified properties.
 
@@ -174,7 +174,7 @@ BotPlanningStepMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotPlanningStepMetadata`](BotPlanningStepMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5741](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5741)
+Defined in: [WAProto/index.d.ts:5741](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L5741)
 
 Decodes a BotPlanningStepMetadata message from the specified reader or buffer.
 
@@ -212,7 +212,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotPlanningStepMetadata`](BotPlanningStepMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5750](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5750)
+Defined in: [WAProto/index.d.ts:5750](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L5750)
 
 Decodes a BotPlanningStepMetadata message from the specified reader or buffer, length delimited.
 
@@ -244,7 +244,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5723](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5723)
+Defined in: [WAProto/index.d.ts:5723](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L5723)
 
 Encodes the specified BotPlanningStepMetadata message. Does not implicitly [verify](BotPlanningStepMetadata.md#verify) messages.
 
@@ -274,7 +274,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:5731](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5731)
+Defined in: [WAProto/index.d.ts:5731](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L5731)
 
 Encodes the specified BotPlanningStepMetadata message, length delimited. Does not implicitly [verify](BotPlanningStepMetadata.md#verify) messages.
 
@@ -304,7 +304,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotPlanningStepMetadata`](BotPlanningStepMetadata.md)
 
-Defined in: [WAProto/index.d.ts:5764](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5764)
+Defined in: [WAProto/index.d.ts:5764](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L5764)
 
 Creates a BotPlanningStepMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -326,7 +326,7 @@ BotPlanningStepMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:5785](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5785)
+Defined in: [WAProto/index.d.ts:5785](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L5785)
 
 Gets the default type url for BotPlanningStepMetadata
 
@@ -350,7 +350,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:5772](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5772)
+Defined in: [WAProto/index.d.ts:5772](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L5772)
 
 Creates a plain object from a BotPlanningStepMetadata message. Also converts values to other types if specified.
 
@@ -380,7 +380,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:5757](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L5757)
+Defined in: [WAProto/index.d.ts:5757](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L5757)
 
 Verifies a BotPlanningStepMetadata message.
 

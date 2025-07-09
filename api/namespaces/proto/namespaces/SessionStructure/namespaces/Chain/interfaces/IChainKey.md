@@ -1,6 +1,6 @@
 # Interface: IChainKey
 
-Defined in: [WAProto/index.d.ts:42067](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L42067)
+Defined in: [WAProto/index.d.ts:42067](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L42067)
 
 Properties of a ChainKey.
 
@@ -10,7 +10,7 @@ Properties of a ChainKey.
 
 > `optional` **index**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:42070](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L42070)
+Defined in: [WAProto/index.d.ts:42070](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L42070)
 
 ChainKey index
 
@@ -20,6 +20,6 @@ ChainKey index
 
 > `optional` **key**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:42073](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L42073)
+Defined in: [WAProto/index.d.ts:42073](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L42073)
 
 ChainKey key

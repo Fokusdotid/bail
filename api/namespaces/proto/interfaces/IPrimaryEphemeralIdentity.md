@@ -1,6 +1,6 @@
 # Interface: IPrimaryEphemeralIdentity
 
-Defined in: [WAProto/index.d.ts:39929](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L39929)
+Defined in: [WAProto/index.d.ts:39929](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L39929)
 
 Properties of a PrimaryEphemeralIdentity.
 
@@ -10,7 +10,7 @@ Properties of a PrimaryEphemeralIdentity.
 
 > `optional` **nonce**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39935](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L39935)
+Defined in: [WAProto/index.d.ts:39935](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L39935)
 
 PrimaryEphemeralIdentity nonce
 
@@ -20,6 +20,6 @@ PrimaryEphemeralIdentity nonce
 
 > `optional` **publicKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:39932](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L39932)
+Defined in: [WAProto/index.d.ts:39932](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L39932)
 
 PrimaryEphemeralIdentity publicKey

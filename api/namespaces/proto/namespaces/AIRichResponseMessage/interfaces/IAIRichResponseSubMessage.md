@@ -1,6 +1,6 @@
 # Interface: IAIRichResponseSubMessage
 
-Defined in: [WAProto/index.d.ts:2324](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2324)
+Defined in: [WAProto/index.d.ts:2324](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2324)
 
 Properties of a AIRichResponseSubMessage.
 
@@ -10,7 +10,7 @@ Properties of a AIRichResponseSubMessage.
 
 > `optional` **codeMetadata**: `null` \| [`IAIRichResponseCodeMetadata`](IAIRichResponseCodeMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2339](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2339)
+Defined in: [WAProto/index.d.ts:2339](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2339)
 
 AIRichResponseSubMessage codeMetadata
 
@@ -20,7 +20,7 @@ AIRichResponseSubMessage codeMetadata
 
 > `optional` **contentItemsMetadata**: `null` \| [`IAIRichResponseContentItemsMetadata`](IAIRichResponseContentItemsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2354](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2354)
+Defined in: [WAProto/index.d.ts:2354](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2354)
 
 AIRichResponseSubMessage contentItemsMetadata
 
@@ -30,7 +30,7 @@ AIRichResponseSubMessage contentItemsMetadata
 
 > `optional` **dynamicMetadata**: `null` \| [`IAIRichResponseDynamicMetadata`](IAIRichResponseDynamicMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2345](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2345)
+Defined in: [WAProto/index.d.ts:2345](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2345)
 
 AIRichResponseSubMessage dynamicMetadata
 
@@ -40,7 +40,7 @@ AIRichResponseSubMessage dynamicMetadata
 
 > `optional` **gridImageMetadata**: `null` \| [`IAIRichResponseGridImageMetadata`](IAIRichResponseGridImageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2330](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2330)
+Defined in: [WAProto/index.d.ts:2330](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2330)
 
 AIRichResponseSubMessage gridImageMetadata
 
@@ -50,7 +50,7 @@ AIRichResponseSubMessage gridImageMetadata
 
 > `optional` **imageMetadata**: `null` \| [`IAIRichResponseInlineImageMetadata`](IAIRichResponseInlineImageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2336](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2336)
+Defined in: [WAProto/index.d.ts:2336](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2336)
 
 AIRichResponseSubMessage imageMetadata
 
@@ -60,7 +60,7 @@ AIRichResponseSubMessage imageMetadata
 
 > `optional` **latexMetadata**: `null` \| [`IAIRichResponseLatexMetadata`](IAIRichResponseLatexMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2348](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2348)
+Defined in: [WAProto/index.d.ts:2348](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2348)
 
 AIRichResponseSubMessage latexMetadata
 
@@ -70,7 +70,7 @@ AIRichResponseSubMessage latexMetadata
 
 > `optional` **mapMetadata**: `null` \| [`IAIRichResponseMapMetadata`](IAIRichResponseMapMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2351](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2351)
+Defined in: [WAProto/index.d.ts:2351](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2351)
 
 AIRichResponseSubMessage mapMetadata
 
@@ -80,7 +80,7 @@ AIRichResponseSubMessage mapMetadata
 
 > `optional` **messageText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2333](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2333)
+Defined in: [WAProto/index.d.ts:2333](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2333)
 
 AIRichResponseSubMessage messageText
 
@@ -90,7 +90,7 @@ AIRichResponseSubMessage messageText
 
 > `optional` **messageType**: `null` \| [`AIRichResponseSubMessageType`](../enumerations/AIRichResponseSubMessageType.md)
 
-Defined in: [WAProto/index.d.ts:2327](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2327)
+Defined in: [WAProto/index.d.ts:2327](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2327)
 
 AIRichResponseSubMessage messageType
 
@@ -100,6 +100,6 @@ AIRichResponseSubMessage messageType
 
 > `optional` **tableMetadata**: `null` \| [`IAIRichResponseTableMetadata`](IAIRichResponseTableMetadata.md)
 
-Defined in: [WAProto/index.d.ts:2342](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2342)
+Defined in: [WAProto/index.d.ts:2342](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2342)
 
 AIRichResponseSubMessage tableMetadata

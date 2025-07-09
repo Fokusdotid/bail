@@ -1,6 +1,6 @@
 # Class: AIQueryFanout
 
-Defined in: [WAProto/index.d.ts:601](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L601)
+Defined in: [WAProto/index.d.ts:601](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L601)
 
 Represents a AIQueryFanout.
 
@@ -14,7 +14,7 @@ Represents a AIQueryFanout.
 
 > **new AIQueryFanout**(`properties`?): [`AIQueryFanout`](AIQueryFanout.md)
 
-Defined in: [WAProto/index.d.ts:607](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L607)
+Defined in: [WAProto/index.d.ts:607](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L607)
 
 Constructs a new AIQueryFanout.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **message**: `null` \| [`IMessage`](../interfaces/IMessage.md)
 
-Defined in: [WAProto/index.d.ts:613](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L613)
+Defined in: [WAProto/index.d.ts:613](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L613)
 
 AIQueryFanout message.
 
@@ -50,7 +50,7 @@ AIQueryFanout message.
 
 > `optional` **messageKey**: `null` \| [`IMessageKey`](../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:610](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L610)
+Defined in: [WAProto/index.d.ts:610](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L610)
 
 AIQueryFanout messageKey.
 
@@ -64,7 +64,7 @@ AIQueryFanout messageKey.
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:616](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L616)
+Defined in: [WAProto/index.d.ts:616](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L616)
 
 AIQueryFanout timestamp.
 
@@ -78,7 +78,7 @@ AIQueryFanout timestamp.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:686](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L686)
+Defined in: [WAProto/index.d.ts:686](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L686)
 
 Converts this AIQueryFanout to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIQueryFanout`](AIQueryFanout.md)
 
-Defined in: [WAProto/index.d.ts:623](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L623)
+Defined in: [WAProto/index.d.ts:623](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L623)
 
 Creates a new AIQueryFanout instance using the specified properties.
 
@@ -118,7 +118,7 @@ AIQueryFanout instance
 
 > `static` **decode**(`reader`, `length`?): [`AIQueryFanout`](AIQueryFanout.md)
 
-Defined in: [WAProto/index.d.ts:649](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L649)
+Defined in: [WAProto/index.d.ts:649](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L649)
 
 Decodes a AIQueryFanout message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIQueryFanout`](AIQueryFanout.md)
 
-Defined in: [WAProto/index.d.ts:658](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L658)
+Defined in: [WAProto/index.d.ts:658](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L658)
 
 Decodes a AIQueryFanout message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:631](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L631)
+Defined in: [WAProto/index.d.ts:631](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L631)
 
 Encodes the specified AIQueryFanout message. Does not implicitly [verify](AIQueryFanout.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:639](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L639)
+Defined in: [WAProto/index.d.ts:639](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L639)
 
 Encodes the specified AIQueryFanout message, length delimited. Does not implicitly [verify](AIQueryFanout.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIQueryFanout`](AIQueryFanout.md)
 
-Defined in: [WAProto/index.d.ts:672](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L672)
+Defined in: [WAProto/index.d.ts:672](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L672)
 
 Creates a AIQueryFanout message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ AIQueryFanout
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:693](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L693)
+Defined in: [WAProto/index.d.ts:693](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L693)
 
 Gets the default type url for AIQueryFanout
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:680](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L680)
+Defined in: [WAProto/index.d.ts:680](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L680)
 
 Creates a plain object from a AIQueryFanout message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:665](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L665)
+Defined in: [WAProto/index.d.ts:665](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L665)
 
 Verifies a AIQueryFanout message.
 

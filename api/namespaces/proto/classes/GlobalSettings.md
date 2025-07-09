@@ -1,6 +1,6 @@
 # Class: GlobalSettings
 
-Defined in: [WAProto/index.d.ts:14967](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L14967)
+Defined in: [WAProto/index.d.ts:14967](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L14967)
 
 Represents a GlobalSettings.
 
@@ -14,7 +14,7 @@ Represents a GlobalSettings.
 
 > **new GlobalSettings**(`properties`?): [`GlobalSettings`](GlobalSettings.md)
 
-Defined in: [WAProto/index.d.ts:14973](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L14973)
+Defined in: [WAProto/index.d.ts:14973](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L14973)
 
 Constructs a new GlobalSettings.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **autoDownloadCellular**: `null` \| [`IAutoDownloadSettings`](../interfaces/IAutoDownloadSettings.md)
 
-Defined in: [WAProto/index.d.ts:14988](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L14988)
+Defined in: [WAProto/index.d.ts:14988](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L14988)
 
 GlobalSettings autoDownloadCellular.
 
@@ -50,7 +50,7 @@ GlobalSettings autoDownloadCellular.
 
 > `optional` **autoDownloadRoaming**: `null` \| [`IAutoDownloadSettings`](../interfaces/IAutoDownloadSettings.md)
 
-Defined in: [WAProto/index.d.ts:14991](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L14991)
+Defined in: [WAProto/index.d.ts:14991](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L14991)
 
 GlobalSettings autoDownloadRoaming.
 
@@ -64,7 +64,7 @@ GlobalSettings autoDownloadRoaming.
 
 > `optional` **autoDownloadWiFi**: `null` \| [`IAutoDownloadSettings`](../interfaces/IAutoDownloadSettings.md)
 
-Defined in: [WAProto/index.d.ts:14985](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L14985)
+Defined in: [WAProto/index.d.ts:14985](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L14985)
 
 GlobalSettings autoDownloadWiFi.
 
@@ -78,7 +78,7 @@ GlobalSettings autoDownloadWiFi.
 
 > `optional` **autoUnarchiveChats**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:15015](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15015)
+Defined in: [WAProto/index.d.ts:15015](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15015)
 
 GlobalSettings autoUnarchiveChats.
 
@@ -92,7 +92,7 @@ GlobalSettings autoUnarchiveChats.
 
 > `optional` **avatarUserSettings**: `null` \| [`IAvatarUserSettings`](../interfaces/IAvatarUserSettings.md)
 
-Defined in: [WAProto/index.d.ts:15006](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15006)
+Defined in: [WAProto/index.d.ts:15006](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15006)
 
 GlobalSettings avatarUserSettings.
 
@@ -106,7 +106,7 @@ GlobalSettings avatarUserSettings.
 
 > `optional` **chatDbLidMigrationTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:15033](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15033)
+Defined in: [WAProto/index.d.ts:15033](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15033)
 
 GlobalSettings chatDbLidMigrationTimestamp.
 
@@ -120,7 +120,7 @@ GlobalSettings chatDbLidMigrationTimestamp.
 
 > `optional` **chatLockSettings**: `null` \| [`IChatLockSettings`](../interfaces/IChatLockSettings.md)
 
-Defined in: [WAProto/index.d.ts:15030](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15030)
+Defined in: [WAProto/index.d.ts:15030](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15030)
 
 GlobalSettings chatLockSettings.
 
@@ -134,7 +134,7 @@ GlobalSettings chatLockSettings.
 
 > `optional` **darkThemeWallpaper**: `null` \| [`IWallpaperSettings`](../interfaces/IWallpaperSettings.md)
 
-Defined in: [WAProto/index.d.ts:14982](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L14982)
+Defined in: [WAProto/index.d.ts:14982](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L14982)
 
 GlobalSettings darkThemeWallpaper.
 
@@ -148,7 +148,7 @@ GlobalSettings darkThemeWallpaper.
 
 > `optional` **disappearingModeDuration**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:15000](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15000)
+Defined in: [WAProto/index.d.ts:15000](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15000)
 
 GlobalSettings disappearingModeDuration.
 
@@ -162,7 +162,7 @@ GlobalSettings disappearingModeDuration.
 
 > `optional` **disappearingModeTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:15003](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15003)
+Defined in: [WAProto/index.d.ts:15003](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15003)
 
 GlobalSettings disappearingModeTimestamp.
 
@@ -176,7 +176,7 @@ GlobalSettings disappearingModeTimestamp.
 
 > `optional` **fontSize**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:15009](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15009)
+Defined in: [WAProto/index.d.ts:15009](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15009)
 
 GlobalSettings fontSize.
 
@@ -190,7 +190,7 @@ GlobalSettings fontSize.
 
 > `optional` **groupNotificationSettings**: `null` \| [`INotificationSettings`](../interfaces/INotificationSettings.md)
 
-Defined in: [WAProto/index.d.ts:15027](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15027)
+Defined in: [WAProto/index.d.ts:15027](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15027)
 
 GlobalSettings groupNotificationSettings.
 
@@ -204,7 +204,7 @@ GlobalSettings groupNotificationSettings.
 
 > `optional` **individualNotificationSettings**: `null` \| [`INotificationSettings`](../interfaces/INotificationSettings.md)
 
-Defined in: [WAProto/index.d.ts:15024](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15024)
+Defined in: [WAProto/index.d.ts:15024](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15024)
 
 GlobalSettings individualNotificationSettings.
 
@@ -218,7 +218,7 @@ GlobalSettings individualNotificationSettings.
 
 > `optional` **lightThemeWallpaper**: `null` \| [`IWallpaperSettings`](../interfaces/IWallpaperSettings.md)
 
-Defined in: [WAProto/index.d.ts:14976](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L14976)
+Defined in: [WAProto/index.d.ts:14976](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L14976)
 
 GlobalSettings lightThemeWallpaper.
 
@@ -232,7 +232,7 @@ GlobalSettings lightThemeWallpaper.
 
 > `optional` **mediaVisibility**: `null` \| [`MediaVisibility`](../enumerations/MediaVisibility.md)
 
-Defined in: [WAProto/index.d.ts:14979](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L14979)
+Defined in: [WAProto/index.d.ts:14979](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L14979)
 
 GlobalSettings mediaVisibility.
 
@@ -246,7 +246,7 @@ GlobalSettings mediaVisibility.
 
 > `optional` **photoQualityMode**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:15021](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15021)
+Defined in: [WAProto/index.d.ts:15021](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15021)
 
 GlobalSettings photoQualityMode.
 
@@ -260,7 +260,7 @@ GlobalSettings photoQualityMode.
 
 > `optional` **securityNotifications**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:15012](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15012)
+Defined in: [WAProto/index.d.ts:15012](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15012)
 
 GlobalSettings securityNotifications.
 
@@ -274,7 +274,7 @@ GlobalSettings securityNotifications.
 
 > `optional` **showGroupNotificationsPreview**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:14997](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L14997)
+Defined in: [WAProto/index.d.ts:14997](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L14997)
 
 GlobalSettings showGroupNotificationsPreview.
 
@@ -288,7 +288,7 @@ GlobalSettings showGroupNotificationsPreview.
 
 > `optional` **showIndividualNotificationsPreview**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:14994](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L14994)
+Defined in: [WAProto/index.d.ts:14994](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L14994)
 
 GlobalSettings showIndividualNotificationsPreview.
 
@@ -302,7 +302,7 @@ GlobalSettings showIndividualNotificationsPreview.
 
 > `optional` **videoQualityMode**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:15018](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15018)
+Defined in: [WAProto/index.d.ts:15018](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15018)
 
 GlobalSettings videoQualityMode.
 
@@ -316,7 +316,7 @@ GlobalSettings videoQualityMode.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:15103](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15103)
+Defined in: [WAProto/index.d.ts:15103](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15103)
 
 Converts this GlobalSettings to JSON.
 
@@ -332,7 +332,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`GlobalSettings`](GlobalSettings.md)
 
-Defined in: [WAProto/index.d.ts:15040](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15040)
+Defined in: [WAProto/index.d.ts:15040](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15040)
 
 Creates a new GlobalSettings instance using the specified properties.
 
@@ -356,7 +356,7 @@ GlobalSettings instance
 
 > `static` **decode**(`reader`, `length`?): [`GlobalSettings`](GlobalSettings.md)
 
-Defined in: [WAProto/index.d.ts:15066](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15066)
+Defined in: [WAProto/index.d.ts:15066](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15066)
 
 Decodes a GlobalSettings message from the specified reader or buffer.
 
@@ -394,7 +394,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`GlobalSettings`](GlobalSettings.md)
 
-Defined in: [WAProto/index.d.ts:15075](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15075)
+Defined in: [WAProto/index.d.ts:15075](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15075)
 
 Decodes a GlobalSettings message from the specified reader or buffer, length delimited.
 
@@ -426,7 +426,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15048](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15048)
+Defined in: [WAProto/index.d.ts:15048](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15048)
 
 Encodes the specified GlobalSettings message. Does not implicitly [verify](GlobalSettings.md#verify) messages.
 
@@ -456,7 +456,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:15056](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15056)
+Defined in: [WAProto/index.d.ts:15056](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15056)
 
 Encodes the specified GlobalSettings message, length delimited. Does not implicitly [verify](GlobalSettings.md#verify) messages.
 
@@ -486,7 +486,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`GlobalSettings`](GlobalSettings.md)
 
-Defined in: [WAProto/index.d.ts:15089](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15089)
+Defined in: [WAProto/index.d.ts:15089](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15089)
 
 Creates a GlobalSettings message from a plain object. Also converts values to their respective internal types.
 
@@ -508,7 +508,7 @@ GlobalSettings
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:15110](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15110)
+Defined in: [WAProto/index.d.ts:15110](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15110)
 
 Gets the default type url for GlobalSettings
 
@@ -532,7 +532,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:15097](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15097)
+Defined in: [WAProto/index.d.ts:15097](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15097)
 
 Creates a plain object from a GlobalSettings message. Also converts values to other types if specified.
 
@@ -562,7 +562,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:15082](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L15082)
+Defined in: [WAProto/index.d.ts:15082](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15082)
 
 Verifies a GlobalSettings message.
 

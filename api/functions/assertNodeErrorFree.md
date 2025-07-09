@@ -2,7 +2,7 @@
 
 > **assertNodeErrorFree**(`node`): `void`
 
-Defined in: [src/WABinary/generic-utils.ts:52](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/src/WABinary/generic-utils.ts#L52)
+Defined in: [src/WABinary/generic-utils.ts:52](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/WABinary/generic-utils.ts#L52)
 
 ## Parameters
 

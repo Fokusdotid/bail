@@ -1,6 +1,6 @@
 # Enumeration: EditType
 
-Defined in: [WAProto/index.d.ts:33510](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L33510)
+Defined in: [WAProto/index.d.ts:33510](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L33510)
 
 EditType enum.
 
@@ -10,7 +10,7 @@ EditType enum.
 
 > **CANCEL**: `1`
 
-Defined in: [WAProto/index.d.ts:33512](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L33512)
+Defined in: [WAProto/index.d.ts:33512](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L33512)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:33512](https://github.com/Fokusdotid/bail/blob/c
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:33511](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L33511)
+Defined in: [WAProto/index.d.ts:33511](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L33511)

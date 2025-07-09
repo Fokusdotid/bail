@@ -1,6 +1,6 @@
 # Class: FutureProofMessage
 
-Defined in: [WAProto/index.d.ts:23422](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L23422)
+Defined in: [WAProto/index.d.ts:23422](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23422)
 
 Represents a FutureProofMessage.
 
@@ -14,7 +14,7 @@ Represents a FutureProofMessage.
 
 > **new FutureProofMessage**(`properties`?): [`FutureProofMessage`](FutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:23428](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L23428)
+Defined in: [WAProto/index.d.ts:23428](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23428)
 
 Constructs a new FutureProofMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **message**: `null` \| [`IMessage`](../../../interfaces/IMessage.md)
 
-Defined in: [WAProto/index.d.ts:23431](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L23431)
+Defined in: [WAProto/index.d.ts:23431](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23431)
 
 FutureProofMessage message.
 
@@ -50,7 +50,7 @@ FutureProofMessage message.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:23501](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L23501)
+Defined in: [WAProto/index.d.ts:23501](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23501)
 
 Converts this FutureProofMessage to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`FutureProofMessage`](FutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:23438](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L23438)
+Defined in: [WAProto/index.d.ts:23438](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23438)
 
 Creates a new FutureProofMessage instance using the specified properties.
 
@@ -90,7 +90,7 @@ FutureProofMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`FutureProofMessage`](FutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:23464](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L23464)
+Defined in: [WAProto/index.d.ts:23464](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23464)
 
 Decodes a FutureProofMessage message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`FutureProofMessage`](FutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:23473](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L23473)
+Defined in: [WAProto/index.d.ts:23473](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23473)
 
 Decodes a FutureProofMessage message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23446](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L23446)
+Defined in: [WAProto/index.d.ts:23446](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23446)
 
 Encodes the specified FutureProofMessage message. Does not implicitly [verify](FutureProofMessage.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23454](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L23454)
+Defined in: [WAProto/index.d.ts:23454](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23454)
 
 Encodes the specified FutureProofMessage message, length delimited. Does not implicitly [verify](FutureProofMessage.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`FutureProofMessage`](FutureProofMessage.md)
 
-Defined in: [WAProto/index.d.ts:23487](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L23487)
+Defined in: [WAProto/index.d.ts:23487](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23487)
 
 Creates a FutureProofMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ FutureProofMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:23508](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L23508)
+Defined in: [WAProto/index.d.ts:23508](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23508)
 
 Gets the default type url for FutureProofMessage
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:23495](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L23495)
+Defined in: [WAProto/index.d.ts:23495](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23495)
 
 Creates a plain object from a FutureProofMessage message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23480](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L23480)
+Defined in: [WAProto/index.d.ts:23480](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23480)
 
 Verifies a FutureProofMessage message.
 

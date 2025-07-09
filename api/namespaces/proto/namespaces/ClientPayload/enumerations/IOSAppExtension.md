@@ -1,6 +1,6 @@
 # Enumeration: IOSAppExtension
 
-Defined in: [WAProto/index.d.ts:9541](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9541)
+Defined in: [WAProto/index.d.ts:9541](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L9541)
 
 IOSAppExtension enum.
 
@@ -10,7 +10,7 @@ IOSAppExtension enum.
 
 > **INTENTS\_EXTENSION**: `2`
 
-Defined in: [WAProto/index.d.ts:9544](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9544)
+Defined in: [WAProto/index.d.ts:9544](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L9544)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:9544](https://github.com/Fokusdotid/bail/blob/cf
 
 > **SERVICE\_EXTENSION**: `1`
 
-Defined in: [WAProto/index.d.ts:9543](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9543)
+Defined in: [WAProto/index.d.ts:9543](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L9543)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:9543](https://github.com/Fokusdotid/bail/blob/cf
 
 > **SHARE\_EXTENSION**: `0`
 
-Defined in: [WAProto/index.d.ts:9542](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9542)
+Defined in: [WAProto/index.d.ts:9542](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L9542)

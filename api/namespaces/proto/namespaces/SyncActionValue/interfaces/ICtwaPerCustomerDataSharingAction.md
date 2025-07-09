@@ -1,6 +1,6 @@
 # Interface: ICtwaPerCustomerDataSharingAction
 
-Defined in: [WAProto/index.d.ts:44599](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L44599)
+Defined in: [WAProto/index.d.ts:44599](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L44599)
 
 Properties of a CtwaPerCustomerDataSharingAction.
 
@@ -10,6 +10,6 @@ Properties of a CtwaPerCustomerDataSharingAction.
 
 > `optional` **isCtwaPerCustomerDataSharingEnabled**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:44602](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L44602)
+Defined in: [WAProto/index.d.ts:44602](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L44602)
 
 CtwaPerCustomerDataSharingAction isCtwaPerCustomerDataSharingEnabled

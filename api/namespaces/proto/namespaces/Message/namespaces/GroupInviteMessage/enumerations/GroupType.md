@@ -1,6 +1,6 @@
 # Enumeration: GroupType
 
-Defined in: [WAProto/index.d.ts:23653](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L23653)
+Defined in: [WAProto/index.d.ts:23653](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23653)
 
 GroupType enum.
 
@@ -10,7 +10,7 @@ GroupType enum.
 
 > **DEFAULT**: `0`
 
-Defined in: [WAProto/index.d.ts:23654](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L23654)
+Defined in: [WAProto/index.d.ts:23654](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23654)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:23654](https://github.com/Fokusdotid/bail/blob/c
 
 > **PARENT**: `1`
 
-Defined in: [WAProto/index.d.ts:23655](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L23655)
+Defined in: [WAProto/index.d.ts:23655](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23655)

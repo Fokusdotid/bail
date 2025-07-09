@@ -1,6 +1,6 @@
 # Class: MessageAddOnContextInfo
 
-Defined in: [WAProto/index.d.ts:35725](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35725)
+Defined in: [WAProto/index.d.ts:35725](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35725)
 
 Represents a MessageAddOnContextInfo.
 
@@ -14,7 +14,7 @@ Represents a MessageAddOnContextInfo.
 
 > **new MessageAddOnContextInfo**(`properties`?): [`MessageAddOnContextInfo`](MessageAddOnContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:35731](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35731)
+Defined in: [WAProto/index.d.ts:35731](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35731)
 
 Constructs a new MessageAddOnContextInfo.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **messageAddOnDurationInSecs**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:35734](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35734)
+Defined in: [WAProto/index.d.ts:35734](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35734)
 
 MessageAddOnContextInfo messageAddOnDurationInSecs.
 
@@ -50,7 +50,7 @@ MessageAddOnContextInfo messageAddOnDurationInSecs.
 
 > `optional` **messageAddOnExpiryType**: `null` \| [`MessageAddonExpiryType`](../namespaces/MessageContextInfo/enumerations/MessageAddonExpiryType.md)
 
-Defined in: [WAProto/index.d.ts:35737](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35737)
+Defined in: [WAProto/index.d.ts:35737](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35737)
 
 MessageAddOnContextInfo messageAddOnExpiryType.
 
@@ -64,7 +64,7 @@ MessageAddOnContextInfo messageAddOnExpiryType.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:35807](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35807)
+Defined in: [WAProto/index.d.ts:35807](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35807)
 
 Converts this MessageAddOnContextInfo to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`MessageAddOnContextInfo`](MessageAddOnContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:35744](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35744)
+Defined in: [WAProto/index.d.ts:35744](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35744)
 
 Creates a new MessageAddOnContextInfo instance using the specified properties.
 
@@ -104,7 +104,7 @@ MessageAddOnContextInfo instance
 
 > `static` **decode**(`reader`, `length`?): [`MessageAddOnContextInfo`](MessageAddOnContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:35770](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35770)
+Defined in: [WAProto/index.d.ts:35770](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35770)
 
 Decodes a MessageAddOnContextInfo message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`MessageAddOnContextInfo`](MessageAddOnContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:35779](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35779)
+Defined in: [WAProto/index.d.ts:35779](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35779)
 
 Decodes a MessageAddOnContextInfo message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:35752](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35752)
+Defined in: [WAProto/index.d.ts:35752](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35752)
 
 Encodes the specified MessageAddOnContextInfo message. Does not implicitly [verify](MessageAddOnContextInfo.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:35760](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35760)
+Defined in: [WAProto/index.d.ts:35760](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35760)
 
 Encodes the specified MessageAddOnContextInfo message, length delimited. Does not implicitly [verify](MessageAddOnContextInfo.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`MessageAddOnContextInfo`](MessageAddOnContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:35793](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35793)
+Defined in: [WAProto/index.d.ts:35793](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35793)
 
 Creates a MessageAddOnContextInfo message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ MessageAddOnContextInfo
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:35814](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35814)
+Defined in: [WAProto/index.d.ts:35814](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35814)
 
 Gets the default type url for MessageAddOnContextInfo
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:35801](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35801)
+Defined in: [WAProto/index.d.ts:35801](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35801)
 
 Creates a plain object from a MessageAddOnContextInfo message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35786](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35786)
+Defined in: [WAProto/index.d.ts:35786](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35786)
 
 Verifies a MessageAddOnContextInfo message.
 

@@ -1,6 +1,6 @@
 # Class: AIRichResponseInlineImageMetadata
 
-Defined in: [WAProto/index.d.ts:1707](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1707)
+Defined in: [WAProto/index.d.ts:1707](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1707)
 
 Represents a AIRichResponseInlineImageMetadata.
 
@@ -14,7 +14,7 @@ Represents a AIRichResponseInlineImageMetadata.
 
 > **new AIRichResponseInlineImageMetadata**(`properties`?): [`AIRichResponseInlineImageMetadata`](AIRichResponseInlineImageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1713](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1713)
+Defined in: [WAProto/index.d.ts:1713](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1713)
 
 Constructs a new AIRichResponseInlineImageMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **alignment**: `null` \| [`AIRichResponseImageAlignment`](../namespaces/AIRichResponseInlineImageMetadata/enumerations/AIRichResponseImageAlignment.md)
 
-Defined in: [WAProto/index.d.ts:1722](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1722)
+Defined in: [WAProto/index.d.ts:1722](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1722)
 
 AIRichResponseInlineImageMetadata alignment.
 
@@ -50,7 +50,7 @@ AIRichResponseInlineImageMetadata alignment.
 
 > `optional` **imageText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1719](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1719)
+Defined in: [WAProto/index.d.ts:1719](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1719)
 
 AIRichResponseInlineImageMetadata imageText.
 
@@ -64,7 +64,7 @@ AIRichResponseInlineImageMetadata imageText.
 
 > `optional` **imageUrl**: `null` \| [`IAIRichResponseImageURL`](../interfaces/IAIRichResponseImageURL.md)
 
-Defined in: [WAProto/index.d.ts:1716](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1716)
+Defined in: [WAProto/index.d.ts:1716](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1716)
 
 AIRichResponseInlineImageMetadata imageUrl.
 
@@ -78,7 +78,7 @@ AIRichResponseInlineImageMetadata imageUrl.
 
 > `optional` **tapLinkUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1725](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1725)
+Defined in: [WAProto/index.d.ts:1725](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1725)
 
 AIRichResponseInlineImageMetadata tapLinkUrl.
 
@@ -92,7 +92,7 @@ AIRichResponseInlineImageMetadata tapLinkUrl.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:1795](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1795)
+Defined in: [WAProto/index.d.ts:1795](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1795)
 
 Converts this AIRichResponseInlineImageMetadata to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIRichResponseInlineImageMetadata`](AIRichResponseInlineImageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1732](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1732)
+Defined in: [WAProto/index.d.ts:1732](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1732)
 
 Creates a new AIRichResponseInlineImageMetadata instance using the specified properties.
 
@@ -132,7 +132,7 @@ AIRichResponseInlineImageMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`AIRichResponseInlineImageMetadata`](AIRichResponseInlineImageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1758](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1758)
+Defined in: [WAProto/index.d.ts:1758](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1758)
 
 Decodes a AIRichResponseInlineImageMetadata message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIRichResponseInlineImageMetadata`](AIRichResponseInlineImageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1767](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1767)
+Defined in: [WAProto/index.d.ts:1767](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1767)
 
 Decodes a AIRichResponseInlineImageMetadata message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:1740](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1740)
+Defined in: [WAProto/index.d.ts:1740](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1740)
 
 Encodes the specified AIRichResponseInlineImageMetadata message. Does not implicitly [verify](AIRichResponseInlineImageMetadata.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:1748](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1748)
+Defined in: [WAProto/index.d.ts:1748](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1748)
 
 Encodes the specified AIRichResponseInlineImageMetadata message, length delimited. Does not implicitly [verify](AIRichResponseInlineImageMetadata.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIRichResponseInlineImageMetadata`](AIRichResponseInlineImageMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1781](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1781)
+Defined in: [WAProto/index.d.ts:1781](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1781)
 
 Creates a AIRichResponseInlineImageMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ AIRichResponseInlineImageMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:1802](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1802)
+Defined in: [WAProto/index.d.ts:1802](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1802)
 
 Gets the default type url for AIRichResponseInlineImageMetadata
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:1789](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1789)
+Defined in: [WAProto/index.d.ts:1789](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1789)
 
 Creates a plain object from a AIRichResponseInlineImageMetadata message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1774](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L1774)
+Defined in: [WAProto/index.d.ts:1774](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1774)
 
 Verifies a AIRichResponseInlineImageMetadata message.
 

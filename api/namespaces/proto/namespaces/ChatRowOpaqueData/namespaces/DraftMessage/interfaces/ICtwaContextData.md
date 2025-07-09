@@ -1,6 +1,6 @@
 # Interface: ICtwaContextData
 
-Defined in: [WAProto/index.d.ts:8469](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L8469)
+Defined in: [WAProto/index.d.ts:8469](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8469)
 
 Properties of a CtwaContextData.
 
@@ -10,7 +10,7 @@ Properties of a CtwaContextData.
 
 > `optional` **conversionData**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:8475](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L8475)
+Defined in: [WAProto/index.d.ts:8475](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8475)
 
 CtwaContextData conversionData
 
@@ -20,7 +20,7 @@ CtwaContextData conversionData
 
 > `optional` **conversionSource**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8472](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L8472)
+Defined in: [WAProto/index.d.ts:8472](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8472)
 
 CtwaContextData conversionSource
 
@@ -30,7 +30,7 @@ CtwaContextData conversionSource
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8490](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L8490)
+Defined in: [WAProto/index.d.ts:8490](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8490)
 
 CtwaContextData description
 
@@ -40,7 +40,7 @@ CtwaContextData description
 
 > `optional` **isSuspiciousLink**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:8505](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L8505)
+Defined in: [WAProto/index.d.ts:8505](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8505)
 
 CtwaContextData isSuspiciousLink
 
@@ -50,7 +50,7 @@ CtwaContextData isSuspiciousLink
 
 > `optional` **mediaType**: `null` \| [`ContextInfoExternalAdReplyInfoMediaType`](../namespaces/CtwaContextData/enumerations/ContextInfoExternalAdReplyInfoMediaType.md)
 
-Defined in: [WAProto/index.d.ts:8499](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L8499)
+Defined in: [WAProto/index.d.ts:8499](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8499)
 
 CtwaContextData mediaType
 
@@ -60,7 +60,7 @@ CtwaContextData mediaType
 
 > `optional` **mediaUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8502](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L8502)
+Defined in: [WAProto/index.d.ts:8502](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8502)
 
 CtwaContextData mediaUrl
 
@@ -70,7 +70,7 @@ CtwaContextData mediaUrl
 
 > `optional` **sourceId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8481](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L8481)
+Defined in: [WAProto/index.d.ts:8481](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8481)
 
 CtwaContextData sourceId
 
@@ -80,7 +80,7 @@ CtwaContextData sourceId
 
 > `optional` **sourceType**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8484](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L8484)
+Defined in: [WAProto/index.d.ts:8484](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8484)
 
 CtwaContextData sourceType
 
@@ -90,7 +90,7 @@ CtwaContextData sourceType
 
 > `optional` **sourceUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8478](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L8478)
+Defined in: [WAProto/index.d.ts:8478](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8478)
 
 CtwaContextData sourceUrl
 
@@ -100,7 +100,7 @@ CtwaContextData sourceUrl
 
 > `optional` **thumbnail**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8493](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L8493)
+Defined in: [WAProto/index.d.ts:8493](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8493)
 
 CtwaContextData thumbnail
 
@@ -110,7 +110,7 @@ CtwaContextData thumbnail
 
 > `optional` **thumbnailUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8496](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L8496)
+Defined in: [WAProto/index.d.ts:8496](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8496)
 
 CtwaContextData thumbnailUrl
 
@@ -120,6 +120,6 @@ CtwaContextData thumbnailUrl
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8487](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L8487)
+Defined in: [WAProto/index.d.ts:8487](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8487)
 
 CtwaContextData title

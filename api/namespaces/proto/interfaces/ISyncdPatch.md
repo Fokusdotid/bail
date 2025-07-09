@@ -1,6 +1,6 @@
 # Interface: ISyncdPatch
 
-Defined in: [WAProto/index.d.ts:50164](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50164)
+Defined in: [WAProto/index.d.ts:50164](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50164)
 
 Properties of a SyncdPatch.
 
@@ -10,7 +10,7 @@ Properties of a SyncdPatch.
 
 > `optional` **clientDebugData**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:50191](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50191)
+Defined in: [WAProto/index.d.ts:50191](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50191)
 
 SyncdPatch clientDebugData
 
@@ -20,7 +20,7 @@ SyncdPatch clientDebugData
 
 > `optional` **deviceIndex**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:50188](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50188)
+Defined in: [WAProto/index.d.ts:50188](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50188)
 
 SyncdPatch deviceIndex
 
@@ -30,7 +30,7 @@ SyncdPatch deviceIndex
 
 > `optional` **exitCode**: `null` \| [`IExitCode`](IExitCode.md)
 
-Defined in: [WAProto/index.d.ts:50185](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50185)
+Defined in: [WAProto/index.d.ts:50185](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50185)
 
 SyncdPatch exitCode
 
@@ -40,7 +40,7 @@ SyncdPatch exitCode
 
 > `optional` **externalMutations**: `null` \| [`IExternalBlobReference`](IExternalBlobReference.md)
 
-Defined in: [WAProto/index.d.ts:50173](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50173)
+Defined in: [WAProto/index.d.ts:50173](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50173)
 
 SyncdPatch externalMutations
 
@@ -50,7 +50,7 @@ SyncdPatch externalMutations
 
 > `optional` **keyId**: `null` \| [`IKeyId`](IKeyId.md)
 
-Defined in: [WAProto/index.d.ts:50182](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50182)
+Defined in: [WAProto/index.d.ts:50182](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50182)
 
 SyncdPatch keyId
 
@@ -60,7 +60,7 @@ SyncdPatch keyId
 
 > `optional` **mutations**: `null` \| [`ISyncdMutation`](ISyncdMutation.md)[]
 
-Defined in: [WAProto/index.d.ts:50170](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50170)
+Defined in: [WAProto/index.d.ts:50170](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50170)
 
 SyncdPatch mutations
 
@@ -70,7 +70,7 @@ SyncdPatch mutations
 
 > `optional` **patchMac**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:50179](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50179)
+Defined in: [WAProto/index.d.ts:50179](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50179)
 
 SyncdPatch patchMac
 
@@ -80,7 +80,7 @@ SyncdPatch patchMac
 
 > `optional` **snapshotMac**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:50176](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50176)
+Defined in: [WAProto/index.d.ts:50176](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50176)
 
 SyncdPatch snapshotMac
 
@@ -90,6 +90,6 @@ SyncdPatch snapshotMac
 
 > `optional` **version**: `null` \| [`ISyncdVersion`](ISyncdVersion.md)
 
-Defined in: [WAProto/index.d.ts:50167](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L50167)
+Defined in: [WAProto/index.d.ts:50167](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50167)
 
 SyncdPatch version

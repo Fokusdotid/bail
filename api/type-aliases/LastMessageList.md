@@ -2,7 +2,7 @@
 
 > **LastMessageList**: [`MinimalMessage`](MinimalMessage.md)[] \| [`ISyncActionMessageRange`](../namespaces/proto/namespaces/SyncActionValue/interfaces/ISyncActionMessageRange.md)
 
-Defined in: [src/Types/Chat.ts:82](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/src/Types/Chat.ts#L82)
+Defined in: [src/Types/Chat.ts:82](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/Types/Chat.ts#L82)
 
 the last messages in a chat, sorted reverse-chronologically. That is, the latest message should be first in the chat
 for MD modifications, the last message in the array (i.e. the earlist message) must be the last message recv in the chat

@@ -1,6 +1,6 @@
 # Class: Money
 
-Defined in: [WAProto/index.d.ts:36370](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36370)
+Defined in: [WAProto/index.d.ts:36370](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L36370)
 
 Represents a Money.
 
@@ -14,7 +14,7 @@ Represents a Money.
 
 > **new Money**(`properties`?): [`Money`](Money.md)
 
-Defined in: [WAProto/index.d.ts:36376](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36376)
+Defined in: [WAProto/index.d.ts:36376](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L36376)
 
 Constructs a new Money.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **currencyCode**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36385](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36385)
+Defined in: [WAProto/index.d.ts:36385](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L36385)
 
 Money currencyCode.
 
@@ -50,7 +50,7 @@ Money currencyCode.
 
 > `optional` **offset**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:36382](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36382)
+Defined in: [WAProto/index.d.ts:36382](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L36382)
 
 Money offset.
 
@@ -64,7 +64,7 @@ Money offset.
 
 > `optional` **value**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:36379](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36379)
+Defined in: [WAProto/index.d.ts:36379](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L36379)
 
 Money value.
 
@@ -78,7 +78,7 @@ Money value.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:36455](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36455)
+Defined in: [WAProto/index.d.ts:36455](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L36455)
 
 Converts this Money to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Money`](Money.md)
 
-Defined in: [WAProto/index.d.ts:36392](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36392)
+Defined in: [WAProto/index.d.ts:36392](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L36392)
 
 Creates a new Money instance using the specified properties.
 
@@ -118,7 +118,7 @@ Money instance
 
 > `static` **decode**(`reader`, `length`?): [`Money`](Money.md)
 
-Defined in: [WAProto/index.d.ts:36418](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36418)
+Defined in: [WAProto/index.d.ts:36418](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L36418)
 
 Decodes a Money message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Money`](Money.md)
 
-Defined in: [WAProto/index.d.ts:36427](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36427)
+Defined in: [WAProto/index.d.ts:36427](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L36427)
 
 Decodes a Money message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:36400](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36400)
+Defined in: [WAProto/index.d.ts:36400](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L36400)
 
 Encodes the specified Money message. Does not implicitly [verify](Money.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:36408](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36408)
+Defined in: [WAProto/index.d.ts:36408](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L36408)
 
 Encodes the specified Money message, length delimited. Does not implicitly [verify](Money.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Money`](Money.md)
 
-Defined in: [WAProto/index.d.ts:36441](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36441)
+Defined in: [WAProto/index.d.ts:36441](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L36441)
 
 Creates a Money message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ Money
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:36462](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36462)
+Defined in: [WAProto/index.d.ts:36462](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L36462)
 
 Gets the default type url for Money
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:36449](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36449)
+Defined in: [WAProto/index.d.ts:36449](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L36449)
 
 Creates a plain object from a Money message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:36434](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L36434)
+Defined in: [WAProto/index.d.ts:36434](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L36434)
 
 Verifies a Money message.
 

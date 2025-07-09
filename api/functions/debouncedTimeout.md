@@ -2,7 +2,7 @@
 
 > **debouncedTimeout**(`intervalMs`, `task`?): `object`
 
-Defined in: [src/Utils/generics.ts:115](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/src/Utils/generics.ts#L115)
+Defined in: [src/Utils/generics.ts:115](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/Utils/generics.ts#L115)
 
 ## Parameters
 

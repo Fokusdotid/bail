@@ -2,7 +2,7 @@
 
 > **WAPatchCreate**: `object`
 
-Defined in: [src/Types/Chat.ts:50](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/src/Types/Chat.ts#L50)
+Defined in: [src/Types/Chat.ts:50](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/Types/Chat.ts#L50)
 
 ## Type declaration
 

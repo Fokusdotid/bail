@@ -2,7 +2,7 @@
 
 > **processSyncAction**(`syncAction`, `ev`, `me`, `initialSyncOpts`?, `logger`?): `void`
 
-Defined in: [src/Utils/chat-utils.ts:724](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/src/Utils/chat-utils.ts#L724)
+Defined in: [src/Utils/chat-utils.ts:724](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/Utils/chat-utils.ts#L724)
 
 ## Parameters
 

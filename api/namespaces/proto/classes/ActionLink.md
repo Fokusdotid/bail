@@ -1,6 +1,6 @@
 # Class: ActionLink
 
-Defined in: [WAProto/index.d.ts:2915](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2915)
+Defined in: [WAProto/index.d.ts:2915](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2915)
 
 Represents an ActionLink.
 
@@ -14,7 +14,7 @@ Represents an ActionLink.
 
 > **new ActionLink**(`properties`?): [`ActionLink`](ActionLink.md)
 
-Defined in: [WAProto/index.d.ts:2921](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2921)
+Defined in: [WAProto/index.d.ts:2921](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2921)
 
 Constructs a new ActionLink.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **buttonTitle**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2927](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2927)
+Defined in: [WAProto/index.d.ts:2927](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2927)
 
 ActionLink buttonTitle.
 
@@ -50,7 +50,7 @@ ActionLink buttonTitle.
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2924](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2924)
+Defined in: [WAProto/index.d.ts:2924](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2924)
 
 ActionLink url.
 
@@ -64,7 +64,7 @@ ActionLink url.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:2997](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2997)
+Defined in: [WAProto/index.d.ts:2997](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2997)
 
 Converts this ActionLink to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`ActionLink`](ActionLink.md)
 
-Defined in: [WAProto/index.d.ts:2934](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2934)
+Defined in: [WAProto/index.d.ts:2934](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2934)
 
 Creates a new ActionLink instance using the specified properties.
 
@@ -104,7 +104,7 @@ ActionLink instance
 
 > `static` **decode**(`reader`, `length`?): [`ActionLink`](ActionLink.md)
 
-Defined in: [WAProto/index.d.ts:2960](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2960)
+Defined in: [WAProto/index.d.ts:2960](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2960)
 
 Decodes an ActionLink message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`ActionLink`](ActionLink.md)
 
-Defined in: [WAProto/index.d.ts:2969](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2969)
+Defined in: [WAProto/index.d.ts:2969](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2969)
 
 Decodes an ActionLink message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2942](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2942)
+Defined in: [WAProto/index.d.ts:2942](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2942)
 
 Encodes the specified ActionLink message. Does not implicitly [verify](ActionLink.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:2950](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2950)
+Defined in: [WAProto/index.d.ts:2950](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2950)
 
 Encodes the specified ActionLink message, length delimited. Does not implicitly [verify](ActionLink.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`ActionLink`](ActionLink.md)
 
-Defined in: [WAProto/index.d.ts:2983](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2983)
+Defined in: [WAProto/index.d.ts:2983](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2983)
 
 Creates an ActionLink message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ ActionLink
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:3004](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3004)
+Defined in: [WAProto/index.d.ts:3004](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L3004)
 
 Gets the default type url for ActionLink
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:2991](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2991)
+Defined in: [WAProto/index.d.ts:2991](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2991)
 
 Creates a plain object from an ActionLink message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:2976](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L2976)
+Defined in: [WAProto/index.d.ts:2976](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L2976)
 
 Verifies an ActionLink message.
 

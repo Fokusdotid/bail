@@ -1,6 +1,6 @@
 # Enumeration: AccountType
 
-Defined in: [WAProto/index.d.ts:9250](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9250)
+Defined in: [WAProto/index.d.ts:9250](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L9250)
 
 AccountType enum.
 
@@ -10,7 +10,7 @@ AccountType enum.
 
 > **DEFAULT**: `0`
 
-Defined in: [WAProto/index.d.ts:9251](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9251)
+Defined in: [WAProto/index.d.ts:9251](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L9251)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:9251](https://github.com/Fokusdotid/bail/blob/cf
 
 > **GUEST**: `1`
 
-Defined in: [WAProto/index.d.ts:9252](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L9252)
+Defined in: [WAProto/index.d.ts:9252](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L9252)

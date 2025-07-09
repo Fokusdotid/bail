@@ -2,7 +2,7 @@
 
 > **useMultiFileAuthState**(`folder`): `Promise`\<\{ `saveCreds`: () => `Promise`\<`void`\>; `state`: [`AuthenticationState`](../type-aliases/AuthenticationState.md); \}\>
 
-Defined in: [src/Utils/use-multi-file-auth-state.ts:33](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/src/Utils/use-multi-file-auth-state.ts#L33)
+Defined in: [src/Utils/use-multi-file-auth-state.ts:33](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/Utils/use-multi-file-auth-state.ts#L33)
 
 stores the full authentication state in a single folder.
 Far more efficient than singlefileauthstate

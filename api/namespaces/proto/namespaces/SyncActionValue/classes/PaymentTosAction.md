@@ -1,6 +1,6 @@
 # Class: PaymentTosAction
 
-Defined in: [WAProto/index.d.ts:47378](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L47378)
+Defined in: [WAProto/index.d.ts:47378](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L47378)
 
 Represents a PaymentTosAction.
 
@@ -14,7 +14,7 @@ Represents a PaymentTosAction.
 
 > **new PaymentTosAction**(`properties`?): [`PaymentTosAction`](PaymentTosAction.md)
 
-Defined in: [WAProto/index.d.ts:47384](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L47384)
+Defined in: [WAProto/index.d.ts:47384](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L47384)
 
 Constructs a new PaymentTosAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **accepted**: `boolean`
 
-Defined in: [WAProto/index.d.ts:47390](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L47390)
+Defined in: [WAProto/index.d.ts:47390](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L47390)
 
 PaymentTosAction accepted.
 
@@ -50,7 +50,7 @@ PaymentTosAction accepted.
 
 > **paymentNotice**: [`BR_PAY_PRIVACY_POLICY`](../namespaces/PaymentTosAction/enumerations/PaymentNotice.md#br_pay_privacy_policy)
 
-Defined in: [WAProto/index.d.ts:47387](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L47387)
+Defined in: [WAProto/index.d.ts:47387](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L47387)
 
 PaymentTosAction paymentNotice.
 
@@ -64,7 +64,7 @@ PaymentTosAction paymentNotice.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:47460](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L47460)
+Defined in: [WAProto/index.d.ts:47460](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L47460)
 
 Converts this PaymentTosAction to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PaymentTosAction`](PaymentTosAction.md)
 
-Defined in: [WAProto/index.d.ts:47397](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L47397)
+Defined in: [WAProto/index.d.ts:47397](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L47397)
 
 Creates a new PaymentTosAction instance using the specified properties.
 
@@ -104,7 +104,7 @@ PaymentTosAction instance
 
 > `static` **decode**(`reader`, `length`?): [`PaymentTosAction`](PaymentTosAction.md)
 
-Defined in: [WAProto/index.d.ts:47423](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L47423)
+Defined in: [WAProto/index.d.ts:47423](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L47423)
 
 Decodes a PaymentTosAction message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PaymentTosAction`](PaymentTosAction.md)
 
-Defined in: [WAProto/index.d.ts:47432](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L47432)
+Defined in: [WAProto/index.d.ts:47432](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L47432)
 
 Decodes a PaymentTosAction message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:47405](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L47405)
+Defined in: [WAProto/index.d.ts:47405](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L47405)
 
 Encodes the specified PaymentTosAction message. Does not implicitly [verify](PaymentTosAction.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:47413](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L47413)
+Defined in: [WAProto/index.d.ts:47413](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L47413)
 
 Encodes the specified PaymentTosAction message, length delimited. Does not implicitly [verify](PaymentTosAction.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PaymentTosAction`](PaymentTosAction.md)
 
-Defined in: [WAProto/index.d.ts:47446](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L47446)
+Defined in: [WAProto/index.d.ts:47446](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L47446)
 
 Creates a PaymentTosAction message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ PaymentTosAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:47467](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L47467)
+Defined in: [WAProto/index.d.ts:47467](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L47467)
 
 Gets the default type url for PaymentTosAction
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:47454](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L47454)
+Defined in: [WAProto/index.d.ts:47454](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L47454)
 
 Creates a plain object from a PaymentTosAction message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:47439](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L47439)
+Defined in: [WAProto/index.d.ts:47439](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L47439)
 
 Verifies a PaymentTosAction message.
 

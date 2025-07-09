@@ -1,6 +1,6 @@
 # Enumeration: StickerPackOrigin
 
-Defined in: [WAProto/index.d.ts:34536](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L34536)
+Defined in: [WAProto/index.d.ts:34536](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L34536)
 
 StickerPackOrigin enum.
 
@@ -10,7 +10,7 @@ StickerPackOrigin enum.
 
 > **FIRST\_PARTY**: `0`
 
-Defined in: [WAProto/index.d.ts:34537](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L34537)
+Defined in: [WAProto/index.d.ts:34537](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L34537)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:34537](https://github.com/Fokusdotid/bail/blob/c
 
 > **THIRD\_PARTY**: `1`
 
-Defined in: [WAProto/index.d.ts:34538](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L34538)
+Defined in: [WAProto/index.d.ts:34538](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L34538)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:34538](https://github.com/Fokusdotid/bail/blob/c
 
 > **USER\_CREATED**: `2`
 
-Defined in: [WAProto/index.d.ts:34539](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L34539)
+Defined in: [WAProto/index.d.ts:34539](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L34539)

@@ -2,7 +2,7 @@
 
 > **isLidUser**(`jid`): `undefined` \| `boolean`
 
-Defined in: [src/WABinary/jid-utils.ts:52](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/src/WABinary/jid-utils.ts#L52)
+Defined in: [src/WABinary/jid-utils.ts:52](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/WABinary/jid-utils.ts#L52)
 
 is the jid a group
 

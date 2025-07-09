@@ -1,6 +1,6 @@
 # Interface: IAppStateFatalExceptionNotification
 
-Defined in: [WAProto/index.d.ts:19054](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L19054)
+Defined in: [WAProto/index.d.ts:19054](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19054)
 
 Properties of an AppStateFatalExceptionNotification.
 
@@ -10,7 +10,7 @@ Properties of an AppStateFatalExceptionNotification.
 
 > `optional` **collectionNames**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:19057](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L19057)
+Defined in: [WAProto/index.d.ts:19057](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19057)
 
 AppStateFatalExceptionNotification collectionNames
 
@@ -20,6 +20,6 @@ AppStateFatalExceptionNotification collectionNames
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:19060](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L19060)
+Defined in: [WAProto/index.d.ts:19060](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19060)
 
 AppStateFatalExceptionNotification timestamp

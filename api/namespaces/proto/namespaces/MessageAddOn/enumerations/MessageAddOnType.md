@@ -1,6 +1,6 @@
 # Enumeration: MessageAddOnType
 
-Defined in: [WAProto/index.d.ts:35705](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35705)
+Defined in: [WAProto/index.d.ts:35705](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35705)
 
 MessageAddOnType enum.
 
@@ -10,7 +10,7 @@ MessageAddOnType enum.
 
 > **EVENT\_RESPONSE**: `2`
 
-Defined in: [WAProto/index.d.ts:35708](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35708)
+Defined in: [WAProto/index.d.ts:35708](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35708)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:35708](https://github.com/Fokusdotid/bail/blob/c
 
 > **PIN\_IN\_CHAT**: `4`
 
-Defined in: [WAProto/index.d.ts:35710](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35710)
+Defined in: [WAProto/index.d.ts:35710](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35710)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:35710](https://github.com/Fokusdotid/bail/blob/c
 
 > **POLL\_UPDATE**: `3`
 
-Defined in: [WAProto/index.d.ts:35709](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35709)
+Defined in: [WAProto/index.d.ts:35709](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35709)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:35709](https://github.com/Fokusdotid/bail/blob/c
 
 > **REACTION**: `1`
 
-Defined in: [WAProto/index.d.ts:35707](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35707)
+Defined in: [WAProto/index.d.ts:35707](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35707)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [WAProto/index.d.ts:35707](https://github.com/Fokusdotid/bail/blob/c
 
 > **UNDEFINED**: `0`
 
-Defined in: [WAProto/index.d.ts:35706](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35706)
+Defined in: [WAProto/index.d.ts:35706](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35706)

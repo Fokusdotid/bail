@@ -1,6 +1,6 @@
 # Interface: IBotMediaMetadata
 
-Defined in: [WAProto/index.d.ts:4312](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4312)
+Defined in: [WAProto/index.d.ts:4312](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4312)
 
 Properties of a BotMediaMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotMediaMetadata.
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4324](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4324)
+Defined in: [WAProto/index.d.ts:4324](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4324)
 
 BotMediaMetadata directPath
 
@@ -20,7 +20,7 @@ BotMediaMetadata directPath
 
 > `optional` **fileEncSha256**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4321](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4321)
+Defined in: [WAProto/index.d.ts:4321](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4321)
 
 BotMediaMetadata fileEncSha256
 
@@ -30,7 +30,7 @@ BotMediaMetadata fileEncSha256
 
 > `optional` **fileSha256**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4315](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4315)
+Defined in: [WAProto/index.d.ts:4315](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4315)
 
 BotMediaMetadata fileSha256
 
@@ -40,7 +40,7 @@ BotMediaMetadata fileSha256
 
 > `optional` **mediaKey**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4318](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4318)
+Defined in: [WAProto/index.d.ts:4318](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4318)
 
 BotMediaMetadata mediaKey
 
@@ -50,7 +50,7 @@ BotMediaMetadata mediaKey
 
 > `optional` **mediaKeyTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:4327](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4327)
+Defined in: [WAProto/index.d.ts:4327](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4327)
 
 BotMediaMetadata mediaKeyTimestamp
 
@@ -60,7 +60,7 @@ BotMediaMetadata mediaKeyTimestamp
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4330](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4330)
+Defined in: [WAProto/index.d.ts:4330](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4330)
 
 BotMediaMetadata mimetype
 
@@ -70,6 +70,6 @@ BotMediaMetadata mimetype
 
 > `optional` **orientationType**: `null` \| [`OrientationType`](../namespaces/BotMediaMetadata/enumerations/OrientationType.md)
 
-Defined in: [WAProto/index.d.ts:4333](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4333)
+Defined in: [WAProto/index.d.ts:4333](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4333)
 
 BotMediaMetadata orientationType

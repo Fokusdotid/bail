@@ -1,6 +1,6 @@
 # Interface: IPastParticipant
 
-Defined in: [WAProto/index.d.ts:37912](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L37912)
+Defined in: [WAProto/index.d.ts:37912](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L37912)
 
 Properties of a PastParticipant.
 
@@ -10,7 +10,7 @@ Properties of a PastParticipant.
 
 > `optional` **leaveReason**: `null` \| [`LeaveReason`](../namespaces/PastParticipant/enumerations/LeaveReason.md)
 
-Defined in: [WAProto/index.d.ts:37918](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L37918)
+Defined in: [WAProto/index.d.ts:37918](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L37918)
 
 PastParticipant leaveReason
 
@@ -20,7 +20,7 @@ PastParticipant leaveReason
 
 > `optional` **leaveTs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:37921](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L37921)
+Defined in: [WAProto/index.d.ts:37921](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L37921)
 
 PastParticipant leaveTs
 
@@ -30,6 +30,6 @@ PastParticipant leaveTs
 
 > `optional` **userJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:37915](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L37915)
+Defined in: [WAProto/index.d.ts:37915](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L37915)
 
 PastParticipant userJid

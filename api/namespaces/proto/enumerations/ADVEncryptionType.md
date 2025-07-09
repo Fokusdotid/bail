@@ -1,6 +1,6 @@
 # Enumeration: ADVEncryptionType
 
-Defined in: [WAProto/index.d.ts:128](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L128)
+Defined in: [WAProto/index.d.ts:128](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L128)
 
 ADVEncryptionType enum.
 
@@ -10,7 +10,7 @@ ADVEncryptionType enum.
 
 > **E2EE**: `0`
 
-Defined in: [WAProto/index.d.ts:129](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L129)
+Defined in: [WAProto/index.d.ts:129](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L129)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:129](https://github.com/Fokusdotid/bail/blob/cf6
 
 > **HOSTED**: `1`
 
-Defined in: [WAProto/index.d.ts:130](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L130)
+Defined in: [WAProto/index.d.ts:130](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L130)

@@ -1,6 +1,6 @@
 # Class: PlaceholderMessage
 
-Defined in: [WAProto/index.d.ts:31188](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L31188)
+Defined in: [WAProto/index.d.ts:31188](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L31188)
 
 Represents a PlaceholderMessage.
 
@@ -14,7 +14,7 @@ Represents a PlaceholderMessage.
 
 > **new PlaceholderMessage**(`properties`?): [`PlaceholderMessage`](PlaceholderMessage.md)
 
-Defined in: [WAProto/index.d.ts:31194](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L31194)
+Defined in: [WAProto/index.d.ts:31194](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L31194)
 
 Constructs a new PlaceholderMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **type**: `null` \| [`MASK_LINKED_DEVICES`](../namespaces/PlaceholderMessage/enumerations/PlaceholderType.md#mask_linked_devices)
 
-Defined in: [WAProto/index.d.ts:31197](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L31197)
+Defined in: [WAProto/index.d.ts:31197](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L31197)
 
 PlaceholderMessage type.
 
@@ -50,7 +50,7 @@ PlaceholderMessage type.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:31267](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L31267)
+Defined in: [WAProto/index.d.ts:31267](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L31267)
 
 Converts this PlaceholderMessage to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PlaceholderMessage`](PlaceholderMessage.md)
 
-Defined in: [WAProto/index.d.ts:31204](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L31204)
+Defined in: [WAProto/index.d.ts:31204](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L31204)
 
 Creates a new PlaceholderMessage instance using the specified properties.
 
@@ -90,7 +90,7 @@ PlaceholderMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`PlaceholderMessage`](PlaceholderMessage.md)
 
-Defined in: [WAProto/index.d.ts:31230](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L31230)
+Defined in: [WAProto/index.d.ts:31230](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L31230)
 
 Decodes a PlaceholderMessage message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PlaceholderMessage`](PlaceholderMessage.md)
 
-Defined in: [WAProto/index.d.ts:31239](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L31239)
+Defined in: [WAProto/index.d.ts:31239](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L31239)
 
 Decodes a PlaceholderMessage message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:31212](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L31212)
+Defined in: [WAProto/index.d.ts:31212](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L31212)
 
 Encodes the specified PlaceholderMessage message. Does not implicitly [verify](PlaceholderMessage.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:31220](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L31220)
+Defined in: [WAProto/index.d.ts:31220](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L31220)
 
 Encodes the specified PlaceholderMessage message, length delimited. Does not implicitly [verify](PlaceholderMessage.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PlaceholderMessage`](PlaceholderMessage.md)
 
-Defined in: [WAProto/index.d.ts:31253](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L31253)
+Defined in: [WAProto/index.d.ts:31253](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L31253)
 
 Creates a PlaceholderMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PlaceholderMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:31274](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L31274)
+Defined in: [WAProto/index.d.ts:31274](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L31274)
 
 Gets the default type url for PlaceholderMessage
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:31261](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L31261)
+Defined in: [WAProto/index.d.ts:31261](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L31261)
 
 Creates a plain object from a PlaceholderMessage message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:31246](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L31246)
+Defined in: [WAProto/index.d.ts:31246](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L31246)
 
 Verifies a PlaceholderMessage message.
 

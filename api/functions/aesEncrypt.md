@@ -2,7 +2,7 @@
 
 > **aesEncrypt**(`buffer`, `key`): `Buffer`\<`ArrayBuffer`\>
 
-Defined in: [src/Utils/crypto.ts:96](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/src/Utils/crypto.ts#L96)
+Defined in: [src/Utils/crypto.ts:96](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/Utils/crypto.ts#L96)
 
 ## Parameters
 

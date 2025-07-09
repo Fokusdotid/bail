@@ -1,6 +1,6 @@
 # Interface: IPaymentTosAction
 
-Defined in: [WAProto/index.d.ts:47368](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L47368)
+Defined in: [WAProto/index.d.ts:47368](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L47368)
 
 Properties of a PaymentTosAction.
 
@@ -10,7 +10,7 @@ Properties of a PaymentTosAction.
 
 > **accepted**: `boolean`
 
-Defined in: [WAProto/index.d.ts:47374](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L47374)
+Defined in: [WAProto/index.d.ts:47374](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L47374)
 
 PaymentTosAction accepted
 
@@ -20,6 +20,6 @@ PaymentTosAction accepted
 
 > **paymentNotice**: [`BR_PAY_PRIVACY_POLICY`](../namespaces/PaymentTosAction/enumerations/PaymentNotice.md#br_pay_privacy_policy)
 
-Defined in: [WAProto/index.d.ts:47371](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L47371)
+Defined in: [WAProto/index.d.ts:47371](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L47371)
 
 PaymentTosAction paymentNotice

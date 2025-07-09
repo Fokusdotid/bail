@@ -1,6 +1,6 @@
 # Interface: IMessageAddOnContextInfo
 
-Defined in: [WAProto/index.d.ts:35715](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35715)
+Defined in: [WAProto/index.d.ts:35715](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35715)
 
 Properties of a MessageAddOnContextInfo.
 
@@ -10,7 +10,7 @@ Properties of a MessageAddOnContextInfo.
 
 > `optional` **messageAddOnDurationInSecs**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:35718](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35718)
+Defined in: [WAProto/index.d.ts:35718](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35718)
 
 MessageAddOnContextInfo messageAddOnDurationInSecs
 
@@ -20,6 +20,6 @@ MessageAddOnContextInfo messageAddOnDurationInSecs
 
 > `optional` **messageAddOnExpiryType**: `null` \| [`MessageAddonExpiryType`](../namespaces/MessageContextInfo/enumerations/MessageAddonExpiryType.md)
 
-Defined in: [WAProto/index.d.ts:35721](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L35721)
+Defined in: [WAProto/index.d.ts:35721](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35721)
 
 MessageAddOnContextInfo messageAddOnExpiryType

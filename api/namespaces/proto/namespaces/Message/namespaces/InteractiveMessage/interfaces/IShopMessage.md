@@ -1,6 +1,6 @@
 # Interface: IShopMessage
 
-Defined in: [WAProto/index.d.ts:25867](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25867)
+Defined in: [WAProto/index.d.ts:25867](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L25867)
 
 Properties of a ShopMessage.
 
@@ -10,7 +10,7 @@ Properties of a ShopMessage.
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:25870](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25870)
+Defined in: [WAProto/index.d.ts:25870](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L25870)
 
 ShopMessage id
 
@@ -20,7 +20,7 @@ ShopMessage id
 
 > `optional` **messageVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:25876](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25876)
+Defined in: [WAProto/index.d.ts:25876](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L25876)
 
 ShopMessage messageVersion
 
@@ -30,6 +30,6 @@ ShopMessage messageVersion
 
 > `optional` **surface**: `null` \| [`Surface`](../namespaces/ShopMessage/enumerations/Surface.md)
 
-Defined in: [WAProto/index.d.ts:25873](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L25873)
+Defined in: [WAProto/index.d.ts:25873](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L25873)
 
 ShopMessage surface

@@ -1,6 +1,6 @@
 # Class: BotMemoryMetadata
 
-Defined in: [WAProto/index.d.ts:4571](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4571)
+Defined in: [WAProto/index.d.ts:4571](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4571)
 
 Represents a BotMemoryMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotMemoryMetadata.
 
 > **new BotMemoryMetadata**(`properties`?): [`BotMemoryMetadata`](BotMemoryMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4577](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4577)
+Defined in: [WAProto/index.d.ts:4577](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4577)
 
 Constructs a new BotMemoryMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **addedFacts**: [`IBotMemoryFact`](../interfaces/IBotMemoryFact.md)[]
 
-Defined in: [WAProto/index.d.ts:4580](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4580)
+Defined in: [WAProto/index.d.ts:4580](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4580)
 
 BotMemoryMetadata addedFacts.
 
@@ -50,7 +50,7 @@ BotMemoryMetadata addedFacts.
 
 > `optional` **disclaimer**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4586](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4586)
+Defined in: [WAProto/index.d.ts:4586](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4586)
 
 BotMemoryMetadata disclaimer.
 
@@ -64,7 +64,7 @@ BotMemoryMetadata disclaimer.
 
 > **removedFacts**: [`IBotMemoryFact`](../interfaces/IBotMemoryFact.md)[]
 
-Defined in: [WAProto/index.d.ts:4583](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4583)
+Defined in: [WAProto/index.d.ts:4583](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4583)
 
 BotMemoryMetadata removedFacts.
 
@@ -78,7 +78,7 @@ BotMemoryMetadata removedFacts.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:4656](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4656)
+Defined in: [WAProto/index.d.ts:4656](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4656)
 
 Converts this BotMemoryMetadata to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotMemoryMetadata`](BotMemoryMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4593](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4593)
+Defined in: [WAProto/index.d.ts:4593](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4593)
 
 Creates a new BotMemoryMetadata instance using the specified properties.
 
@@ -118,7 +118,7 @@ BotMemoryMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotMemoryMetadata`](BotMemoryMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4619](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4619)
+Defined in: [WAProto/index.d.ts:4619](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4619)
 
 Decodes a BotMemoryMetadata message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotMemoryMetadata`](BotMemoryMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4628](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4628)
+Defined in: [WAProto/index.d.ts:4628](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4628)
 
 Decodes a BotMemoryMetadata message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:4601](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4601)
+Defined in: [WAProto/index.d.ts:4601](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4601)
 
 Encodes the specified BotMemoryMetadata message. Does not implicitly [verify](BotMemoryMetadata.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:4609](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4609)
+Defined in: [WAProto/index.d.ts:4609](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4609)
 
 Encodes the specified BotMemoryMetadata message, length delimited. Does not implicitly [verify](BotMemoryMetadata.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotMemoryMetadata`](BotMemoryMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4642](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4642)
+Defined in: [WAProto/index.d.ts:4642](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4642)
 
 Creates a BotMemoryMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ BotMemoryMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:4663](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4663)
+Defined in: [WAProto/index.d.ts:4663](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4663)
 
 Gets the default type url for BotMemoryMetadata
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:4650](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4650)
+Defined in: [WAProto/index.d.ts:4650](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4650)
 
 Creates a plain object from a BotMemoryMetadata message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4635](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L4635)
+Defined in: [WAProto/index.d.ts:4635](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4635)
 
 Verifies a BotMemoryMetadata message.
 

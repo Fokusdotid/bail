@@ -1,6 +1,6 @@
 # Interface: IBizAccountPayload
 
-Defined in: [WAProto/index.d.ts:3361](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3361)
+Defined in: [WAProto/index.d.ts:3361](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L3361)
 
 Properties of a BizAccountPayload.
 
@@ -10,7 +10,7 @@ Properties of a BizAccountPayload.
 
 > `optional` **bizAcctLinkInfo**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:3367](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3367)
+Defined in: [WAProto/index.d.ts:3367](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L3367)
 
 BizAccountPayload bizAcctLinkInfo
 
@@ -20,6 +20,6 @@ BizAccountPayload bizAcctLinkInfo
 
 > `optional` **vnameCert**: `null` \| [`IVerifiedNameCertificate`](IVerifiedNameCertificate.md)
 
-Defined in: [WAProto/index.d.ts:3364](https://github.com/Fokusdotid/bail/blob/cf6cc85134e12081bc635cea02cc0eee74033a81/WAProto/index.d.ts#L3364)
+Defined in: [WAProto/index.d.ts:3364](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L3364)
 
 BizAccountPayload vnameCert
