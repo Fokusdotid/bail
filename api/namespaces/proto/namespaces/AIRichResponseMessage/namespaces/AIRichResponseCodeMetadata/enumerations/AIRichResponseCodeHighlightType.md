@@ -1,6 +1,6 @@
 # Enumeration: AIRichResponseCodeHighlightType
 
-Defined in: [WAProto/index.d.ts:1016](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1016)
+Defined in: [WAProto/index.d.ts:1016](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1016)
 
 AIRichResponseCodeHighlightType enum.
 
@@ -10,7 +10,7 @@ AIRichResponseCodeHighlightType enum.
 
 > **AI\_RICH\_RESPONSE\_CODE\_HIGHLIGHT\_COMMENT**: `5`
 
-Defined in: [WAProto/index.d.ts:1022](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1022)
+Defined in: [WAProto/index.d.ts:1022](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1022)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:1022](https://github.com/Fokusdotid/bail/blob/82
 
 > **AI\_RICH\_RESPONSE\_CODE\_HIGHLIGHT\_DEFAULT**: `0`
 
-Defined in: [WAProto/index.d.ts:1017](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1017)
+Defined in: [WAProto/index.d.ts:1017](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1017)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:1017](https://github.com/Fokusdotid/bail/blob/82
 
 > **AI\_RICH\_RESPONSE\_CODE\_HIGHLIGHT\_KEYWORD**: `1`
 
-Defined in: [WAProto/index.d.ts:1018](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1018)
+Defined in: [WAProto/index.d.ts:1018](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1018)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:1018](https://github.com/Fokusdotid/bail/blob/82
 
 > **AI\_RICH\_RESPONSE\_CODE\_HIGHLIGHT\_METHOD**: `2`
 
-Defined in: [WAProto/index.d.ts:1019](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1019)
+Defined in: [WAProto/index.d.ts:1019](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1019)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [WAProto/index.d.ts:1019](https://github.com/Fokusdotid/bail/blob/82
 
 > **AI\_RICH\_RESPONSE\_CODE\_HIGHLIGHT\_NUMBER**: `4`
 
-Defined in: [WAProto/index.d.ts:1021](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1021)
+Defined in: [WAProto/index.d.ts:1021](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1021)
 
 ***
 
@@ -50,4 +50,4 @@ Defined in: [WAProto/index.d.ts:1021](https://github.com/Fokusdotid/bail/blob/82
 
 > **AI\_RICH\_RESPONSE\_CODE\_HIGHLIGHT\_STRING**: `3`
 
-Defined in: [WAProto/index.d.ts:1020](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1020)
+Defined in: [WAProto/index.d.ts:1020](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1020)

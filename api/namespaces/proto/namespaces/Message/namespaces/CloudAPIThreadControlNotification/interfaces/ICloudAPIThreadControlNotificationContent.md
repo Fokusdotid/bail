@@ -1,6 +1,6 @@
 # Interface: ICloudAPIThreadControlNotificationContent
 
-Defined in: [WAProto/index.d.ts:21580](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21580)
+Defined in: [WAProto/index.d.ts:21580](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21580)
 
 Properties of a CloudAPIThreadControlNotificationContent.
 
@@ -10,7 +10,7 @@ Properties of a CloudAPIThreadControlNotificationContent.
 
 > `optional` **extraJson**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21586](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21586)
+Defined in: [WAProto/index.d.ts:21586](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21586)
 
 CloudAPIThreadControlNotificationContent extraJson
 
@@ -20,6 +20,6 @@ CloudAPIThreadControlNotificationContent extraJson
 
 > `optional` **handoffNotificationText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21583](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21583)
+Defined in: [WAProto/index.d.ts:21583](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21583)
 
 CloudAPIThreadControlNotificationContent handoffNotificationText

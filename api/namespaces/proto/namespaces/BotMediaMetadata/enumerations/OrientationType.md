@@ -1,6 +1,6 @@
 # Enumeration: OrientationType
 
-Defined in: [WAProto/index.d.ts:4447](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4447)
+Defined in: [WAProto/index.d.ts:4447](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L4447)
 
 OrientationType enum.
 
@@ -10,7 +10,7 @@ OrientationType enum.
 
 > **CENTER**: `1`
 
-Defined in: [WAProto/index.d.ts:4448](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4448)
+Defined in: [WAProto/index.d.ts:4448](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L4448)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:4448](https://github.com/Fokusdotid/bail/blob/82
 
 > **LEFT**: `2`
 
-Defined in: [WAProto/index.d.ts:4449](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4449)
+Defined in: [WAProto/index.d.ts:4449](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L4449)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:4449](https://github.com/Fokusdotid/bail/blob/82
 
 > **RIGHT**: `3`
 
-Defined in: [WAProto/index.d.ts:4450](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4450)
+Defined in: [WAProto/index.d.ts:4450](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L4450)

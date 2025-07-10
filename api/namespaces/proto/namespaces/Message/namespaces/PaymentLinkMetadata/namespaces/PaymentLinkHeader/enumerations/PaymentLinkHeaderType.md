@@ -1,6 +1,6 @@
 # Enumeration: PaymentLinkHeaderType
 
-Defined in: [WAProto/index.d.ts:29238](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29238)
+Defined in: [WAProto/index.d.ts:29238](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29238)
 
 PaymentLinkHeaderType enum.
 
@@ -10,7 +10,7 @@ PaymentLinkHeaderType enum.
 
 > **LINK\_PREVIEW**: `0`
 
-Defined in: [WAProto/index.d.ts:29239](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29239)
+Defined in: [WAProto/index.d.ts:29239](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29239)
 
 ***
 
@@ -18,4 +18,4 @@ Defined in: [WAProto/index.d.ts:29239](https://github.com/Fokusdotid/bail/blob/8
 
 > **ORDER**: `1`
 
-Defined in: [WAProto/index.d.ts:29240](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29240)
+Defined in: [WAProto/index.d.ts:29240](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29240)

@@ -1,6 +1,6 @@
 # Interface: WAGroupCreateResponse
 
-Defined in: [src/Types/GroupMetadata.ts:58](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/Types/GroupMetadata.ts#L58)
+Defined in: [src/Types/GroupMetadata.ts:58](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/src/Types/GroupMetadata.ts#L58)
 
 ## Properties
 
@@ -8,7 +8,7 @@ Defined in: [src/Types/GroupMetadata.ts:58](https://github.com/Fokusdotid/bail/b
 
 > `optional` **gid**: `string`
 
-Defined in: [src/Types/GroupMetadata.ts:60](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/Types/GroupMetadata.ts#L60)
+Defined in: [src/Types/GroupMetadata.ts:60](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/src/Types/GroupMetadata.ts#L60)
 
 ***
 
@@ -16,7 +16,7 @@ Defined in: [src/Types/GroupMetadata.ts:60](https://github.com/Fokusdotid/bail/b
 
 > `optional` **participants**: \[\{\}\]
 
-Defined in: [src/Types/GroupMetadata.ts:61](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/Types/GroupMetadata.ts#L61)
+Defined in: [src/Types/GroupMetadata.ts:61](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/src/Types/GroupMetadata.ts#L61)
 
 ***
 
@@ -24,4 +24,4 @@ Defined in: [src/Types/GroupMetadata.ts:61](https://github.com/Fokusdotid/bail/b
 
 > **status**: `number`
 
-Defined in: [src/Types/GroupMetadata.ts:59](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/Types/GroupMetadata.ts#L59)
+Defined in: [src/Types/GroupMetadata.ts:59](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/src/Types/GroupMetadata.ts#L59)

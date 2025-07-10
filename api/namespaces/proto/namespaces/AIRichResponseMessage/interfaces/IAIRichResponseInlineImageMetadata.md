@@ -1,6 +1,6 @@
 # Interface: IAIRichResponseInlineImageMetadata
 
-Defined in: [WAProto/index.d.ts:1691](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1691)
+Defined in: [WAProto/index.d.ts:1691](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1691)
 
 Properties of a AIRichResponseInlineImageMetadata.
 
@@ -10,7 +10,7 @@ Properties of a AIRichResponseInlineImageMetadata.
 
 > `optional` **alignment**: `null` \| [`AIRichResponseImageAlignment`](../namespaces/AIRichResponseInlineImageMetadata/enumerations/AIRichResponseImageAlignment.md)
 
-Defined in: [WAProto/index.d.ts:1700](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1700)
+Defined in: [WAProto/index.d.ts:1700](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1700)
 
 AIRichResponseInlineImageMetadata alignment
 
@@ -20,7 +20,7 @@ AIRichResponseInlineImageMetadata alignment
 
 > `optional` **imageText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1697](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1697)
+Defined in: [WAProto/index.d.ts:1697](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1697)
 
 AIRichResponseInlineImageMetadata imageText
 
@@ -30,7 +30,7 @@ AIRichResponseInlineImageMetadata imageText
 
 > `optional` **imageUrl**: `null` \| [`IAIRichResponseImageURL`](IAIRichResponseImageURL.md)
 
-Defined in: [WAProto/index.d.ts:1694](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1694)
+Defined in: [WAProto/index.d.ts:1694](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1694)
 
 AIRichResponseInlineImageMetadata imageUrl
 
@@ -40,6 +40,6 @@ AIRichResponseInlineImageMetadata imageUrl
 
 > `optional` **tapLinkUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1703](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1703)
+Defined in: [WAProto/index.d.ts:1703](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1703)
 
 AIRichResponseInlineImageMetadata tapLinkUrl

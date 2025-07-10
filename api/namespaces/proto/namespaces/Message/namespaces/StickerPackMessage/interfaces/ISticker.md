@@ -1,6 +1,6 @@
 # Interface: ISticker
 
-Defined in: [WAProto/index.d.ts:34409](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L34409)
+Defined in: [WAProto/index.d.ts:34409](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L34409)
 
 Properties of a Sticker.
 
@@ -10,7 +10,7 @@ Properties of a Sticker.
 
 > `optional` **accessibilityLabel**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34421](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L34421)
+Defined in: [WAProto/index.d.ts:34421](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L34421)
 
 Sticker accessibilityLabel
 
@@ -20,7 +20,7 @@ Sticker accessibilityLabel
 
 > `optional` **emojis**: `null` \| `string`[]
 
-Defined in: [WAProto/index.d.ts:34418](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L34418)
+Defined in: [WAProto/index.d.ts:34418](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L34418)
 
 Sticker emojis
 
@@ -30,7 +30,7 @@ Sticker emojis
 
 > `optional` **fileName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34412](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L34412)
+Defined in: [WAProto/index.d.ts:34412](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L34412)
 
 Sticker fileName
 
@@ -40,7 +40,7 @@ Sticker fileName
 
 > `optional` **isAnimated**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:34415](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L34415)
+Defined in: [WAProto/index.d.ts:34415](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L34415)
 
 Sticker isAnimated
 
@@ -50,7 +50,7 @@ Sticker isAnimated
 
 > `optional` **isLottie**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:34424](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L34424)
+Defined in: [WAProto/index.d.ts:34424](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L34424)
 
 Sticker isLottie
 
@@ -60,6 +60,6 @@ Sticker isLottie
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:34427](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L34427)
+Defined in: [WAProto/index.d.ts:34427](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L34427)
 
 Sticker mimetype

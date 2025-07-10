@@ -1,6 +1,6 @@
 # Interface: IPushname
 
-Defined in: [WAProto/index.d.ts:40292](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L40292)
+Defined in: [WAProto/index.d.ts:40292](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L40292)
 
 Properties of a Pushname.
 
@@ -10,7 +10,7 @@ Properties of a Pushname.
 
 > `optional` **id**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:40295](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L40295)
+Defined in: [WAProto/index.d.ts:40295](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L40295)
 
 Pushname id
 
@@ -20,6 +20,6 @@ Pushname id
 
 > `optional` **pushname**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:40298](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L40298)
+Defined in: [WAProto/index.d.ts:40298](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L40298)
 
 Pushname pushname

@@ -1,6 +1,6 @@
 # Class: DeviceProps
 
-Defined in: [WAProto/index.d.ts:13202](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L13202)
+Defined in: [WAProto/index.d.ts:13202](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L13202)
 
 Represents a DeviceProps.
 
@@ -14,7 +14,7 @@ Represents a DeviceProps.
 
 > **new DeviceProps**(`properties`?): [`DeviceProps`](DeviceProps.md)
 
-Defined in: [WAProto/index.d.ts:13208](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L13208)
+Defined in: [WAProto/index.d.ts:13208](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L13208)
 
 Constructs a new DeviceProps.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **historySyncConfig**: `null` \| [`IHistorySyncConfig`](../namespaces/DeviceProps/interfaces/IHistorySyncConfig.md)
 
-Defined in: [WAProto/index.d.ts:13223](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L13223)
+Defined in: [WAProto/index.d.ts:13223](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L13223)
 
 DeviceProps historySyncConfig.
 
@@ -50,7 +50,7 @@ DeviceProps historySyncConfig.
 
 > `optional` **os**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13211](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L13211)
+Defined in: [WAProto/index.d.ts:13211](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L13211)
 
 DeviceProps os.
 
@@ -64,7 +64,7 @@ DeviceProps os.
 
 > `optional` **platformType**: `null` \| [`PlatformType`](../namespaces/DeviceProps/enumerations/PlatformType.md)
 
-Defined in: [WAProto/index.d.ts:13217](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L13217)
+Defined in: [WAProto/index.d.ts:13217](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L13217)
 
 DeviceProps platformType.
 
@@ -78,7 +78,7 @@ DeviceProps platformType.
 
 > `optional` **requireFullSync**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:13220](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L13220)
+Defined in: [WAProto/index.d.ts:13220](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L13220)
 
 DeviceProps requireFullSync.
 
@@ -92,7 +92,7 @@ DeviceProps requireFullSync.
 
 > `optional` **version**: `null` \| [`IAppVersion`](../namespaces/DeviceProps/interfaces/IAppVersion.md)
 
-Defined in: [WAProto/index.d.ts:13214](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L13214)
+Defined in: [WAProto/index.d.ts:13214](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L13214)
 
 DeviceProps version.
 
@@ -106,7 +106,7 @@ DeviceProps version.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:13293](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L13293)
+Defined in: [WAProto/index.d.ts:13293](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L13293)
 
 Converts this DeviceProps to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`DeviceProps`](DeviceProps.md)
 
-Defined in: [WAProto/index.d.ts:13230](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L13230)
+Defined in: [WAProto/index.d.ts:13230](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L13230)
 
 Creates a new DeviceProps instance using the specified properties.
 
@@ -146,7 +146,7 @@ DeviceProps instance
 
 > `static` **decode**(`reader`, `length`?): [`DeviceProps`](DeviceProps.md)
 
-Defined in: [WAProto/index.d.ts:13256](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L13256)
+Defined in: [WAProto/index.d.ts:13256](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L13256)
 
 Decodes a DeviceProps message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`DeviceProps`](DeviceProps.md)
 
-Defined in: [WAProto/index.d.ts:13265](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L13265)
+Defined in: [WAProto/index.d.ts:13265](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L13265)
 
 Decodes a DeviceProps message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:13238](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L13238)
+Defined in: [WAProto/index.d.ts:13238](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L13238)
 
 Encodes the specified DeviceProps message. Does not implicitly [verify](DeviceProps.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:13246](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L13246)
+Defined in: [WAProto/index.d.ts:13246](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L13246)
 
 Encodes the specified DeviceProps message, length delimited. Does not implicitly [verify](DeviceProps.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`DeviceProps`](DeviceProps.md)
 
-Defined in: [WAProto/index.d.ts:13279](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L13279)
+Defined in: [WAProto/index.d.ts:13279](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L13279)
 
 Creates a DeviceProps message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ DeviceProps
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:13300](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L13300)
+Defined in: [WAProto/index.d.ts:13300](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L13300)
 
 Gets the default type url for DeviceProps
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:13287](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L13287)
+Defined in: [WAProto/index.d.ts:13287](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L13287)
 
 Creates a plain object from a DeviceProps message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:13272](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L13272)
+Defined in: [WAProto/index.d.ts:13272](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L13272)
 
 Verifies a DeviceProps message.
 

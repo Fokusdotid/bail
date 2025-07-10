@@ -1,6 +1,6 @@
 # Class: Body
 
-Defined in: [WAProto/index.d.ts:26112](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26112)
+Defined in: [WAProto/index.d.ts:26112](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26112)
 
 Represents a Body.
 
@@ -14,7 +14,7 @@ Represents a Body.
 
 > **new Body**(`properties`?): [`Body`](Body.md)
 
-Defined in: [WAProto/index.d.ts:26118](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26118)
+Defined in: [WAProto/index.d.ts:26118](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26118)
 
 Constructs a new Body.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **format**: `null` \| [`Format`](../namespaces/Body/enumerations/Format.md)
 
-Defined in: [WAProto/index.d.ts:26124](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26124)
+Defined in: [WAProto/index.d.ts:26124](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26124)
 
 Body format.
 
@@ -50,7 +50,7 @@ Body format.
 
 > `optional` **text**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26121](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26121)
+Defined in: [WAProto/index.d.ts:26121](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26121)
 
 Body text.
 
@@ -64,7 +64,7 @@ Body text.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:26194](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26194)
+Defined in: [WAProto/index.d.ts:26194](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26194)
 
 Converts this Body to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Body`](Body.md)
 
-Defined in: [WAProto/index.d.ts:26131](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26131)
+Defined in: [WAProto/index.d.ts:26131](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26131)
 
 Creates a new Body instance using the specified properties.
 
@@ -104,7 +104,7 @@ Body instance
 
 > `static` **decode**(`reader`, `length`?): [`Body`](Body.md)
 
-Defined in: [WAProto/index.d.ts:26157](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26157)
+Defined in: [WAProto/index.d.ts:26157](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26157)
 
 Decodes a Body message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Body`](Body.md)
 
-Defined in: [WAProto/index.d.ts:26166](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26166)
+Defined in: [WAProto/index.d.ts:26166](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26166)
 
 Decodes a Body message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:26139](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26139)
+Defined in: [WAProto/index.d.ts:26139](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26139)
 
 Encodes the specified Body message. Does not implicitly [verify](Body.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:26147](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26147)
+Defined in: [WAProto/index.d.ts:26147](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26147)
 
 Encodes the specified Body message, length delimited. Does not implicitly [verify](Body.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Body`](Body.md)
 
-Defined in: [WAProto/index.d.ts:26180](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26180)
+Defined in: [WAProto/index.d.ts:26180](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26180)
 
 Creates a Body message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ Body
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:26201](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26201)
+Defined in: [WAProto/index.d.ts:26201](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26201)
 
 Gets the default type url for Body
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:26188](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26188)
+Defined in: [WAProto/index.d.ts:26188](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26188)
 
 Creates a plain object from a Body message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26173](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26173)
+Defined in: [WAProto/index.d.ts:26173](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26173)
 
 Verifies a Body message.
 

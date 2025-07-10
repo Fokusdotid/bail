@@ -1,6 +1,6 @@
 # Interface: IHSMCurrency
 
-Defined in: [WAProto/index.d.ts:23921](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23921)
+Defined in: [WAProto/index.d.ts:23921](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23921)
 
 Properties of a HSMCurrency.
 
@@ -10,7 +10,7 @@ Properties of a HSMCurrency.
 
 > `optional` **amount1000**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:23927](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23927)
+Defined in: [WAProto/index.d.ts:23927](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23927)
 
 HSMCurrency amount1000
 
@@ -20,6 +20,6 @@ HSMCurrency amount1000
 
 > `optional` **currencyCode**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23924](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23924)
+Defined in: [WAProto/index.d.ts:23924](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23924)
 
 HSMCurrency currencyCode

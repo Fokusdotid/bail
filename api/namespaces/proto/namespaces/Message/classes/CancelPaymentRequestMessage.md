@@ -1,6 +1,6 @@
 # Class: CancelPaymentRequestMessage
 
-Defined in: [WAProto/index.d.ts:21257](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21257)
+Defined in: [WAProto/index.d.ts:21257](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21257)
 
 Represents a CancelPaymentRequestMessage.
 
@@ -14,7 +14,7 @@ Represents a CancelPaymentRequestMessage.
 
 > **new CancelPaymentRequestMessage**(`properties`?): [`CancelPaymentRequestMessage`](CancelPaymentRequestMessage.md)
 
-Defined in: [WAProto/index.d.ts:21263](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21263)
+Defined in: [WAProto/index.d.ts:21263](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21263)
 
 Constructs a new CancelPaymentRequestMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **key**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:21266](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21266)
+Defined in: [WAProto/index.d.ts:21266](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21266)
 
 CancelPaymentRequestMessage key.
 
@@ -50,7 +50,7 @@ CancelPaymentRequestMessage key.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:21336](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21336)
+Defined in: [WAProto/index.d.ts:21336](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21336)
 
 Converts this CancelPaymentRequestMessage to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`CancelPaymentRequestMessage`](CancelPaymentRequestMessage.md)
 
-Defined in: [WAProto/index.d.ts:21273](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21273)
+Defined in: [WAProto/index.d.ts:21273](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21273)
 
 Creates a new CancelPaymentRequestMessage instance using the specified properties.
 
@@ -90,7 +90,7 @@ CancelPaymentRequestMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`CancelPaymentRequestMessage`](CancelPaymentRequestMessage.md)
 
-Defined in: [WAProto/index.d.ts:21299](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21299)
+Defined in: [WAProto/index.d.ts:21299](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21299)
 
 Decodes a CancelPaymentRequestMessage message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`CancelPaymentRequestMessage`](CancelPaymentRequestMessage.md)
 
-Defined in: [WAProto/index.d.ts:21308](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21308)
+Defined in: [WAProto/index.d.ts:21308](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21308)
 
 Decodes a CancelPaymentRequestMessage message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:21281](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21281)
+Defined in: [WAProto/index.d.ts:21281](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21281)
 
 Encodes the specified CancelPaymentRequestMessage message. Does not implicitly [verify](CancelPaymentRequestMessage.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:21289](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21289)
+Defined in: [WAProto/index.d.ts:21289](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21289)
 
 Encodes the specified CancelPaymentRequestMessage message, length delimited. Does not implicitly [verify](CancelPaymentRequestMessage.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`CancelPaymentRequestMessage`](CancelPaymentRequestMessage.md)
 
-Defined in: [WAProto/index.d.ts:21322](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21322)
+Defined in: [WAProto/index.d.ts:21322](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21322)
 
 Creates a CancelPaymentRequestMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ CancelPaymentRequestMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:21343](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21343)
+Defined in: [WAProto/index.d.ts:21343](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21343)
 
 Gets the default type url for CancelPaymentRequestMessage
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:21330](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21330)
+Defined in: [WAProto/index.d.ts:21330](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21330)
 
 Creates a plain object from a CancelPaymentRequestMessage message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:21315](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21315)
+Defined in: [WAProto/index.d.ts:21315](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21315)
 
 Verifies a CancelPaymentRequestMessage message.
 

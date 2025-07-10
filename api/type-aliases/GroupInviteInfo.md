@@ -2,7 +2,7 @@
 
 > **GroupInviteInfo**: `object`
 
-Defined in: [src/Types/Message.ts:195](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/Types/Message.ts#L195)
+Defined in: [src/Types/Message.ts:195](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/src/Types/Message.ts#L195)
 
 ## Type declaration
 

@@ -1,6 +1,6 @@
 # Class: AIRichResponseImageURL
 
-Defined in: [WAProto/index.d.ts:1595](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1595)
+Defined in: [WAProto/index.d.ts:1595](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1595)
 
 Represents a AIRichResponseImageURL.
 
@@ -14,7 +14,7 @@ Represents a AIRichResponseImageURL.
 
 > **new AIRichResponseImageURL**(`properties`?): [`AIRichResponseImageURL`](AIRichResponseImageURL.md)
 
-Defined in: [WAProto/index.d.ts:1601](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1601)
+Defined in: [WAProto/index.d.ts:1601](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1601)
 
 Constructs a new AIRichResponseImageURL.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **imageHighResUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1607](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1607)
+Defined in: [WAProto/index.d.ts:1607](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1607)
 
 AIRichResponseImageURL imageHighResUrl.
 
@@ -50,7 +50,7 @@ AIRichResponseImageURL imageHighResUrl.
 
 > `optional` **imagePreviewUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1604](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1604)
+Defined in: [WAProto/index.d.ts:1604](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1604)
 
 AIRichResponseImageURL imagePreviewUrl.
 
@@ -64,7 +64,7 @@ AIRichResponseImageURL imagePreviewUrl.
 
 > `optional` **sourceUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1610](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1610)
+Defined in: [WAProto/index.d.ts:1610](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1610)
 
 AIRichResponseImageURL sourceUrl.
 
@@ -78,7 +78,7 @@ AIRichResponseImageURL sourceUrl.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:1680](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1680)
+Defined in: [WAProto/index.d.ts:1680](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1680)
 
 Converts this AIRichResponseImageURL to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIRichResponseImageURL`](AIRichResponseImageURL.md)
 
-Defined in: [WAProto/index.d.ts:1617](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1617)
+Defined in: [WAProto/index.d.ts:1617](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1617)
 
 Creates a new AIRichResponseImageURL instance using the specified properties.
 
@@ -118,7 +118,7 @@ AIRichResponseImageURL instance
 
 > `static` **decode**(`reader`, `length`?): [`AIRichResponseImageURL`](AIRichResponseImageURL.md)
 
-Defined in: [WAProto/index.d.ts:1643](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1643)
+Defined in: [WAProto/index.d.ts:1643](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1643)
 
 Decodes a AIRichResponseImageURL message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIRichResponseImageURL`](AIRichResponseImageURL.md)
 
-Defined in: [WAProto/index.d.ts:1652](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1652)
+Defined in: [WAProto/index.d.ts:1652](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1652)
 
 Decodes a AIRichResponseImageURL message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:1625](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1625)
+Defined in: [WAProto/index.d.ts:1625](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1625)
 
 Encodes the specified AIRichResponseImageURL message. Does not implicitly [verify](AIRichResponseImageURL.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:1633](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1633)
+Defined in: [WAProto/index.d.ts:1633](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1633)
 
 Encodes the specified AIRichResponseImageURL message, length delimited. Does not implicitly [verify](AIRichResponseImageURL.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIRichResponseImageURL`](AIRichResponseImageURL.md)
 
-Defined in: [WAProto/index.d.ts:1666](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1666)
+Defined in: [WAProto/index.d.ts:1666](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1666)
 
 Creates a AIRichResponseImageURL message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ AIRichResponseImageURL
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:1687](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1687)
+Defined in: [WAProto/index.d.ts:1687](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1687)
 
 Gets the default type url for AIRichResponseImageURL
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:1674](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1674)
+Defined in: [WAProto/index.d.ts:1674](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1674)
 
 Creates a plain object from a AIRichResponseImageURL message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1659](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1659)
+Defined in: [WAProto/index.d.ts:1659](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1659)
 
 Verifies a AIRichResponseImageURL message.
 

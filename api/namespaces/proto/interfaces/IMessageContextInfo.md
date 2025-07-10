@@ -1,6 +1,6 @@
 # Interface: IMessageContextInfo
 
-Defined in: [WAProto/index.d.ts:35949](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35949)
+Defined in: [WAProto/index.d.ts:35949](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L35949)
 
 Properties of a MessageContextInfo.
 
@@ -10,7 +10,7 @@ Properties of a MessageContextInfo.
 
 > `optional` **botMessageSecret**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35967](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35967)
+Defined in: [WAProto/index.d.ts:35967](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L35967)
 
 MessageContextInfo botMessageSecret
 
@@ -20,7 +20,7 @@ MessageContextInfo botMessageSecret
 
 > `optional` **botMetadata**: `null` \| [`IBotMetadata`](IBotMetadata.md)
 
-Defined in: [WAProto/index.d.ts:35970](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35970)
+Defined in: [WAProto/index.d.ts:35970](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L35970)
 
 MessageContextInfo botMetadata
 
@@ -30,7 +30,7 @@ MessageContextInfo botMetadata
 
 > `optional` **capiCreatedGroup**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:35982](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35982)
+Defined in: [WAProto/index.d.ts:35982](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L35982)
 
 MessageContextInfo capiCreatedGroup
 
@@ -40,7 +40,7 @@ MessageContextInfo capiCreatedGroup
 
 > `optional` **deviceListMetadata**: `null` \| [`IDeviceListMetadata`](IDeviceListMetadata.md)
 
-Defined in: [WAProto/index.d.ts:35952](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35952)
+Defined in: [WAProto/index.d.ts:35952](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L35952)
 
 MessageContextInfo deviceListMetadata
 
@@ -50,7 +50,7 @@ MessageContextInfo deviceListMetadata
 
 > `optional` **deviceListMetadataVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:35955](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35955)
+Defined in: [WAProto/index.d.ts:35955](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L35955)
 
 MessageContextInfo deviceListMetadataVersion
 
@@ -60,7 +60,7 @@ MessageContextInfo deviceListMetadataVersion
 
 > `optional` **limitSharing**: `null` \| [`ILimitSharing`](ILimitSharing.md)
 
-Defined in: [WAProto/index.d.ts:35988](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35988)
+Defined in: [WAProto/index.d.ts:35988](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L35988)
 
 MessageContextInfo limitSharing
 
@@ -70,7 +70,7 @@ MessageContextInfo limitSharing
 
 > `optional` **limitSharingV2**: `null` \| [`ILimitSharing`](ILimitSharing.md)
 
-Defined in: [WAProto/index.d.ts:35991](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35991)
+Defined in: [WAProto/index.d.ts:35991](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L35991)
 
 MessageContextInfo limitSharingV2
 
@@ -80,7 +80,7 @@ MessageContextInfo limitSharingV2
 
 > `optional` **messageAddOnDurationInSecs**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:35964](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35964)
+Defined in: [WAProto/index.d.ts:35964](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L35964)
 
 MessageContextInfo messageAddOnDurationInSecs
 
@@ -90,7 +90,7 @@ MessageContextInfo messageAddOnDurationInSecs
 
 > `optional` **messageAddOnExpiryType**: `null` \| [`MessageAddonExpiryType`](../namespaces/MessageContextInfo/enumerations/MessageAddonExpiryType.md)
 
-Defined in: [WAProto/index.d.ts:35976](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35976)
+Defined in: [WAProto/index.d.ts:35976](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L35976)
 
 MessageContextInfo messageAddOnExpiryType
 
@@ -100,7 +100,7 @@ MessageContextInfo messageAddOnExpiryType
 
 > `optional` **messageAssociation**: `null` \| [`IMessageAssociation`](IMessageAssociation.md)
 
-Defined in: [WAProto/index.d.ts:35979](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35979)
+Defined in: [WAProto/index.d.ts:35979](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L35979)
 
 MessageContextInfo messageAssociation
 
@@ -110,7 +110,7 @@ MessageContextInfo messageAssociation
 
 > `optional` **messageSecret**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35958](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35958)
+Defined in: [WAProto/index.d.ts:35958](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L35958)
 
 MessageContextInfo messageSecret
 
@@ -120,7 +120,7 @@ MessageContextInfo messageSecret
 
 > `optional` **paddingBytes**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:35961](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35961)
+Defined in: [WAProto/index.d.ts:35961](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L35961)
 
 MessageContextInfo paddingBytes
 
@@ -130,7 +130,7 @@ MessageContextInfo paddingBytes
 
 > `optional` **reportingTokenVersion**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:35973](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35973)
+Defined in: [WAProto/index.d.ts:35973](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L35973)
 
 MessageContextInfo reportingTokenVersion
 
@@ -140,6 +140,6 @@ MessageContextInfo reportingTokenVersion
 
 > `optional` **supportPayload**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:35985](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L35985)
+Defined in: [WAProto/index.d.ts:35985](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L35985)
 
 MessageContextInfo supportPayload

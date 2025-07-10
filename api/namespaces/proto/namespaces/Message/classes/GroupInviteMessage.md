@@ -1,6 +1,6 @@
 # Class: GroupInviteMessage
 
-Defined in: [WAProto/index.d.ts:23540](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23540)
+Defined in: [WAProto/index.d.ts:23540](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23540)
 
 Represents a GroupInviteMessage.
 
@@ -14,7 +14,7 @@ Represents a GroupInviteMessage.
 
 > **new GroupInviteMessage**(`properties`?): [`GroupInviteMessage`](GroupInviteMessage.md)
 
-Defined in: [WAProto/index.d.ts:23546](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23546)
+Defined in: [WAProto/index.d.ts:23546](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23546)
 
 Constructs a new GroupInviteMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **caption**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23564](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23564)
+Defined in: [WAProto/index.d.ts:23564](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23564)
 
 GroupInviteMessage caption.
 
@@ -50,7 +50,7 @@ GroupInviteMessage caption.
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:23567](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23567)
+Defined in: [WAProto/index.d.ts:23567](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23567)
 
 GroupInviteMessage contextInfo.
 
@@ -64,7 +64,7 @@ GroupInviteMessage contextInfo.
 
 > `optional` **groupJid**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23549](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23549)
+Defined in: [WAProto/index.d.ts:23549](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23549)
 
 GroupInviteMessage groupJid.
 
@@ -78,7 +78,7 @@ GroupInviteMessage groupJid.
 
 > `optional` **groupName**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23558](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23558)
+Defined in: [WAProto/index.d.ts:23558](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23558)
 
 GroupInviteMessage groupName.
 
@@ -92,7 +92,7 @@ GroupInviteMessage groupName.
 
 > `optional` **groupType**: `null` \| [`GroupType`](../namespaces/GroupInviteMessage/enumerations/GroupType.md)
 
-Defined in: [WAProto/index.d.ts:23570](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23570)
+Defined in: [WAProto/index.d.ts:23570](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23570)
 
 GroupInviteMessage groupType.
 
@@ -106,7 +106,7 @@ GroupInviteMessage groupType.
 
 > `optional` **inviteCode**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23552](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23552)
+Defined in: [WAProto/index.d.ts:23552](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23552)
 
 GroupInviteMessage inviteCode.
 
@@ -120,7 +120,7 @@ GroupInviteMessage inviteCode.
 
 > `optional` **inviteExpiration**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:23555](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23555)
+Defined in: [WAProto/index.d.ts:23555](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23555)
 
 GroupInviteMessage inviteExpiration.
 
@@ -134,7 +134,7 @@ GroupInviteMessage inviteExpiration.
 
 > `optional` **jpegThumbnail**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:23561](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23561)
+Defined in: [WAProto/index.d.ts:23561](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23561)
 
 GroupInviteMessage jpegThumbnail.
 
@@ -148,7 +148,7 @@ GroupInviteMessage jpegThumbnail.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:23640](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23640)
+Defined in: [WAProto/index.d.ts:23640](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23640)
 
 Converts this GroupInviteMessage to JSON.
 
@@ -164,7 +164,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`GroupInviteMessage`](GroupInviteMessage.md)
 
-Defined in: [WAProto/index.d.ts:23577](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23577)
+Defined in: [WAProto/index.d.ts:23577](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23577)
 
 Creates a new GroupInviteMessage instance using the specified properties.
 
@@ -188,7 +188,7 @@ GroupInviteMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`GroupInviteMessage`](GroupInviteMessage.md)
 
-Defined in: [WAProto/index.d.ts:23603](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23603)
+Defined in: [WAProto/index.d.ts:23603](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23603)
 
 Decodes a GroupInviteMessage message from the specified reader or buffer.
 
@@ -226,7 +226,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`GroupInviteMessage`](GroupInviteMessage.md)
 
-Defined in: [WAProto/index.d.ts:23612](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23612)
+Defined in: [WAProto/index.d.ts:23612](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23612)
 
 Decodes a GroupInviteMessage message from the specified reader or buffer, length delimited.
 
@@ -258,7 +258,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23585](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23585)
+Defined in: [WAProto/index.d.ts:23585](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23585)
 
 Encodes the specified GroupInviteMessage message. Does not implicitly [verify](GroupInviteMessage.md#verify) messages.
 
@@ -288,7 +288,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:23593](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23593)
+Defined in: [WAProto/index.d.ts:23593](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23593)
 
 Encodes the specified GroupInviteMessage message, length delimited. Does not implicitly [verify](GroupInviteMessage.md#verify) messages.
 
@@ -318,7 +318,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`GroupInviteMessage`](GroupInviteMessage.md)
 
-Defined in: [WAProto/index.d.ts:23626](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23626)
+Defined in: [WAProto/index.d.ts:23626](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23626)
 
 Creates a GroupInviteMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -340,7 +340,7 @@ GroupInviteMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:23647](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23647)
+Defined in: [WAProto/index.d.ts:23647](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23647)
 
 Gets the default type url for GroupInviteMessage
 
@@ -364,7 +364,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:23634](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23634)
+Defined in: [WAProto/index.d.ts:23634](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23634)
 
 Creates a plain object from a GroupInviteMessage message. Also converts values to other types if specified.
 
@@ -394,7 +394,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:23619](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L23619)
+Defined in: [WAProto/index.d.ts:23619](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L23619)
 
 Verifies a GroupInviteMessage message.
 

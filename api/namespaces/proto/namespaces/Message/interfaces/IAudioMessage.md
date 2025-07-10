@@ -1,6 +1,6 @@
 # Interface: IAudioMessage
 
-Defined in: [WAProto/index.d.ts:19769](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19769)
+Defined in: [WAProto/index.d.ts:19769](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19769)
 
 Properties of an AudioMessage.
 
@@ -10,7 +10,7 @@ Properties of an AudioMessage.
 
 > `optional` **accessibilityLabel**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19817](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19817)
+Defined in: [WAProto/index.d.ts:19817](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19817)
 
 AudioMessage accessibilityLabel
 
@@ -20,7 +20,7 @@ AudioMessage accessibilityLabel
 
 > `optional` **backgroundArgb**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:19811](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19811)
+Defined in: [WAProto/index.d.ts:19811](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19811)
 
 AudioMessage backgroundArgb
 
@@ -30,7 +30,7 @@ AudioMessage backgroundArgb
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:19802](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19802)
+Defined in: [WAProto/index.d.ts:19802](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19802)
 
 AudioMessage contextInfo
 
@@ -40,7 +40,7 @@ AudioMessage contextInfo
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19796](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19796)
+Defined in: [WAProto/index.d.ts:19796](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19796)
 
 AudioMessage directPath
 
@@ -50,7 +50,7 @@ AudioMessage directPath
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:19793](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19793)
+Defined in: [WAProto/index.d.ts:19793](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19793)
 
 AudioMessage fileEncSha256
 
@@ -60,7 +60,7 @@ AudioMessage fileEncSha256
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:19781](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19781)
+Defined in: [WAProto/index.d.ts:19781](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19781)
 
 AudioMessage fileLength
 
@@ -70,7 +70,7 @@ AudioMessage fileLength
 
 > `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:19778](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19778)
+Defined in: [WAProto/index.d.ts:19778](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19778)
 
 AudioMessage fileSha256
 
@@ -80,7 +80,7 @@ AudioMessage fileSha256
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:19790](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19790)
+Defined in: [WAProto/index.d.ts:19790](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19790)
 
 AudioMessage mediaKey
 
@@ -90,7 +90,7 @@ AudioMessage mediaKey
 
 > `optional` **mediaKeyTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:19799](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19799)
+Defined in: [WAProto/index.d.ts:19799](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19799)
 
 AudioMessage mediaKeyTimestamp
 
@@ -100,7 +100,7 @@ AudioMessage mediaKeyTimestamp
 
 > `optional` **mimetype**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19775](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19775)
+Defined in: [WAProto/index.d.ts:19775](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19775)
 
 AudioMessage mimetype
 
@@ -110,7 +110,7 @@ AudioMessage mimetype
 
 > `optional` **ptt**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:19787](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19787)
+Defined in: [WAProto/index.d.ts:19787](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19787)
 
 AudioMessage ptt
 
@@ -120,7 +120,7 @@ AudioMessage ptt
 
 > `optional` **seconds**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:19784](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19784)
+Defined in: [WAProto/index.d.ts:19784](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19784)
 
 AudioMessage seconds
 
@@ -130,7 +130,7 @@ AudioMessage seconds
 
 > `optional` **streamingSidecar**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:19805](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19805)
+Defined in: [WAProto/index.d.ts:19805](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19805)
 
 AudioMessage streamingSidecar
 
@@ -140,7 +140,7 @@ AudioMessage streamingSidecar
 
 > `optional` **url**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19772](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19772)
+Defined in: [WAProto/index.d.ts:19772](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19772)
 
 AudioMessage url
 
@@ -150,7 +150,7 @@ AudioMessage url
 
 > `optional` **viewOnce**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:19814](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19814)
+Defined in: [WAProto/index.d.ts:19814](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19814)
 
 AudioMessage viewOnce
 
@@ -160,6 +160,6 @@ AudioMessage viewOnce
 
 > `optional` **waveform**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:19808](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19808)
+Defined in: [WAProto/index.d.ts:19808](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19808)
 
 AudioMessage waveform

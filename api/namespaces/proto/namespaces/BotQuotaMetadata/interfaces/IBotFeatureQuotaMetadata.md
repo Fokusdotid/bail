@@ -1,6 +1,6 @@
 # Interface: IBotFeatureQuotaMetadata
 
-Defined in: [WAProto/index.d.ts:6564](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L6564)
+Defined in: [WAProto/index.d.ts:6564](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L6564)
 
 Properties of a BotFeatureQuotaMetadata.
 
@@ -10,7 +10,7 @@ Properties of a BotFeatureQuotaMetadata.
 
 > `optional` **expirationTimestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:6573](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L6573)
+Defined in: [WAProto/index.d.ts:6573](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L6573)
 
 BotFeatureQuotaMetadata expirationTimestamp
 
@@ -20,7 +20,7 @@ BotFeatureQuotaMetadata expirationTimestamp
 
 > `optional` **featureType**: `null` \| [`BotFeatureType`](../namespaces/BotFeatureQuotaMetadata/enumerations/BotFeatureType.md)
 
-Defined in: [WAProto/index.d.ts:6567](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L6567)
+Defined in: [WAProto/index.d.ts:6567](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L6567)
 
 BotFeatureQuotaMetadata featureType
 
@@ -30,6 +30,6 @@ BotFeatureQuotaMetadata featureType
 
 > `optional` **remainingQuota**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:6570](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L6570)
+Defined in: [WAProto/index.d.ts:6570](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L6570)
 
 BotFeatureQuotaMetadata remainingQuota

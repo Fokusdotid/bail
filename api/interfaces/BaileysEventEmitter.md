@@ -1,6 +1,6 @@
 # Interface: BaileysEventEmitter
 
-Defined in: [src/Types/Events.ts:112](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/Types/Events.ts#L112)
+Defined in: [src/Types/Events.ts:112](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/src/Types/Events.ts#L112)
 
 ## Methods
 
@@ -8,7 +8,7 @@ Defined in: [src/Types/Events.ts:112](https://github.com/Fokusdotid/bail/blob/82
 
 > **emit**\<`T`\>(`event`, `arg`): `boolean`
 
-Defined in: [src/Types/Events.ts:116](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/Types/Events.ts#L116)
+Defined in: [src/Types/Events.ts:116](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/src/Types/Events.ts#L116)
 
 #### Type Parameters
 
@@ -34,7 +34,7 @@ Defined in: [src/Types/Events.ts:116](https://github.com/Fokusdotid/bail/blob/82
 
 > **off**\<`T`\>(`event`, `listener`): `void`
 
-Defined in: [src/Types/Events.ts:114](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/Types/Events.ts#L114)
+Defined in: [src/Types/Events.ts:114](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/src/Types/Events.ts#L114)
 
 #### Type Parameters
 
@@ -60,7 +60,7 @@ Defined in: [src/Types/Events.ts:114](https://github.com/Fokusdotid/bail/blob/82
 
 > **on**\<`T`\>(`event`, `listener`): `void`
 
-Defined in: [src/Types/Events.ts:113](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/Types/Events.ts#L113)
+Defined in: [src/Types/Events.ts:113](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/src/Types/Events.ts#L113)
 
 #### Type Parameters
 
@@ -86,7 +86,7 @@ Defined in: [src/Types/Events.ts:113](https://github.com/Fokusdotid/bail/blob/82
 
 > **removeAllListeners**\<`T`\>(`event`): `void`
 
-Defined in: [src/Types/Events.ts:115](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/Types/Events.ts#L115)
+Defined in: [src/Types/Events.ts:115](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/src/Types/Events.ts#L115)
 
 #### Type Parameters
 

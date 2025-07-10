@@ -1,6 +1,6 @@
 # Interface: IAIRichResponseReelItem
 
-Defined in: [WAProto/index.d.ts:1232](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1232)
+Defined in: [WAProto/index.d.ts:1232](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1232)
 
 Properties of a AIRichResponseReelItem.
 
@@ -10,7 +10,7 @@ Properties of a AIRichResponseReelItem.
 
 > `optional` **profileIconUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1238](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1238)
+Defined in: [WAProto/index.d.ts:1238](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1238)
 
 AIRichResponseReelItem profileIconUrl
 
@@ -20,7 +20,7 @@ AIRichResponseReelItem profileIconUrl
 
 > `optional` **thumbnailUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1241](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1241)
+Defined in: [WAProto/index.d.ts:1241](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1241)
 
 AIRichResponseReelItem thumbnailUrl
 
@@ -30,7 +30,7 @@ AIRichResponseReelItem thumbnailUrl
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1235](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1235)
+Defined in: [WAProto/index.d.ts:1235](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1235)
 
 AIRichResponseReelItem title
 
@@ -40,6 +40,6 @@ AIRichResponseReelItem title
 
 > `optional` **videoUrl**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1244](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1244)
+Defined in: [WAProto/index.d.ts:1244](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1244)
 
 AIRichResponseReelItem videoUrl

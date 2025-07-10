@@ -1,6 +1,6 @@
 # Enumeration: CallType
 
-Defined in: [WAProto/index.d.ts:21242](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21242)
+Defined in: [WAProto/index.d.ts:21242](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21242)
 
 CallType enum.
 
@@ -10,7 +10,7 @@ CallType enum.
 
 > **REGULAR**: `0`
 
-Defined in: [WAProto/index.d.ts:21243](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21243)
+Defined in: [WAProto/index.d.ts:21243](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21243)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:21243](https://github.com/Fokusdotid/bail/blob/8
 
 > **SCHEDULED\_CALL**: `1`
 
-Defined in: [WAProto/index.d.ts:21244](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21244)
+Defined in: [WAProto/index.d.ts:21244](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21244)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:21244](https://github.com/Fokusdotid/bail/blob/8
 
 > **VOICE\_CHAT**: `2`
 
-Defined in: [WAProto/index.d.ts:21245](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21245)
+Defined in: [WAProto/index.d.ts:21245](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21245)

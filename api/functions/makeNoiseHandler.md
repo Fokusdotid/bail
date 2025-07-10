@@ -2,7 +2,7 @@
 
 > **makeNoiseHandler**(`__namedParameters`): `object`
 
-Defined in: [src/Utils/noise-handler.ts:16](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/Utils/noise-handler.ts#L16)
+Defined in: [src/Utils/noise-handler.ts:16](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/src/Utils/noise-handler.ts#L16)
 
 ## Parameters
 

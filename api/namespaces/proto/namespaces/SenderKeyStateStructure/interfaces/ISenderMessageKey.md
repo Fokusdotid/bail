@@ -1,6 +1,6 @@
 # Interface: ISenderMessageKey
 
-Defined in: [WAProto/index.d.ts:41475](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L41475)
+Defined in: [WAProto/index.d.ts:41475](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L41475)
 
 Properties of a SenderMessageKey.
 
@@ -10,7 +10,7 @@ Properties of a SenderMessageKey.
 
 > `optional` **iteration**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:41478](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L41478)
+Defined in: [WAProto/index.d.ts:41478](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L41478)
 
 SenderMessageKey iteration
 
@@ -20,6 +20,6 @@ SenderMessageKey iteration
 
 > `optional` **seed**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:41481](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L41481)
+Defined in: [WAProto/index.d.ts:41481](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L41481)
 
 SenderMessageKey seed

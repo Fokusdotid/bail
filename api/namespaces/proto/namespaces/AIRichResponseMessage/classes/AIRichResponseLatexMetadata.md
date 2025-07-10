@@ -1,6 +1,6 @@
 # Class: AIRichResponseLatexMetadata
 
-Defined in: [WAProto/index.d.ts:1826](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1826)
+Defined in: [WAProto/index.d.ts:1826](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1826)
 
 Represents a AIRichResponseLatexMetadata.
 
@@ -14,7 +14,7 @@ Represents a AIRichResponseLatexMetadata.
 
 > **new AIRichResponseLatexMetadata**(`properties`?): [`AIRichResponseLatexMetadata`](AIRichResponseLatexMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1832](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1832)
+Defined in: [WAProto/index.d.ts:1832](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1832)
 
 Constructs a new AIRichResponseLatexMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > **expressions**: [`IAIRichResponseLatexExpression`](../namespaces/AIRichResponseLatexMetadata/interfaces/IAIRichResponseLatexExpression.md)[]
 
-Defined in: [WAProto/index.d.ts:1838](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1838)
+Defined in: [WAProto/index.d.ts:1838](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1838)
 
 AIRichResponseLatexMetadata expressions.
 
@@ -50,7 +50,7 @@ AIRichResponseLatexMetadata expressions.
 
 > `optional` **text**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1835](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1835)
+Defined in: [WAProto/index.d.ts:1835](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1835)
 
 AIRichResponseLatexMetadata text.
 
@@ -64,7 +64,7 @@ AIRichResponseLatexMetadata text.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:1908](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1908)
+Defined in: [WAProto/index.d.ts:1908](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1908)
 
 Converts this AIRichResponseLatexMetadata to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`AIRichResponseLatexMetadata`](AIRichResponseLatexMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1845](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1845)
+Defined in: [WAProto/index.d.ts:1845](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1845)
 
 Creates a new AIRichResponseLatexMetadata instance using the specified properties.
 
@@ -104,7 +104,7 @@ AIRichResponseLatexMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`AIRichResponseLatexMetadata`](AIRichResponseLatexMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1871](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1871)
+Defined in: [WAProto/index.d.ts:1871](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1871)
 
 Decodes a AIRichResponseLatexMetadata message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`AIRichResponseLatexMetadata`](AIRichResponseLatexMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1880](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1880)
+Defined in: [WAProto/index.d.ts:1880](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1880)
 
 Decodes a AIRichResponseLatexMetadata message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:1853](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1853)
+Defined in: [WAProto/index.d.ts:1853](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1853)
 
 Encodes the specified AIRichResponseLatexMetadata message. Does not implicitly [verify](AIRichResponseLatexMetadata.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:1861](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1861)
+Defined in: [WAProto/index.d.ts:1861](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1861)
 
 Encodes the specified AIRichResponseLatexMetadata message, length delimited. Does not implicitly [verify](AIRichResponseLatexMetadata.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`AIRichResponseLatexMetadata`](AIRichResponseLatexMetadata.md)
 
-Defined in: [WAProto/index.d.ts:1894](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1894)
+Defined in: [WAProto/index.d.ts:1894](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1894)
 
 Creates a AIRichResponseLatexMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ AIRichResponseLatexMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:1915](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1915)
+Defined in: [WAProto/index.d.ts:1915](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1915)
 
 Gets the default type url for AIRichResponseLatexMetadata
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:1902](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1902)
+Defined in: [WAProto/index.d.ts:1902](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1902)
 
 Creates a plain object from a AIRichResponseLatexMetadata message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:1887](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1887)
+Defined in: [WAProto/index.d.ts:1887](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1887)
 
 Verifies a AIRichResponseLatexMetadata message.
 

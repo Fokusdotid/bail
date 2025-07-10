@@ -1,6 +1,6 @@
 # Interface: IPollAdditionalMetadata
 
-Defined in: [WAProto/index.d.ts:39275](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L39275)
+Defined in: [WAProto/index.d.ts:39275](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L39275)
 
 Properties of a PollAdditionalMetadata.
 
@@ -10,6 +10,6 @@ Properties of a PollAdditionalMetadata.
 
 > `optional` **pollInvalidated**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:39278](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L39278)
+Defined in: [WAProto/index.d.ts:39278](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L39278)
 
 PollAdditionalMetadata pollInvalidated

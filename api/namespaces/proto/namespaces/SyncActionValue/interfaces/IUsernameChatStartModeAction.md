@@ -1,6 +1,6 @@
 # Interface: IUsernameChatStartModeAction
 
-Defined in: [WAProto/index.d.ts:49549](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L49549)
+Defined in: [WAProto/index.d.ts:49549](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L49549)
 
 Properties of a UsernameChatStartModeAction.
 
@@ -10,6 +10,6 @@ Properties of a UsernameChatStartModeAction.
 
 > `optional` **chatStartMode**: `null` \| [`ChatStartMode`](../namespaces/UsernameChatStartModeAction/enumerations/ChatStartMode.md)
 
-Defined in: [WAProto/index.d.ts:49552](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L49552)
+Defined in: [WAProto/index.d.ts:49552](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L49552)
 
 UsernameChatStartModeAction chatStartMode

@@ -1,6 +1,6 @@
 # Interface: IHistorySyncNotification
 
-Defined in: [WAProto/index.d.ts:24385](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L24385)
+Defined in: [WAProto/index.d.ts:24385](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L24385)
 
 Properties of a HistorySyncNotification.
 
@@ -10,7 +10,7 @@ Properties of a HistorySyncNotification.
 
 > `optional` **chunkOrder**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:24406](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L24406)
+Defined in: [WAProto/index.d.ts:24406](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L24406)
 
 HistorySyncNotification chunkOrder
 
@@ -20,7 +20,7 @@ HistorySyncNotification chunkOrder
 
 > `optional` **directPath**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:24400](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L24400)
+Defined in: [WAProto/index.d.ts:24400](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L24400)
 
 HistorySyncNotification directPath
 
@@ -30,7 +30,7 @@ HistorySyncNotification directPath
 
 > `optional` **encHandle**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:24427](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L24427)
+Defined in: [WAProto/index.d.ts:24427](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L24427)
 
 HistorySyncNotification encHandle
 
@@ -40,7 +40,7 @@ HistorySyncNotification encHandle
 
 > `optional` **fileEncSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:24397](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L24397)
+Defined in: [WAProto/index.d.ts:24397](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L24397)
 
 HistorySyncNotification fileEncSha256
 
@@ -50,7 +50,7 @@ HistorySyncNotification fileEncSha256
 
 > `optional` **fileLength**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:24391](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L24391)
+Defined in: [WAProto/index.d.ts:24391](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L24391)
 
 HistorySyncNotification fileLength
 
@@ -60,7 +60,7 @@ HistorySyncNotification fileLength
 
 > `optional` **fileSha256**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:24388](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L24388)
+Defined in: [WAProto/index.d.ts:24388](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L24388)
 
 HistorySyncNotification fileSha256
 
@@ -70,7 +70,7 @@ HistorySyncNotification fileSha256
 
 > `optional` **fullHistorySyncOnDemandRequestMetadata**: `null` \| [`IFullHistorySyncOnDemandRequestMetadata`](IFullHistorySyncOnDemandRequestMetadata.md)
 
-Defined in: [WAProto/index.d.ts:24424](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L24424)
+Defined in: [WAProto/index.d.ts:24424](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L24424)
 
 HistorySyncNotification fullHistorySyncOnDemandRequestMetadata
 
@@ -80,7 +80,7 @@ HistorySyncNotification fullHistorySyncOnDemandRequestMetadata
 
 > `optional` **initialHistBootstrapInlinePayload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:24418](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L24418)
+Defined in: [WAProto/index.d.ts:24418](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L24418)
 
 HistorySyncNotification initialHistBootstrapInlinePayload
 
@@ -90,7 +90,7 @@ HistorySyncNotification initialHistBootstrapInlinePayload
 
 > `optional` **mediaKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:24394](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L24394)
+Defined in: [WAProto/index.d.ts:24394](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L24394)
 
 HistorySyncNotification mediaKey
 
@@ -100,7 +100,7 @@ HistorySyncNotification mediaKey
 
 > `optional` **oldestMsgInChunkTimestampSec**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:24415](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L24415)
+Defined in: [WAProto/index.d.ts:24415](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L24415)
 
 HistorySyncNotification oldestMsgInChunkTimestampSec
 
@@ -110,7 +110,7 @@ HistorySyncNotification oldestMsgInChunkTimestampSec
 
 > `optional` **originalMessageId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:24409](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L24409)
+Defined in: [WAProto/index.d.ts:24409](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L24409)
 
 HistorySyncNotification originalMessageId
 
@@ -120,7 +120,7 @@ HistorySyncNotification originalMessageId
 
 > `optional` **peerDataRequestSessionId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:24421](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L24421)
+Defined in: [WAProto/index.d.ts:24421](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L24421)
 
 HistorySyncNotification peerDataRequestSessionId
 
@@ -130,7 +130,7 @@ HistorySyncNotification peerDataRequestSessionId
 
 > `optional` **progress**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:24412](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L24412)
+Defined in: [WAProto/index.d.ts:24412](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L24412)
 
 HistorySyncNotification progress
 
@@ -140,6 +140,6 @@ HistorySyncNotification progress
 
 > `optional` **syncType**: `null` \| [`HistorySyncType`](../namespaces/HistorySyncNotification/enumerations/HistorySyncType.md)
 
-Defined in: [WAProto/index.d.ts:24403](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L24403)
+Defined in: [WAProto/index.d.ts:24403](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L24403)
 
 HistorySyncNotification syncType

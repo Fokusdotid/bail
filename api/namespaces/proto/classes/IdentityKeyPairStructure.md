@@ -1,6 +1,6 @@
 # Class: IdentityKeyPairStructure
 
-Defined in: [WAProto/index.d.ts:16541](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L16541)
+Defined in: [WAProto/index.d.ts:16541](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L16541)
 
 Represents an IdentityKeyPairStructure.
 
@@ -14,7 +14,7 @@ Represents an IdentityKeyPairStructure.
 
 > **new IdentityKeyPairStructure**(`properties`?): [`IdentityKeyPairStructure`](IdentityKeyPairStructure.md)
 
-Defined in: [WAProto/index.d.ts:16547](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L16547)
+Defined in: [WAProto/index.d.ts:16547](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L16547)
 
 Constructs a new IdentityKeyPairStructure.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **privateKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:16553](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L16553)
+Defined in: [WAProto/index.d.ts:16553](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L16553)
 
 IdentityKeyPairStructure privateKey.
 
@@ -50,7 +50,7 @@ IdentityKeyPairStructure privateKey.
 
 > `optional` **publicKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:16550](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L16550)
+Defined in: [WAProto/index.d.ts:16550](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L16550)
 
 IdentityKeyPairStructure publicKey.
 
@@ -64,7 +64,7 @@ IdentityKeyPairStructure publicKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:16623](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L16623)
+Defined in: [WAProto/index.d.ts:16623](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L16623)
 
 Converts this IdentityKeyPairStructure to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`IdentityKeyPairStructure`](IdentityKeyPairStructure.md)
 
-Defined in: [WAProto/index.d.ts:16560](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L16560)
+Defined in: [WAProto/index.d.ts:16560](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L16560)
 
 Creates a new IdentityKeyPairStructure instance using the specified properties.
 
@@ -104,7 +104,7 @@ IdentityKeyPairStructure instance
 
 > `static` **decode**(`reader`, `length`?): [`IdentityKeyPairStructure`](IdentityKeyPairStructure.md)
 
-Defined in: [WAProto/index.d.ts:16586](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L16586)
+Defined in: [WAProto/index.d.ts:16586](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L16586)
 
 Decodes an IdentityKeyPairStructure message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`IdentityKeyPairStructure`](IdentityKeyPairStructure.md)
 
-Defined in: [WAProto/index.d.ts:16595](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L16595)
+Defined in: [WAProto/index.d.ts:16595](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L16595)
 
 Decodes an IdentityKeyPairStructure message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:16568](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L16568)
+Defined in: [WAProto/index.d.ts:16568](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L16568)
 
 Encodes the specified IdentityKeyPairStructure message. Does not implicitly [verify](IdentityKeyPairStructure.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:16576](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L16576)
+Defined in: [WAProto/index.d.ts:16576](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L16576)
 
 Encodes the specified IdentityKeyPairStructure message, length delimited. Does not implicitly [verify](IdentityKeyPairStructure.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`IdentityKeyPairStructure`](IdentityKeyPairStructure.md)
 
-Defined in: [WAProto/index.d.ts:16609](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L16609)
+Defined in: [WAProto/index.d.ts:16609](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L16609)
 
 Creates an IdentityKeyPairStructure message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ IdentityKeyPairStructure
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:16630](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L16630)
+Defined in: [WAProto/index.d.ts:16630](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L16630)
 
 Gets the default type url for IdentityKeyPairStructure
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:16617](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L16617)
+Defined in: [WAProto/index.d.ts:16617](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L16617)
 
 Creates a plain object from an IdentityKeyPairStructure message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:16602](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L16602)
+Defined in: [WAProto/index.d.ts:16602](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L16602)
 
 Verifies an IdentityKeyPairStructure message.
 

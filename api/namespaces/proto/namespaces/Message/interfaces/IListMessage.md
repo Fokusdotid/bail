@@ -1,6 +1,6 @@
 # Interface: IListMessage
 
-Defined in: [WAProto/index.d.ts:26702](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26702)
+Defined in: [WAProto/index.d.ts:26702](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26702)
 
 Properties of a ListMessage.
 
@@ -10,7 +10,7 @@ Properties of a ListMessage.
 
 > `optional` **buttonText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26711](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26711)
+Defined in: [WAProto/index.d.ts:26711](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26711)
 
 ListMessage buttonText
 
@@ -20,7 +20,7 @@ ListMessage buttonText
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:26726](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26726)
+Defined in: [WAProto/index.d.ts:26726](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26726)
 
 ListMessage contextInfo
 
@@ -30,7 +30,7 @@ ListMessage contextInfo
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26708](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26708)
+Defined in: [WAProto/index.d.ts:26708](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26708)
 
 ListMessage description
 
@@ -40,7 +40,7 @@ ListMessage description
 
 > `optional` **footerText**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26723](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26723)
+Defined in: [WAProto/index.d.ts:26723](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26723)
 
 ListMessage footerText
 
@@ -50,7 +50,7 @@ ListMessage footerText
 
 > `optional` **listType**: `null` \| [`ListType`](../namespaces/ListMessage/enumerations/ListType.md)
 
-Defined in: [WAProto/index.d.ts:26714](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26714)
+Defined in: [WAProto/index.d.ts:26714](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26714)
 
 ListMessage listType
 
@@ -60,7 +60,7 @@ ListMessage listType
 
 > `optional` **productListInfo**: `null` \| [`IProductListInfo`](../namespaces/ListMessage/interfaces/IProductListInfo.md)
 
-Defined in: [WAProto/index.d.ts:26720](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26720)
+Defined in: [WAProto/index.d.ts:26720](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26720)
 
 ListMessage productListInfo
 
@@ -70,7 +70,7 @@ ListMessage productListInfo
 
 > `optional` **sections**: `null` \| [`ISection`](../namespaces/ListMessage/interfaces/ISection.md)[]
 
-Defined in: [WAProto/index.d.ts:26717](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26717)
+Defined in: [WAProto/index.d.ts:26717](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26717)
 
 ListMessage sections
 
@@ -80,6 +80,6 @@ ListMessage sections
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:26705](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L26705)
+Defined in: [WAProto/index.d.ts:26705](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L26705)
 
 ListMessage title

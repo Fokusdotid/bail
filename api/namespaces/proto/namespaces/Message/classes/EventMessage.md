@@ -1,6 +1,6 @@
 # Class: EventMessage
 
-Defined in: [WAProto/index.d.ts:22789](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22789)
+Defined in: [WAProto/index.d.ts:22789](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22789)
 
 Represents an EventMessage.
 
@@ -14,7 +14,7 @@ Represents an EventMessage.
 
 > **new EventMessage**(`properties`?): [`EventMessage`](EventMessage.md)
 
-Defined in: [WAProto/index.d.ts:22795](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22795)
+Defined in: [WAProto/index.d.ts:22795](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22795)
 
 Constructs a new EventMessage.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **contextInfo**: `null` \| [`IContextInfo`](../../../interfaces/IContextInfo.md)
 
-Defined in: [WAProto/index.d.ts:22798](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22798)
+Defined in: [WAProto/index.d.ts:22798](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22798)
 
 EventMessage contextInfo.
 
@@ -50,7 +50,7 @@ EventMessage contextInfo.
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22807](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22807)
+Defined in: [WAProto/index.d.ts:22807](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22807)
 
 EventMessage description.
 
@@ -64,7 +64,7 @@ EventMessage description.
 
 > `optional` **endTime**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:22819](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22819)
+Defined in: [WAProto/index.d.ts:22819](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22819)
 
 EventMessage endTime.
 
@@ -78,7 +78,7 @@ EventMessage endTime.
 
 > `optional` **extraGuestsAllowed**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:22822](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22822)
+Defined in: [WAProto/index.d.ts:22822](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22822)
 
 EventMessage extraGuestsAllowed.
 
@@ -92,7 +92,7 @@ EventMessage extraGuestsAllowed.
 
 > `optional` **isCanceled**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:22801](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22801)
+Defined in: [WAProto/index.d.ts:22801](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22801)
 
 EventMessage isCanceled.
 
@@ -106,7 +106,7 @@ EventMessage isCanceled.
 
 > `optional` **isScheduleCall**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:22825](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22825)
+Defined in: [WAProto/index.d.ts:22825](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22825)
 
 EventMessage isScheduleCall.
 
@@ -120,7 +120,7 @@ EventMessage isScheduleCall.
 
 > `optional` **joinLink**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22813](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22813)
+Defined in: [WAProto/index.d.ts:22813](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22813)
 
 EventMessage joinLink.
 
@@ -134,7 +134,7 @@ EventMessage joinLink.
 
 > `optional` **location**: `null` \| [`ILocationMessage`](../interfaces/ILocationMessage.md)
 
-Defined in: [WAProto/index.d.ts:22810](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22810)
+Defined in: [WAProto/index.d.ts:22810](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22810)
 
 EventMessage location.
 
@@ -148,7 +148,7 @@ EventMessage location.
 
 > `optional` **name**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22804](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22804)
+Defined in: [WAProto/index.d.ts:22804](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22804)
 
 EventMessage name.
 
@@ -162,7 +162,7 @@ EventMessage name.
 
 > `optional` **startTime**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:22816](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22816)
+Defined in: [WAProto/index.d.ts:22816](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22816)
 
 EventMessage startTime.
 
@@ -176,7 +176,7 @@ EventMessage startTime.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:22895](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22895)
+Defined in: [WAProto/index.d.ts:22895](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22895)
 
 Converts this EventMessage to JSON.
 
@@ -192,7 +192,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`EventMessage`](EventMessage.md)
 
-Defined in: [WAProto/index.d.ts:22832](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22832)
+Defined in: [WAProto/index.d.ts:22832](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22832)
 
 Creates a new EventMessage instance using the specified properties.
 
@@ -216,7 +216,7 @@ EventMessage instance
 
 > `static` **decode**(`reader`, `length`?): [`EventMessage`](EventMessage.md)
 
-Defined in: [WAProto/index.d.ts:22858](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22858)
+Defined in: [WAProto/index.d.ts:22858](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22858)
 
 Decodes an EventMessage message from the specified reader or buffer.
 
@@ -254,7 +254,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`EventMessage`](EventMessage.md)
 
-Defined in: [WAProto/index.d.ts:22867](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22867)
+Defined in: [WAProto/index.d.ts:22867](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22867)
 
 Decodes an EventMessage message from the specified reader or buffer, length delimited.
 
@@ -286,7 +286,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:22840](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22840)
+Defined in: [WAProto/index.d.ts:22840](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22840)
 
 Encodes the specified EventMessage message. Does not implicitly [verify](EventMessage.md#verify) messages.
 
@@ -316,7 +316,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:22848](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22848)
+Defined in: [WAProto/index.d.ts:22848](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22848)
 
 Encodes the specified EventMessage message, length delimited. Does not implicitly [verify](EventMessage.md#verify) messages.
 
@@ -346,7 +346,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`EventMessage`](EventMessage.md)
 
-Defined in: [WAProto/index.d.ts:22881](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22881)
+Defined in: [WAProto/index.d.ts:22881](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22881)
 
 Creates an EventMessage message from a plain object. Also converts values to their respective internal types.
 
@@ -368,7 +368,7 @@ EventMessage
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:22902](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22902)
+Defined in: [WAProto/index.d.ts:22902](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22902)
 
 Gets the default type url for EventMessage
 
@@ -392,7 +392,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:22889](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22889)
+Defined in: [WAProto/index.d.ts:22889](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22889)
 
 Creates a plain object from an EventMessage message. Also converts values to other types if specified.
 
@@ -422,7 +422,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:22874](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L22874)
+Defined in: [WAProto/index.d.ts:22874](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L22874)
 
 Verifies an EventMessage message.
 

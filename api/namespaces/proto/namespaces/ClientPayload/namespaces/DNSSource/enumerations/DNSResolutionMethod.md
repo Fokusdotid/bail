@@ -1,6 +1,6 @@
 # Enumeration: DNSResolutionMethod
 
-Defined in: [WAProto/index.d.ts:9391](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L9391)
+Defined in: [WAProto/index.d.ts:9391](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L9391)
 
 DNSResolutionMethod enum.
 
@@ -10,7 +10,7 @@ DNSResolutionMethod enum.
 
 > **FALLBACK**: `4`
 
-Defined in: [WAProto/index.d.ts:9396](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L9396)
+Defined in: [WAProto/index.d.ts:9396](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L9396)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:9396](https://github.com/Fokusdotid/bail/blob/82
 
 > **GOOGLE**: `1`
 
-Defined in: [WAProto/index.d.ts:9393](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L9393)
+Defined in: [WAProto/index.d.ts:9393](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L9393)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:9393](https://github.com/Fokusdotid/bail/blob/82
 
 > **HARDCODED**: `2`
 
-Defined in: [WAProto/index.d.ts:9394](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L9394)
+Defined in: [WAProto/index.d.ts:9394](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L9394)
 
 ***
 
@@ -34,7 +34,7 @@ Defined in: [WAProto/index.d.ts:9394](https://github.com/Fokusdotid/bail/blob/82
 
 > **MNS**: `5`
 
-Defined in: [WAProto/index.d.ts:9397](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L9397)
+Defined in: [WAProto/index.d.ts:9397](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L9397)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [WAProto/index.d.ts:9397](https://github.com/Fokusdotid/bail/blob/82
 
 > **OVERRIDE**: `3`
 
-Defined in: [WAProto/index.d.ts:9395](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L9395)
+Defined in: [WAProto/index.d.ts:9395](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L9395)
 
 ***
 
@@ -50,4 +50,4 @@ Defined in: [WAProto/index.d.ts:9395](https://github.com/Fokusdotid/bail/blob/82
 
 > **SYSTEM**: `0`
 
-Defined in: [WAProto/index.d.ts:9392](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L9392)
+Defined in: [WAProto/index.d.ts:9392](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L9392)

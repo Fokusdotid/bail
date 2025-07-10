@@ -1,6 +1,6 @@
 # Enumeration: ReminderAction
 
-Defined in: [WAProto/index.d.ts:6806](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L6806)
+Defined in: [WAProto/index.d.ts:6806](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L6806)
 
 ReminderAction enum.
 
@@ -10,7 +10,7 @@ ReminderAction enum.
 
 > **CREATE**: `2`
 
-Defined in: [WAProto/index.d.ts:6808](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L6808)
+Defined in: [WAProto/index.d.ts:6808](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L6808)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:6808](https://github.com/Fokusdotid/bail/blob/82
 
 > **DELETE**: `3`
 
-Defined in: [WAProto/index.d.ts:6809](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L6809)
+Defined in: [WAProto/index.d.ts:6809](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L6809)
 
 ***
 
@@ -26,7 +26,7 @@ Defined in: [WAProto/index.d.ts:6809](https://github.com/Fokusdotid/bail/blob/82
 
 > **NOTIFY**: `1`
 
-Defined in: [WAProto/index.d.ts:6807](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L6807)
+Defined in: [WAProto/index.d.ts:6807](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L6807)
 
 ***
 
@@ -34,4 +34,4 @@ Defined in: [WAProto/index.d.ts:6807](https://github.com/Fokusdotid/bail/blob/82
 
 > **UPDATE**: `4`
 
-Defined in: [WAProto/index.d.ts:6810](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L6810)
+Defined in: [WAProto/index.d.ts:6810](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L6810)

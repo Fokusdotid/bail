@@ -1,6 +1,6 @@
 # Class: SenderMessageKey
 
-Defined in: [WAProto/index.d.ts:41485](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L41485)
+Defined in: [WAProto/index.d.ts:41485](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L41485)
 
 Represents a SenderMessageKey.
 
@@ -14,7 +14,7 @@ Represents a SenderMessageKey.
 
 > **new SenderMessageKey**(`properties`?): [`SenderMessageKey`](SenderMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:41491](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L41491)
+Defined in: [WAProto/index.d.ts:41491](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L41491)
 
 Constructs a new SenderMessageKey.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **iteration**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:41494](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L41494)
+Defined in: [WAProto/index.d.ts:41494](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L41494)
 
 SenderMessageKey iteration.
 
@@ -50,7 +50,7 @@ SenderMessageKey iteration.
 
 > `optional` **seed**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:41497](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L41497)
+Defined in: [WAProto/index.d.ts:41497](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L41497)
 
 SenderMessageKey seed.
 
@@ -64,7 +64,7 @@ SenderMessageKey seed.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:41567](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L41567)
+Defined in: [WAProto/index.d.ts:41567](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L41567)
 
 Converts this SenderMessageKey to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SenderMessageKey`](SenderMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:41504](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L41504)
+Defined in: [WAProto/index.d.ts:41504](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L41504)
 
 Creates a new SenderMessageKey instance using the specified properties.
 
@@ -104,7 +104,7 @@ SenderMessageKey instance
 
 > `static` **decode**(`reader`, `length`?): [`SenderMessageKey`](SenderMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:41530](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L41530)
+Defined in: [WAProto/index.d.ts:41530](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L41530)
 
 Decodes a SenderMessageKey message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SenderMessageKey`](SenderMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:41539](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L41539)
+Defined in: [WAProto/index.d.ts:41539](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L41539)
 
 Decodes a SenderMessageKey message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41512](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L41512)
+Defined in: [WAProto/index.d.ts:41512](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L41512)
 
 Encodes the specified SenderMessageKey message. Does not implicitly [verify](SenderMessageKey.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:41520](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L41520)
+Defined in: [WAProto/index.d.ts:41520](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L41520)
 
 Encodes the specified SenderMessageKey message, length delimited. Does not implicitly [verify](SenderMessageKey.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SenderMessageKey`](SenderMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:41553](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L41553)
+Defined in: [WAProto/index.d.ts:41553](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L41553)
 
 Creates a SenderMessageKey message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ SenderMessageKey
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:41574](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L41574)
+Defined in: [WAProto/index.d.ts:41574](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L41574)
 
 Gets the default type url for SenderMessageKey
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:41561](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L41561)
+Defined in: [WAProto/index.d.ts:41561](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L41561)
 
 Creates a plain object from a SenderMessageKey message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:41546](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L41546)
+Defined in: [WAProto/index.d.ts:41546](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L41546)
 
 Verifies a SenderMessageKey message.
 

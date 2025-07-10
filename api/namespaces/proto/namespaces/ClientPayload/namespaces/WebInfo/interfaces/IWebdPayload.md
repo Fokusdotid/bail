@@ -1,6 +1,6 @@
 # Interface: IWebdPayload
 
-Defined in: [WAProto/index.d.ts:10167](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L10167)
+Defined in: [WAProto/index.d.ts:10167](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L10167)
 
 Properties of a WebdPayload.
 
@@ -10,7 +10,7 @@ Properties of a WebdPayload.
 
 > `optional` **documentTypes**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:10197](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L10197)
+Defined in: [WAProto/index.d.ts:10197](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L10197)
 
 WebdPayload documentTypes
 
@@ -20,7 +20,7 @@ WebdPayload documentTypes
 
 > `optional` **features**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:10200](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L10200)
+Defined in: [WAProto/index.d.ts:10200](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L10200)
 
 WebdPayload features
 
@@ -30,7 +30,7 @@ WebdPayload features
 
 > `optional` **supportsDocumentMessages**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10176](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L10176)
+Defined in: [WAProto/index.d.ts:10176](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L10176)
 
 WebdPayload supportsDocumentMessages
 
@@ -40,7 +40,7 @@ WebdPayload supportsDocumentMessages
 
 > `optional` **supportsE2EAudio**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10191](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L10191)
+Defined in: [WAProto/index.d.ts:10191](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L10191)
 
 WebdPayload supportsE2EAudio
 
@@ -50,7 +50,7 @@ WebdPayload supportsE2EAudio
 
 > `optional` **supportsE2EDocument**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10194](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L10194)
+Defined in: [WAProto/index.d.ts:10194](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L10194)
 
 WebdPayload supportsE2EDocument
 
@@ -60,7 +60,7 @@ WebdPayload supportsE2EDocument
 
 > `optional` **supportsE2EImage**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10185](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L10185)
+Defined in: [WAProto/index.d.ts:10185](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L10185)
 
 WebdPayload supportsE2EImage
 
@@ -70,7 +70,7 @@ WebdPayload supportsE2EImage
 
 > `optional` **supportsE2EVideo**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10188](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L10188)
+Defined in: [WAProto/index.d.ts:10188](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L10188)
 
 WebdPayload supportsE2EVideo
 
@@ -80,7 +80,7 @@ WebdPayload supportsE2EVideo
 
 > `optional` **supportsMediaRetry**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10182](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L10182)
+Defined in: [WAProto/index.d.ts:10182](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L10182)
 
 WebdPayload supportsMediaRetry
 
@@ -90,7 +90,7 @@ WebdPayload supportsMediaRetry
 
 > `optional` **supportsStarredMessages**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10173](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L10173)
+Defined in: [WAProto/index.d.ts:10173](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L10173)
 
 WebdPayload supportsStarredMessages
 
@@ -100,7 +100,7 @@ WebdPayload supportsStarredMessages
 
 > `optional` **supportsUrlMessages**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10179](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L10179)
+Defined in: [WAProto/index.d.ts:10179](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L10179)
 
 WebdPayload supportsUrlMessages
 
@@ -110,6 +110,6 @@ WebdPayload supportsUrlMessages
 
 > `optional` **usesParticipantInKey**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:10170](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L10170)
+Defined in: [WAProto/index.d.ts:10170](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L10170)
 
 WebdPayload usesParticipantInKey

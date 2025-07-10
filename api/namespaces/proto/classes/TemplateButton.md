@@ -1,6 +1,6 @@
 # Class: TemplateButton
 
-Defined in: [WAProto/index.d.ts:50846](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50846)
+Defined in: [WAProto/index.d.ts:50846](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L50846)
 
 Represents a TemplateButton.
 
@@ -14,7 +14,7 @@ Represents a TemplateButton.
 
 > **new TemplateButton**(`properties`?): [`TemplateButton`](TemplateButton.md)
 
-Defined in: [WAProto/index.d.ts:50852](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50852)
+Defined in: [WAProto/index.d.ts:50852](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L50852)
 
 Constructs a new TemplateButton.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **button**: `"quickReplyButton"` \| `"urlButton"` \| `"callButton"`
 
-Defined in: [WAProto/index.d.ts:50867](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50867)
+Defined in: [WAProto/index.d.ts:50867](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L50867)
 
 TemplateButton button.
 
@@ -46,7 +46,7 @@ TemplateButton button.
 
 > `optional` **callButton**: `null` \| [`ICallButton`](../namespaces/TemplateButton/interfaces/ICallButton.md)
 
-Defined in: [WAProto/index.d.ts:50864](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50864)
+Defined in: [WAProto/index.d.ts:50864](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L50864)
 
 TemplateButton callButton.
 
@@ -60,7 +60,7 @@ TemplateButton callButton.
 
 > `optional` **index**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:50855](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50855)
+Defined in: [WAProto/index.d.ts:50855](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L50855)
 
 TemplateButton index.
 
@@ -74,7 +74,7 @@ TemplateButton index.
 
 > `optional` **quickReplyButton**: `null` \| [`IQuickReplyButton`](../namespaces/TemplateButton/interfaces/IQuickReplyButton.md)
 
-Defined in: [WAProto/index.d.ts:50858](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50858)
+Defined in: [WAProto/index.d.ts:50858](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L50858)
 
 TemplateButton quickReplyButton.
 
@@ -88,7 +88,7 @@ TemplateButton quickReplyButton.
 
 > `optional` **urlButton**: `null` \| [`IURLButton`](../namespaces/TemplateButton/interfaces/IURLButton.md)
 
-Defined in: [WAProto/index.d.ts:50861](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50861)
+Defined in: [WAProto/index.d.ts:50861](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L50861)
 
 TemplateButton urlButton.
 
@@ -102,7 +102,7 @@ TemplateButton urlButton.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:50937](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50937)
+Defined in: [WAProto/index.d.ts:50937](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L50937)
 
 Converts this TemplateButton to JSON.
 
@@ -118,7 +118,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`TemplateButton`](TemplateButton.md)
 
-Defined in: [WAProto/index.d.ts:50874](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50874)
+Defined in: [WAProto/index.d.ts:50874](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L50874)
 
 Creates a new TemplateButton instance using the specified properties.
 
@@ -142,7 +142,7 @@ TemplateButton instance
 
 > `static` **decode**(`reader`, `length`?): [`TemplateButton`](TemplateButton.md)
 
-Defined in: [WAProto/index.d.ts:50900](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50900)
+Defined in: [WAProto/index.d.ts:50900](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L50900)
 
 Decodes a TemplateButton message from the specified reader or buffer.
 
@@ -180,7 +180,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`TemplateButton`](TemplateButton.md)
 
-Defined in: [WAProto/index.d.ts:50909](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50909)
+Defined in: [WAProto/index.d.ts:50909](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L50909)
 
 Decodes a TemplateButton message from the specified reader or buffer, length delimited.
 
@@ -212,7 +212,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:50882](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50882)
+Defined in: [WAProto/index.d.ts:50882](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L50882)
 
 Encodes the specified TemplateButton message. Does not implicitly [verify](TemplateButton.md#verify) messages.
 
@@ -242,7 +242,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:50890](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50890)
+Defined in: [WAProto/index.d.ts:50890](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L50890)
 
 Encodes the specified TemplateButton message, length delimited. Does not implicitly [verify](TemplateButton.md#verify) messages.
 
@@ -272,7 +272,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`TemplateButton`](TemplateButton.md)
 
-Defined in: [WAProto/index.d.ts:50923](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50923)
+Defined in: [WAProto/index.d.ts:50923](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L50923)
 
 Creates a TemplateButton message from a plain object. Also converts values to their respective internal types.
 
@@ -294,7 +294,7 @@ TemplateButton
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:50944](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50944)
+Defined in: [WAProto/index.d.ts:50944](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L50944)
 
 Gets the default type url for TemplateButton
 
@@ -318,7 +318,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:50931](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50931)
+Defined in: [WAProto/index.d.ts:50931](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L50931)
 
 Creates a plain object from a TemplateButton message. Also converts values to other types if specified.
 
@@ -348,7 +348,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:50916](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L50916)
+Defined in: [WAProto/index.d.ts:50916](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L50916)
 
 Verifies a TemplateButton message.
 

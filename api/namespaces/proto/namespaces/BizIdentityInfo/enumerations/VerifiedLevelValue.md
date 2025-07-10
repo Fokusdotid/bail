@@ -1,6 +1,6 @@
 # Enumeration: VerifiedLevelValue
 
-Defined in: [WAProto/index.d.ts:3617](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L3617)
+Defined in: [WAProto/index.d.ts:3617](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L3617)
 
 VerifiedLevelValue enum.
 
@@ -10,7 +10,7 @@ VerifiedLevelValue enum.
 
 > **HIGH**: `2`
 
-Defined in: [WAProto/index.d.ts:3620](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L3620)
+Defined in: [WAProto/index.d.ts:3620](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L3620)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:3620](https://github.com/Fokusdotid/bail/blob/82
 
 > **LOW**: `1`
 
-Defined in: [WAProto/index.d.ts:3619](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L3619)
+Defined in: [WAProto/index.d.ts:3619](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L3619)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:3619](https://github.com/Fokusdotid/bail/blob/82
 
 > **UNKNOWN**: `0`
 
-Defined in: [WAProto/index.d.ts:3618](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L3618)
+Defined in: [WAProto/index.d.ts:3618](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L3618)

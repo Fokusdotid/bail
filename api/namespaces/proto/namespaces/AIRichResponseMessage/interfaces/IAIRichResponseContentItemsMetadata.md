@@ -1,6 +1,6 @@
 # Interface: IAIRichResponseContentItemsMetadata
 
-Defined in: [WAProto/index.d.ts:1027](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1027)
+Defined in: [WAProto/index.d.ts:1027](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1027)
 
 Properties of a AIRichResponseContentItemsMetadata.
 
@@ -10,7 +10,7 @@ Properties of a AIRichResponseContentItemsMetadata.
 
 > `optional` **contentType**: `null` \| [`ContentType`](../namespaces/AIRichResponseContentItemsMetadata/enumerations/ContentType.md)
 
-Defined in: [WAProto/index.d.ts:1033](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1033)
+Defined in: [WAProto/index.d.ts:1033](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1033)
 
 AIRichResponseContentItemsMetadata contentType
 
@@ -20,6 +20,6 @@ AIRichResponseContentItemsMetadata contentType
 
 > `optional` **itemsMetadata**: `null` \| [`IAIRichResponseContentItemMetadata`](../namespaces/AIRichResponseContentItemsMetadata/interfaces/IAIRichResponseContentItemMetadata.md)[]
 
-Defined in: [WAProto/index.d.ts:1030](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L1030)
+Defined in: [WAProto/index.d.ts:1030](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L1030)
 
 AIRichResponseContentItemsMetadata itemsMetadata

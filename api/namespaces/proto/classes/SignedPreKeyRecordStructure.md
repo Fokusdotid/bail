@@ -1,6 +1,6 @@
 # Class: SignedPreKeyRecordStructure
 
-Defined in: [WAProto/index.d.ts:42663](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L42663)
+Defined in: [WAProto/index.d.ts:42663](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L42663)
 
 Represents a SignedPreKeyRecordStructure.
 
@@ -14,7 +14,7 @@ Represents a SignedPreKeyRecordStructure.
 
 > **new SignedPreKeyRecordStructure**(`properties`?): [`SignedPreKeyRecordStructure`](SignedPreKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:42669](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L42669)
+Defined in: [WAProto/index.d.ts:42669](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L42669)
 
 Constructs a new SignedPreKeyRecordStructure.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **id**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:42672](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L42672)
+Defined in: [WAProto/index.d.ts:42672](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L42672)
 
 SignedPreKeyRecordStructure id.
 
@@ -50,7 +50,7 @@ SignedPreKeyRecordStructure id.
 
 > `optional` **privateKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:42678](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L42678)
+Defined in: [WAProto/index.d.ts:42678](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L42678)
 
 SignedPreKeyRecordStructure privateKey.
 
@@ -64,7 +64,7 @@ SignedPreKeyRecordStructure privateKey.
 
 > `optional` **publicKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:42675](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L42675)
+Defined in: [WAProto/index.d.ts:42675](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L42675)
 
 SignedPreKeyRecordStructure publicKey.
 
@@ -78,7 +78,7 @@ SignedPreKeyRecordStructure publicKey.
 
 > `optional` **signature**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:42681](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L42681)
+Defined in: [WAProto/index.d.ts:42681](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L42681)
 
 SignedPreKeyRecordStructure signature.
 
@@ -92,7 +92,7 @@ SignedPreKeyRecordStructure signature.
 
 > `optional` **timestamp**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:42684](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L42684)
+Defined in: [WAProto/index.d.ts:42684](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L42684)
 
 SignedPreKeyRecordStructure timestamp.
 
@@ -106,7 +106,7 @@ SignedPreKeyRecordStructure timestamp.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:42754](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L42754)
+Defined in: [WAProto/index.d.ts:42754](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L42754)
 
 Converts this SignedPreKeyRecordStructure to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`SignedPreKeyRecordStructure`](SignedPreKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:42691](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L42691)
+Defined in: [WAProto/index.d.ts:42691](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L42691)
 
 Creates a new SignedPreKeyRecordStructure instance using the specified properties.
 
@@ -146,7 +146,7 @@ SignedPreKeyRecordStructure instance
 
 > `static` **decode**(`reader`, `length`?): [`SignedPreKeyRecordStructure`](SignedPreKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:42717](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L42717)
+Defined in: [WAProto/index.d.ts:42717](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L42717)
 
 Decodes a SignedPreKeyRecordStructure message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`SignedPreKeyRecordStructure`](SignedPreKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:42726](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L42726)
+Defined in: [WAProto/index.d.ts:42726](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L42726)
 
 Decodes a SignedPreKeyRecordStructure message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42699](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L42699)
+Defined in: [WAProto/index.d.ts:42699](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L42699)
 
 Encodes the specified SignedPreKeyRecordStructure message. Does not implicitly [verify](SignedPreKeyRecordStructure.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:42707](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L42707)
+Defined in: [WAProto/index.d.ts:42707](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L42707)
 
 Encodes the specified SignedPreKeyRecordStructure message, length delimited. Does not implicitly [verify](SignedPreKeyRecordStructure.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`SignedPreKeyRecordStructure`](SignedPreKeyRecordStructure.md)
 
-Defined in: [WAProto/index.d.ts:42740](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L42740)
+Defined in: [WAProto/index.d.ts:42740](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L42740)
 
 Creates a SignedPreKeyRecordStructure message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ SignedPreKeyRecordStructure
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:42761](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L42761)
+Defined in: [WAProto/index.d.ts:42761](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L42761)
 
 Gets the default type url for SignedPreKeyRecordStructure
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:42748](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L42748)
+Defined in: [WAProto/index.d.ts:42748](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L42748)
 
 Creates a plain object from a SignedPreKeyRecordStructure message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:42733](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L42733)
+Defined in: [WAProto/index.d.ts:42733](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L42733)
 
 Verifies a SignedPreKeyRecordStructure message.
 

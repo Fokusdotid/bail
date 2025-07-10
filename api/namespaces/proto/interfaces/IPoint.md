@@ -1,6 +1,6 @@
 # Interface: IPoint
 
-Defined in: [WAProto/index.d.ts:39160](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L39160)
+Defined in: [WAProto/index.d.ts:39160](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L39160)
 
 Properties of a Point.
 
@@ -10,7 +10,7 @@ Properties of a Point.
 
 > `optional` **x**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39169](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L39169)
+Defined in: [WAProto/index.d.ts:39169](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L39169)
 
 Point x
 
@@ -20,7 +20,7 @@ Point x
 
 > `optional` **xDeprecated**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39163](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L39163)
+Defined in: [WAProto/index.d.ts:39163](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L39163)
 
 Point xDeprecated
 
@@ -30,7 +30,7 @@ Point xDeprecated
 
 > `optional` **y**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39172](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L39172)
+Defined in: [WAProto/index.d.ts:39172](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L39172)
 
 Point y
 
@@ -40,6 +40,6 @@ Point y
 
 > `optional` **yDeprecated**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:39166](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L39166)
+Defined in: [WAProto/index.d.ts:39166](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L39166)
 
 Point yDeprecated

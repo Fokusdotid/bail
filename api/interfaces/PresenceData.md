@@ -1,6 +1,6 @@
 # Interface: PresenceData
 
-Defined in: [src/Types/Chat.ts:35](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/Types/Chat.ts#L35)
+Defined in: [src/Types/Chat.ts:35](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/src/Types/Chat.ts#L35)
 
 ## Properties
 
@@ -8,7 +8,7 @@ Defined in: [src/Types/Chat.ts:35](https://github.com/Fokusdotid/bail/blob/82f46
 
 > **lastKnownPresence**: [`WAPresence`](../type-aliases/WAPresence.md)
 
-Defined in: [src/Types/Chat.ts:36](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/Types/Chat.ts#L36)
+Defined in: [src/Types/Chat.ts:36](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/src/Types/Chat.ts#L36)
 
 ***
 
@@ -16,4 +16,4 @@ Defined in: [src/Types/Chat.ts:36](https://github.com/Fokusdotid/bail/blob/82f46
 
 > `optional` **lastSeen**: `number`
 
-Defined in: [src/Types/Chat.ts:37](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/Types/Chat.ts#L37)
+Defined in: [src/Types/Chat.ts:37](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/src/Types/Chat.ts#L37)

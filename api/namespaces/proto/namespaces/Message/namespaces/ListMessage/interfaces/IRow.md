@@ -1,6 +1,6 @@
 # Interface: IRow
 
-Defined in: [WAProto/index.d.ts:27262](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L27262)
+Defined in: [WAProto/index.d.ts:27262](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L27262)
 
 Properties of a Row.
 
@@ -10,7 +10,7 @@ Properties of a Row.
 
 > `optional` **description**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27268](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L27268)
+Defined in: [WAProto/index.d.ts:27268](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L27268)
 
 Row description
 
@@ -20,7 +20,7 @@ Row description
 
 > `optional` **rowId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27271](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L27271)
+Defined in: [WAProto/index.d.ts:27271](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L27271)
 
 Row rowId
 
@@ -30,6 +30,6 @@ Row rowId
 
 > `optional` **title**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:27265](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L27265)
+Defined in: [WAProto/index.d.ts:27265](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L27265)
 
 Row title

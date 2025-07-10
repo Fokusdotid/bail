@@ -1,6 +1,6 @@
 # Enumeration: WebviewPresentationType
 
-Defined in: [WAProto/index.d.ts:16522](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L16522)
+Defined in: [WAProto/index.d.ts:16522](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L16522)
 
 WebviewPresentationType enum.
 
@@ -10,7 +10,7 @@ WebviewPresentationType enum.
 
 > **COMPACT**: `3`
 
-Defined in: [WAProto/index.d.ts:16525](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L16525)
+Defined in: [WAProto/index.d.ts:16525](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L16525)
 
 ***
 
@@ -18,7 +18,7 @@ Defined in: [WAProto/index.d.ts:16525](https://github.com/Fokusdotid/bail/blob/8
 
 > **FULL**: `1`
 
-Defined in: [WAProto/index.d.ts:16523](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L16523)
+Defined in: [WAProto/index.d.ts:16523](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L16523)
 
 ***
 
@@ -26,4 +26,4 @@ Defined in: [WAProto/index.d.ts:16523](https://github.com/Fokusdotid/bail/blob/8
 
 > **TALL**: `2`
 
-Defined in: [WAProto/index.d.ts:16524](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L16524)
+Defined in: [WAProto/index.d.ts:16524](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L16524)

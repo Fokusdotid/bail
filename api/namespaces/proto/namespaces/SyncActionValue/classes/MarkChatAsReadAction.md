@@ -1,6 +1,6 @@
 # Class: MarkChatAsReadAction
 
-Defined in: [WAProto/index.d.ts:46372](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46372)
+Defined in: [WAProto/index.d.ts:46372](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46372)
 
 Represents a MarkChatAsReadAction.
 
@@ -14,7 +14,7 @@ Represents a MarkChatAsReadAction.
 
 > **new MarkChatAsReadAction**(`properties`?): [`MarkChatAsReadAction`](MarkChatAsReadAction.md)
 
-Defined in: [WAProto/index.d.ts:46378](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46378)
+Defined in: [WAProto/index.d.ts:46378](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46378)
 
 Constructs a new MarkChatAsReadAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **messageRange**: `null` \| [`ISyncActionMessageRange`](../interfaces/ISyncActionMessageRange.md)
 
-Defined in: [WAProto/index.d.ts:46384](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46384)
+Defined in: [WAProto/index.d.ts:46384](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46384)
 
 MarkChatAsReadAction messageRange.
 
@@ -50,7 +50,7 @@ MarkChatAsReadAction messageRange.
 
 > `optional` **read**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:46381](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46381)
+Defined in: [WAProto/index.d.ts:46381](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46381)
 
 MarkChatAsReadAction read.
 
@@ -64,7 +64,7 @@ MarkChatAsReadAction read.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:46454](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46454)
+Defined in: [WAProto/index.d.ts:46454](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46454)
 
 Converts this MarkChatAsReadAction to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`MarkChatAsReadAction`](MarkChatAsReadAction.md)
 
-Defined in: [WAProto/index.d.ts:46391](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46391)
+Defined in: [WAProto/index.d.ts:46391](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46391)
 
 Creates a new MarkChatAsReadAction instance using the specified properties.
 
@@ -104,7 +104,7 @@ MarkChatAsReadAction instance
 
 > `static` **decode**(`reader`, `length`?): [`MarkChatAsReadAction`](MarkChatAsReadAction.md)
 
-Defined in: [WAProto/index.d.ts:46417](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46417)
+Defined in: [WAProto/index.d.ts:46417](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46417)
 
 Decodes a MarkChatAsReadAction message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`MarkChatAsReadAction`](MarkChatAsReadAction.md)
 
-Defined in: [WAProto/index.d.ts:46426](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46426)
+Defined in: [WAProto/index.d.ts:46426](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46426)
 
 Decodes a MarkChatAsReadAction message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46399](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46399)
+Defined in: [WAProto/index.d.ts:46399](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46399)
 
 Encodes the specified MarkChatAsReadAction message. Does not implicitly [verify](MarkChatAsReadAction.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46407](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46407)
+Defined in: [WAProto/index.d.ts:46407](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46407)
 
 Encodes the specified MarkChatAsReadAction message, length delimited. Does not implicitly [verify](MarkChatAsReadAction.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`MarkChatAsReadAction`](MarkChatAsReadAction.md)
 
-Defined in: [WAProto/index.d.ts:46440](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46440)
+Defined in: [WAProto/index.d.ts:46440](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46440)
 
 Creates a MarkChatAsReadAction message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ MarkChatAsReadAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:46461](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46461)
+Defined in: [WAProto/index.d.ts:46461](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46461)
 
 Gets the default type url for MarkChatAsReadAction
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:46448](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46448)
+Defined in: [WAProto/index.d.ts:46448](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46448)
 
 Creates a plain object from a MarkChatAsReadAction message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46433](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46433)
+Defined in: [WAProto/index.d.ts:46433](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46433)
 
 Verifies a MarkChatAsReadAction message.
 

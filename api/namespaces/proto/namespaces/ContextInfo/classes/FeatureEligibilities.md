@@ -1,6 +1,6 @@
 # Class: FeatureEligibilities
 
-Defined in: [WAProto/index.d.ts:11841](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L11841)
+Defined in: [WAProto/index.d.ts:11841](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L11841)
 
 Represents a FeatureEligibilities.
 
@@ -14,7 +14,7 @@ Represents a FeatureEligibilities.
 
 > **new FeatureEligibilities**(`properties`?): [`FeatureEligibilities`](FeatureEligibilities.md)
 
-Defined in: [WAProto/index.d.ts:11847](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L11847)
+Defined in: [WAProto/index.d.ts:11847](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L11847)
 
 Constructs a new FeatureEligibilities.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **canBeReshared**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:11859](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L11859)
+Defined in: [WAProto/index.d.ts:11859](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L11859)
 
 FeatureEligibilities canBeReshared.
 
@@ -50,7 +50,7 @@ FeatureEligibilities canBeReshared.
 
 > `optional` **cannotBeRanked**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:11853](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L11853)
+Defined in: [WAProto/index.d.ts:11853](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L11853)
 
 FeatureEligibilities cannotBeRanked.
 
@@ -64,7 +64,7 @@ FeatureEligibilities cannotBeRanked.
 
 > `optional` **cannotBeReactedTo**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:11850](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L11850)
+Defined in: [WAProto/index.d.ts:11850](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L11850)
 
 FeatureEligibilities cannotBeReactedTo.
 
@@ -78,7 +78,7 @@ FeatureEligibilities cannotBeReactedTo.
 
 > `optional` **canRequestFeedback**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:11856](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L11856)
+Defined in: [WAProto/index.d.ts:11856](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L11856)
 
 FeatureEligibilities canRequestFeedback.
 
@@ -92,7 +92,7 @@ FeatureEligibilities canRequestFeedback.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:11929](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L11929)
+Defined in: [WAProto/index.d.ts:11929](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L11929)
 
 Converts this FeatureEligibilities to JSON.
 
@@ -108,7 +108,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`FeatureEligibilities`](FeatureEligibilities.md)
 
-Defined in: [WAProto/index.d.ts:11866](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L11866)
+Defined in: [WAProto/index.d.ts:11866](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L11866)
 
 Creates a new FeatureEligibilities instance using the specified properties.
 
@@ -132,7 +132,7 @@ FeatureEligibilities instance
 
 > `static` **decode**(`reader`, `length`?): [`FeatureEligibilities`](FeatureEligibilities.md)
 
-Defined in: [WAProto/index.d.ts:11892](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L11892)
+Defined in: [WAProto/index.d.ts:11892](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L11892)
 
 Decodes a FeatureEligibilities message from the specified reader or buffer.
 
@@ -170,7 +170,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`FeatureEligibilities`](FeatureEligibilities.md)
 
-Defined in: [WAProto/index.d.ts:11901](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L11901)
+Defined in: [WAProto/index.d.ts:11901](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L11901)
 
 Decodes a FeatureEligibilities message from the specified reader or buffer, length delimited.
 
@@ -202,7 +202,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:11874](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L11874)
+Defined in: [WAProto/index.d.ts:11874](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L11874)
 
 Encodes the specified FeatureEligibilities message. Does not implicitly [verify](FeatureEligibilities.md#verify) messages.
 
@@ -232,7 +232,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:11882](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L11882)
+Defined in: [WAProto/index.d.ts:11882](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L11882)
 
 Encodes the specified FeatureEligibilities message, length delimited. Does not implicitly [verify](FeatureEligibilities.md#verify) messages.
 
@@ -262,7 +262,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`FeatureEligibilities`](FeatureEligibilities.md)
 
-Defined in: [WAProto/index.d.ts:11915](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L11915)
+Defined in: [WAProto/index.d.ts:11915](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L11915)
 
 Creates a FeatureEligibilities message from a plain object. Also converts values to their respective internal types.
 
@@ -284,7 +284,7 @@ FeatureEligibilities
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:11936](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L11936)
+Defined in: [WAProto/index.d.ts:11936](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L11936)
 
 Gets the default type url for FeatureEligibilities
 
@@ -308,7 +308,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:11923](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L11923)
+Defined in: [WAProto/index.d.ts:11923](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L11923)
 
 Creates a plain object from a FeatureEligibilities message. Also converts values to other types if specified.
 
@@ -338,7 +338,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:11908](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L11908)
+Defined in: [WAProto/index.d.ts:11908](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L11908)
 
 Verifies a FeatureEligibilities message.
 

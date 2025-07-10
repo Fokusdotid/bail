@@ -1,6 +1,6 @@
 # Interface: IPinInChatMessage
 
-Defined in: [WAProto/index.d.ts:31062](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L31062)
+Defined in: [WAProto/index.d.ts:31062](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L31062)
 
 Properties of a PinInChatMessage.
 
@@ -10,7 +10,7 @@ Properties of a PinInChatMessage.
 
 > `optional` **key**: `null` \| [`IMessageKey`](../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:31065](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L31065)
+Defined in: [WAProto/index.d.ts:31065](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L31065)
 
 PinInChatMessage key
 
@@ -20,7 +20,7 @@ PinInChatMessage key
 
 > `optional` **senderTimestampMs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:31071](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L31071)
+Defined in: [WAProto/index.d.ts:31071](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L31071)
 
 PinInChatMessage senderTimestampMs
 
@@ -30,6 +30,6 @@ PinInChatMessage senderTimestampMs
 
 > `optional` **type**: `null` \| [`Type`](../namespaces/PinInChatMessage/enumerations/Type.md)
 
-Defined in: [WAProto/index.d.ts:31068](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L31068)
+Defined in: [WAProto/index.d.ts:31068](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L31068)
 
 PinInChatMessage type

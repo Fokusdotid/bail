@@ -1,6 +1,6 @@
 # Interface: ICallLogMessage
 
-Defined in: [WAProto/index.d.ts:21004](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21004)
+Defined in: [WAProto/index.d.ts:21004](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21004)
 
 Properties of a CallLogMessage.
 
@@ -10,7 +10,7 @@ Properties of a CallLogMessage.
 
 > `optional` **callOutcome**: `null` \| [`CallOutcome`](../namespaces/CallLogMessage/enumerations/CallOutcome.md)
 
-Defined in: [WAProto/index.d.ts:21010](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21010)
+Defined in: [WAProto/index.d.ts:21010](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21010)
 
 CallLogMessage callOutcome
 
@@ -20,7 +20,7 @@ CallLogMessage callOutcome
 
 > `optional` **callType**: `null` \| [`CallType`](../namespaces/CallLogMessage/enumerations/CallType.md)
 
-Defined in: [WAProto/index.d.ts:21016](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21016)
+Defined in: [WAProto/index.d.ts:21016](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21016)
 
 CallLogMessage callType
 
@@ -30,7 +30,7 @@ CallLogMessage callType
 
 > `optional` **durationSecs**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:21013](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21013)
+Defined in: [WAProto/index.d.ts:21013](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21013)
 
 CallLogMessage durationSecs
 
@@ -40,7 +40,7 @@ CallLogMessage durationSecs
 
 > `optional` **isVideo**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:21007](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21007)
+Defined in: [WAProto/index.d.ts:21007](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21007)
 
 CallLogMessage isVideo
 
@@ -50,6 +50,6 @@ CallLogMessage isVideo
 
 > `optional` **participants**: `null` \| [`ICallParticipant`](../namespaces/CallLogMessage/interfaces/ICallParticipant.md)[]
 
-Defined in: [WAProto/index.d.ts:21019](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L21019)
+Defined in: [WAProto/index.d.ts:21019](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L21019)
 
 CallLogMessage participants

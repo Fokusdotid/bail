@@ -1,6 +1,6 @@
 # Class: PlaceholderMessageResendRequest
 
-Defined in: [WAProto/index.d.ts:29618](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29618)
+Defined in: [WAProto/index.d.ts:29618](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29618)
 
 Represents a PlaceholderMessageResendRequest.
 
@@ -14,7 +14,7 @@ Represents a PlaceholderMessageResendRequest.
 
 > **new PlaceholderMessageResendRequest**(`properties`?): [`PlaceholderMessageResendRequest`](PlaceholderMessageResendRequest.md)
 
-Defined in: [WAProto/index.d.ts:29624](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29624)
+Defined in: [WAProto/index.d.ts:29624](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29624)
 
 Constructs a new PlaceholderMessageResendRequest.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **messageKey**: `null` \| [`IMessageKey`](../../../../../interfaces/IMessageKey.md)
 
-Defined in: [WAProto/index.d.ts:29627](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29627)
+Defined in: [WAProto/index.d.ts:29627](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29627)
 
 PlaceholderMessageResendRequest messageKey.
 
@@ -50,7 +50,7 @@ PlaceholderMessageResendRequest messageKey.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:29697](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29697)
+Defined in: [WAProto/index.d.ts:29697](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29697)
 
 Converts this PlaceholderMessageResendRequest to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`PlaceholderMessageResendRequest`](PlaceholderMessageResendRequest.md)
 
-Defined in: [WAProto/index.d.ts:29634](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29634)
+Defined in: [WAProto/index.d.ts:29634](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29634)
 
 Creates a new PlaceholderMessageResendRequest instance using the specified properties.
 
@@ -90,7 +90,7 @@ PlaceholderMessageResendRequest instance
 
 > `static` **decode**(`reader`, `length`?): [`PlaceholderMessageResendRequest`](PlaceholderMessageResendRequest.md)
 
-Defined in: [WAProto/index.d.ts:29660](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29660)
+Defined in: [WAProto/index.d.ts:29660](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29660)
 
 Decodes a PlaceholderMessageResendRequest message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`PlaceholderMessageResendRequest`](PlaceholderMessageResendRequest.md)
 
-Defined in: [WAProto/index.d.ts:29669](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29669)
+Defined in: [WAProto/index.d.ts:29669](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29669)
 
 Decodes a PlaceholderMessageResendRequest message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29642](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29642)
+Defined in: [WAProto/index.d.ts:29642](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29642)
 
 Encodes the specified PlaceholderMessageResendRequest message. Does not implicitly [verify](PlaceholderMessageResendRequest.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29650](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29650)
+Defined in: [WAProto/index.d.ts:29650](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29650)
 
 Encodes the specified PlaceholderMessageResendRequest message, length delimited. Does not implicitly [verify](PlaceholderMessageResendRequest.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`PlaceholderMessageResendRequest`](PlaceholderMessageResendRequest.md)
 
-Defined in: [WAProto/index.d.ts:29683](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29683)
+Defined in: [WAProto/index.d.ts:29683](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29683)
 
 Creates a PlaceholderMessageResendRequest message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ PlaceholderMessageResendRequest
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:29704](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29704)
+Defined in: [WAProto/index.d.ts:29704](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29704)
 
 Gets the default type url for PlaceholderMessageResendRequest
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:29691](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29691)
+Defined in: [WAProto/index.d.ts:29691](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29691)
 
 Creates a plain object from a PlaceholderMessageResendRequest message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29676](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29676)
+Defined in: [WAProto/index.d.ts:29676](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29676)
 
 Verifies a PlaceholderMessageResendRequest message.
 

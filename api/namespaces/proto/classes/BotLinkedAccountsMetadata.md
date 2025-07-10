@@ -1,6 +1,6 @@
 # Class: BotLinkedAccountsMetadata
 
-Defined in: [WAProto/index.d.ts:4216](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4216)
+Defined in: [WAProto/index.d.ts:4216](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L4216)
 
 Represents a BotLinkedAccountsMetadata.
 
@@ -14,7 +14,7 @@ Represents a BotLinkedAccountsMetadata.
 
 > **new BotLinkedAccountsMetadata**(`properties`?): [`BotLinkedAccountsMetadata`](BotLinkedAccountsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4222](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4222)
+Defined in: [WAProto/index.d.ts:4222](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L4222)
 
 Constructs a new BotLinkedAccountsMetadata.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **acAuthTokens**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:4228](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4228)
+Defined in: [WAProto/index.d.ts:4228](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L4228)
 
 BotLinkedAccountsMetadata acAuthTokens.
 
@@ -50,7 +50,7 @@ BotLinkedAccountsMetadata acAuthTokens.
 
 > **accounts**: [`IBotLinkedAccount`](../interfaces/IBotLinkedAccount.md)[]
 
-Defined in: [WAProto/index.d.ts:4225](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4225)
+Defined in: [WAProto/index.d.ts:4225](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L4225)
 
 BotLinkedAccountsMetadata accounts.
 
@@ -64,7 +64,7 @@ BotLinkedAccountsMetadata accounts.
 
 > `optional` **acErrorCode**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:4231](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4231)
+Defined in: [WAProto/index.d.ts:4231](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L4231)
 
 BotLinkedAccountsMetadata acErrorCode.
 
@@ -78,7 +78,7 @@ BotLinkedAccountsMetadata acErrorCode.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:4301](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4301)
+Defined in: [WAProto/index.d.ts:4301](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L4301)
 
 Converts this BotLinkedAccountsMetadata to JSON.
 
@@ -94,7 +94,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`BotLinkedAccountsMetadata`](BotLinkedAccountsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4238](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4238)
+Defined in: [WAProto/index.d.ts:4238](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L4238)
 
 Creates a new BotLinkedAccountsMetadata instance using the specified properties.
 
@@ -118,7 +118,7 @@ BotLinkedAccountsMetadata instance
 
 > `static` **decode**(`reader`, `length`?): [`BotLinkedAccountsMetadata`](BotLinkedAccountsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4264](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4264)
+Defined in: [WAProto/index.d.ts:4264](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L4264)
 
 Decodes a BotLinkedAccountsMetadata message from the specified reader or buffer.
 
@@ -156,7 +156,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`BotLinkedAccountsMetadata`](BotLinkedAccountsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4273](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4273)
+Defined in: [WAProto/index.d.ts:4273](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L4273)
 
 Decodes a BotLinkedAccountsMetadata message from the specified reader or buffer, length delimited.
 
@@ -188,7 +188,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:4246](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4246)
+Defined in: [WAProto/index.d.ts:4246](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L4246)
 
 Encodes the specified BotLinkedAccountsMetadata message. Does not implicitly [verify](BotLinkedAccountsMetadata.md#verify) messages.
 
@@ -218,7 +218,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:4254](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4254)
+Defined in: [WAProto/index.d.ts:4254](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L4254)
 
 Encodes the specified BotLinkedAccountsMetadata message, length delimited. Does not implicitly [verify](BotLinkedAccountsMetadata.md#verify) messages.
 
@@ -248,7 +248,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`BotLinkedAccountsMetadata`](BotLinkedAccountsMetadata.md)
 
-Defined in: [WAProto/index.d.ts:4287](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4287)
+Defined in: [WAProto/index.d.ts:4287](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L4287)
 
 Creates a BotLinkedAccountsMetadata message from a plain object. Also converts values to their respective internal types.
 
@@ -270,7 +270,7 @@ BotLinkedAccountsMetadata
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:4308](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4308)
+Defined in: [WAProto/index.d.ts:4308](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L4308)
 
 Gets the default type url for BotLinkedAccountsMetadata
 
@@ -294,7 +294,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:4295](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4295)
+Defined in: [WAProto/index.d.ts:4295](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L4295)
 
 Creates a plain object from a BotLinkedAccountsMetadata message. Also converts values to other types if specified.
 
@@ -324,7 +324,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:4280](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L4280)
+Defined in: [WAProto/index.d.ts:4280](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L4280)
 
 Verifies a BotLinkedAccountsMetadata message.
 

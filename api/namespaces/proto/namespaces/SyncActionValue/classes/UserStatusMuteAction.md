@@ -1,6 +1,6 @@
 # Class: UserStatusMuteAction
 
-Defined in: [WAProto/index.d.ts:49459](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L49459)
+Defined in: [WAProto/index.d.ts:49459](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L49459)
 
 Represents a UserStatusMuteAction.
 
@@ -14,7 +14,7 @@ Represents a UserStatusMuteAction.
 
 > **new UserStatusMuteAction**(`properties`?): [`UserStatusMuteAction`](UserStatusMuteAction.md)
 
-Defined in: [WAProto/index.d.ts:49465](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L49465)
+Defined in: [WAProto/index.d.ts:49465](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L49465)
 
 Constructs a new UserStatusMuteAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **muted**: `null` \| `boolean`
 
-Defined in: [WAProto/index.d.ts:49468](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L49468)
+Defined in: [WAProto/index.d.ts:49468](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L49468)
 
 UserStatusMuteAction muted.
 
@@ -50,7 +50,7 @@ UserStatusMuteAction muted.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:49538](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L49538)
+Defined in: [WAProto/index.d.ts:49538](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L49538)
 
 Converts this UserStatusMuteAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`UserStatusMuteAction`](UserStatusMuteAction.md)
 
-Defined in: [WAProto/index.d.ts:49475](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L49475)
+Defined in: [WAProto/index.d.ts:49475](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L49475)
 
 Creates a new UserStatusMuteAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ UserStatusMuteAction instance
 
 > `static` **decode**(`reader`, `length`?): [`UserStatusMuteAction`](UserStatusMuteAction.md)
 
-Defined in: [WAProto/index.d.ts:49501](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L49501)
+Defined in: [WAProto/index.d.ts:49501](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L49501)
 
 Decodes a UserStatusMuteAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`UserStatusMuteAction`](UserStatusMuteAction.md)
 
-Defined in: [WAProto/index.d.ts:49510](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L49510)
+Defined in: [WAProto/index.d.ts:49510](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L49510)
 
 Decodes a UserStatusMuteAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:49483](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L49483)
+Defined in: [WAProto/index.d.ts:49483](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L49483)
 
 Encodes the specified UserStatusMuteAction message. Does not implicitly [verify](UserStatusMuteAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:49491](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L49491)
+Defined in: [WAProto/index.d.ts:49491](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L49491)
 
 Encodes the specified UserStatusMuteAction message, length delimited. Does not implicitly [verify](UserStatusMuteAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`UserStatusMuteAction`](UserStatusMuteAction.md)
 
-Defined in: [WAProto/index.d.ts:49524](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L49524)
+Defined in: [WAProto/index.d.ts:49524](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L49524)
 
 Creates a UserStatusMuteAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ UserStatusMuteAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:49545](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L49545)
+Defined in: [WAProto/index.d.ts:49545](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L49545)
 
 Gets the default type url for UserStatusMuteAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:49532](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L49532)
+Defined in: [WAProto/index.d.ts:49532](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L49532)
 
 Creates a plain object from a UserStatusMuteAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:49517](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L49517)
+Defined in: [WAProto/index.d.ts:49517](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L49517)
 
 Verifies a UserStatusMuteAction message.
 

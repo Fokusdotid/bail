@@ -1,6 +1,6 @@
 # Interface: IBCallMessage
 
-Defined in: [WAProto/index.d.ts:19956](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19956)
+Defined in: [WAProto/index.d.ts:19956](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19956)
 
 Properties of a BCallMessage.
 
@@ -10,7 +10,7 @@ Properties of a BCallMessage.
 
 > `optional` **caption**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19968](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19968)
+Defined in: [WAProto/index.d.ts:19968](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19968)
 
 BCallMessage caption
 
@@ -20,7 +20,7 @@ BCallMessage caption
 
 > `optional` **masterKey**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:19965](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19965)
+Defined in: [WAProto/index.d.ts:19965](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19965)
 
 BCallMessage masterKey
 
@@ -30,7 +30,7 @@ BCallMessage masterKey
 
 > `optional` **mediaType**: `null` \| [`MediaType`](../namespaces/BCallMessage/enumerations/MediaType.md)
 
-Defined in: [WAProto/index.d.ts:19962](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19962)
+Defined in: [WAProto/index.d.ts:19962](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19962)
 
 BCallMessage mediaType
 
@@ -40,6 +40,6 @@ BCallMessage mediaType
 
 > `optional` **sessionId**: `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:19959](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L19959)
+Defined in: [WAProto/index.d.ts:19959](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L19959)
 
 BCallMessage sessionId

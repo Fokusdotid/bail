@@ -1,6 +1,6 @@
 # Class: Details
 
-Defined in: [WAProto/index.d.ts:8040](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8040)
+Defined in: [WAProto/index.d.ts:8040](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L8040)
 
 Represents a Details.
 
@@ -14,7 +14,7 @@ Represents a Details.
 
 > **new Details**(`properties`?): [`Details`](Details.md)
 
-Defined in: [WAProto/index.d.ts:8046](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8046)
+Defined in: [WAProto/index.d.ts:8046](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L8046)
 
 Constructs a new Details.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **issuerSerial**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:8052](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8052)
+Defined in: [WAProto/index.d.ts:8052](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L8052)
 
 Details issuerSerial.
 
@@ -50,7 +50,7 @@ Details issuerSerial.
 
 > `optional` **key**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:8055](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8055)
+Defined in: [WAProto/index.d.ts:8055](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L8055)
 
 Details key.
 
@@ -64,7 +64,7 @@ Details key.
 
 > `optional` **notAfter**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:8061](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8061)
+Defined in: [WAProto/index.d.ts:8061](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L8061)
 
 Details notAfter.
 
@@ -78,7 +78,7 @@ Details notAfter.
 
 > `optional` **notBefore**: `null` \| `number` \| `Long`
 
-Defined in: [WAProto/index.d.ts:8058](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8058)
+Defined in: [WAProto/index.d.ts:8058](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L8058)
 
 Details notBefore.
 
@@ -92,7 +92,7 @@ Details notBefore.
 
 > `optional` **serial**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:8049](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8049)
+Defined in: [WAProto/index.d.ts:8049](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L8049)
 
 Details serial.
 
@@ -106,7 +106,7 @@ Details serial.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:8131](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8131)
+Defined in: [WAProto/index.d.ts:8131](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L8131)
 
 Converts this Details to JSON.
 
@@ -122,7 +122,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`Details`](Details.md)
 
-Defined in: [WAProto/index.d.ts:8068](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8068)
+Defined in: [WAProto/index.d.ts:8068](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L8068)
 
 Creates a new Details instance using the specified properties.
 
@@ -146,7 +146,7 @@ Details instance
 
 > `static` **decode**(`reader`, `length`?): [`Details`](Details.md)
 
-Defined in: [WAProto/index.d.ts:8094](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8094)
+Defined in: [WAProto/index.d.ts:8094](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L8094)
 
 Decodes a Details message from the specified reader or buffer.
 
@@ -184,7 +184,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`Details`](Details.md)
 
-Defined in: [WAProto/index.d.ts:8103](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8103)
+Defined in: [WAProto/index.d.ts:8103](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L8103)
 
 Decodes a Details message from the specified reader or buffer, length delimited.
 
@@ -216,7 +216,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:8076](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8076)
+Defined in: [WAProto/index.d.ts:8076](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L8076)
 
 Encodes the specified Details message. Does not implicitly [verify](Details.md#verify) messages.
 
@@ -246,7 +246,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:8084](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8084)
+Defined in: [WAProto/index.d.ts:8084](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L8084)
 
 Encodes the specified Details message, length delimited. Does not implicitly [verify](Details.md#verify) messages.
 
@@ -276,7 +276,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`Details`](Details.md)
 
-Defined in: [WAProto/index.d.ts:8117](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8117)
+Defined in: [WAProto/index.d.ts:8117](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L8117)
 
 Creates a Details message from a plain object. Also converts values to their respective internal types.
 
@@ -298,7 +298,7 @@ Details
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:8138](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8138)
+Defined in: [WAProto/index.d.ts:8138](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L8138)
 
 Gets the default type url for Details
 
@@ -322,7 +322,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:8125](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8125)
+Defined in: [WAProto/index.d.ts:8125](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L8125)
 
 Creates a plain object from a Details message. Also converts values to other types if specified.
 
@@ -352,7 +352,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:8110](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L8110)
+Defined in: [WAProto/index.d.ts:8110](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L8110)
 
 Verifies a Details message.
 

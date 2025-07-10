@@ -1,6 +1,6 @@
 # Class: FullHistorySyncOnDemandRequest
 
-Defined in: [WAProto/index.d.ts:29391](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29391)
+Defined in: [WAProto/index.d.ts:29391](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29391)
 
 Represents a FullHistorySyncOnDemandRequest.
 
@@ -14,7 +14,7 @@ Represents a FullHistorySyncOnDemandRequest.
 
 > **new FullHistorySyncOnDemandRequest**(`properties`?): [`FullHistorySyncOnDemandRequest`](FullHistorySyncOnDemandRequest.md)
 
-Defined in: [WAProto/index.d.ts:29397](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29397)
+Defined in: [WAProto/index.d.ts:29397](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29397)
 
 Constructs a new FullHistorySyncOnDemandRequest.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **historySyncConfig**: `null` \| [`IHistorySyncConfig`](../../../../DeviceProps/interfaces/IHistorySyncConfig.md)
 
-Defined in: [WAProto/index.d.ts:29403](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29403)
+Defined in: [WAProto/index.d.ts:29403](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29403)
 
 FullHistorySyncOnDemandRequest historySyncConfig.
 
@@ -50,7 +50,7 @@ FullHistorySyncOnDemandRequest historySyncConfig.
 
 > `optional` **requestMetadata**: `null` \| [`IFullHistorySyncOnDemandRequestMetadata`](../../../interfaces/IFullHistorySyncOnDemandRequestMetadata.md)
 
-Defined in: [WAProto/index.d.ts:29400](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29400)
+Defined in: [WAProto/index.d.ts:29400](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29400)
 
 FullHistorySyncOnDemandRequest requestMetadata.
 
@@ -64,7 +64,7 @@ FullHistorySyncOnDemandRequest requestMetadata.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:29473](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29473)
+Defined in: [WAProto/index.d.ts:29473](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29473)
 
 Converts this FullHistorySyncOnDemandRequest to JSON.
 
@@ -80,7 +80,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`FullHistorySyncOnDemandRequest`](FullHistorySyncOnDemandRequest.md)
 
-Defined in: [WAProto/index.d.ts:29410](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29410)
+Defined in: [WAProto/index.d.ts:29410](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29410)
 
 Creates a new FullHistorySyncOnDemandRequest instance using the specified properties.
 
@@ -104,7 +104,7 @@ FullHistorySyncOnDemandRequest instance
 
 > `static` **decode**(`reader`, `length`?): [`FullHistorySyncOnDemandRequest`](FullHistorySyncOnDemandRequest.md)
 
-Defined in: [WAProto/index.d.ts:29436](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29436)
+Defined in: [WAProto/index.d.ts:29436](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29436)
 
 Decodes a FullHistorySyncOnDemandRequest message from the specified reader or buffer.
 
@@ -142,7 +142,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`FullHistorySyncOnDemandRequest`](FullHistorySyncOnDemandRequest.md)
 
-Defined in: [WAProto/index.d.ts:29445](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29445)
+Defined in: [WAProto/index.d.ts:29445](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29445)
 
 Decodes a FullHistorySyncOnDemandRequest message from the specified reader or buffer, length delimited.
 
@@ -174,7 +174,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29418](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29418)
+Defined in: [WAProto/index.d.ts:29418](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29418)
 
 Encodes the specified FullHistorySyncOnDemandRequest message. Does not implicitly [verify](FullHistorySyncOnDemandRequest.md#verify) messages.
 
@@ -204,7 +204,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:29426](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29426)
+Defined in: [WAProto/index.d.ts:29426](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29426)
 
 Encodes the specified FullHistorySyncOnDemandRequest message, length delimited. Does not implicitly [verify](FullHistorySyncOnDemandRequest.md#verify) messages.
 
@@ -234,7 +234,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`FullHistorySyncOnDemandRequest`](FullHistorySyncOnDemandRequest.md)
 
-Defined in: [WAProto/index.d.ts:29459](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29459)
+Defined in: [WAProto/index.d.ts:29459](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29459)
 
 Creates a FullHistorySyncOnDemandRequest message from a plain object. Also converts values to their respective internal types.
 
@@ -256,7 +256,7 @@ FullHistorySyncOnDemandRequest
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:29480](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29480)
+Defined in: [WAProto/index.d.ts:29480](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29480)
 
 Gets the default type url for FullHistorySyncOnDemandRequest
 
@@ -280,7 +280,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:29467](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29467)
+Defined in: [WAProto/index.d.ts:29467](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29467)
 
 Creates a plain object from a FullHistorySyncOnDemandRequest message. Also converts values to other types if specified.
 
@@ -310,7 +310,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:29452](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L29452)
+Defined in: [WAProto/index.d.ts:29452](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L29452)
 
 Verifies a FullHistorySyncOnDemandRequest message.
 

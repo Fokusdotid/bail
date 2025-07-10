@@ -1,6 +1,6 @@
 # Class: MarketingMessageBroadcastAction
 
-Defined in: [WAProto/index.d.ts:46613](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46613)
+Defined in: [WAProto/index.d.ts:46613](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46613)
 
 Represents a MarketingMessageBroadcastAction.
 
@@ -14,7 +14,7 @@ Represents a MarketingMessageBroadcastAction.
 
 > **new MarketingMessageBroadcastAction**(`properties`?): [`MarketingMessageBroadcastAction`](MarketingMessageBroadcastAction.md)
 
-Defined in: [WAProto/index.d.ts:46619](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46619)
+Defined in: [WAProto/index.d.ts:46619](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46619)
 
 Constructs a new MarketingMessageBroadcastAction.
 
@@ -36,7 +36,7 @@ Properties to set
 
 > `optional` **repliedCount**: `null` \| `number`
 
-Defined in: [WAProto/index.d.ts:46622](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46622)
+Defined in: [WAProto/index.d.ts:46622](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46622)
 
 MarketingMessageBroadcastAction repliedCount.
 
@@ -50,7 +50,7 @@ MarketingMessageBroadcastAction repliedCount.
 
 > **toJSON**(): `object`
 
-Defined in: [WAProto/index.d.ts:46692](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46692)
+Defined in: [WAProto/index.d.ts:46692](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46692)
 
 Converts this MarketingMessageBroadcastAction to JSON.
 
@@ -66,7 +66,7 @@ JSON object
 
 > `static` **create**(`properties`?): [`MarketingMessageBroadcastAction`](MarketingMessageBroadcastAction.md)
 
-Defined in: [WAProto/index.d.ts:46629](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46629)
+Defined in: [WAProto/index.d.ts:46629](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46629)
 
 Creates a new MarketingMessageBroadcastAction instance using the specified properties.
 
@@ -90,7 +90,7 @@ MarketingMessageBroadcastAction instance
 
 > `static` **decode**(`reader`, `length`?): [`MarketingMessageBroadcastAction`](MarketingMessageBroadcastAction.md)
 
-Defined in: [WAProto/index.d.ts:46655](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46655)
+Defined in: [WAProto/index.d.ts:46655](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46655)
 
 Decodes a MarketingMessageBroadcastAction message from the specified reader or buffer.
 
@@ -128,7 +128,7 @@ If required fields are missing
 
 > `static` **decodeDelimited**(`reader`): [`MarketingMessageBroadcastAction`](MarketingMessageBroadcastAction.md)
 
-Defined in: [WAProto/index.d.ts:46664](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46664)
+Defined in: [WAProto/index.d.ts:46664](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46664)
 
 Decodes a MarketingMessageBroadcastAction message from the specified reader or buffer, length delimited.
 
@@ -160,7 +160,7 @@ If required fields are missing
 
 > `static` **encode**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46637](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46637)
+Defined in: [WAProto/index.d.ts:46637](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46637)
 
 Encodes the specified MarketingMessageBroadcastAction message. Does not implicitly [verify](MarketingMessageBroadcastAction.md#verify) messages.
 
@@ -190,7 +190,7 @@ Writer
 
 > `static` **encodeDelimited**(`message`, `writer`?): `Writer`
 
-Defined in: [WAProto/index.d.ts:46645](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46645)
+Defined in: [WAProto/index.d.ts:46645](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46645)
 
 Encodes the specified MarketingMessageBroadcastAction message, length delimited. Does not implicitly [verify](MarketingMessageBroadcastAction.md#verify) messages.
 
@@ -220,7 +220,7 @@ Writer
 
 > `static` **fromObject**(`object`): [`MarketingMessageBroadcastAction`](MarketingMessageBroadcastAction.md)
 
-Defined in: [WAProto/index.d.ts:46678](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46678)
+Defined in: [WAProto/index.d.ts:46678](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46678)
 
 Creates a MarketingMessageBroadcastAction message from a plain object. Also converts values to their respective internal types.
 
@@ -242,7 +242,7 @@ MarketingMessageBroadcastAction
 
 > `static` **getTypeUrl**(`typeUrlPrefix`?): `string`
 
-Defined in: [WAProto/index.d.ts:46699](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46699)
+Defined in: [WAProto/index.d.ts:46699](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46699)
 
 Gets the default type url for MarketingMessageBroadcastAction
 
@@ -266,7 +266,7 @@ The default type url
 
 > `static` **toObject**(`message`, `options`?): `object`
 
-Defined in: [WAProto/index.d.ts:46686](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46686)
+Defined in: [WAProto/index.d.ts:46686](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46686)
 
 Creates a plain object from a MarketingMessageBroadcastAction message. Also converts values to other types if specified.
 
@@ -296,7 +296,7 @@ Plain object
 
 > `static` **verify**(`message`): `null` \| `string`
 
-Defined in: [WAProto/index.d.ts:46671](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L46671)
+Defined in: [WAProto/index.d.ts:46671](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L46671)
 
 Verifies a MarketingMessageBroadcastAction message.
 

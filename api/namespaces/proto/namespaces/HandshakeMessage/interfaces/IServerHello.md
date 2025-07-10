@@ -1,6 +1,6 @@
 # Interface: IServerHello
 
-Defined in: [WAProto/index.d.ts:15653](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15653)
+Defined in: [WAProto/index.d.ts:15653](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L15653)
 
 Properties of a ServerHello.
 
@@ -10,7 +10,7 @@ Properties of a ServerHello.
 
 > `optional` **ephemeral**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:15656](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15656)
+Defined in: [WAProto/index.d.ts:15656](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L15656)
 
 ServerHello ephemeral
 
@@ -20,7 +20,7 @@ ServerHello ephemeral
 
 > `optional` **payload**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:15662](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15662)
+Defined in: [WAProto/index.d.ts:15662](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L15662)
 
 ServerHello payload
 
@@ -30,6 +30,6 @@ ServerHello payload
 
 > `optional` **static**: `null` \| `Uint8Array`\<`ArrayBufferLike`\>
 
-Defined in: [WAProto/index.d.ts:15659](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/WAProto/index.d.ts#L15659)
+Defined in: [WAProto/index.d.ts:15659](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/WAProto/index.d.ts#L15659)
 
 ServerHello static

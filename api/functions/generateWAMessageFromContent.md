@@ -2,7 +2,7 @@
 
 > **generateWAMessageFromContent**(`jid`, `message`, `options`): [`WebMessageInfo`](../namespaces/proto/classes/WebMessageInfo.md)
 
-Defined in: [src/Utils/messages.ts:681](https://github.com/Fokusdotid/bail/blob/82f46c566476ac566bfd781dede14412fcdfb787/src/Utils/messages.ts#L681)
+Defined in: [src/Utils/messages.ts:681](https://github.com/Fokusdotid/bail/blob/3bcafd64e13ba51a595ace0ee7bd2c9c52ab1814/src/Utils/messages.ts#L681)
 
 ## Parameters
 
